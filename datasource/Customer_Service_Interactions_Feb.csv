@@ -1,0 +1,1001 @@
+InteractionID,CustomerID,CustomerName,CustomerEmail,CustomerAge,Country,City,Region,DateOpened,DateClosed,IssueType,Priority,Status,AssignedAgent,ResolutionTimeHours,CustomerSatisfaction,Channel,OrderID,OrderAmount,OrderStatus
+990298,3262,Leah Peters,emilyramirez@harper.com,58,Tajikistan,Port Shannon,Wisconsin,2025-05-01,2025-05-13,Billing,Low,Closed,Joshua Petty,74.02,Neutral,Web,67232,437.53,Cancelled
+159298,1385,James Foster,maryarnold@ford.net,33,Hungary,East Melissa,Oklahoma,2024-08-22,2024-10-27,Billing,Medium,Closed,Shannon Barnett,41.74,Very Dissatisfied,In-Person,81563,119.96,Cancelled
+196033,5300,Kelly Rodriguez MD,johnsonkimberly@johnson.org,63,Australia,East Brett,Iowa,2024-07-29,2024-10-31,Billing,Medium,Pending,Stephanie Cobb,57.06,Satisfied,Email,94205,190.31,Pending
+188994,8784,Melanie Miller,ybrown@hotmail.com,26,Saint Lucia,Lake Jeanette,Ohio,2025-01-06,2025-06-06,Technical,Critical,Pending,William Price,3.63,Very Satisfied,Web,99794,403.83,Pending
+478596,9842,Jesse Bruce,maurice11@stone.org,40,Malta,Mercadoview,North Carolina,2025-04-22,2024-10-07,Shipping,Medium,Pending,Erik Anderson,17.82,Satisfied,Web,85844,137.37,Returned
+976084,1783,Thomas Cervantes,osmith@arnold-johnson.com,61,Cameroon,North Jameschester,Colorado,2025-02-27,2025-06-07,Account,Medium,Closed,Katelyn Franklin,3.37,Satisfied,In-Person,65739,88.23,Returned
+277297,4678,Jonathan Patel,tanyaodonnell@yahoo.com,36,Palau,Jeffreystad,Ohio,2024-08-05,2024-10-28,Shipping,Low,Open,Christine Brown,25.84,Satisfied,Web,56029,539.46,Cancelled
+871720,3366,Stacy Harris,tracyanderson@hall.org,29,French Guiana,Port Justinton,Arkansas,2025-06-09,2024-07-26,Technical,Medium,Pending,Yvonne Foster,2.98,Very Satisfied,In-Person,78118,880.5,Pending
+948258,6120,Alexa Whitaker,sjones@weber-bradford.info,58,Ireland,Lawrencemouth,Wyoming,2024-11-28,2025-03-24,Shipping,Critical,Open,Nancy Jackson,14.81,Dissatisfied,Web,53197,323.08,Cancelled
+802263,1625,Alexander Hess,kimberlybrown@hotmail.com,25,United States Minor Outlying Islands,Heatherside,Vermont,2025-04-17,2025-01-01,Technical,Medium,Pending,Krystal Moore,72.29,Neutral,Email,72898,822.58,Returned
+995310,4209,Mary Strickland,copelandanthony@sanders.com,52,Norfolk Island,East Amandafurt,Maryland,2025-03-13,2025-05-18,Returns,High,Pending,Rebekah Trujillo,2.21,Very Satisfied,Email,52977,404.02,Delivered
+423104,2775,David Beck,kimamber@yahoo.com,67,Central African Republic,Angelaberg,Arkansas,2024-08-01,2025-04-06,Shipping,Low,Escalated,John Bennett,24.24,Satisfied,Web,64865,913.72,Cancelled
+363804,3300,Debra Bennett,sharontorres@yahoo.com,49,Dominica,South Nancy,Montana,2024-09-06,2025-03-10,Technical,Low,Open,Robert James,33.7,Very Dissatisfied,In-Person,50851,560.67,Returned
+735378,9917,Dennis Cline,ugonzalez@hotmail.com,29,Gibraltar,Andrewview,North Carolina,2024-11-22,2025-07-11,Returns,Medium,Pending,Christian Reid MD,8.93,Neutral,In-Person,56788,126.28,Pending
+322527,4055,Alex White,gwarner@hotmail.com,39,Uganda,Dannyton,Idaho,2025-02-24,2025-04-10,Shipping,High,Escalated,Amanda Aguilar,7.02,Very Dissatisfied,Web,62544,946.08,Returned
+736277,2511,Laura Todd,edwardssarah@russell.com,65,Martinique,Larryhaven,Ohio,2024-09-22,2025-03-05,Shipping,High,Pending,Steve Howard,23.63,Dissatisfied,In-Person,93552,861.35,Pending
+137470,8600,Stacy Willis,dlarson@gmail.com,49,Timor-Leste,Lake Bethanyton,Texas,2025-01-05,2024-12-29,Returns,Low,Escalated,Anne Gutierrez,3.4,Dissatisfied,Web,85403,645.58,Returned
+709436,5780,Brian Jenkins,marialopez@jenkins-nash.info,44,Palestinian Territory,Timothyside,Minnesota,2024-07-19,2025-03-04,Shipping,Critical,Open,Thomas Klein,34.42,Satisfied,Chatbot,78665,811.44,Pending
+814338,4422,Eric Hill,anthony70@gmail.com,38,Palau,East Mollytown,Oklahoma,2025-01-14,2024-12-25,Returns,High,Open,Tracey Martinez,6.86,Very Satisfied,Phone,73581,991.98,Returned
+266076,3581,Dr. Megan Fisher,qhernandez@hotmail.com,70,Romania,Lake Heather,Nevada,2025-06-23,2025-02-07,Shipping,Medium,Open,Micheal Yoder,10.05,Very Dissatisfied,Phone,73205,153.16,Pending
+551589,6313,Benjamin Chavez,katelynnelson@davis-henry.biz,55,Israel,Lake Monique,Ohio,2025-06-30,2025-01-17,Account,Low,Pending,Raymond Mcguire,3.41,Satisfied,Chatbot,71584,517.8,Cancelled
+769485,5543,Joseph Velasquez,aholmes@yahoo.com,57,Costa Rica,Lake Christinebury,Oregon,2024-08-12,2025-03-08,Billing,Critical,Closed,Mark Holmes,29.32,Satisfied,Chatbot,54444,977.41,Cancelled
+512648,9493,Michael Olsen,charmon@edwards-myers.org,21,Seychelles,West Danielle,Ohio,2024-11-29,2024-10-12,Returns,Medium,Closed,Larry Meadows,13.75,Dissatisfied,Web,99342,119.17,Delivered
+942708,2106,Jessica Young,nathansanchez@hotmail.com,56,Faroe Islands,Cynthiafort,Illinois,2024-09-28,2024-08-07,Account,Low,Closed,Miranda Curtis,6.09,Very Dissatisfied,In-Person,99463,960.67,Pending
+858133,7761,Kathryn Nelson,stuart48@hotmail.com,22,Dominica,East Garyshire,Iowa,2025-04-08,2024-09-01,Account,Low,Open,Madison Wagner,16.59,Dissatisfied,In-Person,76258,642.49,Pending
+633795,7806,Sharon Lucero,robinsonpatricia@elliott-collins.net,60,Estonia,Port Jennifershire,Vermont,2025-03-16,2025-05-23,Account,Low,Escalated,Dr. Kristen Beasley,5.63,Very Dissatisfied,Web,61790,258.69,Cancelled
+490133,1552,Derek Wright,roydennis@yahoo.com,61,Bahrain,Madisonshire,Mississippi,2024-12-11,2025-03-14,Technical,Medium,Pending,Benjamin Anderson,3.97,Dissatisfied,Email,71073,148.15,Delivered
+670610,8460,Daniel Gillespie,nicholaswilson@brennan.biz,69,Cote d'Ivoire,Danatown,Illinois,2025-07-09,2024-09-23,Returns,High,Closed,Gregory Perez,20.7,Satisfied,Phone,89696,790.4,Delivered
+566463,5872,Amber Davis,melinda52@reed.com,57,Eritrea,New Crystalshire,New York,2025-05-10,2024-10-08,Account,Medium,Escalated,Derrick Burnett,14.74,Very Satisfied,Chatbot,61032,676.08,Cancelled
+626455,2999,Warren Peterson,matthew82@yahoo.com,56,San Marino,West Robert,Idaho,2025-04-15,2024-11-20,Technical,High,Escalated,Daniel Coleman,22.84,Dissatisfied,In-Person,58492,180.99,Delivered
+381270,5460,Courtney Gonzalez,bmartin@crosby.net,60,Tonga,Robertstad,South Carolina,2024-10-22,2024-08-01,Billing,Low,Closed,Donna Wells,3.9,Satisfied,Web,77135,416.91,Returned
+137669,1258,Angela Mason,sestes@hotmail.com,51,Egypt,West Martin,Colorado,2024-11-21,2024-07-20,Returns,Medium,Pending,Frank Stout,27.48,Very Dissatisfied,In-Person,86025,611.3,Pending
+128778,4512,Gail Avila,beckyturner@gonzalez.com,21,Greenland,Tylermouth,Illinois,2025-02-27,2024-07-27,Account,Low,Pending,Mrs. Evelyn Ballard,14.12,Dissatisfied,In-Person,71825,687.79,Pending
+481696,7858,Crystal Turner,gschaefer@lloyd.biz,23,Netherlands Antilles,New Lisaberg,Hawaii,2025-06-18,2025-06-12,Shipping,Low,Closed,Christina Becker,15.84,Satisfied,Chatbot,67600,80.51,Returned
+587476,6459,Mr. Mark Schroeder,bethany50@smith-duncan.com,42,Bahamas,Grahamshire,Georgia,2025-06-08,2025-06-07,Returns,High,Open,Catherine Williams,94.64,Very Satisfied,Email,91514,365.4,Cancelled
+433934,5284,Todd Bryant,aaron97@hotmail.com,22,Chad,New Lauren,Ohio,2025-07-04,2025-04-15,Billing,Critical,Open,Anthony Camacho,23.59,Very Satisfied,Web,80325,729.23,Cancelled
+498474,9814,Javier Moreno,pattonnathan@phillips.net,64,Tajikistan,Gentryborough,Texas,2024-11-28,2025-03-08,Billing,Critical,Closed,Amy Miller,42.47,Satisfied,Chatbot,63516,709.89,Returned
+544188,7429,Shawn Carlson,craiglisa@yahoo.com,24,Northern Mariana Islands,South Jacob,Connecticut,2025-05-11,2025-06-07,Shipping,Critical,Closed,Kenneth Allen,32.33,Very Satisfied,Email,89305,527.66,Cancelled
+651291,9609,Diane Anderson,josephparks@gmail.com,49,Somalia,Sarahside,New Hampshire,2024-09-08,2025-05-31,Shipping,High,Closed,Ashlee Clay,12.66,Neutral,In-Person,78346,974.97,Delivered
+272478,4295,Martin Vega,jamie61@benjamin-wilson.com,37,Mexico,New Nicholasmouth,Michigan,2025-01-10,2025-02-02,Technical,Low,Closed,Mark Green,52.08,Very Dissatisfied,Phone,99542,710.06,Returned
+687737,8040,Amanda Strickland,tlong@hotmail.com,49,Ireland,Ramireztown,Wisconsin,2025-06-09,2024-12-10,Account,Critical,Escalated,Linda Morgan,63.49,Very Satisfied,Web,62075,395.49,Returned
+286055,3109,Melanie Mills,wstuart@gonzalez.com,20,Finland,East Charles,Nebraska,2025-06-21,2024-11-08,Returns,Medium,Closed,Mrs. Hannah Barker,35.05,Very Satisfied,Email,95683,475.92,Delivered
+347593,3798,Tonya Silva,ellismark@yahoo.com,34,Togo,Williamsburgh,Nebraska,2025-03-02,2024-11-03,Shipping,Critical,Open,Robert Smith,13.58,Very Dissatisfied,Email,54340,556.11,Cancelled
+341804,8334,Joshua Owen,jaysimon@browning.com,70,Turkey,New Michael,Iowa,2024-12-24,2024-10-10,Billing,Critical,Pending,Deborah Reyes,26.08,Very Dissatisfied,Email,96081,907.07,Cancelled
+125017,8446,Patty Parker,charles15@yahoo.com,64,Ukraine,East Anthony,Utah,2024-12-25,2024-08-11,Billing,Low,Pending,Elizabeth Brown,32.4,Very Satisfied,Phone,78808,973.15,Pending
+285304,6666,Cynthia Ray,sandrasmith@turner.info,30,Papua New Guinea,Leestad,Indiana,2025-02-23,2025-05-16,Returns,Low,Escalated,Brooke French,33.61,Neutral,In-Person,76224,647.14,Cancelled
+440937,7272,Joseph Luna,kathleen79@gmail.com,68,Benin,Faulknerhaven,Kentucky,2025-02-23,2024-10-07,Shipping,Critical,Closed,Desiree Schneider,11.18,Very Satisfied,Email,99262,723.16,Delivered
+282021,8753,Karina Salas,whitecarolyn@gmail.com,22,Cuba,South James,Pennsylvania,2025-05-18,2025-03-14,Account,Low,Escalated,Elijah Miller,22.89,Very Dissatisfied,Phone,79647,273.15,Cancelled
+243337,5171,Adam Tran,hrogers@faulkner.biz,44,Uzbekistan,Davilastad,Tennessee,2024-09-22,2024-10-21,Returns,Low,Closed,John Scott,88.41,Dissatisfied,Web,92606,409.23,Returned
+634948,4126,James George,vcarroll@hotmail.com,33,Costa Rica,Hessshire,Connecticut,2025-02-26,2025-05-04,Returns,Critical,Pending,Zoe Whitney,15.39,Very Satisfied,Chatbot,82135,285.57,Cancelled
+635008,8800,Shannon Morris,lesterwilliam@james.com,67,American Samoa,Loriside,Texas,2024-10-13,2025-06-02,Account,High,Pending,Eric Guzman,67.66,Very Satisfied,Web,75727,916.6,Cancelled
+477163,8289,Lori Jennings,lwilliams@griffin.com,57,Nigeria,East Cynthiaville,Colorado,2024-12-20,2024-10-15,Shipping,Low,Pending,William Vaughan,1.84,Neutral,Web,87808,310.95,Delivered
+638692,4147,Julie Pacheco,yowens@gmail.com,64,Brunei Darussalam,Fredberg,New York,2024-10-21,2024-08-25,Technical,High,Open,Rodney Jenkins,51.21,Satisfied,Web,58983,90.51,Cancelled
+807243,8689,Richard Jackson,nicholasyoung@gmail.com,26,Micronesia,Lake Robert,Indiana,2024-11-06,2024-12-18,Billing,Critical,Escalated,Sarah Mathis,1.58,Very Dissatisfied,Email,77064,489.12,Pending
+687087,6533,Michael Gibson,kennethchapman@brewer.net,68,Kuwait,Lake Alisonfort,Wyoming,2025-06-02,2025-07-02,Account,Low,Open,Desiree Young,29.68,Very Satisfied,Chatbot,77617,506.29,Delivered
+290676,6070,Blake Williams,zfrost@barnes.com,63,Central African Republic,North Deborah,New York,2024-08-12,2024-12-27,Shipping,Low,Pending,Dalton Morgan,4.77,Very Dissatisfied,Phone,56587,856.63,Returned
+567284,2159,Brent Horton,kochoa@yahoo.com,33,Fiji,North Kathryn,Illinois,2025-01-25,2024-07-16,Billing,Medium,Open,Eric Turner,9.49,Very Dissatisfied,Chatbot,97843,204.48,Delivered
+935463,3792,James Fisher,laura39@shaffer-roberts.com,59,Niger,Lake Jesus,Texas,2024-07-29,2025-05-05,Technical,High,Closed,Aaron Rodriguez,31.71,Very Satisfied,In-Person,67885,140.64,Pending
+534814,7053,Rose Welch,jefferytaylor@castaneda.net,63,Bangladesh,Alexanderview,Oregon,2024-09-26,2025-02-25,Technical,High,Escalated,Jonathan Ortega,26.6,Very Satisfied,Chatbot,96566,758.18,Returned
+870075,8722,Chad Hansen,jeremy94@short.info,26,Ireland,Juanmouth,Iowa,2025-05-20,2024-11-16,Technical,Critical,Closed,Edward Mueller,65.66,Dissatisfied,In-Person,74545,329.49,Pending
+650885,4641,Nathaniel Robinson,karen71@lloyd.com,73,Italy,Morganview,Texas,2025-06-05,2025-06-03,Account,Low,Pending,Erica Graham,1.95,Very Satisfied,In-Person,68753,566.94,Cancelled
+899943,3098,Heather Ramirez,sandra64@hotmail.com,35,Zimbabwe,East Richardberg,Wyoming,2024-07-22,2024-10-06,Technical,Low,Escalated,Barbara Peterson,2.64,Very Dissatisfied,Chatbot,59674,729.18,Pending
+481949,6043,Paul Gordon,hgreen@dickerson.biz,40,Norway,Lake Cherylberg,Mississippi,2025-06-11,2024-11-03,Shipping,High,Escalated,John Moody,14.87,Satisfied,In-Person,82638,288.48,Pending
+928110,4396,Sandra Johnson,victoriakeller@gordon.info,74,Western Sahara,Susanview,Nebraska,2024-08-31,2024-09-14,Returns,Critical,Open,Lawrence Bryant,8.37,Very Dissatisfied,Phone,87134,65.37,Delivered
+722314,9770,Erin Sanchez,matthewskevin@turner.com,71,Finland,Kellyshire,Kansas,2024-07-27,2025-01-06,Account,Low,Closed,Stephanie Wood,5.79,Very Dissatisfied,In-Person,94997,53.81,Delivered
+470972,5901,Dana Ortiz,gvillarreal@yahoo.com,27,Czech Republic,Natalieborough,Ohio,2025-01-22,2024-10-26,Technical,High,Open,David Yates,21.53,Very Satisfied,Web,78108,81.14,Pending
+479465,2607,Charles Collins,edward99@moore.com,59,Bouvet Island (Bouvetoya),Wagnerport,Idaho,2025-05-03,2024-07-31,Technical,Critical,Open,Susan Brooks,11.43,Very Dissatisfied,Web,92132,868.26,Returned
+567422,1206,Jonathan Burton,gharrington@kelly.com,64,Botswana,Kellyfurt,New Hampshire,2025-05-25,2024-08-31,Technical,Medium,Closed,Lisa Golden,9.57,Neutral,In-Person,59958,663.54,Pending
+269014,1475,Dr. Evelyn Richmond MD,donnacollins@jones.com,44,Northern Mariana Islands,Chambersview,West Virginia,2024-08-05,2025-06-05,Technical,Medium,Closed,Lisa Johnson,69.0,Neutral,In-Person,94420,467.1,Returned
+890630,4242,Joseph Fleming,alexanderbrooks@hotmail.com,37,Argentina,Kellyfort,Missouri,2025-01-27,2025-06-29,Technical,Medium,Closed,Robert Russell,14.48,Very Satisfied,Email,92953,489.47,Returned
+519287,6129,Amanda Russell,fgonzalez@cox.com,50,Djibouti,Erinville,Ohio,2025-05-27,2025-02-02,Shipping,Critical,Closed,Danielle Horton,45.67,Very Dissatisfied,Chatbot,74682,726.33,Pending
+849890,1959,James Juarez DDS,charlesmartinez@hotmail.com,61,Niger,West Lee,Pennsylvania,2025-05-15,2024-09-14,Account,Critical,Escalated,Regina Calderon,2.65,Satisfied,Email,54910,762.85,Cancelled
+874467,6225,John Horton,turnerjill@gilbert-hunter.com,50,Central African Republic,East Thomastown,Florida,2025-06-17,2025-03-09,Account,Medium,Escalated,Keith Johnson,15.42,Neutral,In-Person,54030,379.2,Returned
+583819,9738,Mary Madden,victoria37@gmail.com,44,Antarctica (the territory South of 60 deg S),North Amy,Kansas,2025-02-18,2025-06-26,Account,Medium,Open,Brittany Mcknight,32.3,Neutral,Phone,98276,382.24,Pending
+786723,5192,Jennifer Conley,lindsay42@gmail.com,68,Eritrea,North Sheila,Delaware,2025-02-21,2024-11-02,Technical,Critical,Pending,Edward Wright,42.02,Very Dissatisfied,Phone,98972,730.34,Cancelled
+656118,6617,Linda Watkins,marywilliams@yahoo.com,26,Timor-Leste,New Mark,Alabama,2025-06-29,2024-09-30,Shipping,Low,Escalated,Elizabeth Webster,4.43,Dissatisfied,In-Person,55069,83.91,Returned
+362040,8218,Michelle Ellis,adammiller@hotmail.com,30,Turks and Caicos Islands,Lake Samuelhaven,New Jersey,2025-07-07,2024-12-04,Account,High,Escalated,Ann Duncan,13.72,Dissatisfied,Chatbot,77744,693.54,Cancelled
+613816,2179,Jennifer Yang,lisamccarty@gmail.com,28,Nauru,North Alyssa,Nebraska,2024-10-26,2025-07-07,Technical,Critical,Escalated,Edward Scott MD,73.07,Very Dissatisfied,Email,91727,776.81,Delivered
+392659,7870,Kendra Hernandez,ysmith@yahoo.com,58,Taiwan,Reyeston,Minnesota,2025-01-19,2024-12-24,Technical,Low,Escalated,Herbert Wells,36.74,Satisfied,In-Person,69274,358.68,Returned
+622259,8710,Christy Clark,marywilliamson@hotmail.com,52,Estonia,Michaelstad,Wisconsin,2024-11-10,2024-08-15,Billing,Medium,Escalated,Dawn Harrell,1.35,Dissatisfied,Phone,53640,89.39,Delivered
+625169,1299,Jason Morales,melissa71@hotmail.com,27,Papua New Guinea,North Matthewstad,Oklahoma,2024-12-19,2024-09-15,Billing,Critical,Escalated,Whitney Howell,25.54,Dissatisfied,Web,63468,862.11,Delivered
+640427,5630,Carolyn Bennett,bwilkins@yahoo.com,72,Heard Island and McDonald Islands,Edwardchester,Massachusetts,2024-10-07,2025-04-04,Account,Critical,Escalated,Terry Smith,20.97,Dissatisfied,Web,79791,215.56,Pending
+971916,3160,Allison Gutierrez,stevenlong@williams.com,55,Algeria,Floresport,Oklahoma,2024-07-29,2025-02-15,Shipping,Medium,Pending,Troy Foster,35.59,Neutral,In-Person,85135,287.13,Returned
+934893,4477,Randy Evans,robertewing@hickman.com,24,Slovakia (Slovak Republic),Ericmouth,Illinois,2025-06-03,2024-11-04,Billing,Medium,Escalated,Bobby Spencer,7.33,Neutral,Chatbot,68894,835.95,Returned
+471116,3466,Brian Clark,robertbaker@parker.com,40,Guinea,Katelynberg,Ohio,2024-10-30,2025-05-04,Account,High,Escalated,Kevin Manning,21.51,Satisfied,Chatbot,75627,400.0,Delivered
+793827,3658,Audrey Williams,collinlong@hotmail.com,24,Philippines,West Brett,Michigan,2024-09-04,2025-03-16,Technical,Low,Pending,Luke Hubbard,25.17,Very Dissatisfied,Web,66792,376.88,Delivered
+576775,7155,Andrew Simon,travis50@orozco.net,37,Holy See (Vatican City State),Nelsonchester,Connecticut,2024-12-21,2024-10-06,Returns,Low,Escalated,Jo Thomas,0.65,Neutral,In-Person,66302,536.8,Delivered
+583406,2062,Kim Cook,xjackson@bush.com,74,Slovenia,East Rhonda,Florida,2025-05-27,2024-11-17,Account,Medium,Closed,Rebecca Bond,27.67,Very Satisfied,In-Person,55849,745.65,Returned
+467814,8327,Mike Sanchez,fgonzalez@frazier-arias.com,36,Oman,East Jenniferbury,Pennsylvania,2025-03-10,2025-07-02,Technical,Critical,Escalated,Amanda Flowers,7.73,Very Satisfied,In-Person,57364,408.36,Delivered
+695281,5574,Victoria Allen,jonathanwoodard@harrison.info,19,United Arab Emirates,Lake Jason,Mississippi,2024-10-19,2024-11-05,Technical,High,Escalated,Justin Smith,20.48,Dissatisfied,Web,70967,702.64,Delivered
+861145,2347,Jessica Ferguson,riveraelizabeth@padilla.biz,22,Nauru,East Ianberg,New Mexico,2024-10-21,2025-02-23,Shipping,Medium,Pending,Brittany Carr,18.91,Very Satisfied,Web,93523,823.93,Pending
+684667,9118,Michael Meyer,ortegaeric@wade.com,58,French Guiana,Colleenbury,Rhode Island,2025-06-15,2024-12-14,Account,High,Open,Laurie Oconnor,72.49,Dissatisfied,Web,82381,723.26,Cancelled
+858930,8844,Robert Allen,knappharold@pittman.com,35,Brunei Darussalam,Richardberg,Arkansas,2025-06-19,2024-10-18,Shipping,High,Escalated,Maria Castaneda,5.57,Satisfied,Chatbot,65565,706.62,Delivered
+578728,4892,John Wheeler,brian12@hotmail.com,24,Ireland,South Brandon,Michigan,2024-11-14,2024-09-29,Billing,Critical,Escalated,Sandra Walker,4.74,Very Dissatisfied,Phone,84452,515.78,Delivered
+610246,3478,Barbara Reyes,trujillolori@hopkins.org,55,Vietnam,West Christopherton,New Mexico,2025-03-14,2025-03-14,Technical,Critical,Escalated,Sandra Rocha,21.15,Dissatisfied,Web,99603,702.59,Cancelled
+790891,5903,Julie Sanchez,eramirez@glover.com,51,Korea,East Amanda,Alaska,2025-05-30,2025-01-11,Shipping,Critical,Open,Shawn Hunter,100.29,Satisfied,Phone,59351,188.6,Cancelled
+332585,4721,Tracey Brewer,hollyflores@wheeler.com,36,Saint Kitts and Nevis,South Bryan,West Virginia,2024-07-22,2025-06-26,Technical,Low,Closed,Thomas Williams,3.42,Satisfied,Email,96412,366.94,Returned
+440438,4324,Brittney Mendoza,bpierce@gmail.com,38,Bangladesh,West Danabury,New Hampshire,2025-05-26,2025-01-25,Returns,High,Escalated,Benjamin Prince,0.07,Satisfied,Web,74610,78.17,Delivered
+954257,6487,Emily Kim,thoward@jones.info,44,Papua New Guinea,Thompsonchester,Colorado,2024-08-04,2024-11-11,Technical,Medium,Escalated,Joyce Curry,32.06,Satisfied,Chatbot,99442,443.96,Returned
+833554,7420,Eric Jensen,terryfelicia@gmail.com,41,United States Virgin Islands,New Steven,Massachusetts,2025-05-21,2024-09-24,Shipping,Low,Closed,Allison Gentry,28.3,Dissatisfied,In-Person,68593,457.36,Returned
+975588,9584,Thomas Roberson,mary37@yahoo.com,40,Norfolk Island,East John,New Mexico,2024-10-11,2024-08-26,Returns,Critical,Pending,Jeremy Montgomery,2.66,Satisfied,Web,56349,415.78,Pending
+274136,7664,Austin Johnson,edavis@yahoo.com,61,Netherlands Antilles,Port Rileyshire,Colorado,2025-07-15,2024-07-21,Technical,Low,Closed,Lori Macias,41.25,Satisfied,In-Person,54695,641.66,Cancelled
+746285,4845,Jessica Wilson,davidcoleman@becker-grant.com,70,Finland,Kendrastad,Georgia,2024-08-18,2025-05-13,Account,Critical,Pending,David Weeks,46.93,Satisfied,Phone,96905,432.71,Cancelled
+381162,4490,Richard Harris,vargasmichael@yahoo.com,55,Luxembourg,West Petershire,Nevada,2025-06-23,2025-05-27,Account,High,Escalated,Kaitlyn Morales,59.01,Very Satisfied,Chatbot,64189,274.93,Delivered
+910532,2014,Heather Burton,wday@dyer.com,28,Niue,New Stephenport,Missouri,2024-08-11,2024-10-21,Account,Medium,Escalated,Dustin Welch,17.54,Very Dissatisfied,Web,72344,635.77,Cancelled
+603071,5284,Matthew Thomas,alexisscott@garcia.org,26,Iran,Wilsonbury,Louisiana,2025-01-25,2025-04-16,Technical,Low,Pending,William Ferguson,11.92,Satisfied,In-Person,51357,771.06,Delivered
+424600,5086,Bryan Brown,woodtina@jones-roman.net,44,Madagascar,Port Jessica,New Hampshire,2025-01-07,2025-03-31,Shipping,Medium,Escalated,Cheyenne Williams,34.65,Very Dissatisfied,Chatbot,71977,838.3,Delivered
+418029,3266,Wendy Smith,maria18@gmail.com,53,Kyrgyz Republic,Port Robertfurt,South Dakota,2025-06-16,2024-07-17,Billing,Low,Open,Brooke Mason,27.85,Very Satisfied,Email,92348,896.0,Cancelled
+938083,7410,Donna Moore,amydavis@hotmail.com,45,Nauru,South Aarontown,Kentucky,2024-08-04,2025-03-05,Account,High,Pending,James Baker,20.02,Neutral,Chatbot,53344,836.09,Returned
+840510,8145,Gregory Miller,chenjessica@rodriguez-nichols.com,50,Zimbabwe,South Markmouth,West Virginia,2024-08-15,2025-04-09,Billing,Medium,Open,Shelley Rodriguez,59.88,Satisfied,Email,66464,159.52,Delivered
+971437,2956,Jimmy Jackson PhD,lisa23@morgan.com,34,Afghanistan,Christopherton,Kentucky,2024-12-18,2024-09-10,Account,Low,Closed,Shelley Juarez,1.28,Satisfied,Phone,94256,742.19,Returned
+628743,8467,Olivia Allen,chloebuckley@hotmail.com,71,San Marino,New Edward,Maryland,2024-11-10,2025-02-15,Technical,High,Pending,Haley Lawson,20.97,Very Dissatisfied,Chatbot,55552,633.26,Cancelled
+689497,7419,Melissa Schroeder,hectorfrost@johnson-lane.com,73,Israel,Georgeborough,Indiana,2025-06-26,2024-09-03,Billing,Medium,Closed,Christine Anderson,11.11,Neutral,In-Person,73368,450.25,Cancelled
+642897,7471,Travis Bryant,millerxavier@byrd-sampson.com,39,Panama,Russellhaven,Illinois,2025-04-12,2025-07-13,Returns,Medium,Open,Angelica Lewis,2.7,Neutral,Phone,62915,529.54,Delivered
+632002,8778,Thomas Torres,zvalencia@gmail.com,61,Qatar,Johnbury,South Carolina,2024-12-11,2025-01-30,Returns,Critical,Pending,Christopher Gonzalez,15.87,Very Satisfied,Chatbot,73960,82.79,Delivered
+783057,7224,Christine Jones,joe98@murray.com,47,Pitcairn Islands,New Janethaven,Massachusetts,2024-09-26,2025-07-10,Account,Medium,Closed,Alexander Garrison,41.53,Very Satisfied,Phone,68589,492.27,Pending
+745721,5666,Kimberly Craig,williamtaylor@hotmail.com,34,Malta,North Derek,Washington,2025-05-21,2024-12-20,Billing,Low,Pending,Joyce Wilson,0.07,Satisfied,Email,51944,499.36,Pending
+716504,4524,Heidi Wolf,fhamilton@hotmail.com,58,British Indian Ocean Territory (Chagos Archipelago),Lake Abigail,Georgia,2024-08-25,2025-05-03,Billing,Critical,Pending,Trevor Peters,9.56,Neutral,Web,98728,944.25,Returned
+526424,4942,Brianna Silva,yphillips@yahoo.com,24,Niue,Leefurt,Pennsylvania,2025-01-27,2024-09-01,Technical,Critical,Pending,Trevor Williams,9.63,Dissatisfied,In-Person,73642,349.66,Cancelled
+426992,4671,Joshua Moore,jameskathy@fitzpatrick-morales.info,28,Congo,Juliamouth,Rhode Island,2025-05-03,2025-02-22,Billing,Critical,Closed,James Ryan,24.26,Satisfied,In-Person,94631,769.2,Cancelled
+866435,1900,Dennis Alvarado,brianwoodward@gibbs-wagner.com,55,South Georgia and the South Sandwich Islands,Youngstad,Arkansas,2025-06-19,2025-05-10,Shipping,High,Open,Anthony Whitehead,115.63,Neutral,Phone,60755,515.48,Delivered
+317913,9726,Jason Morales,tpena@hotmail.com,35,Mali,Lake Christopherland,Oregon,2025-06-17,2025-06-29,Account,Critical,Open,Nicole Ramirez,13.25,Very Dissatisfied,Chatbot,82722,214.44,Delivered
+612655,9599,Barbara Robertson,theresa26@walter-butler.com,33,Isle of Man,Nathantown,Montana,2024-11-21,2025-05-10,Account,Critical,Closed,Matthew Sims,18.33,Dissatisfied,Phone,87969,288.32,Returned
+636757,2482,Jennifer Blanchard,syork@gmail.com,48,Rwanda,North Tonya,Minnesota,2025-04-17,2025-06-05,Shipping,Critical,Pending,Adam Gomez,0.54,Dissatisfied,Email,61675,393.55,Returned
+484406,9905,Jon Torres,wendy74@schmidt.info,31,Equatorial Guinea,West Jasmine,Colorado,2025-06-14,2024-11-01,Shipping,Critical,Pending,Derek Roberts,5.88,Very Dissatisfied,Chatbot,60925,671.0,Returned
+817469,1058,Benjamin Waters,christopher64@clarke.com,44,Czech Republic,North Reneeville,New Jersey,2025-05-18,2025-03-10,Returns,High,Escalated,Gary Santos,4.49,Neutral,Web,74653,318.33,Cancelled
+753540,1881,Sara Woods,kroth@williams.com,57,Bouvet Island (Bouvetoya),Brookeland,Nebraska,2024-08-25,2024-11-03,Shipping,High,Escalated,Michael Burke,11.18,Dissatisfied,In-Person,91918,77.47,Cancelled
+179036,7344,Matthew Michael,csandoval@hotmail.com,61,Iran,Jeffreyborough,New Mexico,2024-09-13,2024-09-15,Shipping,Low,Escalated,Yolanda Malone,2.16,Neutral,Email,57698,253.4,Delivered
+922377,8055,Deborah Mills,nicole34@yahoo.com,65,Panama,West Samuel,West Virginia,2025-01-07,2024-08-04,Technical,Medium,Escalated,Frank Kennedy,51.39,Satisfied,Web,90653,624.72,Cancelled
+960251,7578,Sabrina Sims,travis14@gmail.com,38,Kyrgyz Republic,Thomasville,Nebraska,2024-11-18,2024-09-04,Technical,Critical,Pending,Alexandra Olson,47.73,Very Dissatisfied,Phone,91751,523.33,Pending
+458045,4791,Amanda Taylor,lance21@gmail.com,69,Antigua and Barbuda,Erinstad,Georgia,2025-07-14,2025-05-12,Shipping,Medium,Open,Justin Turner,15.74,Dissatisfied,In-Person,62967,306.95,Cancelled
+861213,9432,Jerry Burns,mooreshawn@tran.biz,40,Venezuela,North Katherinemouth,Tennessee,2024-12-10,2025-04-10,Billing,Low,Escalated,Barbara Webb,19.6,Dissatisfied,Chatbot,75230,992.22,Delivered
+108830,5469,Robert Kelley,cynthia37@vasquez.info,67,Saint Vincent and the Grenadines,Jenniferview,Iowa,2025-01-29,2025-01-26,Billing,Critical,Closed,Christopher Mckinney,7.81,Very Satisfied,Chatbot,69495,463.21,Pending
+954651,2654,Tracy Duran,paulortiz@burgess.biz,54,Singapore,East Christopherville,Virginia,2024-08-16,2025-01-30,Shipping,High,Closed,Austin Ward,4.54,Neutral,In-Person,58111,828.41,Delivered
+300700,6971,Margaret Warren,alyssa94@hotmail.com,45,Ethiopia,South Caleb,Nevada,2024-08-26,2024-08-22,Returns,High,Escalated,Stephen Rich,9.47,Very Satisfied,Phone,88628,720.45,Pending
+880961,9360,Rachel Evans,frankrich@martin.info,18,San Marino,Gracestad,Nebraska,2025-03-29,2024-09-16,Billing,Low,Closed,Samantha Estes,5.89,Neutral,Web,88243,894.29,Delivered
+211313,6918,Brittany Patel,dmorales@gmail.com,58,Finland,Jessicaberg,Kansas,2025-05-29,2024-11-23,Returns,Critical,Open,Jesus Sanchez,82.58,Dissatisfied,Web,84350,739.71,Cancelled
+161613,9518,Colleen Macdonald,riosmichael@hotmail.com,71,Niue,East Jimmytown,Washington,2025-02-24,2025-02-24,Shipping,Low,Closed,Ms. Amy Rogers,29.72,Very Dissatisfied,In-Person,97334,663.36,Pending
+702317,9073,Dr. Christian Williams,richard80@hotmail.com,46,Venezuela,West Michael,Illinois,2025-07-14,2024-08-11,Account,High,Closed,Rebecca Williams,0.72,Dissatisfied,Chatbot,85883,948.43,Returned
+784625,2151,Kyle Stafford,michael11@yahoo.com,54,Tonga,West Jadestad,Colorado,2024-07-16,2024-11-12,Returns,High,Open,Nicholas Pena,12.92,Satisfied,Web,94079,290.9,Cancelled
+151285,8539,Kelly James,heidi11@hotmail.com,29,Tanzania,North Steven,Oklahoma,2025-03-07,2025-07-07,Technical,Low,Pending,Jade Simpson,31.83,Dissatisfied,Web,80709,406.29,Delivered
+386365,4623,Michelle Camacho,justin31@conway-medina.info,64,New Zealand,Jamesland,Wisconsin,2024-08-20,2025-05-23,Account,Low,Escalated,Melissa Schultz,26.74,Very Satisfied,In-Person,87080,871.66,Returned
+720442,5581,Michael Reed,jimmycollier@ray.info,68,Reunion,North Scottville,Arkansas,2025-03-14,2025-04-17,Billing,Critical,Open,Douglas Salazar,10.2,Very Dissatisfied,Chatbot,53277,894.16,Returned
+337624,1405,Anthony Sullivan,hcarlson@yahoo.com,27,United Kingdom,South Kyle,Colorado,2024-07-30,2025-02-14,Technical,Low,Closed,Jeffery Adams,19.22,Very Satisfied,Web,73990,250.57,Cancelled
+815629,1481,Katrina West,codygonzalez@gilbert.com,25,Costa Rica,South George,Arizona,2025-04-07,2024-08-06,Returns,Medium,Pending,Travis Cruz,62.62,Satisfied,In-Person,63706,444.57,Returned
+211427,8840,Jody Vazquez,kelleysteven@villarreal.com,67,United States Minor Outlying Islands,West William,Illinois,2025-05-07,2025-02-20,Account,High,Pending,Dana Vega,5.29,Satisfied,Email,78017,519.67,Delivered
+891014,1684,Tiffany Cook,timothy77@alexander.com,36,Namibia,Vaughnshire,Montana,2024-07-30,2025-06-05,Account,Medium,Pending,John Garcia,1.23,Satisfied,Email,56953,672.04,Returned
+647736,3118,Randall Phillips,hgonzalez@yahoo.com,19,Palestinian Territory,Port Cindyport,Maryland,2024-07-31,2025-07-11,Technical,Low,Open,Ronald Gutierrez,15.0,Satisfied,Email,58802,884.47,Pending
+243130,3322,Erika Hernandez,angelascott@gmail.com,33,Isle of Man,Hurleyland,Missouri,2025-01-13,2024-11-11,Returns,High,Open,Jacob Lawrence,8.28,Very Dissatisfied,Phone,93960,256.81,Cancelled
+995424,4383,Kristina Torres,sheryl92@donovan.biz,45,Bulgaria,Port Melissaview,Maryland,2025-04-03,2024-07-19,Account,Medium,Open,James Trujillo,8.36,Very Dissatisfied,Email,88609,831.75,Cancelled
+378754,6270,Zachary Gordon,tammy97@yahoo.com,64,Panama,Karenfort,Arizona,2025-04-08,2024-11-13,Returns,Medium,Pending,Regina Gordon,1.05,Very Satisfied,Web,72895,941.18,Delivered
+356724,4952,Jennifer Pierce,christina49@wallace.info,50,Portugal,West Ashleyfurt,Minnesota,2024-07-20,2024-07-28,Billing,Low,Closed,Amber Wood,37.92,Satisfied,In-Person,56487,420.06,Delivered
+964810,9809,Christopher Whitaker,maymichelle@yahoo.com,57,Uzbekistan,Brandonmouth,Michigan,2025-07-07,2024-12-13,Technical,Medium,Escalated,Melanie Douglas,20.16,Very Dissatisfied,Web,75199,228.42,Cancelled
+320703,1795,Elizabeth Sullivan,robertsjasmine@rivera.com,67,Morocco,South Jane,New York,2024-11-10,2024-12-30,Shipping,High,Pending,Eric French,9.5,Very Satisfied,In-Person,77553,556.06,Cancelled
+163318,3373,Ana Mendez,ymoore@blair-baxter.net,58,Croatia,Bernardview,Wisconsin,2025-06-24,2025-03-28,Shipping,High,Pending,Melinda Escobar,23.31,Very Satisfied,Email,66799,519.27,Returned
+543461,5838,Melinda Owens MD,sharon95@kim.com,62,El Salvador,South Dennis,Iowa,2024-10-19,2024-09-22,Shipping,Critical,Pending,Brian Walker,6.56,Very Satisfied,Email,75242,257.4,Cancelled
+851788,2672,Lauren Wolfe,gmiller@gmail.com,64,Ecuador,North Jason,Nebraska,2024-07-18,2024-12-09,Billing,High,Escalated,Travis Martin,41.04,Neutral,Chatbot,64561,467.27,Delivered
+896298,9861,Debra Garcia,lisa00@yahoo.com,27,Latvia,Port Frank,Georgia,2025-01-23,2024-09-22,Shipping,Critical,Pending,Natalie Anderson,45.81,Satisfied,Phone,89757,563.42,Returned
+133421,2418,Kimberly Clay,caseydoyle@evans.org,61,Tuvalu,Cookbury,Nebraska,2025-02-03,2025-04-01,Account,Critical,Closed,Ronald Townsend,9.09,Very Satisfied,Chatbot,73045,554.44,Delivered
+159555,3234,Stephanie Guzman,michaelcamacho@hotmail.com,32,Taiwan,New Linda,Arizona,2024-08-17,2024-11-01,Shipping,Low,Closed,Garrett Rodriguez,10.62,Very Dissatisfied,Phone,85794,388.67,Pending
+479958,8166,Madison Benton,kjames@adams.biz,48,Cote d'Ivoire,East Jessica,Georgia,2024-09-13,2024-09-09,Billing,Critical,Pending,Patrick Bush,37.93,Neutral,Chatbot,99000,863.47,Cancelled
+477716,3296,Valerie Butler,ugibson@munoz.org,64,Western Sahara,West Teresa,Idaho,2025-07-14,2024-08-01,Technical,Medium,Pending,Jimmy Downs,47.08,Neutral,Web,73774,295.9,Returned
+280230,1555,Dakota Bryant,kim10@rogers.com,49,Saudi Arabia,Gilberthaven,Idaho,2025-01-19,2025-01-23,Account,High,Pending,John White,26.27,Neutral,Web,70144,236.63,Returned
+361621,6087,Melissa Marshall,reesejennifer@yahoo.com,50,Estonia,South Tyler,Vermont,2024-10-27,2025-07-05,Technical,High,Open,Michael Smith,11.38,Satisfied,Web,96079,208.64,Returned
+805445,9379,Jennifer Smith,sheri15@hotmail.com,73,Grenada,North Brenda,New York,2025-05-11,2025-02-17,Technical,Low,Pending,Rebecca Herrera,28.05,Dissatisfied,Chatbot,71140,583.72,Delivered
+124581,5395,Mary Allen,hbennett@bridges.com,34,Mayotte,New Erin,Delaware,2025-01-26,2024-12-02,Returns,Medium,Open,Christopher Chapman,114.73,Dissatisfied,Email,79146,989.75,Returned
+186930,8753,Christina Mckee,toddoliver@gmail.com,39,Djibouti,South Bailey,Texas,2024-10-01,2025-06-18,Billing,High,Escalated,Tara Shaffer,21.13,Satisfied,Web,55457,131.54,Returned
+220820,1770,Troy Austin,cathytaylor@miller.com,61,Isle of Man,Andersonfurt,New Hampshire,2024-10-17,2024-11-26,Billing,High,Closed,Crystal Wood,41.0,Satisfied,In-Person,91147,653.17,Cancelled
+170743,6819,Christine Ibarra,lhartman@estrada-torres.com,52,Norway,Hickmantown,Texas,2024-11-05,2024-09-15,Shipping,Low,Closed,Linda Hoffman,3.76,Satisfied,Web,70754,139.38,Delivered
+126575,6571,Brittany Riley MD,lynneric@hotmail.com,39,Pakistan,East Keith,New Mexico,2025-03-21,2024-11-25,Account,High,Escalated,Joyce Lopez,0.34,Satisfied,Chatbot,88190,283.18,Pending
+142860,2594,Sharon Buck,alexthomas@gmail.com,60,Kuwait,West Haley,South Dakota,2024-08-23,2024-09-18,Billing,High,Escalated,Kenneth Garcia,24.4,Dissatisfied,In-Person,68764,207.95,Cancelled
+864855,6891,Jasmine Welch,brian71@andrews.com,67,Korea,New Zoe,Washington,2024-10-19,2024-12-05,Shipping,Critical,Escalated,Mary Espinoza,76.65,Neutral,Phone,89084,613.97,Pending
+122172,2753,Brian Peters,williamsonchristopher@mcintyre-hartman.com,37,Pakistan,North Anna,Texas,2024-09-26,2025-04-30,Billing,Critical,Open,Kathleen Sanchez,21.25,Dissatisfied,Web,84980,110.82,Cancelled
+491220,6703,Elizabeth Smith,jenniferwhite@gmail.com,46,Kuwait,Maryport,Pennsylvania,2024-11-02,2024-08-25,Account,Low,Open,Dawn Smith,9.44,Very Dissatisfied,Email,70288,906.58,Pending
+368110,6954,Gary Watson,brendafrederick@hoffman.com,69,Kenya,Johnsonfort,Delaware,2024-09-26,2024-10-04,Account,High,Closed,Samuel Cox,10.67,Dissatisfied,Phone,62933,494.13,Cancelled
+233994,5514,Melissa Macias,buchananmark@hotmail.com,51,Montserrat,South Joelstad,Nevada,2024-11-06,2025-03-24,Returns,High,Escalated,Roger Myers,6.5,Neutral,Phone,70499,223.28,Delivered
+952863,8834,Mercedes Hines,richardsongrace@gmail.com,26,South Africa,Heathmouth,Pennsylvania,2025-05-14,2024-12-21,Returns,Critical,Pending,Rhonda Aguilar,31.06,Neutral,Email,71301,851.65,Cancelled
+264750,5636,Peter Carpenter,baileymoore@wood.com,61,France,North Michelletown,Texas,2025-02-08,2024-10-30,Account,Critical,Open,Nancy Reyes,48.79,Dissatisfied,Phone,80545,955.4,Cancelled
+870480,9344,Kathleen West,anna86@hudson.org,40,El Salvador,North Lisaside,Pennsylvania,2024-07-28,2025-02-24,Account,Medium,Escalated,Andrew Fisher,28.72,Very Dissatisfied,Email,61724,105.01,Cancelled
+292664,3454,Rebecca Lee,bking@king.biz,42,United States Minor Outlying Islands,Lake Joshualand,Nevada,2024-11-15,2025-06-01,Account,Medium,Escalated,Joshua Jenkins,12.23,Neutral,Email,64593,728.45,Cancelled
+648501,1419,Kimberly Brown,morriskelly@mccoy.net,65,Vanuatu,Port Brookeshire,Indiana,2024-11-29,2024-11-20,Billing,Critical,Closed,Alexander Suarez,24.32,Neutral,Web,57972,474.7,Delivered
+825085,1726,Sheryl Hamilton,tina13@porter-taylor.com,29,Sudan,New Joy,Indiana,2024-12-16,2024-10-11,Technical,Low,Open,Margaret Hatfield,6.61,Very Dissatisfied,Phone,74216,205.74,Returned
+102030,6576,Devin Lee,spencekelli@yahoo.com,19,Uganda,North Christophertown,New Hampshire,2025-06-30,2024-08-05,Technical,Medium,Open,Brian Long,64.66,Very Satisfied,Phone,84219,767.48,Delivered
+504295,8111,Jessica Valdez,daviscaitlin@gmail.com,61,Montserrat,Jonathanborough,Massachusetts,2025-04-01,2025-07-02,Returns,High,Closed,John Murray,2.44,Very Dissatisfied,Web,68174,862.57,Delivered
+718091,1134,Cheryl Carrillo,cdurham@gmail.com,23,Netherlands,New Samantha,Michigan,2024-08-15,2025-05-31,Account,High,Escalated,Tiffany Bradford,35.89,Satisfied,Email,60739,947.18,Delivered
+145257,6725,Jason Lopez,andersondavid@jones.info,25,Nigeria,Keithstad,Delaware,2025-07-07,2024-12-10,Billing,Critical,Open,Laura Chan,8.84,Neutral,Email,64535,411.21,Cancelled
+932734,9757,Meghan Casey,hollymarshall@reynolds.net,34,Canada,New Manuel,New Jersey,2025-02-11,2025-02-10,Technical,Medium,Open,Robert Stark,82.86,Neutral,Chatbot,89185,831.1,Delivered
+359865,1830,Hannah Payne,jonathan58@delacruz-smith.com,59,Kenya,East Elijah,Washington,2025-05-05,2024-12-20,Returns,Low,Pending,Charles Thomas,6.11,Satisfied,In-Person,76078,217.56,Delivered
+258775,2257,Jasmine Smith,brooksjamie@yahoo.com,46,French Polynesia,Jennifershire,Mississippi,2025-03-07,2025-02-20,Technical,Medium,Escalated,Alyssa Green,3.38,Dissatisfied,Web,54323,734.25,Returned
+138030,9852,Stephanie Wells,friggs@simmons.com,33,Malaysia,South Williamstad,Missouri,2025-07-11,2025-04-26,Returns,Low,Pending,Dennis Singleton,45.57,Very Dissatisfied,Phone,85530,84.98,Cancelled
+104399,9300,Amber Silva,josephweber@yahoo.com,35,Kuwait,Martinbury,Michigan,2025-05-27,2024-08-29,Billing,High,Pending,Gary Marshall,32.97,Neutral,Web,50377,802.61,Delivered
+460920,8135,Mark Ward,jennifer99@yahoo.com,55,Samoa,South Katherinehaven,Idaho,2025-01-17,2025-03-31,Account,High,Closed,Samantha Reynolds,20.1,Very Dissatisfied,Chatbot,57757,257.0,Returned
+745125,8022,Christina Mitchell,timothy97@gmail.com,49,Monaco,Port Nicholasmouth,New Jersey,2024-12-03,2025-01-15,Account,High,Escalated,Devin Travis,46.5,Satisfied,In-Person,61278,692.72,Returned
+758250,7871,Jason Butler,allenjennifer@davis.org,52,Comoros,East Howard,New Mexico,2025-05-01,2024-12-26,Billing,Medium,Closed,Joshua Wilson,26.9,Neutral,Chatbot,92094,711.24,Delivered
+878525,4930,Kayla Hoffman,jerrytaylor@hotmail.com,34,Algeria,Mariaburgh,Kansas,2025-04-13,2025-05-24,Returns,Low,Pending,Joshua Phillips,18.33,Neutral,Phone,90784,51.89,Delivered
+883997,3979,Joseph Hodges,brendabush@hotmail.com,60,Luxembourg,Tylerfurt,Maryland,2024-12-09,2025-07-06,Account,Low,Closed,Sandra Bradley,17.35,Very Dissatisfied,Web,77050,558.72,Delivered
+218609,3663,Tina Carlson,wstone@yahoo.com,66,Iran,New Janiceshire,Massachusetts,2025-03-19,2025-07-07,Returns,Critical,Open,Kevin Bass,34.05,Neutral,Web,87172,902.83,Returned
+399920,1737,Seth Krause,lisa80@gmail.com,54,Saint Lucia,Abigailland,Louisiana,2024-11-26,2025-01-22,Billing,Medium,Open,William Hurst,5.46,Very Dissatisfied,Email,52271,665.05,Cancelled
+453594,1260,Ashley Rhodes,robrien@gmail.com,40,Bhutan,Port Nathan,Iowa,2025-07-12,2024-09-05,Account,Low,Open,Tracey Fowler,0.03,Neutral,Web,90179,526.63,Cancelled
+612503,6784,Derek Frank,jdavis@yahoo.com,37,Bahamas,East Derek,West Virginia,2024-09-13,2025-04-10,Returns,Critical,Closed,Michelle Edwards,0.2,Neutral,Email,76488,657.99,Delivered
+132307,3972,Leslie Flores,careykaylee@yahoo.com,49,Guyana,Loweryville,Kansas,2024-12-26,2024-11-18,Billing,High,Closed,Beverly Hudson,0.45,Very Dissatisfied,Chatbot,73284,833.33,Pending
+423365,5829,Mr. Derek Harris,sbush@collins.com,35,Qatar,West Brian,Arkansas,2024-11-05,2024-07-23,Shipping,Critical,Escalated,Thomas Shea,7.24,Dissatisfied,In-Person,69399,156.6,Cancelled
+570447,1325,Tara Lopez,carterallison@yahoo.com,63,New Caledonia,North Jennifer,Tennessee,2024-11-23,2024-10-11,Account,Low,Closed,Ashley Riley,16.19,Neutral,Web,81055,684.07,Delivered
+678293,1658,Nicole Hardy,sheamichele@yahoo.com,26,Hong Kong,Cherylville,New Jersey,2024-12-14,2025-03-24,Shipping,High,Open,Andrew Miles,11.87,Neutral,Email,75165,829.23,Pending
+903177,5040,Joseph Ochoa,richard91@harvey.com,55,Nigeria,Ronaldport,Alaska,2025-02-05,2025-06-12,Technical,High,Open,Derek Smith,11.72,Very Dissatisfied,Web,81915,777.05,Returned
+734551,4597,Taylor Brown,balljennifer@gmail.com,27,Martinique,Wrightfurt,Virginia,2025-07-11,2024-10-08,Returns,High,Escalated,Christopher Drake,1.38,Dissatisfied,Email,85674,490.83,Delivered
+875890,7600,Jacob Perry,michaelglass@yahoo.com,39,Madagascar,Sanchezstad,Michigan,2024-08-31,2024-10-18,Shipping,Medium,Escalated,Scott Lynch,47.16,Very Dissatisfied,In-Person,58935,646.36,Delivered
+147995,2037,Dr. Sandra Sandoval,joseph11@hotmail.com,54,Iran,New Williamstad,West Virginia,2025-06-21,2025-07-16,Technical,Medium,Open,Kristen Lam,19.9,Dissatisfied,Email,73936,757.33,Returned
+376763,6900,Sarah Lewis,carol21@patterson.com,68,Mali,West Karenhaven,Hawaii,2024-11-05,2025-07-02,Account,Low,Open,Michael Harrington,26.87,Very Dissatisfied,In-Person,97031,144.47,Delivered
+892369,2816,Victoria Martin,swilliamson@hotmail.com,57,French Southern Territories,West Natalie,New Mexico,2024-09-27,2024-09-18,Technical,Medium,Open,Yolanda Meyers,28.52,Very Satisfied,Web,84711,251.99,Delivered
+521374,2107,Jacob Dickerson,pamelabarnes@jones-vasquez.com,58,Bermuda,Mannhaven,Iowa,2025-04-24,2024-10-07,Returns,High,Escalated,Eric Meyers,39.55,Dissatisfied,In-Person,87384,893.36,Delivered
+751789,4975,Charles Brooks,mcmahonnicole@gregory.com,57,Ecuador,Shepardbury,Arkansas,2024-09-23,2024-09-30,Billing,High,Open,Olivia Cook,3.82,Very Dissatisfied,Phone,50079,381.09,Delivered
+839607,4823,Kimberly Johnson,kbell@lewis.com,37,Gambia,East Hannah,Arizona,2025-05-06,2025-04-12,Shipping,Medium,Closed,Allen Carter,22.78,Very Dissatisfied,Web,64874,198.98,Pending
+260909,4111,Diane Johnson,cindyrobinson@yahoo.com,44,Bolivia,New Benjaminview,Wyoming,2025-07-04,2024-12-26,Technical,Critical,Open,Robert Barrera,38.87,Satisfied,Chatbot,58861,508.15,Pending
+595745,2686,Megan Lawson,matthewstina@medina.info,54,Colombia,Brianmouth,Massachusetts,2025-06-23,2025-07-06,Account,Critical,Closed,Mitchell Hunter,66.3,Dissatisfied,In-Person,76422,936.87,Cancelled
+336482,1102,Alex Ramsey,darrell18@hotmail.com,58,Lebanon,South Claudia,California,2025-04-06,2025-06-15,Shipping,Critical,Escalated,Mary Peterson,45.49,Dissatisfied,In-Person,60795,717.02,Cancelled
+197993,7640,Alexandra Castro,zachary86@silva.info,56,Lebanon,Port Lorimouth,Utah,2024-11-07,2025-01-03,Shipping,High,Closed,April Church,70.43,Dissatisfied,Phone,58543,394.31,Returned
+792928,2310,John Mckinney,franktheresa@hall.info,37,British Indian Ocean Territory (Chagos Archipelago),Cherylhaven,Virginia,2024-10-07,2025-02-15,Billing,Medium,Closed,Ms. Nicole Turner,19.38,Very Satisfied,Phone,56360,171.81,Delivered
+820786,9195,Jason Ball,carolineallen@yahoo.com,74,Bolivia,Hollandhaven,Louisiana,2024-09-07,2025-04-02,Shipping,High,Open,Jonathan Johnson,36.22,Very Satisfied,Chatbot,59498,316.03,Delivered
+431670,5604,Marc Brown,cwalls@vasquez.com,26,Iraq,Katherinemouth,Illinois,2025-06-29,2025-02-25,Shipping,Critical,Escalated,Krystal Richardson,75.66,Very Satisfied,In-Person,64555,141.32,Returned
+979127,4624,Cynthia Reynolds,jeffrey44@snyder-thornton.com,32,Kyrgyz Republic,Ayersstad,Alabama,2025-04-30,2025-04-27,Returns,Critical,Pending,William Nguyen,35.68,Dissatisfied,Phone,83904,971.33,Pending
+207006,1858,Paula Lopez PhD,ssexton@yahoo.com,71,Bolivia,West Christopher,North Carolina,2025-01-30,2025-05-15,Billing,Critical,Closed,Alejandro Brown DDS,8.64,Very Dissatisfied,Phone,72223,566.88,Pending
+125379,9610,Jon Ramirez,ytownsend@hotmail.com,67,Iraq,Davidfurt,Maryland,2024-11-23,2024-07-18,Billing,High,Pending,Brandon Preston,7.26,Very Satisfied,Email,90264,715.08,Pending
+569575,9477,William Price,bowmanjohnny@hotmail.com,69,Japan,Lake Rodney,Wyoming,2024-11-03,2024-09-11,Technical,Critical,Pending,Thomas Oneill,28.38,Dissatisfied,In-Person,78296,449.34,Delivered
+926707,9646,Robert Garcia,ginaperez@hotmail.com,69,Guinea,West Mark,Oklahoma,2025-04-08,2024-09-07,Billing,High,Open,Paul Ross,0.1,Very Satisfied,Chatbot,52812,96.03,Delivered
+233731,7605,Brian Johnson,pflowers@hotmail.com,45,Faroe Islands,North Johnmouth,Wisconsin,2025-07-15,2025-06-14,Technical,Critical,Open,Susan Wood,8.89,Neutral,In-Person,99940,193.97,Delivered
+643462,7997,Mrs. Martha Thomas,lisa06@gibson.com,21,New Caledonia,Clarkmouth,Kentucky,2025-02-02,2025-05-25,Shipping,Low,Closed,Michael Roman,12.15,Very Dissatisfied,Phone,50520,207.64,Pending
+713370,3074,Anthony Cameron,paul10@yahoo.com,33,Iraq,New James,Alabama,2024-07-30,2025-06-17,Technical,Medium,Closed,Karen White PhD,0.69,Very Satisfied,Email,71087,351.13,Cancelled
+919000,3536,Todd Ali,moorejonathan@rice.org,20,Maldives,Jenniferside,South Carolina,2024-08-23,2024-09-28,Billing,Low,Open,Trevor Smith,3.29,Very Satisfied,Web,91953,247.95,Delivered
+512040,7994,Dustin Thompson,annepadilla@gmail.com,40,Algeria,Hernandezborough,Montana,2024-10-25,2024-11-11,Returns,Medium,Open,David Harvey,63.9,Very Dissatisfied,Email,87647,690.4,Cancelled
+610574,3123,John Fox,aaronramirez@white-bennett.org,23,Belize,East Robertton,Iowa,2025-03-05,2025-01-28,Technical,Low,Open,Patricia Dominguez,6.24,Very Satisfied,Email,68961,58.29,Cancelled
+639809,8533,Karen Thompson,robertsamber@hotmail.com,23,Puerto Rico,Lake Tammychester,Maryland,2024-11-19,2024-11-29,Returns,Medium,Escalated,James Carroll,4.32,Dissatisfied,Phone,71888,268.42,Returned
+443891,7108,Christopher Johnson,warrenkelly@wilson-burke.org,36,Honduras,Brianafurt,Maine,2024-11-06,2024-12-26,Billing,High,Pending,Jeffrey Cook,16.38,Very Dissatisfied,Chatbot,61984,857.27,Returned
+250816,1865,Ronnie Miller,kallen@williams.com,55,Venezuela,West Susanfort,Pennsylvania,2024-12-03,2025-04-28,Shipping,Critical,Escalated,Jacob Dickson,0.49,Neutral,Email,88856,145.91,Cancelled
+457617,3993,Sarah Mcknight,morrisonlatoya@gmail.com,47,Zambia,Yeseniabury,Tennessee,2024-12-19,2024-08-03,Shipping,High,Pending,Jenny Chavez,11.89,Very Dissatisfied,In-Person,53128,934.71,Delivered
+371682,9460,Elizabeth Townsend,bbean@logan.com,30,Benin,North Emily,New Mexico,2025-01-31,2025-01-25,Account,Low,Escalated,Dr. Steven Shea,40.86,Neutral,Chatbot,63688,692.0,Delivered
+374556,8208,Joseph Collier,wilsoncaleb@hotmail.com,46,Northern Mariana Islands,Smithhaven,Nevada,2025-03-11,2025-06-20,Technical,Low,Open,Gregory Richards DVM,29.62,Satisfied,Chatbot,65081,106.86,Delivered
+735518,8167,Pamela White,eramirez@mcdonald.com,24,Montserrat,West Zacharyview,New Mexico,2025-07-09,2024-09-08,Account,High,Closed,Joyce Atkins,11.89,Neutral,Phone,60847,92.9,Cancelled
+540145,8306,Brittany Cook,jared04@yahoo.com,67,Bolivia,Kimberlyberg,Arkansas,2025-03-15,2024-12-09,Shipping,High,Closed,Robert Medina,17.6,Very Dissatisfied,In-Person,63579,929.19,Pending
+785050,3660,Sylvia Wilson,lterrell@yahoo.com,62,United States Minor Outlying Islands,Cruzton,Michigan,2025-01-30,2025-04-06,Returns,Critical,Closed,Patrick Mason,14.51,Satisfied,In-Person,88279,377.55,Delivered
+118909,9119,Raymond Wright,brandonwood@andrews-martin.net,23,Saudi Arabia,Laneshire,Washington,2025-05-23,2025-01-02,Shipping,Low,Pending,Dr. Karen Hall,7.73,Neutral,Phone,86672,625.52,Pending
+833451,3094,Christopher Mooney,jameslopez@hotmail.com,34,United States Virgin Islands,Thomaston,Oregon,2025-05-01,2024-10-14,Technical,Medium,Closed,Julian Hamilton,29.64,Very Dissatisfied,Chatbot,81739,319.67,Returned
+685053,6750,Jamie Gamble,kimberly16@williams.info,23,Benin,Anitaborough,Vermont,2025-05-12,2024-12-12,Billing,Medium,Escalated,Philip Villarreal,4.49,Neutral,Web,69969,627.63,Pending
+247397,3386,Erica Jones,hughesann@gmail.com,70,Montenegro,Davidburgh,Virginia,2025-04-06,2024-07-19,Returns,Low,Open,Connor Lopez,5.73,Very Satisfied,Phone,53096,364.76,Delivered
+803134,1377,Makayla Baker,stevenlopez@gmail.com,74,Spain,New Taylor,Utah,2025-03-03,2024-08-22,Billing,Medium,Closed,Anthony Jacobson,14.94,Satisfied,Phone,72027,479.86,Cancelled
+159539,5117,Dustin Randolph,kevinnelson@hotmail.com,44,Jordan,Lake Kevinville,Tennessee,2024-08-22,2025-02-28,Billing,High,Closed,Timothy Obrien,8.86,Very Dissatisfied,Chatbot,54791,966.36,Delivered
+365255,4066,Maureen Terry,stephen01@parsons.org,37,Liberia,Dixontown,Alabama,2024-08-28,2025-05-29,Billing,High,Closed,William Kelley,9.61,Very Satisfied,Web,94362,784.53,Delivered
+135186,3473,Shawn Kennedy,pattersonmatthew@burke.com,57,Colombia,Codyhaven,Montana,2025-04-06,2025-06-03,Technical,High,Closed,Samuel Taylor,8.38,Very Dissatisfied,In-Person,85478,518.16,Returned
+238099,7753,Lisa Maldonado,arichardson@simmons.com,55,El Salvador,New Maxwellstad,Kansas,2024-08-23,2025-04-07,Returns,High,Pending,Victor Graham,35.09,Very Satisfied,Phone,84472,393.23,Returned
+268993,5102,Vicki Klein,goodtonya@warren.info,43,Colombia,Hernandezland,Alabama,2024-10-07,2024-11-09,Account,Low,Closed,Lisa Day,35.65,Neutral,In-Person,98602,630.83,Returned
+279003,8247,Jennifer Stewart,qbailey@hotmail.com,54,Kiribati,Port Robert,South Carolina,2025-07-12,2024-09-05,Billing,Critical,Open,Michael Wolfe,18.72,Neutral,Chatbot,96921,185.23,Pending
+200529,8701,Jacob Jacobson,wsmith@hamilton.com,33,China,East Johnburgh,Delaware,2025-04-28,2025-04-04,Billing,Medium,Escalated,Christopher Riggs,24.02,Dissatisfied,Chatbot,92128,123.42,Pending
+575413,8609,David Davis,qharris@berry.com,39,Georgia,Berryport,Indiana,2025-03-05,2025-05-04,Technical,Critical,Closed,Brian Bernard,39.4,Satisfied,In-Person,61576,887.92,Cancelled
+765925,4082,Tara Coleman,garciamary@gmail.com,36,Bosnia and Herzegovina,Port Teresahaven,Iowa,2025-01-16,2025-02-08,Shipping,High,Open,Martha Johnson,11.98,Very Satisfied,Phone,87441,491.46,Delivered
+342907,7930,Phillip Allison,david38@yahoo.com,40,Panama,Sandraton,New Mexico,2025-04-15,2024-09-05,Technical,Medium,Pending,Chelsea Neal,5.09,Satisfied,Chatbot,64849,270.36,Cancelled
+632948,8133,John Brooks,lmontes@gmail.com,47,Falkland Islands (Malvinas),Angelafort,Alabama,2025-07-08,2025-01-11,Technical,Medium,Pending,Leslie Powell,53.61,Dissatisfied,Email,65948,616.95,Returned
+842489,5414,Mary Buckley,rachel76@yahoo.com,32,Albania,Kirbystad,North Dakota,2024-11-17,2025-07-03,Returns,Low,Escalated,Jacob Webster,10.44,Satisfied,Phone,96635,900.68,Cancelled
+132926,4594,Victor Austin,robert89@hotmail.com,18,Macao,Douglasfort,South Dakota,2025-07-08,2024-09-11,Account,Medium,Escalated,Angela Hill,26.48,Neutral,Email,53030,713.46,Returned
+358747,6787,Ryan Allen,fmyers@cantrell-noble.org,23,Poland,Coxview,California,2024-09-01,2024-10-13,Returns,Critical,Closed,Joseph Burton PhD,44.79,Neutral,Web,74799,982.76,Returned
+343766,1514,Susan Flowers,schmidtcrystal@hotmail.com,41,San Marino,Kimberlyport,Mississippi,2025-01-28,2025-02-15,Returns,Low,Closed,David Gonzales,32.91,Very Dissatisfied,Web,83316,181.03,Delivered
+848544,7466,Kendra Newman,diamondmyers@yahoo.com,51,Nigeria,West Patrick,Arkansas,2024-12-20,2025-01-11,Account,Low,Pending,Toni Simmons,13.05,Very Dissatisfied,Phone,86835,866.57,Pending
+566299,1457,Danielle Hanna,jerry82@sellers.com,56,Aruba,South Deannaborough,Delaware,2025-01-27,2025-06-20,Shipping,Low,Pending,Matthew Douglas,52.94,Very Dissatisfied,Chatbot,94228,54.59,Cancelled
+177120,7988,Katherine George,carol03@griffin.com,25,Indonesia,South Jessica,Colorado,2025-02-03,2024-08-03,Technical,Critical,Open,Shelley Wright,8.36,Very Satisfied,Email,54156,859.13,Pending
+362962,5952,Alexis Hill,smithlaura@gmail.com,50,South Georgia and the South Sandwich Islands,South Donald,Nevada,2025-04-19,2024-10-21,Returns,High,Closed,Jamie Lopez,9.02,Neutral,Chatbot,94626,101.07,Cancelled
+184336,1395,Amber Wolfe,ajames@cochran-fields.com,67,Iceland,Thompsonshire,Wyoming,2025-05-07,2025-05-09,Shipping,High,Closed,Bridget Guzman,2.1,Very Satisfied,Email,85412,243.21,Pending
+719957,9975,David Williams,morganjennifer@adams.com,36,French Guiana,North Tamaraport,Kansas,2025-04-14,2025-01-29,Returns,Critical,Pending,Linda Bryant,80.82,Very Satisfied,Chatbot,90742,227.12,Delivered
+339288,8819,Jacob Delgado,vedwards@hotmail.com,47,Fiji,Lake Tylermouth,Virginia,2025-07-03,2024-11-26,Returns,Medium,Open,Jason Edwards,6.84,Dissatisfied,In-Person,92700,518.06,Pending
+754483,5287,Linda Hernandez,lauren25@yahoo.com,33,Lebanon,Lake Charlesport,Mississippi,2025-05-28,2024-10-07,Technical,High,Escalated,Kathryn Henry,9.84,Satisfied,Chatbot,74258,916.76,Delivered
+930035,5432,Tammy Young,hcummings@gmail.com,63,Iran,Jimmyhaven,Alaska,2025-04-13,2025-04-24,Billing,Low,Escalated,James Gray,14.73,Satisfied,Email,60322,727.92,Delivered
+939078,5048,Connie Turner,monroeaustin@black-farrell.biz,46,Guinea,Davisborough,Georgia,2024-08-29,2024-07-18,Technical,High,Escalated,Alan Wallace,11.43,Satisfied,Web,83269,369.83,Cancelled
+754216,8640,Sandra Medina,latasha63@yahoo.com,38,Seychelles,Kramerberg,Arizona,2025-02-25,2024-10-25,Returns,Critical,Escalated,Amy Downs,9.21,Neutral,Email,56839,755.63,Pending
+843962,8487,Kenneth Williams,katherine05@gmail.com,44,United States of America,Justinmouth,Arizona,2025-05-14,2024-12-16,Technical,Low,Closed,Devon Mitchell,3.56,Very Satisfied,Phone,94671,415.0,Cancelled
+477308,6980,Kristin Cook,vthomas@moore.com,34,Malta,Ashleyton,Idaho,2024-11-04,2024-12-24,Returns,Critical,Closed,Matthew Adams,9.22,Neutral,Web,79132,181.88,Cancelled
+369074,9551,Heather Vasquez,heatherleonard@hotmail.com,24,Saudi Arabia,Nelsonland,Rhode Island,2024-09-05,2025-04-30,Returns,Low,Closed,Laura Lang,6.38,Satisfied,In-Person,72265,106.44,Cancelled
+817813,8564,Rebecca Lee,gweaver@hayes.net,56,Cuba,Hatfieldfort,Indiana,2025-03-23,2024-12-24,Account,Medium,Escalated,Cassandra Ballard,57.64,Dissatisfied,In-Person,51863,793.98,Cancelled
+543565,5034,Sarah Lopez,harrisjames@gmail.com,42,Suriname,Gordonside,Indiana,2025-03-15,2024-09-11,Technical,Medium,Escalated,Jesse Anderson,11.45,Satisfied,In-Person,81781,486.13,Pending
+392277,9760,Debra Mathis,howardjessica@barnett-torres.info,24,Finland,Thomasburgh,California,2025-03-01,2025-02-11,Returns,Low,Pending,Wesley Martin DVM,5.68,Very Satisfied,Email,83775,942.85,Returned
+651750,3613,Scott Hancock,carlbeck@stephens.com,61,Cape Verde,Lewisborough,Hawaii,2024-10-02,2024-10-29,Shipping,Medium,Escalated,Courtney Ramsey,2.27,Neutral,In-Person,68510,349.79,Delivered
+887142,8550,Meghan Fischer,mistymckenzie@yahoo.com,39,Kazakhstan,Rachaelport,West Virginia,2025-01-24,2024-11-15,Returns,High,Open,Gabriela Russell,27.9,Neutral,In-Person,64752,91.2,Returned
+105059,5720,Frances Carrillo,joanne28@gmail.com,67,Poland,North Troyburgh,Maryland,2024-12-03,2024-12-24,Account,Medium,Open,Rachel Neal,16.77,Neutral,Web,88929,237.81,Returned
+258456,6925,Kimberly Villarreal,anthonymartinez@yahoo.com,39,Falkland Islands (Malvinas),Lake Sarashire,Kentucky,2025-05-06,2025-07-06,Account,Critical,Open,Justin Ball,0.16,Very Satisfied,Web,77046,99.74,Delivered
+137223,7878,Jerome Frazier,kramerbrian@freeman.com,59,Malta,East Lauramouth,New Hampshire,2025-06-24,2025-04-16,Account,High,Pending,Brianna Schmitt,0.49,Neutral,Web,89050,196.81,Cancelled
+503442,2797,Richard Flynn,hevans@wood.com,54,New Caledonia,Nathanburgh,Missouri,2025-01-07,2025-03-01,Returns,Critical,Escalated,David Ellis,74.65,Neutral,Email,78321,646.44,Cancelled
+528580,9280,James Macias,oroberts@white.com,59,Congo,East Jenniferville,Hawaii,2025-05-27,2025-06-29,Shipping,Low,Pending,Traci Evans,0.65,Dissatisfied,Phone,52682,270.65,Cancelled
+268019,5025,Amanda Stokes,danielkemp@james-jones.org,58,Argentina,Port Ronald,Maine,2025-03-31,2025-05-19,Returns,Medium,Pending,Douglas Jacobs,7.45,Satisfied,Chatbot,61449,793.01,Cancelled
+216575,7337,John Berger,davidjohnston@hotmail.com,37,Senegal,Wellsstad,Nevada,2025-03-05,2024-08-20,Billing,Medium,Pending,Angela Mendez,5.24,Very Dissatisfied,Web,95243,572.49,Pending
+636956,2919,Natasha Smith,brianking@hotmail.com,22,Georgia,East Ashley,Pennsylvania,2025-07-05,2025-06-11,Shipping,High,Closed,Daniel Wolf,8.43,Neutral,Chatbot,94651,791.98,Delivered
+858927,8088,Brian Hooper,bmorris@hotmail.com,72,Bulgaria,Burgessstad,Arkansas,2024-09-30,2024-12-14,Returns,Critical,Closed,Ashley Ashley,13.77,Dissatisfied,Phone,50522,293.45,Cancelled
+192087,8560,Christopher Marquez,ynewton@yahoo.com,52,Chile,New Dustin,Kansas,2025-04-16,2025-01-02,Billing,Low,Escalated,Ashley Montoya,7.46,Neutral,In-Person,70291,380.74,Delivered
+352565,9540,Michelle Patel,christophersmith@anderson.com,30,Panama,Jamestown,Maryland,2024-09-19,2024-09-16,Shipping,Critical,Pending,Austin Miller,15.77,Dissatisfied,Phone,66290,712.72,Delivered
+206861,8448,Lindsay Johnson,johnny31@kim.com,33,Saint Vincent and the Grenadines,Shaunmouth,New Jersey,2025-02-27,2025-04-03,Account,Critical,Escalated,Carla Stevens,71.73,Very Dissatisfied,Chatbot,53192,89.29,Delivered
+204619,2477,Adriana Chaney,austinsanchez@yahoo.com,65,Congo,Johnsonfurt,Oregon,2024-12-10,2025-05-07,Technical,Low,Open,Natalie Palmer,30.19,Very Satisfied,Phone,93736,616.07,Returned
+120763,7398,Lori Young,huntmatthew@hotmail.com,70,Paraguay,Westmouth,Washington,2024-08-20,2024-11-05,Billing,Critical,Closed,Jessica Smith,12.72,Very Satisfied,Email,68244,968.3,Delivered
+290589,8414,Heidi Andrews,johnsonjames@williams.com,57,Cuba,East Ryan,Hawaii,2024-08-05,2025-02-04,Account,High,Pending,Terri Andrade,28.32,Very Satisfied,Email,89843,611.47,Delivered
+887045,6943,Michael Kirby,cherrydale@massey.com,39,Myanmar,South Coreyton,Louisiana,2024-10-05,2024-08-30,Shipping,Low,Closed,Vanessa Smith,43.06,Very Satisfied,Web,77933,403.14,Returned
+342772,6714,Rhonda Hudson,campbelltammy@maynard.biz,19,Armenia,Elizabethhaven,Delaware,2025-07-16,2024-10-23,Shipping,Critical,Closed,Cody Price,25.82,Dissatisfied,Email,70905,199.71,Cancelled
+210335,3712,Sandra Lopez,ldalton@gmail.com,69,Cote d'Ivoire,Ashleyhaven,Florida,2024-11-16,2024-12-11,Account,High,Closed,Mrs. Leah Avila,6.35,Very Dissatisfied,In-Person,75994,710.73,Cancelled
+327911,3406,Robert Singh,mckinneyangel@nelson.com,63,Jersey,Richmondchester,Maryland,2025-05-28,2025-04-17,Technical,Medium,Pending,Lindsey Spencer,6.75,Very Dissatisfied,Web,79998,594.64,Pending
+125627,4824,Monica Lambert,patricklara@gmail.com,46,South Georgia and the South Sandwich Islands,North Elizabeth,Maryland,2025-06-02,2025-05-06,Billing,High,Open,Robin Baker,1.91,Dissatisfied,Web,92353,152.25,Delivered
+646031,3849,Courtney Schroeder,valerie65@allen.com,41,Taiwan,Port Kenneth,Alabama,2024-10-29,2024-10-20,Shipping,Critical,Closed,Elizabeth Gonzalez,49.4,Satisfied,Phone,92648,678.34,Pending
+802010,7692,Crystal Brooks,louis72@adams-cordova.com,54,Malawi,Molinafort,Nevada,2024-08-14,2025-03-05,Technical,Low,Open,Katherine Oconnell,0.36,Neutral,Phone,52485,199.4,Returned
+586961,8391,Nicholas Jones,tiffanyhenderson@gmail.com,71,Saint Martin,Jakeborough,California,2024-10-12,2025-04-02,Shipping,High,Escalated,Emily Hunter,7.66,Neutral,Web,61125,329.44,Pending
+575904,9173,Thomas Mack,robinpark@vance.com,35,Bouvet Island (Bouvetoya),Anthonyview,Virginia,2025-04-07,2025-02-12,Returns,Medium,Open,Grace Lopez,19.28,Neutral,Web,70465,618.58,Pending
+424771,3828,Christopher Smith,david24@phillips.biz,36,Holy See (Vatican City State),East Nathaniel,Washington,2025-03-05,2025-02-12,Billing,High,Escalated,Kara Whitehead,32.83,Satisfied,Chatbot,78825,56.64,Delivered
+661547,7668,Stephen Miller,bryantgeorge@drake.com,46,Greenland,Allenbury,Massachusetts,2025-06-13,2024-09-09,Shipping,Low,Open,Cheryl Gonzales,10.65,Satisfied,Email,73334,367.82,Returned
+772932,5324,Catherine Lang,kelleytony@miller.net,45,Tonga,Lake Robertshire,New York,2025-07-15,2024-08-07,Technical,Medium,Closed,Morgan Ware,0.67,Satisfied,Phone,76591,156.68,Returned
+498461,6121,Michael Townsend,brendakemp@yahoo.com,69,Honduras,Thomastown,Connecticut,2025-02-21,2024-11-03,Technical,Critical,Closed,Danielle Reyes,12.38,Neutral,Email,63280,293.3,Pending
+322769,7634,Daisy Simpson,ohall@gmail.com,60,Turkey,Woodmouth,California,2024-10-09,2024-08-22,Billing,Critical,Open,Kyle Barker,38.44,Very Dissatisfied,Web,64217,142.35,Delivered
+817945,5901,Wesley Stevens,lawsondavid@lewis.com,56,Costa Rica,Millerton,Montana,2025-02-02,2024-09-27,Technical,Medium,Open,Frank Miller,13.99,Satisfied,Phone,59478,885.1,Cancelled
+897468,5334,Erica Graham,carlos86@hotmail.com,28,Solomon Islands,East Christopher,Nebraska,2024-08-24,2025-05-03,Returns,High,Escalated,Kathleen Vasquez,13.59,Satisfied,Web,55519,521.07,Returned
+320348,6137,Stacy Gallegos,gamblematthew@yahoo.com,44,Panama,Mcconnellchester,Delaware,2024-09-24,2024-11-13,Account,Medium,Escalated,Michael Mclean,14.02,Very Satisfied,Phone,97994,786.81,Pending
+864339,1188,Wanda Smith,maria77@yahoo.com,63,Cocos (Keeling) Islands,New Paul,Arizona,2025-03-26,2025-01-31,Account,Medium,Escalated,Angel Wise,75.59,Very Satisfied,Phone,95749,536.12,Delivered
+945235,7567,Brandon Monroe,cdiaz@yahoo.com,51,Jordan,West Robertchester,New Jersey,2024-12-05,2025-06-15,Shipping,Critical,Pending,Anne Zimmerman,31.22,Very Dissatisfied,Phone,96318,910.65,Delivered
+554802,1659,Ricky Lee,hmckinney@hotmail.com,20,Samoa,Daltonfort,New Hampshire,2024-08-29,2024-10-02,Returns,Medium,Closed,Jeffrey Hunter,9.5,Dissatisfied,In-Person,78220,703.08,Pending
+546272,4376,Frederick Barry,kenneth52@yahoo.com,56,Cocos (Keeling) Islands,North Jasonmouth,Washington,2025-01-20,2025-03-29,Billing,Medium,Closed,Randall Fleming,116.03,Very Satisfied,Phone,51138,989.05,Pending
+636348,8450,Collin Casey,qtaylor@yahoo.com,50,Palestinian Territory,Ericshire,Alaska,2025-07-16,2025-03-30,Shipping,Critical,Closed,Angela Hardy,17.59,Satisfied,Phone,82753,520.98,Cancelled
+122358,2660,Kevin Woods,amanda64@schultz.com,39,Malaysia,East Jamesberg,Nevada,2025-01-21,2025-03-05,Returns,Critical,Escalated,Timothy Roberts,6.14,Dissatisfied,Chatbot,67018,141.19,Pending
+709302,2872,Kathleen Perez,ashleymills@hotmail.com,30,Cook Islands,Port Lauren,Kansas,2025-06-21,2024-08-29,Shipping,High,Open,Mary Robinson,26.62,Neutral,Chatbot,88069,633.38,Cancelled
+720067,1175,Ryan Perez,rcohen@bush.net,37,Morocco,South Dennisport,Pennsylvania,2024-09-11,2025-04-04,Billing,Low,Open,Brenda Hickman,50.68,Satisfied,Chatbot,81844,945.96,Cancelled
+153723,6938,Kenneth Gould,randerson@yahoo.com,71,Saint Lucia,Port Larry,Rhode Island,2025-05-28,2024-11-12,Technical,High,Closed,Jeffrey Erickson,58.49,Satisfied,Phone,69692,982.06,Pending
+538321,6284,Frank Peterson,brooke36@yahoo.com,36,Martinique,Rhondafort,Iowa,2024-08-21,2025-06-20,Account,Critical,Escalated,Mark Romero,5.94,Neutral,Web,76245,601.74,Cancelled
+650570,6190,Thomas Lane,delgadodaniel@sheppard.com,26,Gibraltar,Port Curtis,Kentucky,2025-01-07,2024-10-20,Billing,Medium,Closed,Rose Baker,0.27,Neutral,Chatbot,71350,479.87,Cancelled
+709580,7652,Emily Peterson,iadams@hotmail.com,29,United States Minor Outlying Islands,West Phyllis,Massachusetts,2024-09-28,2025-06-10,Returns,Critical,Escalated,Emma Johnston,14.88,Satisfied,Phone,51496,667.83,Cancelled
+290028,3926,Robert Barrera,judith61@gmail.com,59,Bangladesh,Woodardton,Michigan,2024-09-22,2024-12-30,Technical,High,Open,Manuel Acevedo,1.69,Neutral,Chatbot,78911,248.58,Pending
+198342,6335,Claudia Peck,daniellemoss@bell.net,41,Luxembourg,Port Anthony,Texas,2024-11-10,2024-09-25,Shipping,Medium,Escalated,Angela Campbell,31.88,Satisfied,Chatbot,86252,279.97,Returned
+795512,2318,Gabriel Kennedy,sleach@gmail.com,45,Sudan,South Meaganfort,Massachusetts,2024-07-17,2025-02-28,Shipping,Medium,Open,Andrew Stewart,6.11,Very Satisfied,In-Person,80499,205.85,Returned
+941644,9632,Jose Arroyo,justin36@lewis-wilson.org,69,Norfolk Island,Anthonybury,Ohio,2025-06-28,2024-09-01,Account,Medium,Open,Jill Steele,37.62,Dissatisfied,Chatbot,90298,416.06,Returned
+603109,8867,Walter Ortiz,wrightmichael@hotmail.com,34,Barbados,Michaelhaven,Montana,2025-01-10,2025-06-07,Shipping,High,Escalated,Emily Weeks,19.57,Very Satisfied,Web,77043,141.47,Cancelled
+483971,7591,Joshua Davis,brittanywillis@hotmail.com,22,Armenia,Nicholebury,Georgia,2025-07-13,2024-08-25,Technical,Low,Closed,Paul Perkins,23.63,Satisfied,Phone,76842,731.57,Returned
+120429,4856,Philip Evans,steven68@hotmail.com,65,Kuwait,Gregmouth,West Virginia,2025-04-02,2024-11-15,Technical,Medium,Pending,Jasmine Wilson,8.03,Neutral,In-Person,76762,281.7,Cancelled
+644430,8285,Diane Goodwin,williamsryan@gmail.com,30,Haiti,Jonesshire,Oregon,2025-03-13,2025-01-12,Billing,Low,Open,John Taylor,17.82,Very Satisfied,Phone,94618,246.56,Cancelled
+224351,2547,Laura Murray,callahanamy@hotmail.com,72,Togo,Ryanstad,Louisiana,2025-07-16,2025-06-19,Billing,Critical,Open,Kelly Marsh,3.28,Dissatisfied,In-Person,77677,94.76,Pending
+740166,1302,Brian Hunt,ivanward@hotmail.com,52,Iraq,Lake Heather,Oklahoma,2024-07-20,2025-05-11,Technical,Critical,Open,Sally Odonnell,52.73,Very Satisfied,Web,95524,963.15,Pending
+484285,6645,Ryan Wilson,patriciadawson@curtis.com,41,Dominica,New Nathan,Wisconsin,2024-11-22,2025-04-28,Technical,Low,Escalated,Whitney Boone,50.89,Very Satisfied,Phone,95022,253.99,Returned
+403647,1497,George Kelley,richardgraves@gmail.com,59,Bhutan,Jacksonberg,Mississippi,2025-01-26,2025-01-20,Returns,Low,Escalated,Brenda Newman,4.93,Neutral,In-Person,94158,788.33,Cancelled
+823931,5964,Lynn Scott,qgreen@gmail.com,37,Cambodia,Clarkefort,Alabama,2025-02-26,2024-09-10,Shipping,Critical,Closed,James Richardson,3.6,Very Dissatisfied,In-Person,76725,166.61,Pending
+490307,9084,Maurice Wilson,vharris@yahoo.com,51,Tokelau,Smithfort,Maine,2024-09-26,2024-12-09,Technical,Low,Open,Aaron Wallace,82.34,Satisfied,Email,91274,559.57,Returned
+423249,3293,Lori Orr,beckkristopher@gmail.com,49,Mauritania,North Christina,Georgia,2025-07-16,2024-09-25,Technical,Low,Closed,Angela Fields,11.84,Neutral,Web,76436,144.6,Cancelled
+119980,1839,Joe Bowman,taylor17@gmail.com,35,Malta,West Stephenburgh,Washington,2025-06-10,2024-09-21,Account,High,Open,Suzanne Richards,14.13,Very Satisfied,Email,83044,797.47,Returned
+818600,1154,Samuel Wheeler,vbullock@yahoo.com,43,Germany,West Reginaborough,Kansas,2025-01-23,2025-05-29,Technical,High,Pending,Mary Sanchez,25.0,Very Satisfied,Chatbot,68076,690.58,Cancelled
+532279,6403,Andrea Campbell,ismith@hotmail.com,27,Costa Rica,Dwayneton,Pennsylvania,2024-11-02,2025-02-14,Billing,High,Closed,Michael King,14.28,Satisfied,Chatbot,56026,641.35,Pending
+206075,7648,Gabriel Reyes,hicksmatthew@yahoo.com,18,Bahrain,Joshuahaven,California,2024-09-16,2024-10-21,Technical,High,Escalated,Jonathan Hancock,14.47,Very Dissatisfied,Chatbot,55896,690.7,Delivered
+210117,8838,Julie Hart,russellandrew@fletcher-page.com,26,Martinique,Port Mindyport,Maine,2025-06-26,2025-05-03,Technical,Critical,Open,Amanda Jones,27.44,Neutral,Email,65642,187.46,Delivered
+420782,1081,Jason Jones,darrenholland@carr-berger.biz,66,Tonga,Marvinfurt,Nevada,2024-08-31,2024-07-21,Technical,Low,Open,Kristina Rogers,27.82,Very Dissatisfied,Phone,73097,944.92,Cancelled
+308028,8899,Katelyn Harris,wholloway@hansen.net,28,Russian Federation,Tiffanyfurt,Hawaii,2025-06-02,2025-03-24,Returns,Critical,Escalated,Larry Walker,81.87,Dissatisfied,Web,64977,151.23,Returned
+981445,4335,Alicia Stephenson,william05@martinez.biz,26,Tuvalu,Rayshire,Hawaii,2025-07-13,2025-06-14,Technical,High,Open,Jason Green,3.64,Very Satisfied,In-Person,97952,60.6,Pending
+913000,4652,Sara Porter,yolanda81@daniels-gibbs.com,55,Greenland,New Anthonymouth,New Jersey,2025-04-28,2024-09-06,Technical,Medium,Escalated,Veronica Herrera,19.25,Very Satisfied,Chatbot,72691,758.84,Delivered
+805242,6367,John Robinson,garciamarcus@yahoo.com,53,Bhutan,Garciashire,New Mexico,2025-06-28,2025-02-03,Shipping,Low,Pending,Lynn Reeves,19.39,Neutral,In-Person,62924,988.25,Cancelled
+965488,3718,Alexandra Watts,kentjohn@barnett.com,71,Guam,Port Donald,Hawaii,2024-07-24,2025-03-14,Returns,High,Pending,Michael Moore,0.23,Very Dissatisfied,Chatbot,74542,738.8,Pending
+116485,6471,Kristina Bell,teresa45@reyes-brady.com,58,Niger,South Cindy,Kentucky,2025-04-23,2024-11-14,Returns,Critical,Closed,Christine Gonzalez,4.91,Dissatisfied,In-Person,96599,816.73,Delivered
+951507,5967,Jennifer Levy,qhill@graham-martinez.com,64,Angola,East Heather,Florida,2025-05-05,2025-04-21,Shipping,High,Pending,Mr. Curtis Barnett DVM,9.99,Satisfied,In-Person,73011,491.17,Delivered
+573351,7411,Jessica Ballard,carlyreid@yahoo.com,53,Russian Federation,South Ambermouth,Massachusetts,2024-12-13,2025-03-18,Technical,Low,Closed,Brittney Fischer,9.01,Very Dissatisfied,In-Person,99527,654.52,Delivered
+162904,8958,Timothy Barnett,markclark@yahoo.com,32,Portugal,Port Robertview,Oregon,2024-11-22,2024-09-06,Shipping,Medium,Pending,Dillon Mccarthy,30.41,Very Dissatisfied,Web,55135,966.75,Delivered
+530623,8624,Marvin James,don80@brown-booth.net,33,Spain,Garciamouth,Connecticut,2025-06-16,2024-10-21,Account,Critical,Escalated,Frank Fowler,11.44,Dissatisfied,Email,71252,930.31,Returned
+768252,5577,Audrey Cooper,vwatson@english.com,72,Malawi,East Tracy,Indiana,2025-05-01,2024-12-25,Technical,Critical,Pending,John Hernandez,2.96,Neutral,Web,73948,900.39,Returned
+609464,2407,Laura Romero,deborahstrong@hotmail.com,67,Cote d'Ivoire,North Jaredchester,Ohio,2025-03-22,2025-04-25,Shipping,High,Open,Bryan Bush,0.17,Neutral,Email,65953,218.39,Pending
+585847,9252,Audrey Taylor,raymondbrown@yahoo.com,62,Colombia,South Melissaland,Alabama,2024-12-21,2024-12-09,Technical,Critical,Escalated,Deborah Nguyen,45.38,Dissatisfied,Web,56916,306.06,Pending
+318362,4499,Henry Harrison,osuarez@coleman-smith.biz,24,Brazil,North David,Missouri,2024-09-06,2024-12-09,Returns,High,Closed,James Williams,1.04,Dissatisfied,Email,58060,303.02,Cancelled
+717343,7012,Angela Roberts,michelle92@simmons-bennett.info,51,Hong Kong,North Michaelshire,West Virginia,2024-08-01,2025-05-14,Billing,Medium,Open,Derrick Munoz,4.62,Neutral,In-Person,71676,422.44,Pending
+743360,4960,Nicole Mccoy,megan90@wright.com,52,Tanzania,Lake David,Massachusetts,2024-09-11,2025-07-07,Billing,Medium,Escalated,Brian James,0.43,Neutral,Chatbot,95924,92.15,Returned
+177373,6925,Matthew Davis,charles76@yahoo.com,49,Madagascar,New Amandaland,Kansas,2024-12-20,2024-12-21,Technical,Low,Pending,Mitchell Tanner,123.98,Satisfied,Email,82433,480.4,Cancelled
+105587,7091,David Zhang,mark17@graham-lopez.com,67,Central African Republic,Michealshire,Oklahoma,2025-05-30,2024-12-20,Account,Medium,Closed,Mr. Thomas Cervantes,10.14,Satisfied,Email,88947,606.73,Delivered
+398172,3968,Eric Garcia,zmunoz@davis-stewart.net,47,Switzerland,Taylorstad,North Carolina,2025-04-09,2025-01-18,Returns,Medium,Pending,Taylor Pope,23.28,Dissatisfied,Chatbot,54946,942.16,Pending
+125314,4967,Richard Cooper,bryantdaniel@cisneros.info,52,Guam,New Aaron,New York,2025-06-27,2025-01-28,Billing,Medium,Escalated,Tracy Smith,16.39,Neutral,Chatbot,52473,552.02,Returned
+491016,9832,Brian Moore,gmadden@hotmail.com,72,Kenya,Williamport,Idaho,2025-07-04,2025-05-17,Returns,Low,Closed,Tony Fischer,39.77,Very Satisfied,Email,69657,624.38,Pending
+420676,4685,Ronnie Sweeney,welchdiana@diaz-ford.com,72,Ecuador,Port Kathryn,South Carolina,2025-01-05,2024-12-24,Account,Low,Escalated,Marcus Howard,21.91,Dissatisfied,Email,82853,496.12,Returned
+858712,4432,Kenneth Myers,zmcdowell@butler-carter.com,51,Cote d'Ivoire,Chambersbury,South Dakota,2024-12-24,2025-06-28,Technical,Low,Closed,Kara Moore,57.47,Dissatisfied,Phone,57936,515.25,Returned
+180266,8674,Courtney Bailey,tinadouglas@hancock-lopez.info,53,Eritrea,West Timothybury,West Virginia,2025-07-16,2025-02-24,Returns,Critical,Open,Jacob Mason,13.82,Dissatisfied,Web,69110,453.88,Cancelled
+329811,4901,Haley Vang,jmoore@rodgers-davis.biz,31,Bermuda,Port Phillip,Vermont,2025-03-03,2025-03-14,Account,Low,Open,Heather Perry,19.82,Dissatisfied,Email,96553,950.0,Returned
+891658,7519,Aaron Washington,scurry@kim.net,30,Qatar,Bennettport,Tennessee,2024-08-17,2025-06-22,Shipping,Medium,Closed,Lauren Valenzuela,4.96,Dissatisfied,Chatbot,75750,173.68,Returned
+614269,5354,Cassandra Alexander,xjohnson@cooke.net,65,Dominica,Jacobschester,Oregon,2024-08-25,2024-12-05,Shipping,Medium,Closed,Paul Roth,29.67,Neutral,Phone,70033,665.45,Returned
+301703,4334,Shirley Smith,bgonzalez@haley-johnson.net,37,Czech Republic,Mcdonaldhaven,Florida,2025-07-01,2025-04-27,Technical,High,Closed,Rose Andrews,50.12,Very Dissatisfied,Web,68157,933.25,Delivered
+221391,9369,Angela Zimmerman,nbarber@anderson.com,63,Eritrea,Ramirezhaven,Arizona,2024-12-18,2025-07-14,Shipping,Critical,Escalated,Julie Olson,9.81,Neutral,Phone,64986,97.39,Returned
+699316,3648,Madison Johnson,natalie17@harrison-leach.com,62,Grenada,Port Christine,Mississippi,2025-05-29,2024-12-15,Returns,Medium,Pending,Lisa Richardson,46.76,Satisfied,Phone,60922,329.69,Returned
+491532,1025,John Hurst,monicamartin@yahoo.com,20,Saint Vincent and the Grenadines,Michaelborough,Arizona,2025-04-13,2024-08-10,Technical,Critical,Escalated,Mrs. Lauren Johnson,8.13,Dissatisfied,Web,63185,169.7,Returned
+510812,7647,David Francis,laceypatton@calderon.org,49,Cayman Islands,East Susanhaven,Florida,2025-03-16,2024-12-24,Shipping,Low,Pending,Sheila Meyer,7.21,Satisfied,Phone,60766,865.16,Pending
+850701,8748,Victoria Montgomery,claire95@hotmail.com,53,South Georgia and the South Sandwich Islands,Atkinsonmouth,Maryland,2025-04-30,2024-09-19,Account,High,Open,Frank Mendoza,25.59,Very Dissatisfied,Email,94466,54.55,Cancelled
+585725,6927,Shirley Lee,allen18@allen.com,68,Ethiopia,Guerreromouth,Arizona,2024-09-07,2025-04-13,Billing,Critical,Open,Lisa May,1.28,Neutral,In-Person,88973,468.32,Cancelled
+246449,3947,Robert Hanson,mpratt@wilson.com,44,Panama,East Mollymouth,Hawaii,2024-08-06,2025-06-26,Technical,High,Pending,Jonathan Thompson,57.96,Very Satisfied,Email,53698,585.52,Returned
+890186,4246,Sarah Martinez,christian43@hotmail.com,28,United Kingdom,Port Christopherbury,Nebraska,2025-03-23,2025-03-05,Billing,Low,Open,Heather Schwartz,24.18,Neutral,Email,59423,975.21,Returned
+461694,3985,Samuel Peters,wrightholly@brown.com,45,Dominica,Arellanofurt,New Mexico,2024-11-26,2025-01-03,Technical,Medium,Pending,Gregory Wilson,25.3,Satisfied,Web,81109,299.82,Returned
+514232,8937,Susan Smith,cdoyle@gmail.com,60,Jersey,South Tashafort,Idaho,2024-09-03,2025-05-15,Billing,Critical,Escalated,Meredith Jenkins,58.12,Dissatisfied,Phone,78649,243.19,Delivered
+227642,1108,Benjamin Perez,brian12@gmail.com,61,Ukraine,Port Michaelachester,Iowa,2025-02-04,2025-04-09,Shipping,Low,Open,Michael Wilson,12.65,Very Dissatisfied,In-Person,67967,984.77,Delivered
+366508,3188,Thomas Robinson,newtonkristen@hotmail.com,53,Oman,Lake Thomas,Delaware,2024-12-12,2025-07-08,Technical,High,Closed,Travis Johnson,10.6,Very Dissatisfied,In-Person,70430,352.74,Pending
+227685,4440,Jeffery Benton DDS,rebeccawheeler@taylor.com,60,French Polynesia,Carrtown,Oregon,2025-07-01,2025-03-17,Technical,Low,Open,Kurt Anderson,49.91,Dissatisfied,Chatbot,92013,726.28,Cancelled
+228931,4560,Brandon Adams,angela54@lopez.com,21,Ukraine,North Christopher,South Dakota,2025-01-23,2025-01-29,Technical,Critical,Escalated,Cynthia Osborn,12.05,Very Dissatisfied,Chatbot,98271,909.35,Delivered
+184421,1023,Willie Phillips,michael43@martin-jones.com,47,Niger,Sheltonburgh,Rhode Island,2025-02-12,2024-08-27,Shipping,High,Escalated,Breanna Walker,34.28,Neutral,Phone,83372,574.01,Pending
+746490,2374,Andre Moore,farrellsarah@gmail.com,18,Spain,Davidbury,Minnesota,2024-12-24,2024-08-23,Account,Medium,Closed,Scott Dudley,34.69,Neutral,Email,90317,707.67,Pending
+991363,8478,Kathryn Aguilar,williamstiffany@yahoo.com,62,Thailand,Davidfort,Louisiana,2024-10-04,2025-06-02,Shipping,Medium,Open,Jillian Gomez,48.87,Dissatisfied,Email,97108,281.92,Pending
+450731,4226,Cheryl Harper,andrewgarcia@hotmail.com,23,Russian Federation,South Jefferyland,Missouri,2024-09-03,2024-09-23,Technical,Low,Open,Allison Miller,2.51,Very Satisfied,Chatbot,57318,234.29,Pending
+772128,4029,Vanessa Perry,elizabeth42@yahoo.com,28,New Caledonia,North Brenda,Missouri,2025-06-01,2024-12-01,Returns,Medium,Pending,Kristina Edwards,38.83,Very Dissatisfied,Web,66256,805.98,Delivered
+510102,5472,Darrell Fletcher,robertmullins@gmail.com,29,Ukraine,West John,South Carolina,2025-04-06,2024-12-26,Billing,Medium,Closed,Michael Kim,29.29,Dissatisfied,Web,74951,224.42,Delivered
+322308,7478,Elizabeth Summers,fbuchanan@kaufman.info,48,Egypt,Carterport,Massachusetts,2024-11-19,2024-10-10,Billing,Medium,Pending,Timothy Hall,17.92,Very Dissatisfied,Phone,90788,947.05,Pending
+826298,1356,Jane Davis,scott00@hotmail.com,60,Holy See (Vatican City State),Smithfort,North Dakota,2024-07-27,2024-12-15,Returns,Medium,Pending,Vanessa Holmes,10.88,Neutral,In-Person,68858,459.95,Returned
+210521,1170,Dawn Ritter,clayton73@palmer.net,35,Malta,Davisfort,South Dakota,2025-02-21,2025-04-15,Shipping,Low,Escalated,Heather Walton,19.0,Neutral,Email,74810,676.5,Returned
+125867,6891,Jonathan Cole,ruthconway@yahoo.com,36,Cocos (Keeling) Islands,North Jay,Alabama,2025-05-16,2024-07-25,Account,Critical,Open,Lawrence Serrano,2.21,Dissatisfied,Chatbot,70268,545.08,Returned
+748210,2897,Howard Davis,tammysmith@rogers.com,19,El Salvador,Michaelaview,Connecticut,2025-03-09,2024-08-19,Billing,Low,Open,Donna Porter,13.36,Satisfied,In-Person,83050,848.54,Pending
+791179,5994,Mr. Lee Medina,lindsey44@roberts-smith.com,40,Niue,Port Katherine,Kentucky,2025-01-29,2025-04-15,Returns,Critical,Open,Michael Chandler,8.28,Very Satisfied,Web,68177,171.0,Delivered
+593223,1584,Sabrina Gilbert,christianaguirre@yahoo.com,52,Guernsey,Wileyport,Washington,2025-02-18,2024-09-21,Account,Low,Pending,Donald Hall,1.42,Dissatisfied,In-Person,83208,921.23,Cancelled
+914965,6980,Jennifer Cain,mleach@johnson.biz,32,Iceland,Doughertyfurt,Nebraska,2024-11-30,2025-01-17,Technical,Critical,Closed,Jonathan Brown,33.72,Very Satisfied,Phone,95083,768.23,Cancelled
+145277,8743,Sandra Russo,ryanjames@bonilla-goodwin.info,64,Suriname,Lake Nataliemouth,Utah,2025-03-29,2025-05-04,Billing,Medium,Pending,John Moore,15.65,Very Dissatisfied,Email,99643,955.27,Delivered
+858663,7233,Stephanie Smith,harrisonjohn@foley.info,67,Comoros,Vanessaville,Alabama,2025-01-14,2024-07-21,Shipping,Critical,Pending,Paige Gomez,22.68,Very Dissatisfied,Phone,95521,240.12,Pending
+840088,2993,Katelyn Gordon,fanderson@yahoo.com,62,Costa Rica,Phillipsburgh,Wyoming,2024-11-15,2025-03-20,Technical,Low,Closed,James Mccoy,5.27,Very Satisfied,Web,79207,367.71,Returned
+622137,2247,Francis Hawkins,ahall@yahoo.com,53,Nigeria,Port Scott,Alaska,2024-08-28,2025-01-30,Shipping,Low,Escalated,Thomas Wade,40.91,Satisfied,Phone,87005,589.62,Pending
+404876,8581,Adam Peterson,lwallace@foster-stanley.biz,64,Burkina Faso,Lake Anthony,South Carolina,2025-06-17,2024-07-31,Shipping,Critical,Closed,Hannah French,18.38,Very Dissatisfied,In-Person,64980,157.17,Returned
+474954,3881,Willie Davis,wfields@ward.biz,65,Palau,New Tonyhaven,Minnesota,2024-09-21,2024-12-12,Returns,Low,Pending,Jacob Stevens,129.17,Satisfied,Phone,91451,823.72,Delivered
+579236,3341,Pamela Duarte,monica71@hotmail.com,40,Christmas Island,South Martin,Rhode Island,2025-03-13,2025-05-04,Shipping,Critical,Open,Tyrone Cox,3.69,Neutral,In-Person,61651,944.28,Cancelled
+248338,8437,Monica Montgomery,ualvarado@morton-lee.com,47,Maldives,Ashleyfort,Alabama,2024-11-11,2025-05-20,Returns,Medium,Escalated,Charles Hoffman,3.78,Neutral,In-Person,83452,571.76,Returned
+937520,2030,Sarah Hunter,hmalone@yahoo.com,37,Egypt,Port Deborahton,Virginia,2025-06-28,2025-04-26,Returns,Low,Open,Ashley Dunlap,46.52,Neutral,Phone,61899,774.51,Cancelled
+493124,5373,Laura Ortiz,mchandler@hotmail.com,59,Kyrgyz Republic,Myersbury,Minnesota,2024-09-24,2025-04-27,Returns,High,Pending,Shawn White,11.08,Very Dissatisfied,Phone,78261,836.35,Returned
+382006,3421,Marcus Spencer,michael24@brown.com,18,Malta,Amandaburgh,Idaho,2024-10-26,2025-01-23,Returns,Medium,Closed,Megan Woods,9.51,Very Satisfied,Web,96676,356.36,Pending
+607722,8925,John Butler,crawfordryan@davenport.org,48,Bulgaria,Melissafurt,North Dakota,2025-01-14,2025-06-13,Technical,Critical,Closed,Sean Wilson,5.71,Neutral,Phone,75825,786.56,Returned
+651869,9810,Barbara Jones,qwalsh@herman.com,54,Saint Martin,North Carrieside,Rhode Island,2024-07-24,2024-07-19,Technical,Medium,Escalated,Morgan Mcintyre,50.36,Satisfied,In-Person,56835,899.31,Cancelled
+600757,2224,Kimberly Johnson,fjimenez@walker.com,52,Solomon Islands,Alexandershire,Kentucky,2024-11-26,2024-09-18,Account,Low,Escalated,Brian Edwards,14.71,Neutral,Chatbot,97120,333.67,Delivered
+854499,9627,Carl Lee,twilliams@yahoo.com,29,Sri Lanka,South Kristinchester,New Hampshire,2025-04-25,2024-07-22,Account,Critical,Pending,James Guerra,11.94,Dissatisfied,Email,65136,979.03,Delivered
+863272,5789,Alicia Clark,lindadelgado@yahoo.com,73,Fiji,Bryanshire,Oklahoma,2025-02-24,2025-06-30,Shipping,Low,Open,Jeffery Ritter,94.63,Neutral,Email,80027,226.35,Pending
+943422,5693,Roberto Logan MD,sarah19@becker.biz,39,Guinea,Rebeccatown,Kansas,2024-11-25,2025-06-13,Shipping,Medium,Pending,Cynthia Wood,3.93,Neutral,Web,83451,378.07,Pending
+539317,1445,Rhonda Fernandez,coxsara@yahoo.com,39,Colombia,Port Amymouth,Nebraska,2025-06-05,2024-09-01,Technical,Critical,Closed,Stephanie Simon,25.71,Satisfied,Chatbot,76563,875.31,Pending
+616026,9961,Jessica Martinez,bennettsarah@hotmail.com,45,Mauritania,East Justinland,South Dakota,2024-10-08,2024-10-22,Returns,Critical,Pending,Kylie Reed,1.42,Dissatisfied,Phone,64176,527.89,Pending
+976615,4414,Christy Duncan,kathleenjarvis@jenkins.com,37,Lao People's Democratic Republic,Grahamton,Utah,2025-02-21,2024-09-21,Account,High,Pending,Jacqueline Bryant,59.85,Neutral,Chatbot,69982,826.2,Delivered
+813266,2274,Kathleen Cox,johnsonelizabeth@moreno-andersen.org,27,Togo,West Nicholaschester,Kentucky,2024-12-25,2025-07-14,Returns,High,Open,Sabrina Gregory,16.85,Very Satisfied,In-Person,78119,407.36,Returned
+411179,7832,Jeffrey Miller,christopher15@bishop-smith.info,35,Mayotte,Guerreroport,California,2025-01-09,2025-05-01,Shipping,Low,Pending,Donald Harris,7.21,Satisfied,Phone,97908,567.13,Delivered
+513843,3058,Jill Jones,amywilson@brown-phillips.com,58,Anguilla,Port Christina,Michigan,2024-11-14,2025-03-03,Shipping,High,Escalated,Kristen Gonzalez,29.57,Satisfied,In-Person,83021,225.39,Cancelled
+342878,4052,Jeremy Nelson,steven27@miller.com,33,Grenada,Courtneyside,Maryland,2024-11-13,2024-12-20,Shipping,Critical,Closed,William Baxter,24.96,Very Satisfied,Chatbot,93737,782.88,Returned
+263996,6048,Elizabeth Jones,susan15@wilson.org,65,Uganda,Christopherchester,Massachusetts,2025-05-25,2024-08-23,Billing,Medium,Closed,John Mahoney,18.34,Very Satisfied,Chatbot,84116,540.28,Delivered
+612532,8601,Austin Reynolds,lisa28@cameron.info,28,Mexico,Hernandezland,Mississippi,2025-05-28,2024-08-22,Account,High,Closed,Tim Austin,34.26,Very Dissatisfied,Email,98480,606.29,Cancelled
+725533,4245,Jerry Bradshaw,gabrielamalone@patterson-valdez.com,67,Cocos (Keeling) Islands,Kirkhaven,Kentucky,2025-02-06,2024-11-03,Account,Medium,Pending,Cheryl Mason,6.08,Neutral,Web,51351,739.89,Delivered
+372006,1641,Michael Nichols,whitemichelle@greer-mahoney.biz,22,Netherlands,New Darren,California,2025-07-11,2025-04-14,Technical,Critical,Open,Katie West,19.51,Very Dissatisfied,Phone,71478,197.67,Returned
+675208,6532,Jeffrey Smith,james14@yahoo.com,56,Solomon Islands,East Tracyton,Missouri,2024-11-18,2024-08-30,Account,High,Open,Andrew Hill,8.03,Neutral,Phone,95793,118.33,Pending
+548427,8524,Brian Wilson,bking@gmail.com,31,Holy See (Vatican City State),New Patriciastad,North Dakota,2025-05-15,2024-10-28,Shipping,Low,Pending,Kimberly Fisher,2.64,Dissatisfied,Email,50998,942.95,Cancelled
+829408,2023,Jake Lopez,kristenlittle@hughes-white.com,48,Norway,South Sharonburgh,Georgia,2025-03-12,2024-10-28,Returns,High,Open,Laura Ortega,27.17,Very Satisfied,Phone,97405,570.55,Cancelled
+812130,3522,Douglas Rivers,sextonjonathan@robbins.info,36,Jordan,Allisonmouth,Mississippi,2025-05-24,2025-01-06,Billing,Medium,Escalated,Robyn Mercado,16.21,Satisfied,Web,85200,458.58,Delivered
+833168,4741,Ellen Johnson,yatesandrea@yahoo.com,24,Greenland,East Kylemouth,Kansas,2024-10-31,2024-08-10,Billing,Medium,Closed,Abigail Weaver,18.08,Very Dissatisfied,Phone,71566,929.31,Delivered
+188406,6749,Dr. David Branch,williamsrussell@hotmail.com,41,Colombia,East Michael,Georgia,2024-10-29,2025-02-08,Technical,Low,Closed,Benjamin Bowman,15.56,Neutral,Email,67961,270.2,Returned
+714361,6024,Devin Jones,seth90@liu-turner.com,39,Kazakhstan,Laneside,Virginia,2025-04-15,2024-07-19,Returns,Critical,Open,Kelly Weber,11.4,Neutral,In-Person,60295,114.07,Pending
+863154,2771,Joseph Roberts,zrojas@harris-adams.biz,44,South Georgia and the South Sandwich Islands,Lake Victorland,Michigan,2025-03-03,2024-10-11,Billing,Critical,Closed,Molly Smith,23.91,Satisfied,Phone,54443,482.04,Delivered
+957581,4119,Nathan Jimenez,william90@gmail.com,34,Kiribati,Theresachester,Nevada,2024-09-21,2024-09-16,Account,High,Pending,Tiffany White,35.87,Satisfied,Phone,50772,851.02,Delivered
+703718,3545,Brandon Dalton,ucherry@gross.com,35,Pakistan,Bentleyshire,Louisiana,2025-01-20,2024-12-19,Billing,Critical,Escalated,Daniel Ramos,6.07,Very Dissatisfied,Email,79184,907.34,Returned
+200608,4642,James Barker,timothy12@hotmail.com,55,Tanzania,North Ray,Missouri,2024-09-06,2025-05-13,Technical,Low,Escalated,Antonio Braun,8.37,Very Satisfied,Chatbot,98942,110.67,Returned
+174616,1472,Kelly Goodman,jason74@anderson-myers.com,24,Myanmar,Mariamouth,New York,2024-09-26,2025-06-29,Returns,High,Escalated,Steven Henderson,0.84,Very Satisfied,In-Person,75737,829.41,Pending
+473353,6295,Rebecca Kennedy,jeffersonchristine@hotmail.com,47,United States Virgin Islands,Lake Wendy,South Carolina,2024-09-12,2025-05-10,Technical,Critical,Pending,Donna Richardson,9.3,Very Satisfied,Web,76053,233.17,Returned
+284690,2949,Joshua Weber,nancy89@hotmail.com,65,Bermuda,Sharonstad,Minnesota,2024-09-08,2025-03-08,Account,Critical,Open,Dale Wallace,6.3,Very Dissatisfied,Chatbot,60294,842.05,Pending
+671750,5468,Kevin Ellis,marypham@gmail.com,74,Suriname,Port Maryside,New York,2025-03-19,2025-02-22,Technical,Medium,Open,Kevin Krause,4.66,Satisfied,Phone,84854,756.96,Delivered
+253617,2697,John Diaz,matthew29@maldonado-ortiz.com,74,Micronesia,Matthewhaven,Texas,2025-03-20,2024-10-19,Returns,Medium,Closed,Jasmine Perry,35.92,Very Satisfied,Chatbot,72600,737.9,Returned
+945471,7111,William Flores,melissa72@estrada-taylor.net,52,Montenegro,Lake Terrychester,Georgia,2025-06-27,2024-11-13,Account,Medium,Closed,Paige Andrews,24.34,Dissatisfied,Email,64660,800.7,Delivered
+537012,2173,Aaron Carter,cpope@hotmail.com,40,Christmas Island,Geoffreyfort,New Mexico,2024-10-11,2024-10-14,Billing,High,Pending,Debra Garcia,11.49,Dissatisfied,Email,69497,926.61,Cancelled
+170086,9267,Kathy Vega,cummingsgabriella@yahoo.com,61,Finland,Zavalafurt,Nevada,2024-11-30,2025-03-08,Returns,High,Closed,Mr. Jeffery Garcia Jr.,0.38,Neutral,Chatbot,85320,987.92,Pending
+937361,3222,Melissa Herring,brandonmyers@nelson.com,18,Armenia,New Sandramouth,Wyoming,2025-03-10,2024-11-09,Returns,Medium,Closed,Evan Gomez,68.23,Very Satisfied,Phone,58126,712.64,Delivered
+190334,6756,Christine Burton,williamroberts@campbell.com,40,Bahrain,Crawfordbury,Florida,2025-06-06,2024-09-22,Shipping,Critical,Escalated,Jessica Bolton,3.69,Dissatisfied,Web,74715,504.73,Pending
+814452,3150,Mark Orr,smithbrett@gmail.com,44,Cayman Islands,West Jeffreyton,Arizona,2024-11-08,2024-11-13,Shipping,Low,Escalated,Maria Greer,12.86,Dissatisfied,Phone,78549,353.79,Pending
+949147,7941,Stacey Armstrong,rachel32@holmes.info,18,Bouvet Island (Bouvetoya),Bruceview,Iowa,2024-10-15,2024-10-14,Technical,Low,Escalated,Joe Morris,31.42,Very Dissatisfied,In-Person,90970,91.68,Pending
+779563,4211,Cynthia Campbell,bholmes@gmail.com,22,Sri Lanka,South Samuel,Alaska,2024-09-03,2024-08-08,Account,Critical,Pending,Dean Bryant,46.73,Very Dissatisfied,Chatbot,68821,468.76,Pending
+139396,6082,Carlos Frank,josephedwards@rogers-washington.org,69,Afghanistan,Snyderland,Alaska,2025-05-28,2024-09-03,Billing,High,Closed,Anthony Osborn,1.22,Dissatisfied,Phone,57149,720.02,Delivered
+234757,1333,Raymond Baker,ginaspencer@gmail.com,69,Fiji,Chanmouth,Michigan,2025-01-15,2025-02-23,Returns,Critical,Open,Steven Williams,14.35,Satisfied,Email,90981,974.42,Delivered
+410779,1286,Tracy Williams,norma98@lopez.com,41,Ukraine,East Josephport,South Dakota,2025-05-19,2025-02-09,Billing,High,Closed,Katelyn Ford,109.83,Very Dissatisfied,Web,86447,416.8,Delivered
+509567,6578,Mary Murray,uadams@yahoo.com,65,Cape Verde,New Ann,Indiana,2024-11-25,2025-01-28,Billing,High,Escalated,Danielle Mays,35.91,Very Satisfied,Chatbot,88717,977.84,Returned
+342954,3451,Jonathan Padilla,brianwilson@mills-christian.info,46,United States Minor Outlying Islands,Shannonfort,Florida,2025-03-23,2024-09-09,Billing,Low,Escalated,Alan Owen,37.74,Very Dissatisfied,Chatbot,91578,378.13,Returned
+842814,2206,Caitlin Daniels,bishopcynthia@yahoo.com,34,Gambia,South Rebeccaburgh,Idaho,2025-05-19,2025-05-29,Technical,Low,Escalated,Joshua Pugh,21.83,Very Dissatisfied,Email,67537,166.23,Pending
+803313,9916,Christopher Rogers,gallegoskim@yahoo.com,65,Belgium,Tracyburgh,Kansas,2025-05-08,2025-03-21,Account,Critical,Open,Robert Jackson,6.82,Very Dissatisfied,Email,88496,287.37,Delivered
+814184,1783,Mr. David Walls,jmarshall@gmail.com,27,Sierra Leone,Port Davidport,Georgia,2025-07-05,2024-09-10,Technical,Low,Open,Richard Ward,1.25,Neutral,Chatbot,79675,739.4,Pending
+445416,3242,Christopher Francis,waustin@hotmail.com,68,Slovakia (Slovak Republic),New Richard,New Mexico,2025-01-14,2025-06-28,Returns,High,Closed,Jeffrey Thomas,2.3,Satisfied,Phone,67585,245.49,Delivered
+560163,9081,Scott Mathis,thomasdavid@hotmail.com,64,Lesotho,Fieldsside,Iowa,2024-09-24,2025-03-14,Shipping,Critical,Pending,Laura Peterson,16.29,Satisfied,Phone,91977,300.45,Cancelled
+280911,7835,Madison James,matthew40@gmail.com,68,Switzerland,Shaunbury,West Virginia,2024-08-10,2024-09-21,Billing,High,Open,Jonathan Villarreal,13.89,Satisfied,Chatbot,62498,757.52,Cancelled
+649448,6866,Valerie Garrett,wjohnson@yahoo.com,60,Mexico,Samanthahaven,Vermont,2025-06-03,2024-08-04,Returns,High,Open,Ruben Lloyd,6.03,Dissatisfied,Email,84089,579.62,Cancelled
+400929,8874,Thomas Smith,thomastrujillo@gmail.com,69,Hungary,Christineshire,Ohio,2024-09-03,2025-06-08,Technical,Low,Open,Mr. James Burns,32.05,Very Dissatisfied,Chatbot,94017,259.65,Returned
+217514,5832,Tiffany Perez,qgomez@yahoo.com,71,Northern Mariana Islands,Christopherhaven,North Dakota,2025-01-25,2024-12-21,Billing,Critical,Escalated,Emily Mcclure,27.0,Neutral,Email,63641,994.63,Pending
+263596,5867,Ashley Foster,vicki43@gmail.com,72,Ghana,Lake Linda,Missouri,2024-10-28,2024-10-24,Shipping,Medium,Pending,Teresa Jones,0.96,Very Dissatisfied,Web,73711,290.15,Pending
+667167,2043,Angie Lopez,icalderon@carrillo-mckinney.info,34,Suriname,Lake Brandonland,California,2025-06-18,2024-12-11,Shipping,High,Escalated,Andrew French,0.28,Dissatisfied,Web,71806,806.29,Returned
+892489,3465,Christopher Walker,kjohnson@gmail.com,72,Faroe Islands,Caitlinmouth,Oklahoma,2025-01-31,2025-04-22,Shipping,Critical,Closed,Tracy White,7.29,Very Satisfied,Chatbot,87535,322.73,Cancelled
+544292,2882,Lisa Hunt,williamskimberly@hotmail.com,66,Estonia,New Laura,New Jersey,2025-06-18,2025-01-10,Shipping,High,Open,John Mullins,84.92,Very Dissatisfied,Email,51814,643.65,Delivered
+200825,1113,Mary Proctor,jerry81@yahoo.com,69,Jersey,Danaville,Pennsylvania,2024-10-08,2025-01-28,Billing,Low,Pending,Kenneth Reese,9.14,Very Satisfied,Chatbot,66186,558.58,Cancelled
+444817,2474,Joseph Bullock,rose42@gmail.com,25,Syrian Arab Republic,Sherryview,Pennsylvania,2025-01-16,2025-05-18,Technical,Low,Escalated,Cameron Brooks,42.14,Very Satisfied,Phone,79321,806.43,Delivered
+641590,3338,Thomas Gray,jkaiser@marquez-nixon.net,69,Latvia,Evanshaven,Ohio,2024-08-23,2025-06-22,Technical,Medium,Closed,Mark Gibson,87.28,Neutral,Chatbot,72272,150.15,Pending
+360677,6771,James Wilson,emily86@thomas.com,58,Malaysia,Crystaltown,Idaho,2025-05-27,2025-03-15,Shipping,Medium,Pending,Melissa Jones,7.64,Neutral,Phone,92043,845.98,Pending
+850114,3552,Michael Sweeney,thomasjones@brown-edwards.info,18,Liechtenstein,North Thomas,New York,2024-09-29,2025-01-03,Returns,Medium,Escalated,Brandon Wilson,53.8,Neutral,Chatbot,59317,181.51,Cancelled
+639142,5925,Amy Willis,nicholsscott@owens-barton.net,69,Switzerland,South Cindy,Alabama,2024-11-22,2024-08-07,Returns,High,Closed,Kelly Parrish,17.94,Very Dissatisfied,Phone,73742,849.98,Pending
+369757,9777,Lisa Green,jeffrey13@yahoo.com,42,Brunei Darussalam,Perezton,Florida,2025-03-12,2024-09-01,Technical,Low,Closed,Samantha Brown,50.87,Neutral,Chatbot,85479,656.85,Pending
+277802,3114,Joseph King,rsimpson@yahoo.com,71,Bolivia,South Bradley,Vermont,2025-02-24,2025-03-31,Shipping,Medium,Escalated,Manuel Michael,23.92,Dissatisfied,Chatbot,89390,555.04,Cancelled
+265162,2463,Shannon Jones,rgarcia@luna-ruiz.info,73,Thailand,North Nicolebury,Maine,2024-11-09,2025-02-13,Returns,Low,Closed,Sarah Leblanc,8.25,Very Satisfied,Phone,73734,801.25,Returned
+583331,4746,Joanne Jordan,kimberly02@west-chapman.com,71,Korea,East Crystaltown,Montana,2025-04-10,2025-03-02,Shipping,Critical,Closed,Victoria Edwards,77.55,Satisfied,Chatbot,79974,302.08,Delivered
+837391,4764,Scott Davis,anthonydelgado@gmail.com,73,Ghana,East Loriland,New Mexico,2025-04-09,2025-02-04,Returns,High,Open,Karen Morris,35.57,Dissatisfied,In-Person,66434,702.45,Pending
+345835,6485,Tamara Hamilton,lewiserin@gmail.com,70,Papua New Guinea,Adkinschester,Arkansas,2025-01-08,2025-03-22,Shipping,Medium,Pending,Sherry Keller,25.34,Neutral,Email,90619,871.52,Pending
+523796,2477,Rebecca Sutton,john00@obrien.net,67,Timor-Leste,North Davidberg,California,2025-02-11,2025-03-31,Technical,Low,Closed,Jared Lee,32.11,Very Satisfied,Email,51260,348.97,Returned
+475970,4059,Michelle Johnston,jkelley@bishop.com,29,Papua New Guinea,East Juanmouth,Alabama,2024-10-15,2025-02-16,Shipping,High,Escalated,Jeremy Freeman,23.86,Dissatisfied,In-Person,55416,106.93,Cancelled
+920841,8160,Cynthia Henderson,marcus49@sanders.biz,65,Zimbabwe,East Sylviaview,Alabama,2024-09-10,2025-04-23,Shipping,High,Closed,Emily Schmidt,5.99,Very Dissatisfied,Phone,95471,323.99,Delivered
+901466,4440,Aaron Mccarthy,garcialynn@gmail.com,34,South Africa,Kentberg,Michigan,2025-04-21,2025-05-26,Billing,Low,Open,Connor Velasquez,0.95,Neutral,Email,74251,920.87,Returned
+701295,7734,Cynthia Hess,smithronald@hotmail.com,56,China,North Adamburgh,Iowa,2024-10-26,2024-11-28,Billing,Low,Pending,Scott Jackson,114.8,Very Satisfied,Phone,51539,78.63,Cancelled
+864332,1613,Pamela Richards,travis24@barber.com,64,Slovakia (Slovak Republic),New Erica,Ohio,2025-03-13,2025-06-29,Technical,High,Open,Tiffany Curtis,19.46,Satisfied,In-Person,96848,942.83,Pending
+251797,6474,Matthew Scott,belinda86@hotmail.com,73,Iceland,Medinaburgh,Missouri,2025-07-03,2025-03-25,Technical,High,Escalated,Nancy Sharp,20.65,Neutral,Phone,54240,143.63,Cancelled
+589327,8031,Robin Hicks,greed@yahoo.com,41,Denmark,East Michael,Nevada,2024-09-07,2025-04-29,Technical,High,Escalated,Catherine Schultz,30.94,Neutral,Chatbot,66321,380.39,Cancelled
+562614,9149,Samantha Murray,gonzalezbrian@hotmail.com,42,Korea,Alexandramouth,West Virginia,2025-06-30,2024-08-25,Technical,Low,Open,Shannon Sexton,26.88,Very Satisfied,Web,88052,252.58,Cancelled
+853788,6649,Donald Owens,zmurray@kaufman-hunter.info,70,United Kingdom,Fernandezmouth,Michigan,2025-06-09,2024-11-15,Billing,Low,Pending,Nicole Washington,6.07,Very Dissatisfied,In-Person,82073,780.83,Pending
+130812,4027,Ronald Sanchez,johnsongeorge@gmail.com,43,Venezuela,Vargashaven,Michigan,2024-10-11,2025-03-30,Shipping,High,Escalated,Tara Schneider,25.85,Dissatisfied,In-Person,87834,142.88,Cancelled
+949065,9634,Chad Bailey,luis58@meyer.com,20,Estonia,Port Jacobhaven,Idaho,2024-09-01,2025-02-10,Shipping,Low,Escalated,Dr. Gwendolyn Johnson MD,29.18,Dissatisfied,Chatbot,94881,312.66,Pending
+724074,2926,Luke Rogers,karenward@livingston.biz,25,Niue,Port Kimberlymouth,Virginia,2024-09-23,2025-04-21,Billing,Medium,Escalated,Darlene Cox,5.25,Very Dissatisfied,In-Person,99404,657.21,Returned
+501868,1703,John Romero,pmclaughlin@yahoo.com,55,Kenya,New Robertfurt,New Jersey,2024-09-24,2025-04-18,Billing,Low,Escalated,Wanda Weber,30.76,Satisfied,Chatbot,93724,816.46,Cancelled
+872541,3052,Jane Payne,zgarza@wilson-smith.com,27,Ecuador,Josephland,Florida,2025-05-05,2024-09-09,Account,High,Open,Teresa Swanson,63.58,Dissatisfied,Web,55224,142.24,Pending
+289188,7192,Mrs. Michele Reynolds,cynthia28@gmail.com,28,Bouvet Island (Bouvetoya),Port Ronnieborough,New Jersey,2025-06-29,2025-04-10,Technical,High,Escalated,Matthew Murray,44.6,Neutral,Phone,93767,892.04,Returned
+511939,3373,Jennifer Solis,morgantyrone@johnson.com,37,Philippines,Andrewborough,Delaware,2025-03-17,2024-09-21,Account,Low,Pending,Miguel Murphy,1.42,Very Dissatisfied,Phone,86617,619.86,Pending
+634953,7898,Michelle Mcgee MD,pkent@gmail.com,72,Saint Vincent and the Grenadines,North Chad,Oregon,2024-10-17,2024-08-09,Returns,High,Pending,Brandon Horton,49.58,Very Satisfied,Phone,73814,481.13,Cancelled
+156174,4655,Melissa Moore,julie42@hotmail.com,30,Korea,Joelport,Hawaii,2025-06-25,2024-12-18,Billing,Low,Escalated,Lori Salas,7.9,Neutral,Web,81611,291.13,Returned
+605894,5395,Samantha Hardin,jacobhubbard@gmail.com,49,Syrian Arab Republic,Ericfort,South Dakota,2025-05-11,2025-02-05,Account,Low,Open,Allison Pierce,19.66,Very Satisfied,Email,53685,142.42,Cancelled
+387257,9851,Christopher Harris,joshua97@hahn.net,22,Macedonia,Lake Kurtmouth,Tennessee,2025-03-12,2025-06-19,Returns,Medium,Open,Bruce Johnson,20.99,Dissatisfied,In-Person,58393,642.08,Pending
+524583,3030,Jonathan Petty,leeamanda@rush.org,18,Macao,Lake Kellymouth,Texas,2025-03-05,2024-11-08,Technical,Critical,Pending,Dylan Cook,42.63,Neutral,Web,89821,911.92,Pending
+366046,2410,Joseph Anderson,dale73@martin.com,49,Andorra,Karenport,Michigan,2024-11-08,2024-11-02,Technical,High,Escalated,Gregory Gomez,10.59,Neutral,In-Person,84674,457.36,Delivered
+844971,9428,Heather Mitchell,jared21@gmail.com,56,Kiribati,Lake Nicholas,Minnesota,2025-03-17,2025-04-05,Account,Critical,Pending,Charles Kelley,11.69,Very Dissatisfied,Chatbot,57620,202.12,Cancelled
+866768,3904,Melissa Andrews,brittanyhernandez@jenkins.biz,44,Svalbard & Jan Mayen Islands,Port Mollyton,Pennsylvania,2025-02-19,2025-05-24,Billing,High,Pending,Taylor Weeks,6.04,Dissatisfied,Email,64735,860.39,Pending
+532165,4256,Brandy Fletcher,fisherkenneth@reid.com,28,Kenya,Wilsonview,Wisconsin,2024-08-12,2025-01-17,Billing,Medium,Closed,Kimberly Clayton,14.87,Neutral,Phone,83788,987.38,Pending
+839657,2184,Lisa Nguyen,hillgary@hotmail.com,32,Korea,Wernertown,North Carolina,2024-09-29,2024-09-18,Billing,Critical,Closed,Kelly Phillips,1.08,Very Dissatisfied,Email,51037,700.44,Returned
+779402,9800,Brandon Ellis,robert10@gmail.com,67,American Samoa,Gordonside,New Mexico,2024-10-28,2025-07-01,Billing,Low,Escalated,Amanda Boyer,42.98,Very Dissatisfied,Phone,99348,653.7,Delivered
+595451,6139,Justin Vasquez,scottherman@gmail.com,58,Mozambique,Lake Kathychester,Connecticut,2025-02-19,2025-01-24,Shipping,Critical,Open,Gregory Douglas,5.14,Very Satisfied,Web,89382,338.78,Cancelled
+477599,3118,Kimberly Davies,williamstonya@hotmail.com,32,Niger,East Monicaland,Mississippi,2025-02-12,2025-03-12,Shipping,Medium,Escalated,Terri Hughes,77.35,Dissatisfied,Email,88672,815.33,Delivered
+674177,9234,Matthew Garner,lindsey61@wilson.com,23,Reunion,Allenfort,Texas,2024-10-20,2025-03-20,Shipping,Medium,Closed,Kyle Gutierrez,56.77,Dissatisfied,Web,72413,144.41,Returned
+446792,4887,Carrie Scott,tamaraashley@gonzalez.com,67,India,Ashleybury,Ohio,2025-05-02,2025-03-18,Account,High,Open,Denise Hodge,1.36,Satisfied,Email,77428,334.6,Returned
+847906,4895,Lori Morris,donald34@martin.com,34,Burkina Faso,New Rachaelberg,Alabama,2024-08-20,2024-08-21,Returns,Critical,Escalated,Steven Dunn,0.34,Dissatisfied,Web,82541,293.26,Cancelled
+881831,8460,Jessica Green,jessica15@yahoo.com,45,Aruba,Robertton,Alaska,2024-07-29,2025-01-06,Returns,Critical,Open,Cody Campbell,14.27,Neutral,Web,54763,132.82,Delivered
+790471,7653,Daniel Reese,davidaustin@george.org,23,Mauritius,East Josephstad,Tennessee,2025-03-05,2025-07-10,Account,High,Pending,Jared Dickson,5.58,Neutral,Phone,68165,575.0,Delivered
+185368,8470,Miranda Ray,humphreyheather@yahoo.com,50,Lesotho,Jessicahaven,New Mexico,2025-02-20,2025-02-27,Shipping,Low,Pending,Tracy Rios,4.4,Dissatisfied,Web,97538,848.22,Returned
+898604,2747,Travis Wiggins,thomassherman@johnson.biz,27,Sao Tome and Principe,North Deborahberg,North Dakota,2025-01-15,2025-01-24,Returns,High,Escalated,Joshua Collins,32.7,Satisfied,Email,91785,101.19,Cancelled
+959496,6138,Molly Miller,rodneybrown@yahoo.com,26,Mayotte,South Lisaview,Oklahoma,2025-04-29,2025-06-08,Account,Medium,Pending,Elizabeth Wise,35.88,Very Satisfied,Chatbot,82046,740.89,Returned
+993463,4802,John Guzman,john12@gmail.com,68,French Guiana,Lake Johntown,New Hampshire,2025-04-26,2025-04-04,Billing,Low,Escalated,Joseph Joseph,23.86,Very Satisfied,In-Person,63319,339.46,Pending
+861045,1782,Stephen Vasquez,tnelson@wilson.net,32,United Arab Emirates,New Brittanyport,Alabama,2025-04-10,2024-08-12,Technical,High,Closed,Cindy Wright,7.12,Dissatisfied,In-Person,87659,184.14,Returned
+335928,6642,Stacey Scott,wesleyharrison@yahoo.com,72,Saint Helena,Kevinstad,Hawaii,2024-10-12,2024-08-05,Returns,Medium,Pending,Jonathan Allen DVM,3.11,Very Dissatisfied,Web,80331,430.75,Delivered
+658738,2752,Kevin Martinez,williamsstephen@anderson.org,30,Gambia,South Ronaldmouth,Missouri,2024-09-28,2025-06-23,Technical,Medium,Pending,Sarah Nelson,6.96,Dissatisfied,Email,59247,796.14,Cancelled
+751426,7449,Andrew Casey,anthony46@holloway-hayes.com,45,Italy,Lake Mariostad,West Virginia,2025-03-26,2024-08-26,Account,High,Closed,David Mckee,12.71,Very Satisfied,Chatbot,92724,981.21,Delivered
+297001,1298,Janice Mcdonald,peterschristian@hotmail.com,59,Norway,South Charleneland,Michigan,2025-04-04,2025-01-24,Shipping,Low,Open,Jeffrey Wells,7.82,Neutral,In-Person,82716,644.11,Cancelled
+522286,2918,Elizabeth Morgan,dickersonlisa@anderson-christensen.com,47,Mayotte,Brittanyshire,North Carolina,2024-08-09,2024-12-30,Technical,Critical,Open,Jamie Rodriguez,7.52,Satisfied,Web,64718,457.47,Cancelled
+955942,5244,Dean Hale,kray@moreno-terrell.biz,65,South Georgia and the South Sandwich Islands,West Destinyberg,New Jersey,2025-05-18,2024-12-24,Account,Medium,Closed,Thomas Garcia,15.9,Very Satisfied,In-Person,81140,531.34,Delivered
+799370,6786,Ashley Garcia,joelam@murphy-rice.com,27,Sri Lanka,Dyerhaven,North Dakota,2024-11-03,2024-10-26,Technical,High,Closed,Eric Townsend,10.11,Very Dissatisfied,Chatbot,56880,207.81,Delivered
+501138,4941,Karen Garrison,smithdonna@bowman.net,58,Luxembourg,Adamstown,Kansas,2025-02-23,2025-07-05,Account,Low,Open,Sylvia Walker,2.21,Very Satisfied,Email,89030,145.32,Delivered
+765668,6534,Lauren Scott,dschultz@gmail.com,68,Luxembourg,Pinedachester,Hawaii,2025-03-23,2024-08-06,Shipping,High,Pending,Roy Love,41.37,Neutral,Chatbot,65242,243.96,Cancelled
+112169,7931,Julie Goodman,zmiller@smith.com,70,Bermuda,North Loritown,Kentucky,2025-01-08,2024-08-02,Returns,Medium,Open,Lori Clark,25.6,Very Satisfied,Phone,99924,839.97,Returned
+428135,4713,William Fry,burgessleah@sanchez.org,30,Vanuatu,New Angelahaven,Georgia,2024-08-23,2025-07-14,Technical,Medium,Escalated,Hector Vazquez,15.19,Neutral,In-Person,81099,681.83,Cancelled
+587114,1712,Mrs. Cheyenne West,david22@schwartz.com,51,Switzerland,Nathanfort,Maine,2024-09-16,2024-08-07,Account,Medium,Open,Steven Owen,9.78,Neutral,Chatbot,71003,323.46,Returned
+649006,3290,Marissa Smith,smithamber@cole.com,35,Gambia,North Andrew,New Mexico,2024-10-07,2025-05-11,Account,Low,Closed,Andrew Lee,5.15,Satisfied,Chatbot,79202,588.85,Delivered
+846142,3741,Tyrone Ferguson,jenniferfleming@jones.com,20,Nicaragua,North Stephenland,Michigan,2024-11-20,2024-11-06,Billing,Low,Closed,Ashley Nguyen,20.71,Very Satisfied,Chatbot,59414,609.42,Returned
+588958,3142,Kenneth Frank,valdezbrandon@hotmail.com,64,Germany,Port Ronaldstad,Utah,2025-04-20,2025-02-16,Technical,High,Open,Shelia Smith,5.68,Satisfied,Email,81860,82.58,Returned
+781663,3810,Ashley Page,jesse64@hotmail.com,52,Congo,Lake Rebecca,Missouri,2024-08-03,2024-09-07,Shipping,Medium,Closed,Nathan Jones,19.54,Dissatisfied,Chatbot,95492,980.94,Delivered
+285984,7420,Mark Weaver,chad86@gmail.com,40,South Africa,Lawsonmouth,Montana,2025-03-09,2025-03-06,Shipping,Medium,Closed,Dr. Victoria Martinez MD,42.63,Very Dissatisfied,Web,89778,138.05,Returned
+955711,3474,Christopher Barnes,stewartzachary@gmail.com,48,United Kingdom,Whitehaven,Nebraska,2024-11-20,2024-12-25,Shipping,Low,Closed,Anthony Mcclure,110.18,Very Satisfied,Phone,60991,126.79,Cancelled
+199016,2709,Victoria Hill,ychase@yahoo.com,73,Qatar,East Virginiaside,Georgia,2025-01-06,2024-07-18,Returns,Critical,Escalated,John Beck,50.1,Neutral,In-Person,58268,59.61,Pending
+117969,5922,Michael Gibson,jtaylor@kennedy-patterson.com,59,Vanuatu,New Danielmouth,Wisconsin,2025-02-11,2025-07-14,Shipping,Low,Open,Sean Holland,2.31,Very Dissatisfied,In-Person,63408,457.51,Pending
+522494,7983,Sarah Walton,irobinson@hotmail.com,29,Dominican Republic,North Christina,Oklahoma,2024-10-02,2025-03-18,Shipping,Low,Escalated,Michelle Walters,4.91,Neutral,Phone,79767,315.64,Delivered
+327045,8594,Jack Vazquez,karihenderson@gmail.com,42,Netherlands Antilles,Brianhaven,Nebraska,2025-04-29,2024-08-25,Technical,Low,Pending,Laura Collier,58.02,Satisfied,Phone,81222,454.0,Cancelled
+864898,1121,Mary Tucker,munozpatricia@yahoo.com,33,Mozambique,Ramirezborough,Wisconsin,2024-09-30,2024-10-01,Returns,Low,Closed,Louis Richardson,35.08,Very Satisfied,Phone,84511,493.34,Pending
+696920,2810,Cynthia Cochran,berrybilly@hotmail.com,37,Cote d'Ivoire,Chaveztown,Missouri,2025-01-19,2024-09-11,Technical,Medium,Closed,Mary Wilson,23.43,Dissatisfied,Chatbot,84242,962.37,Returned
+735902,7916,Jason Williams,michael30@gmail.com,45,Grenada,Charlesmouth,West Virginia,2025-04-11,2025-04-12,Billing,Low,Closed,John Pitts,0.76,Very Satisfied,Phone,56074,201.16,Pending
+504525,1024,Krystal Walters,keithstout@hotmail.com,43,Kazakhstan,South Cynthiaberg,Mississippi,2025-02-19,2024-10-09,Shipping,Critical,Open,Maria Reyes,20.8,Satisfied,In-Person,88500,292.24,Returned
+325967,2572,Antonio Ferguson,edwardsstephen@hotmail.com,54,Bulgaria,South Charles,Connecticut,2024-12-04,2024-10-08,Billing,Medium,Pending,Hannah Castillo,7.32,Dissatisfied,Chatbot,66932,387.58,Delivered
+205337,1538,Cheryl Velasquez,melissa09@hernandez.net,63,United States Minor Outlying Islands,Lake Dana,Nebraska,2025-02-14,2024-07-20,Returns,Medium,Escalated,Julie Sherman,39.81,Neutral,Chatbot,90979,331.15,Pending
+508928,4110,Scott Gentry,jeremywilkins@yahoo.com,26,Dominican Republic,Monicabury,North Dakota,2024-12-14,2024-12-21,Returns,Low,Pending,Barry Murphy MD,17.91,Satisfied,Phone,87662,365.29,Pending
+955240,8108,Travis Crosby,kristina49@yahoo.com,54,Ecuador,East Thomas,New Jersey,2024-12-07,2025-03-21,Account,Critical,Escalated,Monica Rogers,2.4,Dissatisfied,In-Person,95270,399.52,Pending
+684815,1029,Jeffrey Ochoa,agray@huff.com,50,Germany,Jonathanview,New Jersey,2025-03-20,2024-11-19,Account,Critical,Escalated,Alejandro Spencer,9.55,Very Satisfied,Chatbot,68092,877.83,Pending
+904258,4157,Robert Smith,murphykeith@smith.org,50,Argentina,Buchananmouth,Oklahoma,2024-08-23,2025-02-18,Shipping,High,Pending,Lee Rivera,19.33,Satisfied,In-Person,68850,209.57,Cancelled
+940530,7228,Amber Chavez,christopherrichards@yahoo.com,45,Rwanda,Walkerberg,Arkansas,2024-09-25,2024-08-01,Account,Medium,Closed,Jeffery Wong,11.97,Dissatisfied,Phone,72286,454.33,Returned
+309230,6139,Kimberly Cox,amymcgee@sanders.com,22,Samoa,Jeromefort,Alaska,2024-11-03,2025-07-15,Shipping,High,Escalated,Albert Campbell,20.92,Very Satisfied,Phone,94033,167.35,Delivered
+387739,3533,Brandon Mitchell,karenstephens@yahoo.com,30,Burkina Faso,West Leahberg,Massachusetts,2025-06-28,2024-10-17,Returns,Medium,Escalated,Patricia Blevins,24.28,Neutral,Web,84307,664.31,Pending
+880398,3857,David Wilson,dmendez@kramer-walters.com,41,Kiribati,North Scott,South Dakota,2025-05-21,2024-08-20,Returns,Medium,Escalated,Destiny Mcguire,97.95,Very Satisfied,In-Person,74693,749.49,Returned
+714704,5397,Jason Garcia,wendy39@gmail.com,23,Azerbaijan,Brianville,Virginia,2025-01-27,2025-05-03,Technical,Low,Closed,Rebecca Welch,3.6,Very Dissatisfied,Phone,82641,227.85,Pending
+708407,5362,Elaine Frank,jbowen@bryan.info,43,Wallis and Futuna,Lake Connieland,Washington,2025-01-30,2024-09-23,Returns,Medium,Escalated,Pamela Finley,2.9,Dissatisfied,Web,52569,62.12,Returned
+300796,5209,Michelle Moss,kimmark@miller.com,68,Greece,Anthonybury,New Mexico,2025-06-14,2025-03-16,Account,Critical,Closed,Cynthia Robinson,1.11,Satisfied,In-Person,60081,285.34,Returned
+613596,4814,Michael Johnson,tonyamelton@hotmail.com,48,Brazil,Markview,Kansas,2025-01-08,2025-01-24,Account,Medium,Pending,Victoria Poole,15.54,Neutral,Email,72323,666.13,Pending
+943253,9478,Michelle Bradshaw,john52@yahoo.com,44,Bulgaria,East Nicholehaven,Missouri,2025-02-12,2025-02-01,Technical,High,Open,Catherine Barnes,28.76,Very Satisfied,Phone,77640,510.11,Delivered
+741650,6069,Christopher Dennis,kathleen86@woods-camacho.com,59,Vietnam,Hayeshaven,Nebraska,2025-07-01,2025-05-28,Billing,High,Pending,Todd Walker,5.39,Very Satisfied,Chatbot,81314,409.4,Delivered
+244570,6062,Shawn Rivera,ayalamichelle@gmail.com,40,Comoros,Fisherstad,Virginia,2024-08-14,2024-07-21,Technical,Medium,Pending,Anthony Shaw,38.36,Very Dissatisfied,Web,80996,942.13,Delivered
+108896,7821,Angela Roberts,marshalllinda@hotmail.com,50,Tokelau,East Mariatown,South Carolina,2024-12-01,2025-01-28,Shipping,Low,Escalated,Lance Miranda,6.66,Satisfied,Web,93229,955.33,Delivered
+742067,9166,Angela Luna,troywilliams@hotmail.com,69,Czech Republic,Katietown,Wisconsin,2025-06-14,2024-08-29,Technical,Medium,Closed,Troy Sexton,84.16,Satisfied,Chatbot,89291,377.88,Delivered
+811664,8922,Justin Thompson,joseburgess@gmail.com,45,Mongolia,South Amyport,Wyoming,2025-03-07,2024-11-20,Shipping,Medium,Pending,Melissa Johnson,0.19,Very Satisfied,Email,98100,791.37,Pending
+555499,7329,Shawn Sharp,karenpatel@yahoo.com,56,Canada,Charlesfurt,Idaho,2025-07-16,2025-02-02,Technical,Medium,Escalated,Michael Jenkins,28.38,Satisfied,Phone,78375,545.23,Returned
+605472,5826,Bradley Rodriguez,lyonszachary@yahoo.com,42,South Georgia and the South Sandwich Islands,Courtneyberg,Nevada,2024-09-20,2024-10-18,Account,High,Escalated,Corey Gates,31.84,Very Satisfied,In-Person,63922,483.11,Pending
+366014,7447,Douglas Fox,epatterson@odom-pace.biz,68,Micronesia,Esteshaven,Maine,2024-10-17,2025-06-08,Returns,Low,Open,Danielle Hill DDS,40.28,Neutral,Email,82486,376.89,Returned
+638382,3837,Tom Miller,felicia16@mcdaniel-peterson.com,44,Austria,Lisachester,Utah,2025-06-16,2024-09-27,Returns,Medium,Closed,Lee Bennett,2.81,Satisfied,Email,79149,559.92,Returned
+693593,7888,Mr. Richard Woods DDS,kathleenphillips@fields-johnson.com,46,Somalia,West Kelly,Arizona,2025-06-13,2024-09-06,Technical,Medium,Escalated,Deborah Finley,3.9,Very Dissatisfied,In-Person,85163,650.14,Cancelled
+281998,5826,Dustin Vincent,thompsonmark@hansen-holt.com,49,Swaziland,West Lisaborough,Michigan,2024-12-28,2025-01-28,Shipping,High,Closed,Christopher Perry,5.29,Dissatisfied,Chatbot,69252,528.58,Delivered
+589776,8549,Joshua Lowery,ncampbell@gmail.com,67,Sierra Leone,East Jared,Illinois,2024-11-27,2025-03-14,Shipping,Low,Closed,James George,61.68,Very Dissatisfied,Email,90612,224.44,Cancelled
+847334,9636,Cheryl Davies,hhorton@yahoo.com,50,American Samoa,Martinezmouth,Arkansas,2025-04-21,2025-02-28,Technical,High,Closed,Joseph Mitchell,54.28,Very Satisfied,Web,61040,327.74,Returned
+314955,7959,Carl Hess,smithkatrina@yahoo.com,57,Costa Rica,Candiceberg,North Carolina,2024-12-01,2024-09-13,Technical,Medium,Escalated,Zachary Washington,48.19,Satisfied,Web,73120,729.3,Cancelled
+897084,6273,Victoria Martinez,denisecline@gmail.com,61,Myanmar,West Robertmouth,Tennessee,2025-01-23,2024-08-14,Shipping,Medium,Escalated,Cory Johnson,181.19,Very Dissatisfied,In-Person,89579,598.98,Delivered
+176362,9834,Emily Johnson,pperez@hotmail.com,63,Israel,East Staceyport,Delaware,2024-11-26,2024-11-14,Technical,Critical,Open,Erica Mcgee,27.49,Neutral,Web,80020,531.03,Pending
+467250,2179,Reginald Gentry,matthew76@hotmail.com,23,Israel,New Cherylshire,Colorado,2024-09-30,2025-03-17,Account,Low,Escalated,Stephen Mitchell,23.57,Satisfied,Email,69487,131.75,Pending
+103184,1129,Mary Simmons,tfriedman@davis-weber.info,25,France,East Brucechester,Wisconsin,2025-06-09,2024-08-03,Returns,Medium,Escalated,Jared Spencer,29.39,Very Dissatisfied,Chatbot,95298,784.85,Pending
+609003,5185,James Jones,evan28@mitchell.com,49,Antigua and Barbuda,Micheleside,Tennessee,2025-06-15,2024-11-28,Shipping,Critical,Escalated,Kenneth Martin,3.11,Very Satisfied,Web,66765,125.46,Cancelled
+659065,7758,David Gentry,nataliemyers@bailey.info,24,Sierra Leone,South Antonio,Nevada,2024-11-16,2025-06-01,Shipping,Medium,Pending,Daniel Nelson,78.91,Satisfied,Phone,87353,332.09,Delivered
+977858,8537,Diana Tapia,donald79@gmail.com,27,Anguilla,Port Stephenside,New Jersey,2024-11-24,2024-09-03,Technical,High,Open,Nicholas Howe,34.49,Very Satisfied,Web,71775,427.41,Cancelled
+801589,2471,Matthew Rodriguez,bconley@smith-house.info,37,Honduras,Harrisborough,North Carolina,2024-09-04,2025-06-17,Technical,Medium,Pending,Brittany Tanner,8.82,Very Dissatisfied,Email,78811,83.52,Delivered
+790384,9219,Victoria Fitzgerald,monicaerickson@smith-hayes.info,34,Korea,West Jeremy,Delaware,2025-05-09,2025-03-24,Technical,High,Pending,Samantha Vance,0.53,Neutral,In-Person,53542,331.95,Cancelled
+168623,9864,Mary Collier,schwartzandrew@yahoo.com,38,Guam,Cookeshire,Alaska,2024-11-05,2024-09-12,Shipping,Medium,Closed,Susan Dominguez,0.12,Neutral,Phone,91924,894.79,Pending
+891328,8704,Steven Cummings DDS,amygray@cunningham.biz,27,Norfolk Island,West Sheila,New York,2025-02-28,2024-09-03,Account,High,Open,Christopher Mann,78.58,Dissatisfied,Phone,57877,615.77,Pending
+720297,9582,Richard Farley,carteralexis@gmail.com,66,India,North Alexandrabury,New York,2024-10-02,2025-02-21,Account,Medium,Escalated,Richard Martin,1.16,Neutral,Email,86633,63.52,Cancelled
+608559,5561,Jeremy Holt,patricia44@yahoo.com,68,Tonga,Ryanbury,Montana,2025-06-13,2025-03-09,Account,Medium,Pending,Julie Barnett,64.2,Dissatisfied,Email,51398,319.25,Cancelled
+807581,3582,Rhonda Stewart,kellyrobinson@gmail.com,45,Kenya,New Sandrafort,North Dakota,2024-11-08,2024-12-27,Account,Medium,Escalated,Yvette Wiggins,22.01,Neutral,Chatbot,52686,368.43,Cancelled
+451158,4580,Patrick Bonilla,ronaldbrady@hotmail.com,34,Azerbaijan,South Michellestad,Nebraska,2024-08-19,2025-06-24,Returns,Critical,Closed,Donald Walters,35.92,Very Satisfied,Phone,79344,843.92,Delivered
+581616,7062,Alan Gates,erichebert@taylor-hernandez.com,61,Haiti,Michelleberg,New Hampshire,2024-09-10,2024-10-15,Returns,Critical,Open,Aaron Gregory,11.44,Very Dissatisfied,Email,74709,291.36,Returned
+379912,2738,Bradley Diaz,elizabethwalker@gmail.com,28,American Samoa,East Teresa,Minnesota,2025-05-05,2024-11-05,Account,Critical,Closed,Philip White,17.73,Satisfied,Chatbot,94193,287.68,Cancelled
+627329,4636,Thomas Johnson,gmorris@yahoo.com,49,Bermuda,Jonesborough,Kansas,2024-11-19,2024-08-21,Account,Low,Open,Lisa Jennings,56.93,Very Satisfied,In-Person,63888,598.48,Returned
+582681,4457,Jonathan Long,vazquezjason@walsh.biz,30,Samoa,Shermanmouth,Arkansas,2024-11-24,2025-01-29,Technical,High,Pending,Kayla Lane,24.79,Dissatisfied,Web,56635,80.36,Returned
+128865,8100,Sharon Smith,ewilson@yahoo.com,64,Gambia,North Michelleshire,New Jersey,2025-06-26,2024-08-17,Account,Medium,Closed,Lisa Martinez,2.09,Dissatisfied,In-Person,65912,885.51,Returned
+183685,3064,Andrea Wood,ericalee@mercado.com,27,Liechtenstein,North Amy,Delaware,2024-10-26,2025-01-31,Shipping,High,Open,Michael Lynch,6.88,Dissatisfied,Phone,58072,689.52,Returned
+743284,9365,Christopher Miller,angela57@carpenter.org,38,Kyrgyz Republic,Phillipsberg,North Dakota,2024-08-27,2024-12-03,Account,Medium,Open,Teresa Harrison,1.18,Dissatisfied,Chatbot,52828,658.72,Delivered
+890584,4130,Erica Cooper,ymolina@mays-nelson.com,57,Gambia,South David,Utah,2025-04-03,2025-07-10,Account,Medium,Closed,Joshua Reynolds,32.83,Very Satisfied,Chatbot,86943,978.42,Returned
+464523,9316,Jeanette Hernandez,andersonkristen@clark.com,70,Tajikistan,Port Karlton,Rhode Island,2025-05-26,2025-05-23,Shipping,Critical,Escalated,Alexis Hernandez,16.92,Satisfied,Chatbot,66368,532.9,Returned
+282137,7388,Ian Brown,elizabethbriggs@gmail.com,40,Belize,Lake Kyleland,Texas,2024-10-25,2025-07-10,Shipping,Medium,Escalated,Pamela Walker MD,22.19,Satisfied,Email,96711,281.49,Returned
+896523,3663,Holly Frazier,raymondbrown@gmail.com,23,Panama,Paulfurt,Oregon,2024-09-06,2025-05-25,Returns,Critical,Escalated,Rebecca Anderson,2.31,Dissatisfied,Phone,59428,985.42,Delivered
+886700,2152,Anthony Gay,julienichols@ramirez.com,27,China,Michellechester,Alaska,2025-02-11,2024-09-18,Shipping,Critical,Escalated,Julie Garza,22.1,Very Dissatisfied,Email,87869,564.37,Cancelled
+922477,6045,Lauren Taylor,stephen94@king-clark.com,39,El Salvador,Barnesland,South Carolina,2025-05-18,2024-10-15,Returns,Medium,Escalated,Lindsay Allen,23.66,Dissatisfied,Email,99102,680.81,Delivered
+524139,8466,Kim Mckinney,wlynch@gregory-owen.net,46,Pakistan,East Jamesview,Pennsylvania,2025-07-16,2024-10-29,Technical,High,Escalated,Sean West,23.97,Very Dissatisfied,Email,71456,681.55,Pending
+367693,3316,Melvin Dodson,xarnold@yahoo.com,71,Nauru,North Brandyfurt,Florida,2025-04-25,2024-08-03,Account,High,Open,Justin Diaz,3.31,Very Satisfied,Email,94323,328.29,Returned
+807781,9444,Mary Lee,rachelkerr@hotmail.com,59,New Caledonia,Port Debrabury,Oregon,2025-05-18,2025-01-17,Technical,Low,Open,Jose Kelly,1.58,Very Satisfied,Phone,52843,816.89,Pending
+755498,2514,Melanie Sanchez,espinozavincent@bowman-thompson.com,68,Falkland Islands (Malvinas),Pattersontown,Alaska,2025-01-01,2025-02-04,Technical,Medium,Pending,Erica Shelton,1.1,Neutral,Chatbot,81883,169.5,Returned
+925672,7121,Dominique Brown,fwright@alvarez.com,72,Tunisia,Sheliaburgh,Nevada,2025-02-04,2025-06-18,Billing,High,Pending,Brittney Smith,1.86,Neutral,Web,66850,236.48,Pending
+973922,4047,Terry Miles,rossmelissa@brown.com,65,Cyprus,New Robertstad,Kansas,2024-12-31,2025-05-02,Returns,Low,Open,Jennifer Mendoza,63.27,Satisfied,Email,90442,758.34,Delivered
+854517,4605,James Vance,brianballard@sutton.com,64,Rwanda,Stevenstown,Oklahoma,2025-02-14,2024-11-10,Technical,High,Escalated,Kari Livingston,41.19,Satisfied,In-Person,81051,751.2,Delivered
+241421,1697,Joann Tucker,codywalker@pierce-spencer.com,60,San Marino,West Derekmouth,Michigan,2024-11-16,2025-01-02,Returns,Medium,Open,Jeffrey Dean,7.11,Very Dissatisfied,Phone,50136,366.39,Delivered
+156706,8143,Michael Zamora,amber69@rivera.com,36,Equatorial Guinea,Ryantown,Nebraska,2025-06-20,2024-12-05,Account,Low,Pending,Thomas Mercado,28.17,Very Dissatisfied,Email,64175,636.17,Delivered
+270467,1513,Rodney Jimenez,luisramirez@james.info,70,Saint Kitts and Nevis,North Brendabury,California,2024-11-18,2024-11-03,Technical,High,Closed,Teresa Lewis,64.82,Neutral,Chatbot,88282,191.22,Pending
+623745,7414,Monica Walters,yvelasquez@yahoo.com,50,Guernsey,North Davidhaven,Wyoming,2024-10-16,2025-04-17,Returns,High,Open,Ashley Stevens,27.91,Dissatisfied,Web,80693,104.27,Delivered
+500203,9952,Vincent Williams,mingram@gmail.com,27,Sri Lanka,Lake Linda,New Mexico,2024-11-22,2025-07-04,Billing,Critical,Closed,Christopher Morales,49.8,Neutral,Phone,80394,591.48,Cancelled
+587227,5957,Brian Craig,linda53@smith.com,58,Ukraine,Calderonton,Florida,2024-12-29,2024-11-01,Shipping,Critical,Open,Aaron Bowman,10.87,Neutral,Web,73542,619.06,Pending
+808499,4815,William Jackson,kristenrivers@jefferson.com,20,Iceland,Hilltown,Iowa,2025-02-25,2024-12-28,Billing,Low,Closed,Eileen Smith,46.0,Satisfied,Web,73935,570.18,Pending
+409139,3645,Adam Parker,jennifer16@gmail.com,19,Montserrat,Walkerview,Louisiana,2024-10-02,2025-06-20,Billing,Critical,Closed,Nathaniel Smith,12.07,Very Satisfied,Chatbot,71109,239.87,Returned
+263418,7529,Heather Stone,peterwagner@jackson-stone.com,56,Myanmar,Russellshire,Colorado,2024-07-26,2025-04-13,Technical,Low,Closed,Tony Hudson,65.82,Very Dissatisfied,Phone,79409,391.26,Cancelled
+110905,4629,Drew Cross,lucaselizabeth@dickerson.info,35,El Salvador,Nancymouth,Mississippi,2025-05-31,2025-05-08,Account,Low,Open,Christopher Sutton,22.93,Neutral,Email,90989,548.85,Cancelled
+396385,4285,Justin Mcmahon,kylerogers@gmail.com,43,Romania,Jonathanstad,South Dakota,2024-12-10,2024-12-12,Billing,Critical,Closed,Jennifer Perez MD,62.15,Dissatisfied,Phone,81940,605.16,Delivered
+684498,4750,John Newman,johnsoncynthia@gmail.com,53,Timor-Leste,Lake Shawn,Florida,2024-11-17,2025-02-27,Returns,Low,Open,Ryan Carroll,6.94,Dissatisfied,Chatbot,87028,555.66,Cancelled
+590096,9223,Corey Sweeney,john16@hotmail.com,43,Sweden,Sandrastad,North Carolina,2025-06-10,2024-09-21,Billing,High,Pending,Theresa Potter,6.41,Very Satisfied,Chatbot,58661,144.31,Delivered
+101908,5178,David Woods,fnguyen@sanders-baldwin.com,52,Palestinian Territory,East Darinville,New York,2025-05-09,2025-01-23,Technical,Medium,Escalated,Jeffery Anderson,17.12,Neutral,Email,97340,214.04,Returned
+484260,5557,Andrew Pitts,elizabethgould@hotmail.com,20,Comoros,North Kayla,South Dakota,2025-01-06,2025-05-10,Returns,Medium,Open,Jason Rivera,76.26,Dissatisfied,Chatbot,89733,870.93,Delivered
+135669,5289,Kelsey Best,erik49@gmail.com,60,Niue,Guerrerobury,Oregon,2025-05-30,2025-03-07,Technical,Low,Pending,John Brown,25.51,Very Dissatisfied,Email,53697,339.49,Cancelled
+664133,3592,Nancy Richardson,hendersonlacey@fuller.org,26,Nepal,Jameschester,Colorado,2025-02-21,2025-05-12,Billing,Medium,Pending,Grant Brown,5.11,Very Satisfied,Chatbot,51450,164.76,Returned
+991325,1418,Haley Bailey,rhondahardin@morris.com,20,Iraq,East Brandonfort,Alabama,2024-10-24,2024-10-25,Shipping,Critical,Pending,Kelly Guerrero,60.54,Very Dissatisfied,Web,99760,180.78,Returned
+500901,7558,Aaron Flynn,simsmanuel@hotmail.com,71,Congo,South Jared,Pennsylvania,2024-11-23,2025-03-04,Billing,Medium,Pending,Mark Hernandez,12.51,Dissatisfied,Phone,80363,836.01,Cancelled
+691718,9389,Sarah Perry,benjamin23@gmail.com,36,Pakistan,Lake Timothy,Alabama,2025-02-15,2025-02-18,Billing,Critical,Escalated,Maria Green,14.08,Neutral,Phone,62414,658.93,Pending
+564309,1837,Linda Nelson,brichard@boyd-wright.com,40,Ethiopia,Jameshaven,Rhode Island,2025-03-13,2025-05-27,Technical,High,Open,Rebecca Mitchell,0.08,Neutral,Chatbot,63644,203.14,Cancelled
+314344,1915,Brian Underwood,fmiller@garcia-hansen.com,56,Uruguay,Dunnfort,Georgia,2025-03-23,2025-04-20,Shipping,Critical,Closed,James Moreno,0.1,Dissatisfied,Web,79442,292.85,Delivered
+809275,9038,Amanda Bush,dunnjackson@davis.com,23,Liechtenstein,Amandachester,Missouri,2024-11-07,2025-01-04,Shipping,Critical,Open,Victoria Vance,0.31,Dissatisfied,Chatbot,75801,780.06,Delivered
+423412,4194,Amy Joyce,matthew83@hotmail.com,50,Germany,South Andreaport,South Carolina,2024-12-28,2025-06-25,Account,Critical,Pending,Sharon Esparza,12.19,Neutral,Web,67141,529.0,Cancelled
+622482,6306,Katherine Wood MD,avilamaria@wells-pearson.com,39,Brunei Darussalam,Brownbury,Maine,2024-09-01,2025-01-05,Technical,High,Pending,Renee Yu,29.52,Dissatisfied,Web,55646,635.66,Delivered
+780594,5793,Monica Lewis,paigepeters@johnson.info,33,Cyprus,Harmonshire,New Mexico,2025-01-13,2025-03-22,Returns,High,Escalated,Tracey Williamson,0.79,Neutral,Chatbot,71853,448.58,Pending
+239863,1759,Jamie Flynn,yarellano@hill.com,28,French Southern Territories,Ryanberg,South Carolina,2025-02-25,2025-06-05,Billing,Medium,Escalated,Brenda Skinner,21.74,Very Dissatisfied,Phone,54801,644.02,Returned
+607286,8658,Kristopher Parks,xmurray@heath.biz,21,Saint Barthelemy,Angelaton,Louisiana,2024-08-13,2025-04-26,Account,Critical,Closed,Michael Munoz,49.94,Very Satisfied,Web,53169,836.34,Cancelled
+823127,6495,Kerry Thomas,zachary12@hotmail.com,28,Kuwait,Susanchester,Arkansas,2025-04-19,2025-03-29,Technical,Low,Open,Matthew Holland,47.54,Satisfied,In-Person,56523,762.65,Pending
+664730,4018,Karen Villanueva,rhonda50@hotmail.com,59,Gibraltar,East Paula,Nevada,2024-12-12,2025-03-05,Technical,Critical,Open,Alexandra Smith,102.62,Very Satisfied,Email,84676,50.91,Cancelled
+845650,8321,James Alexander,kelsey63@hotmail.com,66,Rwanda,Harryhaven,North Dakota,2025-01-09,2024-07-21,Billing,Critical,Open,Adam Moody,40.54,Neutral,Phone,97658,898.67,Delivered
+417412,1780,Richard Evans,mitchellstephen@russell.com,41,Kiribati,New Eric,Wyoming,2024-11-29,2024-07-28,Technical,Low,Closed,Beth Morales,3.83,Very Satisfied,Web,51076,802.76,Cancelled
+180440,4403,Matthew Hernandez,tannererickson@shelton.net,40,Bahamas,Port Rogerbury,Oregon,2025-02-07,2024-12-30,Shipping,Critical,Pending,Wanda Wilson,35.18,Very Dissatisfied,In-Person,58724,775.5,Returned
+370514,7019,Glenn Kennedy,shariallison@yahoo.com,62,Martinique,Mossfurt,Indiana,2024-11-14,2024-07-30,Returns,High,Closed,Tina Mcgrath,10.47,Neutral,Phone,71162,463.74,Delivered
+964415,5221,Thomas Parker,richardmoses@gmail.com,49,Germany,Lake Ginashire,West Virginia,2025-03-17,2024-08-07,Returns,Critical,Open,Ms. Becky Valencia,21.12,Dissatisfied,Web,62909,476.24,Delivered
+428286,8281,Diana Smith,sheila04@coleman.com,60,Netherlands,West Melissa,Virginia,2025-05-01,2024-11-04,Returns,High,Closed,Adrian Burton,92.27,Very Satisfied,Web,90589,732.42,Delivered
+418944,5329,Jennifer Johnson,kathrynshea@rogers-mora.com,55,Martinique,Jeremyshire,Virginia,2025-07-08,2025-04-16,Account,High,Open,Sarah Brown,5.19,Very Satisfied,Chatbot,62069,877.27,Cancelled
+449917,9232,Rachel Morales,shawnsimpson@gmail.com,25,Lesotho,Lake Ronald,Wisconsin,2024-07-19,2024-10-03,Billing,Critical,Closed,Michelle Green,3.83,Very Satisfied,In-Person,90859,236.29,Pending
+777703,5098,Wendy Hill,youngjulie@santos-wells.biz,50,Cambodia,Port Timothyside,North Carolina,2024-09-21,2024-08-21,Technical,High,Closed,Tara Williams,5.87,Very Satisfied,Email,86204,517.69,Pending
+934499,1779,Victoria Carter,henryrichard@gmail.com,33,Uruguay,Sotobury,South Carolina,2024-09-16,2025-01-03,Billing,High,Pending,Shawn Smith,23.92,Satisfied,Email,62110,207.12,Returned
+427336,6257,Anna Leonard,johnknight@yahoo.com,35,Turks and Caicos Islands,Samuelmouth,Ohio,2024-11-27,2025-03-12,Account,Low,Closed,Roger Owens,1.48,Neutral,Phone,84515,316.12,Cancelled
+785149,1184,Nicole Meyer,danielaustin@yahoo.com,59,Netherlands Antilles,Lake Jeffrey,Nebraska,2025-01-05,2024-08-17,Shipping,Low,Pending,Heather Vasquez,38.88,Very Satisfied,Email,87976,747.54,Delivered
+773993,7846,Ashley Grimes,jennifermendoza@manning.info,29,Bolivia,Ramirezbury,Alaska,2025-04-04,2025-04-24,Shipping,Medium,Closed,Perry Castro,0.59,Neutral,Phone,62221,374.01,Cancelled
+512055,4705,Melissa Hodges,christianpena@gmail.com,51,Chad,Bethton,Hawaii,2025-02-04,2024-10-17,Billing,Critical,Closed,Joshua Harris,46.65,Satisfied,Chatbot,97131,684.16,Delivered
+643251,4005,Sharon Cortez,patrickgriffin@scott-edwards.com,45,Angola,Davidberg,Wisconsin,2025-05-16,2025-05-30,Shipping,Medium,Closed,Dana Taylor,17.87,Very Satisfied,In-Person,59510,72.9,Pending
+981542,7274,Brandon Swanson,xturner@hotmail.com,24,French Guiana,Port David,Illinois,2024-10-01,2024-09-01,Shipping,Low,Closed,Jeffrey Turner,6.99,Dissatisfied,In-Person,61828,193.63,Returned
+197463,8877,Gabriela Flores,hannah31@yahoo.com,66,Papua New Guinea,North Brandon,Kentucky,2024-10-20,2025-06-29,Shipping,Low,Pending,Allison Brown,2.14,Very Satisfied,Web,65354,335.37,Cancelled
+633158,3206,Tiffany Gilbert,ktaylor@gmail.com,68,Greece,Lake Michelle,New Mexico,2024-10-14,2025-07-10,Account,Low,Pending,Samantha Mccullough,12.31,Neutral,Phone,77747,466.87,Delivered
+764078,7913,Jonathan Washington,jennifermcguire@johnson.com,35,Liechtenstein,West Stephanieport,Arizona,2024-12-08,2025-03-08,Account,Low,Pending,Paul Wells,8.66,Very Satisfied,Phone,51545,251.87,Cancelled
+320843,5859,Martin Knight,kimberly50@yahoo.com,49,Nigeria,South Stacyview,South Carolina,2025-01-07,2025-03-20,Technical,Critical,Open,Caleb Martinez,51.85,Satisfied,Email,73401,637.87,Pending
+510125,2211,Lee Wilson,vbell@barnes.com,24,Afghanistan,Chelseashire,Washington,2025-03-28,2025-01-10,Account,Low,Closed,Mark Farley,7.0,Very Dissatisfied,Chatbot,88232,843.61,Delivered
+725152,3845,Hannah Rogers,shahalicia@hotmail.com,23,Kenya,Lake Mark,Montana,2025-02-14,2024-11-06,Account,Critical,Open,William Payne,39.68,Satisfied,Web,65306,320.16,Pending
+656233,1893,Lauren Hays,fjackson@greer.biz,30,Portugal,East Danielbury,Virginia,2025-02-17,2024-10-27,Returns,Critical,Pending,Michael Mason,69.66,Satisfied,Email,78461,334.11,Cancelled
+989353,7868,Natasha Maynard,aprilbishop@yahoo.com,23,Cambodia,North Richardmouth,Michigan,2025-05-28,2024-09-10,Shipping,High,Open,Justin Morrow,37.85,Satisfied,Chatbot,63824,486.47,Pending
+992276,2086,Amy Hawkins,phelpsjohn@dennis-gonzalez.com,48,Mozambique,West Aliciaview,West Virginia,2024-11-20,2025-04-04,Billing,Critical,Pending,Kathryn Smith,5.96,Neutral,Email,88162,926.74,Returned
+256802,9710,Mr. William Jarvis,darryljones@gmail.com,71,Spain,Michelleberg,Kentucky,2025-04-11,2025-01-01,Technical,Medium,Escalated,Chloe Campos,102.6,Satisfied,Email,67820,822.41,Pending
+936621,3507,Samantha Smith,emilyhansen@hotmail.com,42,Kyrgyz Republic,Evanshaven,Texas,2025-05-25,2025-03-08,Account,High,Escalated,James Maddox,3.44,Dissatisfied,Email,79192,123.6,Pending
+629185,1348,John Young,dbowen@gmail.com,27,Heard Island and McDonald Islands,North Kristenhaven,Indiana,2024-10-07,2025-05-28,Returns,Medium,Closed,Allen Hart,14.57,Very Satisfied,Chatbot,58333,202.51,Delivered
+759386,1497,Alyssa Franco,taylorsara@kelly.com,60,Nicaragua,Kimfurt,Massachusetts,2025-05-19,2025-03-18,Returns,Critical,Closed,Jennifer Douglas,16.78,Satisfied,Phone,87763,806.29,Returned
+193467,6998,Gail Johnson MD,wburns@gmail.com,63,Spain,Francisview,Tennessee,2025-03-11,2024-10-30,Account,Medium,Escalated,Lisa Flynn,57.08,Dissatisfied,Email,63151,200.62,Cancelled
+423044,4505,Trevor Boyd,christie36@dillon.net,51,Cape Verde,Port Brandibury,Mississippi,2024-10-08,2024-07-30,Billing,Critical,Open,Cindy Frazier,9.2,Very Satisfied,Chatbot,73068,422.27,Pending
+142961,9825,Miguel Robertson,yfranklin@gmail.com,70,Switzerland,West Earlville,Indiana,2024-11-04,2024-10-31,Account,Medium,Escalated,Reginald Thompson,21.65,Satisfied,Phone,59117,58.24,Pending
+344227,8801,Christy Church,spencernicholas@yahoo.com,51,Suriname,West Rebeccafort,Wyoming,2025-06-17,2025-04-23,Returns,Critical,Open,Phillip Garcia,5.18,Satisfied,Phone,76694,933.3,Delivered
+579763,8056,Stacie Petersen,thomas52@hotmail.com,55,Saint Kitts and Nevis,Lake Barbarafort,South Dakota,2025-07-03,2025-04-26,Billing,Medium,Escalated,Mathew Brown,4.38,Satisfied,Chatbot,50234,410.24,Cancelled
+688568,6403,Crystal Rowe,murraykendra@yahoo.com,63,Korea,Lake Miguelport,North Carolina,2024-07-17,2024-11-10,Shipping,Medium,Pending,Willie Mckay,0.99,Very Dissatisfied,In-Person,55885,568.07,Returned
+343384,2689,Daniel Reeves,bjohnson@webster-valdez.org,43,Burundi,Caldwellport,Georgia,2025-07-15,2025-02-13,Returns,Low,Escalated,Robert Stewart,6.91,Satisfied,Web,85354,593.59,Cancelled
+648019,1119,Darlene Mills,lharris@gmail.com,59,Guinea,Jimmytown,Maryland,2025-06-02,2025-01-28,Billing,High,Closed,Chelsey Nash,18.59,Satisfied,In-Person,94971,724.43,Delivered
+390965,2261,Kevin Hines,onealgail@hotmail.com,23,France,Cordovaborough,Indiana,2024-12-31,2025-07-16,Shipping,Low,Escalated,Rebecca Rojas,21.28,Neutral,Web,65259,288.71,Cancelled
+164246,4365,Diane Howard,angela90@hotmail.com,69,Cameroon,Port Shelleymouth,Ohio,2024-12-27,2025-05-26,Shipping,Critical,Pending,Linda Barrett,24.83,Very Dissatisfied,Chatbot,78404,266.05,Returned
+217349,1379,Tristan Zavala,jodom@ramirez.info,61,Brazil,Port Michaelmouth,Texas,2024-12-08,2024-09-20,Billing,Medium,Pending,Alexander Smith,25.36,Very Dissatisfied,Email,99444,865.82,Returned
+217404,9681,Jacob Holmes,mmartinez@gregory.com,30,Nicaragua,North Ian,Illinois,2025-02-22,2025-06-24,Shipping,Low,Open,Christy Bernard MD,26.25,Neutral,Web,77928,963.31,Pending
+808184,9635,Martin Delgado,ortegawilliam@gmail.com,70,Martinique,Johnsonton,Arizona,2025-03-20,2025-03-07,Billing,High,Closed,Kyle Zavala,16.68,Neutral,Email,92326,737.5,Pending
+958381,1499,Edgar Craig,snowjames@hotmail.com,47,Senegal,North Joshuaberg,South Dakota,2025-05-02,2024-09-30,Account,Critical,Pending,Haley Maldonado,18.1,Neutral,Chatbot,98093,625.68,Pending
+925636,3538,Becky Bowen,levans@poole.com,18,Luxembourg,Rodriguezside,Missouri,2024-07-22,2024-11-01,Technical,Critical,Pending,Grace Kennedy,14.14,Very Dissatisfied,Phone,60363,402.49,Cancelled
+497634,1468,Natalie Esparza,stephaniekline@alvarez-hall.org,21,Somalia,West Edwardtown,Utah,2025-04-07,2025-01-20,Billing,Low,Escalated,Jeffery Diaz,14.38,Very Dissatisfied,Email,69019,79.78,Returned
+998207,5838,Connor Faulkner,tateanne@brown.com,23,Sri Lanka,Bookerbury,Maine,2024-07-31,2024-12-22,Billing,Medium,Pending,Kelli Jordan,12.09,Very Satisfied,Email,90330,600.84,Cancelled
+482314,5182,Michael Schmidt,burgessmichael@lee.net,25,Trinidad and Tobago,New Michaelburgh,Michigan,2024-11-12,2025-06-18,Shipping,Critical,Pending,Terri Davis,1.08,Neutral,Chatbot,65176,818.63,Cancelled
+324098,2964,Allison Jones,tadams@sanchez-cole.com,74,Belgium,Smithborough,Indiana,2024-10-10,2025-06-06,Returns,Critical,Closed,Kimberly Steele,0.57,Dissatisfied,Chatbot,50185,745.51,Pending
+433857,1296,Sean Jones,kathynelson@gmail.com,56,British Virgin Islands,Michaelfort,Virginia,2025-04-27,2025-04-28,Account,Low,Closed,Jennifer Cruz MD,14.77,Very Dissatisfied,In-Person,59386,110.61,Delivered
+473379,1324,Carlos Fields,eric52@yahoo.com,51,Netherlands,North Ambershire,Iowa,2024-07-30,2024-12-22,Returns,Critical,Escalated,Terri Nunez,42.77,Neutral,Phone,69604,628.58,Pending
+181144,6733,Rebecca Figueroa,francischarles@gmail.com,20,Comoros,Port Ralph,Alaska,2024-12-16,2025-03-13,Returns,Medium,Open,Michael Smith,113.35,Very Dissatisfied,Phone,96876,907.3,Cancelled
+450972,5510,Cheryl West,james83@gmail.com,18,Saint Barthelemy,South Kimberlyside,Missouri,2024-11-27,2025-04-30,Returns,Low,Escalated,Richard Hall,0.74,Dissatisfied,Email,66726,348.43,Returned
+579597,2741,Jessica Bryan,tracy50@gmail.com,47,Saint Kitts and Nevis,Freemanside,Iowa,2024-08-06,2024-10-24,Account,Medium,Closed,Sharon Baker,56.03,Very Dissatisfied,Chatbot,62385,111.6,Delivered
+480318,7342,Emily Weeks,jasminemiller@thomas-patterson.com,31,Gambia,Amandaland,Nebraska,2025-06-04,2025-06-02,Returns,High,Open,Chris Johnson,0.78,Very Dissatisfied,Phone,54292,998.41,Returned
+274584,4069,Marvin Gill,jwatts@yahoo.com,32,United States of America,Austinville,North Dakota,2024-10-04,2025-02-01,Account,Low,Open,Danielle Dixon,4.31,Dissatisfied,In-Person,99927,206.67,Cancelled
+621754,7743,Amy Mendez,fishersusan@yahoo.com,30,India,Mannberg,Vermont,2024-12-19,2024-11-02,Shipping,High,Closed,Elizabeth Guerrero,33.73,Very Dissatisfied,Chatbot,66068,480.56,Delivered
+563479,1146,Matthew Williams,hudsonjose@yahoo.com,51,Denmark,New Cherylborough,Wisconsin,2024-08-27,2025-05-11,Returns,Critical,Open,Paula Warren,80.55,Dissatisfied,Chatbot,68969,988.17,Returned
+406170,4873,John Nelson,holly89@roberts-gibson.com,66,Mauritania,New Alfred,Kansas,2025-03-12,2024-10-26,Billing,Medium,Escalated,Elizabeth Holland,1.43,Satisfied,Phone,66662,445.25,Delivered
+583458,4567,Noah Armstrong,scott73@gmail.com,67,Nicaragua,Bestfurt,Wisconsin,2024-12-18,2025-03-20,Returns,Low,Pending,Adam Holt,0.02,Satisfied,In-Person,51873,188.6,Delivered
+240361,3671,Jesse Hanson,joelwelch@gmail.com,71,Benin,Johnville,South Dakota,2025-06-14,2025-04-15,Billing,Critical,Pending,Angela Barnes,25.06,Satisfied,Email,81826,306.51,Cancelled
+853386,8141,Melanie Michael,smclean@kirby-charles.com,70,Luxembourg,Andrewbury,Missouri,2025-06-12,2024-08-27,Account,Low,Open,Mary Perry,33.43,Dissatisfied,Web,82446,631.92,Returned
+563466,9908,Breanna Olson,james92@morrow.com,68,Bahamas,West Ann,Georgia,2025-06-20,2024-09-27,Technical,Low,Pending,Zachary Wolf,6.29,Very Satisfied,Phone,72822,711.65,Returned
+770690,1539,Beth Baker,charlottebaxter@gmail.com,26,Montenegro,Mooreland,Rhode Island,2024-10-03,2025-06-30,Technical,Medium,Closed,Taylor Phillips,1.53,Dissatisfied,Phone,88456,866.02,Pending
+326391,5532,James Cook,ariasjasmin@mcgee-jones.net,48,Timor-Leste,West Ethanview,Idaho,2025-01-04,2024-09-16,Technical,Critical,Open,Roger Lane,36.28,Neutral,Phone,65385,661.75,Cancelled
+386297,2673,Michael Goodwin,allenbradley@miller.org,19,Cayman Islands,North Davidside,North Carolina,2025-01-01,2025-07-11,Shipping,Critical,Open,David Baker,67.89,Satisfied,In-Person,53621,999.35,Delivered
+442073,4925,Christopher Morris,jamie45@morton.com,59,Cape Verde,Sarahchester,Ohio,2025-05-01,2024-08-17,Technical,Medium,Pending,Michael Church,13.5,Neutral,Phone,50821,433.84,Cancelled
+266707,4976,Autumn Bush,smithjoseph@hotmail.com,58,Kiribati,West Sherrifurt,Arizona,2025-02-15,2025-04-20,Billing,Medium,Closed,Margaret Alexander,19.24,Very Dissatisfied,Email,86719,915.67,Cancelled
+204390,1772,Debbie Perez,marcusjohnson@harmon.com,40,Denmark,East Williamhaven,Idaho,2024-12-31,2024-09-05,Account,Medium,Open,Elizabeth Oliver,10.96,Very Dissatisfied,In-Person,86865,528.11,Cancelled
+349395,4539,Sarah Gonzalez,brownamy@taylor.com,24,Netherlands Antilles,South Jessica,Kansas,2024-10-17,2024-11-20,Shipping,High,Open,Becky Morrow,8.59,Dissatisfied,Chatbot,57920,769.75,Cancelled
+591666,4873,Jay Morales,martinezruth@yahoo.com,54,Luxembourg,Michaelaville,Oregon,2025-01-03,2024-08-03,Returns,High,Escalated,Sonya Rios,28.75,Dissatisfied,In-Person,56423,875.31,Pending
+298753,3882,Robert Brown,shawnawhite@hotmail.com,31,Nicaragua,Clarkeshire,Rhode Island,2025-07-10,2025-04-06,Returns,Medium,Pending,Doris Burns,7.89,Satisfied,Phone,90372,761.91,Pending
+888872,1009,Deborah Rodriguez,dclay@mitchell-le.info,63,Eritrea,Bakerfort,South Dakota,2024-11-23,2025-03-04,Technical,High,Pending,Jason Cooper,9.42,Satisfied,Web,73731,475.75,Delivered
+811428,3795,James Gomez,jacobrobinson@mason-johnson.com,20,Oman,New Renee,Indiana,2025-01-16,2025-02-19,Billing,High,Open,Steven Stout,5.52,Very Dissatisfied,Email,65479,339.42,Cancelled
+987323,3020,Julie Edwards,mitchellwilliams@gmail.com,20,Malaysia,Martineztown,West Virginia,2025-05-18,2024-07-22,Account,Medium,Escalated,Frank Baxter,29.85,Very Dissatisfied,Chatbot,83727,829.2,Delivered
+491945,4278,Kyle Abbott,rojasphillip@salas.com,21,Norway,West Molly,Kentucky,2024-09-11,2024-08-29,Technical,Low,Open,Amanda Wade,35.36,Very Dissatisfied,Email,67934,128.91,Returned
+294337,4961,Danielle Rhodes,diana21@warren.net,48,Timor-Leste,East Walterchester,Texas,2025-02-03,2024-12-25,Account,Critical,Pending,Kelsey Mckinney,41.87,Very Satisfied,Phone,84334,745.22,Cancelled
+473395,5612,Martin Brown,nicholaswhitney@hotmail.com,28,Vietnam,Port Claytonchester,North Carolina,2025-07-08,2025-04-08,Returns,Low,Closed,Faith Romero,11.78,Very Dissatisfied,Web,69799,855.73,Cancelled
+247057,6409,Jennifer Goodman,rasmussenbradley@yahoo.com,41,Isle of Man,Lake Ashley,Illinois,2024-12-15,2025-06-01,Shipping,High,Pending,Holly Hernandez,12.29,Satisfied,Chatbot,99602,175.66,Delivered
+933720,2367,Betty Franco,tgraham@garcia.com,70,Lao People's Democratic Republic,Andreaborough,Massachusetts,2025-05-07,2024-11-19,Account,Critical,Escalated,James Smith,35.97,Satisfied,Web,70704,339.34,Returned
+241957,4363,Crystal Rios,phillipbranch@johnson.com,37,Uruguay,Lauraport,Pennsylvania,2024-11-28,2024-12-12,Billing,High,Escalated,Michael Chavez,33.13,Dissatisfied,Chatbot,64140,659.45,Pending
+344498,3159,Amanda Stanley,jhill@yahoo.com,34,Cayman Islands,North Alejandrobury,Kentucky,2024-11-15,2024-09-17,Technical,Critical,Closed,Henry Miller,23.3,Neutral,In-Person,58007,799.12,Cancelled
+381684,5084,John Thompson,fernandezcalvin@hotmail.com,32,Gabon,North Joshuamouth,Arizona,2024-12-05,2025-05-18,Billing,Critical,Pending,Anthony Reid,23.79,Neutral,Phone,58825,265.79,Returned
+947811,2729,Steven Hill,lrobertson@hotmail.com,52,Bouvet Island (Bouvetoya),East Amyshire,Iowa,2024-09-05,2024-12-15,Billing,Low,Closed,Jennifer Gregory,55.97,Satisfied,Email,58998,808.36,Pending
+677345,6894,Chad Wood,harrisdonna@gmail.com,46,Senegal,Port Richardton,Ohio,2025-01-25,2024-09-30,Shipping,Low,Closed,Lauren Greer,14.98,Neutral,Web,91858,615.93,Returned
+763650,9059,Howard Perry,dunnchristopher@donovan.com,35,Niue,Port Richard,Missouri,2024-11-17,2025-03-23,Technical,High,Pending,Matthew Roy,19.25,Dissatisfied,Chatbot,68335,699.01,Delivered
+496368,4060,Lisa Harvey,josephwright@bender.com,23,South Africa,West Cathy,Oregon,2024-10-29,2024-10-13,Account,Low,Closed,Adrian Evans,26.94,Neutral,In-Person,94370,803.02,Delivered
+519703,4441,John Kaiser,rowlandjustin@webster.com,36,Myanmar,Jacobport,California,2024-10-14,2024-08-01,Returns,Medium,Closed,Elizabeth Williams,14.09,Dissatisfied,In-Person,96105,579.38,Pending
+947766,4497,Maria Barker,pamcraig@hernandez.com,20,Bosnia and Herzegovina,Reyeston,Alaska,2024-07-30,2024-11-30,Account,Critical,Closed,Meghan Nielsen,36.64,Very Dissatisfied,Chatbot,83648,762.25,Pending
+963522,7339,Andrew Young,linda35@hotmail.com,50,Tokelau,Zacharymouth,Oregon,2024-12-18,2025-06-07,Technical,Critical,Closed,Ronald Tran,36.42,Very Satisfied,Email,67751,725.47,Returned
+885820,5648,Jennifer Castillo,ricechristopher@yahoo.com,69,British Virgin Islands,North Christopherville,Colorado,2024-12-07,2024-10-06,Account,Low,Closed,Candice Porter,1.32,Dissatisfied,Chatbot,70761,902.85,Pending
+458878,1049,Alex Dunn,nicholasfreeman@yahoo.com,29,American Samoa,Carrton,New York,2024-10-19,2025-01-11,Shipping,Low,Open,Amanda Mcclure,32.84,Neutral,Phone,60792,786.64,Cancelled
+394381,2384,Robert Berry,ariddle@gmail.com,23,Slovakia (Slovak Republic),Ericton,Iowa,2025-04-20,2024-10-31,Shipping,Critical,Open,Debbie Rios,38.02,Dissatisfied,Email,53284,845.75,Cancelled
+855047,4747,Daniel Williams,jwelch@miller.com,51,Djibouti,New Molly,South Dakota,2024-12-15,2025-06-02,Billing,High,Closed,Amanda Bailey,50.51,Neutral,Web,81340,303.92,Returned
+724004,6012,Eddie Reyes,fieldsmarcus@campos.com,26,Rwanda,West Kaylaville,Michigan,2024-12-19,2025-04-03,Billing,Low,Open,Jamie Riggs,2.18,Neutral,Chatbot,66858,315.45,Delivered
+627020,7087,Anthony Pugh,adrianrich@yahoo.com,68,Equatorial Guinea,East Michaelside,Nebraska,2024-07-24,2024-11-28,Returns,High,Pending,Thomas Potts,36.73,Dissatisfied,Phone,87931,929.41,Pending
+709073,5784,Xavier Lopez,megandavis@miller.biz,26,Isle of Man,Wilkinsview,Massachusetts,2024-11-05,2024-09-03,Billing,Critical,Open,James Beard,8.42,Satisfied,Chatbot,67105,378.78,Returned
+823499,9875,Shannon Foster,marydickerson@yahoo.com,67,Philippines,Grayside,Hawaii,2025-05-15,2024-11-04,Account,Critical,Open,Thomas Cain,1.97,Satisfied,In-Person,99799,368.0,Returned
+867678,6118,Deborah Thornton,xfernandez@yahoo.com,34,Korea,Bradleyfort,Delaware,2024-08-25,2025-06-08,Billing,High,Closed,Courtney Wolfe,11.17,Neutral,Chatbot,76496,578.97,Pending
+436054,1695,Ryan Schaefer,rprice@gmail.com,47,Anguilla,Jayborough,Pennsylvania,2024-10-14,2025-02-17,Billing,Medium,Escalated,Daniel Moore,27.86,Dissatisfied,In-Person,69341,189.53,Cancelled
+878630,6087,David Marquez,mdavis@yahoo.com,68,Taiwan,Shawnafurt,New Jersey,2025-02-05,2024-10-19,Account,High,Open,David Pena,12.09,Very Satisfied,Email,58436,189.64,Returned
+518827,2466,Kyle Ross,julie78@yahoo.com,46,Andorra,Lake Colin,New Jersey,2025-06-10,2025-02-04,Technical,Medium,Open,Benjamin Hernandez,14.18,Very Satisfied,Web,84837,500.12,Delivered
+887487,8779,Lisa Pitts,rrodriguez@brown-mclaughlin.com,71,Liberia,South Katherine,New Jersey,2024-11-12,2025-01-16,Returns,Medium,Escalated,Michelle Jones,19.47,Satisfied,In-Person,66006,936.04,Returned
+848495,9208,Laura Ballard,rodriguezfrancisco@hotmail.com,68,Brazil,Port Ginastad,Utah,2025-01-20,2025-07-01,Shipping,Medium,Closed,Derrick Mullins,2.41,Very Satisfied,Web,67622,76.19,Pending
+838730,3295,Nicole Graham,umullins@brady.org,54,Cook Islands,Port Julieberg,Oklahoma,2025-06-03,2024-10-24,Account,Critical,Closed,Ryan Williams,36.99,Satisfied,Web,74592,537.79,Pending
+762851,6808,Nancy Harris,william10@parker-rogers.net,40,Peru,Aaronfurt,Arizona,2025-03-06,2025-02-17,Account,Critical,Pending,Lauren Hawkins,62.01,Satisfied,Web,55669,147.17,Delivered
+890137,5703,Luis Green,markcampos@hotmail.com,39,Libyan Arab Jamahiriya,Susanstad,North Dakota,2024-11-09,2024-07-23,Returns,Low,Closed,Denise Porter MD,19.34,Satisfied,Chatbot,85927,765.75,Delivered
+851162,7918,Alexis Parks,marywilson@levy-fernandez.biz,53,Eritrea,Blacktown,Louisiana,2025-02-13,2025-03-20,Account,Low,Closed,Kathleen White,79.33,Satisfied,Phone,69904,227.02,Returned
+405771,7972,Albert Jackson,theresaayala@gmail.com,24,Netherlands,Ashleyfort,South Carolina,2025-03-23,2025-04-09,Technical,Critical,Pending,Brad Harris,19.07,Very Dissatisfied,Web,66121,320.92,Cancelled
+657778,2625,Cameron George,weaverstephanie@carter-atkins.com,32,Thailand,North Rebeccaton,Nevada,2025-03-03,2025-01-11,Technical,High,Escalated,Thomas Lewis,14.98,Very Dissatisfied,Web,69797,877.13,Returned
+752724,9778,Lisa Gonzalez,laurawhite@brooks-vasquez.com,59,Uganda,Lynchberg,South Carolina,2025-02-20,2024-11-22,Account,High,Open,Amanda Bolton,6.85,Very Dissatisfied,Chatbot,84183,871.45,Pending
+767935,4056,Vanessa Sullivan,kara77@gmail.com,69,Fiji,Port Danaview,Iowa,2025-03-19,2025-01-22,Technical,High,Closed,Isaac Jones,62.37,Neutral,Phone,60450,828.52,Pending
+803235,4815,Lisa Smith,joannariddle@patterson-hamilton.com,29,Guinea,Alexisborough,Indiana,2025-04-23,2025-02-27,Returns,Medium,Pending,Katrina Scott,5.42,Dissatisfied,In-Person,52834,744.98,Pending
+176199,3166,Christopher Daugherty,ugarcia@yahoo.com,34,Zambia,East Jessicaville,Virginia,2025-02-02,2025-04-10,Account,Critical,Pending,Cody Johnson,5.39,Very Dissatisfied,Email,55822,350.67,Returned
+485282,2056,Steven Oconnor,knightlauren@gmail.com,62,Colombia,North Ryanton,Missouri,2024-10-21,2024-11-07,Account,Medium,Escalated,Michelle Rodriguez,21.23,Satisfied,Email,94933,861.12,Cancelled
+423575,8560,Maria Sanchez,djohnson@gmail.com,30,United Kingdom,East Courtney,Hawaii,2025-04-14,2025-03-09,Technical,Low,Pending,Alexis Phillips,19.71,Very Satisfied,Email,70480,450.93,Pending
+514373,2329,Amanda Peterson,toniburke@hotmail.com,42,Belgium,New Ashleyhaven,Pennsylvania,2025-01-23,2025-03-24,Returns,Medium,Closed,Ashley Barber,82.28,Dissatisfied,Web,59912,952.11,Returned
+607510,3345,Richard Fisher,thompsonanna@hotmail.com,54,Serbia,North Jessica,North Dakota,2025-01-13,2025-06-23,Billing,Critical,Escalated,Andrew Patterson,20.4,Satisfied,Phone,55245,846.88,Pending
+283264,8861,Carl Lopez,qperkins@hotmail.com,66,Montserrat,Micheleside,Maryland,2025-01-02,2025-01-11,Technical,Medium,Pending,John Horton,1.93,Neutral,In-Person,52100,791.37,Cancelled
+370450,1484,Joseph Smith,blakefreeman@gmail.com,68,Micronesia,Reyesbury,Pennsylvania,2024-12-13,2025-02-28,Shipping,Medium,Open,Sharon Hall,15.67,Satisfied,Chatbot,91900,501.46,Returned
+471199,3480,Lindsay Baker,vunderwood@hotmail.com,46,Malawi,Garciaview,Illinois,2024-11-12,2025-05-12,Technical,Low,Pending,Robert Pitts,7.95,Satisfied,Web,75102,670.87,Pending
+562143,7154,Yolanda Thomas,harpercynthia@hotmail.com,67,Rwanda,Cookmouth,Wyoming,2025-05-01,2024-11-12,Shipping,High,Closed,David Barrett,4.56,Very Satisfied,Phone,62192,52.24,Cancelled
+599786,4116,David Riley,boydvictoria@lewis-parsons.net,71,Lebanon,Johnborough,Texas,2024-12-22,2024-07-24,Billing,Medium,Open,Chelsea Reyes,25.41,Satisfied,Email,58069,738.16,Cancelled
+191957,8855,Kimberly Garcia,thompsoncindy@gmail.com,71,Belize,New Louis,Georgia,2024-08-27,2025-04-17,Technical,Critical,Pending,Adam Burton,86.14,Satisfied,Phone,84744,743.87,Cancelled
+295507,7143,Theresa Estrada,daniel82@hotmail.com,44,Heard Island and McDonald Islands,New Jessica,Virginia,2025-02-28,2024-09-10,Returns,Medium,Escalated,Matthew Young,2.54,Neutral,In-Person,81817,606.19,Pending
+430174,9564,Kevin Gilbert,destinycohen@gmail.com,30,Bahrain,Martinezmouth,Wisconsin,2024-11-25,2025-02-02,Returns,Medium,Closed,Reginald Flores,43.14,Very Dissatisfied,Web,72972,602.98,Cancelled
+497425,3215,Emma Arnold,jeffrey43@hotmail.com,70,Niger,North Anaberg,Wisconsin,2025-03-18,2024-11-19,Shipping,Low,Closed,Mr. Mitchell Lowery,13.77,Dissatisfied,Email,77609,961.13,Cancelled
+233227,8094,Parker Thomas,seanmiller@hotmail.com,58,Indonesia,Rogersside,Arizona,2025-03-29,2024-11-06,Billing,Critical,Escalated,Susan Stewart,15.89,Dissatisfied,Chatbot,57109,631.27,Cancelled
+129391,4290,Tanya Henderson,sanchezjordan@yahoo.com,49,Swaziland,West Misty,South Dakota,2025-05-26,2024-08-26,Account,High,Open,Eric Mitchell,84.79,Very Satisfied,Phone,55335,952.9,Returned
+209334,2709,David Morris,tanya69@gmail.com,42,Antarctica (the territory South of 60 deg S),Lisashire,Montana,2024-12-26,2024-10-31,Shipping,High,Closed,Lori Booth,148.95,Satisfied,Email,55587,203.72,Returned
+467819,6536,Kelly Thompson,tsnyder@gmail.com,42,Falkland Islands (Malvinas),Johnsonshire,Indiana,2025-05-08,2024-12-18,Billing,Low,Closed,Anthony Smith,3.04,Very Dissatisfied,In-Person,91461,483.42,Pending
+275201,6587,David Walker,salasjennifer@young-vasquez.info,24,Spain,East Annamouth,New York,2025-06-16,2024-09-15,Billing,Medium,Open,Courtney Taylor,2.16,Neutral,In-Person,93584,477.09,Pending
+476622,6055,Michael Wallace,jle@yahoo.com,39,Equatorial Guinea,East Meganfort,New York,2025-01-20,2024-11-07,Billing,Critical,Closed,Victor Mahoney,0.02,Satisfied,Phone,52624,708.2,Cancelled
+180779,8161,Alexander Lee,tammy74@richard-cohen.com,58,Qatar,Zacharyfort,Michigan,2025-04-22,2024-07-19,Account,High,Escalated,Patrick Thomas,29.68,Dissatisfied,Chatbot,76182,517.75,Delivered
+867904,3254,Madison Perez,djones@barrett-li.com,33,Micronesia,Johnsonmouth,North Dakota,2025-05-04,2025-02-09,Technical,Medium,Closed,Melissa Cox,25.92,Very Satisfied,In-Person,66999,950.16,Cancelled
+898554,5051,Michael Garcia,heather97@evans.com,73,Denmark,Mcconnellbury,New York,2024-08-19,2024-08-16,Returns,Medium,Pending,Samuel Wilcox,3.39,Very Dissatisfied,Phone,52601,206.35,Pending
+783415,5240,Kellie Campbell,juandiaz@yahoo.com,38,Yemen,Jessicaville,Washington,2025-01-06,2025-04-30,Account,Medium,Closed,Nathan Chambers,3.19,Dissatisfied,In-Person,81186,965.7,Cancelled
+557627,8716,Brandi Wells,jaclyn26@luna.com,51,Nauru,East Sharon,New Mexico,2024-09-18,2025-01-09,Shipping,High,Pending,Tiffany Ho,89.67,Very Satisfied,Chatbot,65421,791.31,Delivered
+108793,6333,Clifford Butler,mmiller@yahoo.com,51,Chile,Jofurt,Idaho,2024-10-20,2024-09-03,Returns,High,Escalated,Steven Bradley,1.06,Satisfied,Phone,54406,798.36,Returned
+669047,1026,Sara Hunt,angelareed@gmail.com,30,China,Fisherborough,Indiana,2025-02-02,2025-05-02,Account,Low,Open,Seth Garcia,26.28,Very Dissatisfied,Email,65383,878.54,Pending
+435955,1743,Michelle Washington,breanna13@gmail.com,36,Korea,Lisaside,Wyoming,2024-11-05,2025-02-23,Shipping,High,Pending,Jordan Perez,41.89,Dissatisfied,In-Person,93058,743.72,Pending
+348271,1123,Dylan Powell,jeanneadams@acosta.com,25,Mozambique,New Pamelamouth,Indiana,2024-11-02,2025-03-25,Shipping,Low,Closed,Andrea Parker,59.13,Satisfied,Email,79463,968.17,Returned
+965149,2886,Kevin Crawford,nicholas51@day-allen.com,59,Solomon Islands,Kingchester,Illinois,2025-04-03,2025-06-09,Returns,Low,Closed,Laura Hart,11.28,Very Dissatisfied,Phone,72985,129.98,Delivered
+974019,4392,Amanda Blankenship,adam58@hotmail.com,40,Jamaica,South Thomas,Delaware,2024-08-19,2024-11-11,Billing,High,Closed,Natasha Zuniga,4.77,Dissatisfied,Phone,86495,639.02,Returned
+723530,5812,Kristen Evans,yfields@bernard.net,58,Central African Republic,Kiarafurt,West Virginia,2025-05-06,2024-10-02,Technical,High,Closed,Michael Phillips,24.92,Dissatisfied,Chatbot,92376,314.46,Pending
+508851,1926,Christine Mayer,hollandmichael@smith.com,44,Christmas Island,Gutierrezfort,New York,2024-11-17,2024-08-18,Technical,Medium,Closed,William Little,52.18,Neutral,Email,81761,436.99,Pending
+667434,8245,Johnny Phillips,twilcox@hotmail.com,27,Maldives,North Daniel,Texas,2025-01-15,2024-08-29,Shipping,Low,Pending,Melissa Haley,30.37,Dissatisfied,Email,57993,370.98,Returned
+398480,9230,Cynthia Vargas,richardbrown@mann.com,56,Malawi,Lake Kimberlyville,Missouri,2024-11-11,2024-12-02,Account,High,Escalated,Jeffrey Davidson,0.99,Very Satisfied,Web,60394,940.17,Pending
+591674,4648,Thomas Huynh,annemcknight@morgan-wood.com,65,Tajikistan,Port Mackenziemouth,Maryland,2024-11-07,2025-04-27,Returns,Low,Closed,Jerome Cochran,9.13,Dissatisfied,Email,83942,89.25,Returned
+768788,4380,Anna Ramirez,albert27@gmail.com,73,Haiti,Rogersborough,Wisconsin,2025-04-03,2025-07-07,Account,Critical,Pending,Kevin Evans,1.62,Very Dissatisfied,In-Person,76359,71.06,Pending
+257893,4971,Jason Atkins,keith69@gmail.com,57,Norway,Port Shannonburgh,Minnesota,2024-08-28,2024-10-15,Technical,Low,Closed,Kyle Wilson,38.34,Dissatisfied,Phone,55432,414.72,Pending
+477300,2260,Brandon Wood,sergiogibson@yahoo.com,57,Croatia,Lake Renee,New York,2025-07-07,2025-02-16,Technical,Medium,Closed,Nicole Gilbert,69.26,Very Dissatisfied,Web,95781,55.18,Cancelled
+431717,1531,Daniel Hayes PhD,paulmartinez@gmail.com,21,New Caledonia,Allisonchester,Pennsylvania,2025-04-15,2025-02-17,Technical,High,Escalated,Johnny Lewis,21.62,Satisfied,Chatbot,91902,614.02,Cancelled
+311947,1441,James Sharp,gordonlisa@mack-garza.info,29,Sweden,East Scottmouth,Alabama,2025-03-14,2025-01-05,Account,Critical,Pending,Amy Nichols,25.05,Neutral,Phone,75787,683.88,Cancelled
+622664,2838,Jill Bond,csmith@rojas.com,47,Tunisia,South Keithfort,Colorado,2025-03-06,2024-12-31,Account,Medium,Closed,Beth Flores,10.02,Dissatisfied,Web,64546,648.2,Delivered
+199662,7336,Misty Elliott,zgonzalez@cooley-walker.com,61,Ecuador,East Brittanyport,Massachusetts,2024-11-27,2025-05-25,Returns,High,Open,Tyler Morgan,14.08,Dissatisfied,In-Person,93120,158.92,Cancelled
+249107,2831,Norman Adkins,mccoyalicia@collins.org,47,Suriname,Atkinsonhaven,Virginia,2024-12-25,2025-07-13,Returns,Medium,Open,Carrie Blanchard,73.16,Neutral,In-Person,73247,260.6,Delivered
+921957,7812,Linda Gardner,cherylkim@perez.biz,45,Lebanon,South Jamiechester,Wyoming,2024-09-06,2025-01-06,Shipping,Low,Pending,Katherine Jackson,4.89,Neutral,Phone,91344,571.83,Returned
+314271,7947,Dawn Owens,poolekatelyn@hotmail.com,64,Zimbabwe,Sanchezbury,Alaska,2025-01-14,2024-12-15,Billing,High,Pending,Daniel Thomas,74.98,Satisfied,Phone,56338,116.31,Cancelled
+447426,9427,Susan Shelton,wagnerdebra@scott.net,28,Kiribati,West Anthony,Connecticut,2025-03-04,2024-08-01,Shipping,High,Escalated,Amanda Baldwin,109.3,Very Dissatisfied,Web,77740,365.61,Returned
+363171,1399,Jerry Brown,michelle92@hall-bishop.com,42,Anguilla,North Dianeside,Indiana,2024-10-21,2024-08-27,Shipping,High,Escalated,Jacob Davis,13.45,Very Satisfied,Phone,93585,926.92,Returned
+248234,1436,Martha Garner,jonathan26@fox.com,60,Kuwait,Lake Andreton,Indiana,2024-11-19,2025-07-16,Account,High,Escalated,Sonia Miller,3.04,Very Satisfied,Email,63247,698.49,Pending
+540818,3833,Beth Ferguson,frivera@delacruz-harrington.com,61,Andorra,Shawnmouth,New York,2024-07-26,2025-03-21,Billing,Low,Open,Joy Singleton,67.16,Very Satisfied,Phone,56240,738.93,Pending
+477919,3033,Christina Avila,crystalrogers@wise.info,54,Togo,North Jennatown,Nebraska,2024-09-15,2025-05-14,Account,Medium,Escalated,Michele Garcia,7.84,Very Satisfied,Chatbot,88434,371.91,Cancelled
+362328,4275,Devin Gibson,martinezoscar@hampton.info,66,Mauritania,East Jason,North Carolina,2024-07-30,2024-12-12,Shipping,Low,Pending,Lauren Rogers,21.72,Very Dissatisfied,Chatbot,77871,136.64,Returned
+193471,4711,Jacob Stone,gallegosdonald@gmail.com,43,San Marino,Greenfurt,Minnesota,2025-03-18,2025-05-21,Returns,Medium,Closed,Timothy Vasquez,2.27,Satisfied,Chatbot,79578,362.31,Pending
+459336,2323,Stephanie Kramer,ygrant@gmail.com,70,Lithuania,Yangville,North Carolina,2024-08-11,2025-01-08,Returns,Low,Escalated,Jennifer Schultz,0.02,Neutral,Email,79810,841.15,Returned
+296624,5572,Steven Carroll,dunnpaul@maynard-carter.com,44,Antigua and Barbuda,Sosastad,Alaska,2025-01-28,2024-08-29,Shipping,Low,Escalated,Danielle Morales,18.63,Very Dissatisfied,Phone,89108,330.57,Pending
+358454,9510,Annette Jenkins,geraldrollins@gmail.com,61,Uruguay,Nguyenchester,Alabama,2024-08-28,2025-06-13,Account,Critical,Open,Connor Trujillo,25.23,Dissatisfied,In-Person,74368,596.87,Cancelled
+841696,9799,Jonathan Woodard,lesliesmith@hotmail.com,38,China,Lake Joshuashire,Iowa,2024-12-04,2024-10-05,Account,High,Pending,John Ward,26.05,Dissatisfied,Email,85278,948.62,Delivered
+351750,5388,Edward Wilson,ynguyen@meadows.com,68,New Zealand,West Terri,Georgia,2025-01-23,2024-08-14,Technical,Critical,Pending,Susan Maynard,0.71,Dissatisfied,Phone,86548,728.32,Cancelled
+863401,2857,Kathryn Meyer,clarkteresa@yahoo.com,50,Malawi,Port Amandabury,Virginia,2025-05-20,2024-10-30,Shipping,Critical,Closed,Adrian Porter,8.56,Very Satisfied,In-Person,72781,633.03,Returned
+740265,3983,Christina Andrews,jamesbeard@gmail.com,73,Chad,Christopherhaven,West Virginia,2024-08-13,2024-09-12,Shipping,Low,Open,Barbara Weber,24.88,Dissatisfied,Chatbot,96033,799.05,Delivered
+149128,5947,Samantha Walker,jpatterson@atkins-reilly.org,22,Bahrain,East Ryantown,Massachusetts,2024-07-22,2024-07-16,Account,High,Pending,Kendra Brown,7.88,Very Satisfied,Email,55412,498.66,Returned
+452801,4228,John Jones DDS,lwilliams@yahoo.com,36,Saint Lucia,Hernandezmouth,Alabama,2024-10-02,2024-11-08,Account,Critical,Escalated,Lori Butler,15.98,Neutral,Web,56680,876.68,Pending
+490897,2415,Nicholas King,rodrigueztommy@hotmail.com,44,Lao People's Democratic Republic,Lake Brianchester,Pennsylvania,2025-02-28,2024-12-08,Returns,Low,Closed,Timothy Mccoy,126.06,Very Dissatisfied,Email,87791,614.48,Cancelled
+779450,3892,Tiffany Jones,jasondorsey@yahoo.com,71,Guadeloupe,Lake Nicholasport,New Mexico,2025-06-11,2025-07-08,Account,High,Escalated,Thomas Horn,16.89,Neutral,Phone,93452,829.51,Pending
+905114,1499,Oscar Scott,colemanjacob@yahoo.com,71,Christmas Island,West Richardburgh,Utah,2024-09-23,2024-11-04,Account,Low,Closed,Kimberly Owens,6.36,Dissatisfied,Web,64655,277.34,Returned
+741153,1100,James Terry,chill@perkins-walters.com,60,Bouvet Island (Bouvetoya),Leeton,Wisconsin,2025-07-16,2025-02-02,Shipping,Low,Closed,Kimberly Vazquez,33.49,Satisfied,Web,94528,139.63,Cancelled
+164684,2708,Marcia White,tammydavidson@delacruz.net,51,Anguilla,Desireeberg,Connecticut,2024-12-10,2025-02-01,Shipping,High,Pending,Brandon Tran,50.01,Satisfied,Web,90313,484.17,Cancelled
+251039,8538,Anthony Santos,oramirez@gmail.com,62,Eritrea,Greeneborough,West Virginia,2025-04-28,2025-06-20,Returns,High,Closed,Manuel Mason,0.76,Neutral,Web,79962,247.67,Returned
+286094,8660,Chloe Johnson,marymartin@harris.org,18,Serbia,North Johnny,West Virginia,2024-12-12,2024-10-04,Billing,Medium,Escalated,Patty Carlson,41.13,Very Dissatisfied,Email,54605,763.06,Cancelled
+992153,1288,Rachel Spears,sabrina09@yahoo.com,65,Nepal,Floresshire,California,2025-07-01,2025-07-11,Technical,Critical,Open,Mike Andrews,4.28,Neutral,Email,81859,224.41,Delivered
+166124,1043,Steve Goodman,alejandro93@jones.org,34,Iceland,Port Carolmouth,Maryland,2024-08-03,2024-10-20,Returns,Low,Open,Charles Bennett,3.14,Satisfied,Chatbot,76616,163.58,Delivered
+550654,4720,Anthony Richard,joemartin@yahoo.com,58,Syrian Arab Republic,East Bobbymouth,Pennsylvania,2025-04-18,2025-01-27,Billing,High,Closed,Pam Jones,7.03,Very Satisfied,Web,80552,405.4,Pending
+565150,6433,Jeffrey Gomez,rollinslisa@yahoo.com,67,Uruguay,Port Ashleyton,Wyoming,2025-07-16,2024-11-05,Returns,High,Open,Jeremy Fischer,10.68,Very Dissatisfied,Chatbot,80376,939.23,Pending
+916634,2177,Brianna Kelley,brian67@kennedy.com,51,San Marino,North George,Hawaii,2025-01-10,2024-10-05,Billing,Medium,Closed,Kevin Bennett,4.56,Dissatisfied,Web,61535,94.92,Returned
+385120,4937,Jeanne Jones,tmitchell@hotmail.com,30,Bosnia and Herzegovina,Colinbury,Missouri,2024-09-01,2025-04-30,Account,Low,Escalated,Aaron Adkins,78.76,Very Dissatisfied,In-Person,79851,344.92,Pending
+239244,5571,Erica Hickman,abell@landry.com,60,Christmas Island,Houstonport,North Carolina,2025-06-18,2025-04-12,Billing,Medium,Open,Caleb Jones,10.37,Very Dissatisfied,Phone,56756,776.75,Returned
+436569,2902,Christopher Mason,william14@yahoo.com,21,Djibouti,Sotostad,New Mexico,2024-12-26,2025-06-15,Returns,High,Closed,Wendy Dunn,38.08,Very Dissatisfied,Email,63708,287.95,Cancelled
+648394,3753,Benjamin Burke,dirwin@yahoo.com,34,Martinique,Lake Ronald,Rhode Island,2024-12-11,2025-02-03,Account,High,Pending,Jamie Berry,40.44,Dissatisfied,Email,63286,896.73,Pending
+704809,4177,Timothy Taylor,zfernandez@smith-jones.net,20,Bermuda,Lake Douglas,South Dakota,2025-02-18,2024-09-30,Account,Critical,Escalated,Jerry Brewer,39.9,Neutral,Email,90279,626.49,Pending
+986438,2382,Jose Burgess,taylor13@hotmail.com,26,Guinea-Bissau,Juarezberg,Virginia,2025-01-09,2024-10-04,Shipping,Critical,Open,Tara Gonzalez,87.93,Neutral,Email,65495,291.97,Pending
+222069,7923,Melissa Mcintyre,jennifer03@hotmail.com,43,Anguilla,New Rachel,Delaware,2024-09-29,2025-05-11,Account,Critical,Escalated,Elizabeth Oliver,27.75,Neutral,In-Person,75300,451.35,Cancelled
+454462,5536,Peter Jenkins MD,milesbonnie@bishop.com,50,Fiji,North Elizabethland,Oregon,2024-07-18,2024-08-30,Account,Low,Escalated,Kelly Wu,6.3,Neutral,Chatbot,78500,91.74,Delivered
+779685,9124,Amanda Zimmerman,ghart@gmail.com,71,Panama,New Tracybury,Idaho,2025-02-04,2024-09-02,Shipping,Low,Escalated,Michael Mccoy,32.03,Satisfied,Chatbot,92314,245.13,Pending
+905493,2913,Paul Kennedy Jr.,mikejohnston@williams.org,36,Japan,North Belinda,Wyoming,2025-03-12,2025-02-13,Returns,Low,Pending,Valerie Goodwin,7.27,Neutral,Email,89901,940.69,Pending
+845108,5474,Alicia Franklin,stephenhenry@brown.com,59,Svalbard & Jan Mayen Islands,Juliaview,Ohio,2024-10-26,2025-01-05,Returns,Critical,Open,Patrick Chavez,3.73,Dissatisfied,Chatbot,67156,750.01,Pending
+740025,3397,Kimberly Long,melissa57@hotmail.com,57,Costa Rica,Port Richardborough,Nebraska,2025-02-03,2025-04-04,Returns,Medium,Pending,Keith Garcia,11.18,Very Dissatisfied,Chatbot,50381,354.45,Returned
+513740,6305,Christine Barrera,feliciawilliams@gmail.com,58,Niue,Gregoryshire,Pennsylvania,2025-05-06,2024-12-29,Shipping,Medium,Closed,Mary Prince,26.44,Dissatisfied,Email,89997,484.56,Returned
+338818,7170,Steven Johnson,charlesnielsen@yahoo.com,20,Romania,New Michelle,New Hampshire,2025-01-29,2025-05-22,Technical,Critical,Pending,Felicia Clark,49.64,Very Satisfied,Email,79026,257.06,Returned
+156770,4588,Jessica Ryan,fryronald@hotmail.com,69,Denmark,Thomasborough,Kentucky,2025-02-05,2025-05-05,Shipping,Medium,Escalated,Brooke Austin,68.62,Satisfied,Web,51626,64.94,Delivered
+511359,4679,Noah Coffey,judithsmith@schaefer.com,46,Hong Kong,Lake Jillfurt,Hawaii,2025-01-09,2025-05-17,Returns,Critical,Pending,Patrick Mccoy,6.56,Satisfied,Email,90863,355.22,Delivered
+903812,4236,Joshua Thomas,reeveslisa@yahoo.com,52,Madagascar,New Caroline,Virginia,2025-06-04,2025-01-09,Billing,High,Open,Katelyn Jordan,50.35,Very Dissatisfied,Email,58695,691.49,Delivered
+596808,9036,Amy Rivera,lambertjames@guzman-rojas.org,68,Zimbabwe,Jacquelinemouth,Massachusetts,2024-08-18,2025-01-07,Returns,Medium,Pending,Brent Potter,18.14,Very Dissatisfied,In-Person,70304,135.52,Pending
+613635,8253,Norman Harris,anthonymorris@rice.com,42,Gambia,Rodgerschester,New York,2024-11-10,2025-04-15,Technical,Low,Pending,Leonard Soto,65.17,Very Dissatisfied,Web,54077,690.76,Returned
+749577,2850,Renee Wilson,peter93@gmail.com,65,Japan,Smithberg,Delaware,2025-01-31,2024-10-20,Billing,Medium,Closed,Megan Crane,13.65,Neutral,In-Person,94321,475.07,Delivered
+432229,8966,Sheri Mclaughlin,martinezmelissa@baker.info,53,Grenada,Sarahhaven,Iowa,2025-02-13,2024-11-15,Account,Low,Closed,Garrett Melton,42.44,Satisfied,Chatbot,82595,835.77,Cancelled
+671087,7435,Elizabeth Allen,lorimartin@castro.com,18,United Kingdom,New Valerie,Mississippi,2024-11-26,2025-02-24,Account,High,Pending,Heather Everett,33.96,Satisfied,Chatbot,71742,674.25,Delivered
+978328,6228,William Pratt,saracordova@hotmail.com,65,Singapore,Lake James,Washington,2025-01-03,2024-11-09,Account,Critical,Open,Joseph Fletcher,35.33,Dissatisfied,Web,96902,359.2,Pending
+751722,1981,David Keller,palmerrobert@morgan-smith.info,44,Saint Martin,North Mariaville,Illinois,2024-10-09,2025-02-28,Technical,Critical,Pending,Joseph Gonzalez,25.86,Dissatisfied,Chatbot,74725,383.31,Cancelled
+726561,8524,Mr. Carlos Scott,charles60@gmail.com,19,Colombia,Hayleytown,Idaho,2024-12-27,2025-01-24,Account,Low,Open,Abigail Thompson,21.31,Very Satisfied,Web,93871,237.82,Delivered
+194945,1686,Dennis Torres,chencandace@gmail.com,64,New Zealand,Melissachester,Tennessee,2025-05-25,2025-05-12,Billing,Low,Pending,Alan Munoz,20.53,Dissatisfied,Email,55738,916.77,Delivered
+716563,8037,Paula Lane,ariana43@mathews.info,25,Ethiopia,Danland,Kentucky,2024-09-25,2024-11-02,Account,Medium,Open,Christopher Hernandez,8.98,Neutral,Email,56346,767.23,Delivered
+635222,8521,Christopher Jones,cweaver@powell.org,42,Ecuador,Hendersonchester,Wisconsin,2024-07-17,2024-09-12,Account,Medium,Open,Leslie Jacobs,22.02,Very Satisfied,In-Person,83821,819.12,Pending
+664748,4916,Christine Fuller MD,vargasalison@yahoo.com,71,Zambia,Kellyside,Michigan,2025-04-29,2025-04-10,Shipping,Medium,Closed,Robert Powell,91.98,Dissatisfied,Chatbot,68616,459.7,Returned
+796964,7677,Michael Silva,brent85@hotmail.com,64,Bolivia,Lambertview,Illinois,2025-03-22,2024-12-31,Technical,High,Escalated,Jamie Smith,24.25,Very Satisfied,In-Person,98991,387.8,Returned
+619789,1912,Matthew Stark,smithabigail@blake-petersen.com,34,Taiwan,South Jeffreyton,Ohio,2024-07-26,2024-10-19,Billing,High,Escalated,Peter Davis,8.9,Neutral,Email,71656,216.48,Pending
+520788,9641,Jerry Bernard,andrewclark@gmail.com,57,Estonia,New Taylor,Kansas,2024-09-20,2025-02-16,Billing,Critical,Pending,Kristin Garcia,4.71,Dissatisfied,Email,61799,265.4,Delivered
+981633,7605,Shannon Mcdonald,alishajackson@gmail.com,44,Bosnia and Herzegovina,Thomasfort,Michigan,2025-07-11,2024-10-20,Billing,High,Escalated,Michael Rodriguez,48.39,Very Dissatisfied,In-Person,77864,485.44,Returned
+825141,5403,Erika Jackson,lisa35@yahoo.com,70,Turks and Caicos Islands,North Kristopher,Iowa,2024-10-20,2024-12-13,Billing,Medium,Open,John Chang,24.6,Dissatisfied,Phone,89412,821.84,Pending
+576657,2950,David Baker,unash@gmail.com,45,British Virgin Islands,Port Stephaniebury,Maine,2025-02-23,2024-12-18,Account,Critical,Escalated,Laurie Wolfe,40.95,Dissatisfied,Web,80708,116.17,Pending
+277631,8384,Angela Avila,justin55@gmail.com,29,Benin,Kimberlyshire,Mississippi,2025-02-02,2025-02-26,Account,Medium,Closed,Briana Benjamin,2.73,Dissatisfied,In-Person,90740,259.11,Pending
+531792,5721,James Davies,kaitlyn40@grant-powell.biz,52,Uganda,South David,New York,2025-02-11,2025-05-22,Account,Critical,Escalated,Kelly Patterson,21.81,Very Dissatisfied,Phone,58950,329.94,Cancelled
+504746,5967,Maria Colon,christopher50@keith.com,74,Equatorial Guinea,East Tonya,Wisconsin,2025-01-10,2025-05-30,Shipping,Low,Closed,Melanie Cole,10.55,Dissatisfied,Chatbot,78654,671.91,Returned
+650257,7882,Glen Garcia,beardtyler@miller.biz,53,Mauritania,Thomasview,Connecticut,2024-11-17,2025-04-12,Returns,Medium,Pending,Jon Hall,6.41,Very Satisfied,Chatbot,59179,95.27,Delivered
+574633,4923,Megan Charles,john29@barnes.com,31,Gibraltar,Seanberg,Wyoming,2025-02-07,2025-01-16,Technical,Critical,Open,Zachary Allen,13.88,Very Satisfied,Email,54472,961.91,Cancelled
+148399,3700,Andrea Olson,josephrobinson@hernandez.com,46,Guam,Crystaltown,Wisconsin,2024-10-04,2025-04-26,Account,High,Escalated,Raymond Ryan,23.65,Satisfied,Email,93054,363.2,Delivered
+213512,4984,Terri Chase,wyattsloan@tyler.com,36,Guernsey,West Megan,North Dakota,2024-10-22,2024-11-29,Account,High,Pending,Ryan Jones,12.82,Very Satisfied,Chatbot,89578,462.12,Cancelled
+573255,2939,Theodore Vasquez,vhines@yahoo.com,37,Australia,Port Leslieport,Arkansas,2025-03-22,2025-04-09,Account,High,Closed,Tiffany Howell,1.71,Very Satisfied,Email,54739,882.49,Delivered
+720064,1473,Anna Haas,duncangregory@gmail.com,67,Romania,West Jeremy,California,2024-09-06,2024-07-31,Technical,Medium,Open,Michael Griffin,2.81,Satisfied,Email,54224,677.99,Pending
+234438,5529,Kristina Rivas,amandareed@williams-olson.org,73,San Marino,Jamesmouth,Tennessee,2024-11-22,2024-09-22,Technical,Medium,Pending,Brent Phelps,8.61,Neutral,Email,90868,396.95,Returned
+224206,9774,Gregory Roberts,chloe01@jones.com,37,Mongolia,West Jeffreytown,New Hampshire,2024-11-24,2024-11-15,Shipping,High,Escalated,Christopher Fuentes,84.46,Very Satisfied,Web,77835,220.21,Cancelled
+812747,3096,Paul Johnston,brownjohn@carter.com,28,Dominica,West Stephanieland,Texas,2024-12-09,2025-07-06,Returns,Critical,Pending,Karen Walter,4.65,Very Satisfied,Chatbot,66457,791.82,Pending
+624292,7387,Rachel Kim,sabrina20@yahoo.com,39,Iran,Jacobfurt,Wyoming,2024-11-13,2024-11-03,Billing,Low,Pending,Steven Farmer,17.48,Very Dissatisfied,Email,82634,594.8,Delivered
+283599,8088,Jorge Scott,markjordan@johnson-jones.org,25,Angola,Port Lisaberg,Virginia,2024-10-17,2025-02-06,Shipping,High,Open,Alyssa Murphy,9.57,Very Dissatisfied,Email,99611,245.49,Cancelled
+181093,1523,Nicole Hill,oliviadavis@yahoo.com,30,Iran,West Taraberg,Kansas,2024-11-19,2025-07-09,Returns,High,Closed,Michele Huerta,4.73,Very Satisfied,Chatbot,72010,387.08,Pending
+511689,3228,Scott Green,johnsonleslie@moore.com,44,Samoa,West Joseph,Delaware,2024-07-17,2025-07-14,Account,Critical,Pending,Joel Hardin,41.43,Very Satisfied,In-Person,71543,530.13,Returned
+420665,1718,Danny Tucker,allenblair@gmail.com,64,Guatemala,Lake Renee,South Carolina,2025-07-05,2025-01-24,Billing,Low,Closed,Maria Norton,43.16,Dissatisfied,In-Person,54720,62.66,Pending
+579925,1978,Erik Davis,tyler63@hotmail.com,30,Turkmenistan,Lake Christinaview,Kansas,2025-01-15,2024-09-27,Returns,High,Pending,Jessica Payne,14.96,Satisfied,Chatbot,53432,505.57,Returned
+936687,4391,Lisa Nelson,anthony91@yahoo.com,41,French Polynesia,New Loristad,Montana,2025-06-26,2024-10-28,Account,High,Pending,Nicholas Mcdonald,2.02,Very Dissatisfied,Web,56539,319.54,Cancelled
+841689,1614,Traci Potts,meghangibson@gmail.com,43,Antigua and Barbuda,New Valerieside,Montana,2025-02-02,2024-09-26,Returns,Medium,Pending,Joshua Lewis,57.1,Very Satisfied,Chatbot,50830,539.05,Delivered
+109275,5164,Peter Hardy,cameronmatthew@sims.biz,70,Guam,South Christina,Florida,2024-09-28,2025-01-10,Technical,High,Pending,Erin Avery,21.47,Dissatisfied,In-Person,93527,803.74,Cancelled
+365233,9822,James Orozco,littlerebecca@woodward-phelps.com,24,South Africa,Schultzside,Utah,2024-11-25,2025-04-12,Returns,Medium,Pending,Charles Lee,11.7,Neutral,Email,97718,390.71,Cancelled
+211107,3988,Amy Miller,nparker@hotmail.com,53,Monaco,East Adam,Oregon,2025-06-07,2025-06-20,Shipping,Low,Open,Kimberly Thompson,57.88,Dissatisfied,Phone,79415,882.62,Cancelled
+801177,3572,Dr. Robert Stuart IV,thomassimmons@yahoo.com,22,Ukraine,West Zacharyborough,Louisiana,2024-10-03,2024-12-21,Shipping,High,Escalated,Michael Small,2.32,Very Dissatisfied,Phone,78775,204.52,Returned
+467673,9159,Richard Griffin,brittany83@gregory-gross.com,45,Uzbekistan,East Christinatown,Florida,2025-05-27,2025-07-04,Billing,Medium,Open,Robert Baker,9.69,Satisfied,Web,96384,507.84,Delivered
+331304,6709,Meghan Collins,veronica02@hotmail.com,26,Liberia,Courtneyview,Illinois,2024-09-06,2025-01-04,Shipping,Critical,Escalated,James Stewart,24.86,Very Dissatisfied,Web,76338,476.87,Pending
+281548,2376,Amanda Huber,evalentine@taylor-rios.org,21,Saint Barthelemy,Lake Kerrihaven,Alaska,2024-10-01,2024-09-05,Returns,Low,Pending,Rebecca Morris,4.87,Neutral,In-Person,66896,653.08,Returned
+126151,8097,Lisa Taylor,stewartderek@gmail.com,24,Central African Republic,Herrerahaven,New Hampshire,2025-05-14,2025-06-15,Shipping,High,Pending,Belinda Massey,11.23,Satisfied,Email,90673,141.62,Returned
+253994,3679,Anthony Hunter,rosestephanie@jordan.com,65,Saudi Arabia,New Emilyhaven,Delaware,2024-07-26,2024-11-02,Technical,Medium,Closed,David Green,0.26,Satisfied,Chatbot,78460,226.23,Returned
+548061,2684,Roger Dixon,vthomas@burgess-powell.com,39,Chad,Lake Jonathan,Maryland,2024-12-27,2025-06-05,Technical,High,Open,David Stein,27.25,Dissatisfied,Email,52300,143.78,Pending
+802298,7845,Erin Harrison,ncurtis@gmail.com,65,Finland,East Stephanieville,Kansas,2025-05-17,2024-09-15,Billing,Critical,Pending,James Cochran,2.11,Neutral,In-Person,71920,431.44,Returned
+196388,5712,Alison Garcia,gregory31@reed.org,19,Palau,West Karen,Nevada,2025-01-14,2025-05-07,Shipping,Critical,Closed,Joshua Allen,21.5,Very Dissatisfied,Chatbot,88258,197.82,Delivered
+452333,5015,Cheryl Foley,twhite@yahoo.com,31,United States Virgin Islands,West Laura,Indiana,2025-01-28,2025-02-03,Technical,Low,Open,Amy Lee,40.16,Dissatisfied,Email,74660,343.53,Delivered
+959543,1066,Dana Weaver,tiffanyjimenez@lopez.com,58,Niger,New Scott,Colorado,2025-03-12,2025-05-01,Technical,High,Open,Christine Frye,34.76,Very Satisfied,In-Person,59803,866.22,Cancelled
+780904,4417,Caitlin Jennings,alewis@gmail.com,52,Mauritius,New Douglasberg,Kansas,2024-11-08,2025-02-12,Technical,Critical,Closed,Brittany Cannon,0.29,Dissatisfied,Phone,97600,334.0,Pending
+588036,5364,Aaron Munoz,jensenlauren@bradley.biz,47,Falkland Islands (Malvinas),Port Scott,Delaware,2025-04-06,2024-08-29,Technical,Low,Open,Erik Calderon,7.57,Very Dissatisfied,Web,72487,187.08,Delivered
+152184,1950,Mark Taylor,jeffrey04@gmail.com,74,Morocco,North Nicole,Georgia,2024-09-19,2025-03-15,Billing,High,Escalated,Jennifer Santos,26.35,Satisfied,Web,98151,165.32,Cancelled
+999912,4688,Jenna Conner,travisgomez@gmail.com,28,Central African Republic,Michelleton,Nebraska,2025-04-11,2025-04-25,Technical,Low,Escalated,Suzanne Bowen,29.3,Very Satisfied,Chatbot,95975,534.7,Pending
+597912,4522,Desiree Gonzalez,mjones@gmail.com,46,Fiji,South Erictown,Michigan,2024-11-05,2025-02-12,Billing,Medium,Open,Cody Brown,29.31,Very Dissatisfied,In-Person,58526,482.21,Delivered
+353258,8902,Joseph Irwin,margaret48@fletcher.com,24,Spain,New Davidberg,Wisconsin,2025-03-08,2025-02-27,Shipping,High,Escalated,Kevin Miller,30.86,Satisfied,Web,89211,545.92,Returned
+167759,9580,Christopher Pratt,stephanieoliver@yahoo.com,29,Spain,Kellystad,Maryland,2024-10-26,2025-02-02,Shipping,Medium,Escalated,Jorge Morton,3.05,Very Satisfied,Web,62150,733.68,Delivered
+604851,9041,Tammy Wilkerson,zlopez@adkins.com,40,Saint Lucia,Anthonymouth,North Dakota,2025-03-28,2024-11-06,Technical,Medium,Escalated,Brittany Mathews,22.63,Very Dissatisfied,Phone,54267,496.99,Cancelled
+246273,8401,James Wright,christina29@burnett.com,72,Gambia,Haydenville,South Carolina,2025-02-09,2025-07-02,Returns,Critical,Open,Juan Smith,5.28,Neutral,Web,90199,651.24,Cancelled
+685909,1265,Shelby Diaz,victoria86@johnson-lopez.com,46,South Africa,Shawnside,Vermont,2024-10-02,2025-04-26,Account,High,Escalated,Yvonne Allen,0.9,Very Satisfied,Phone,96269,982.79,Delivered
+131848,1631,Amanda Williams,wlarson@yahoo.com,28,Nauru,Robertfort,Alaska,2025-07-11,2024-10-04,Returns,Low,Escalated,Felicia Ware,79.15,Neutral,Email,82090,77.92,Cancelled
+245367,6075,Diana Wood,paulafernandez@herrera-johnson.com,48,Germany,North Summerport,Massachusetts,2025-03-01,2025-02-13,Billing,High,Escalated,Ryan Baker,1.07,Very Satisfied,Phone,56205,335.61,Pending
+829549,7685,William Lara,lcarpenter@yahoo.com,30,Nauru,Wardbury,Iowa,2024-11-18,2024-09-22,Shipping,Medium,Pending,Sherry Stephenson,19.74,Satisfied,Chatbot,53592,65.15,Cancelled
+626551,9653,Gina Martinez,shelly61@butler.com,52,Malaysia,Margarettown,Rhode Island,2024-10-06,2024-08-08,Shipping,Low,Escalated,Mrs. Stephanie Schmidt,52.45,Neutral,Email,51124,844.97,Cancelled
+668490,9688,Thomas Castillo,beasleybrian@rowe-ramos.info,34,Italy,New Andreburgh,Colorado,2024-09-25,2025-04-24,Account,High,Open,Keith Meadows,15.61,Neutral,Email,82729,748.79,Pending
+163238,4548,Thomas Tanner,dphillips@collins.biz,43,Croatia,Joanneshire,Vermont,2024-07-16,2025-07-05,Returns,Medium,Closed,Robin Clark,27.64,Satisfied,Email,89295,903.97,Pending
+150692,7954,Robert Thompson,brian66@hotmail.com,55,Comoros,Tinatown,Indiana,2024-11-19,2025-04-08,Returns,Low,Escalated,Kelly Orozco,4.47,Very Dissatisfied,Web,83786,982.98,Returned
+309303,2615,Daniel Estrada,smithrhonda@yahoo.com,34,Bahamas,Manuelfort,Tennessee,2025-03-22,2025-02-23,Billing,Medium,Escalated,Joseph Villegas Jr.,15.15,Very Satisfied,Phone,75007,108.88,Returned
+672685,8446,James Blake,morrisonmargaret@hotmail.com,67,Albania,Davidfort,Florida,2024-10-20,2025-04-10,Shipping,Low,Escalated,Lisa Tanner,5.3,Very Satisfied,Web,52034,178.5,Returned
+106528,8556,Raymond Luna,autumn21@mcgee-munoz.com,39,Austria,Wendyfort,Alaska,2024-07-23,2025-01-04,Technical,Low,Closed,Andrew Tucker,8.89,Satisfied,Chatbot,60912,204.06,Returned
+961980,9633,Alvin Carter,westes@yahoo.com,61,Equatorial Guinea,Port Jessicatown,Louisiana,2024-12-08,2025-04-22,Returns,Medium,Closed,John Clayton,9.69,Very Dissatisfied,Phone,98913,273.77,Delivered
+953792,3796,Anthony Smith,ubrown@hotmail.com,62,Myanmar,Milesville,Arizona,2024-11-28,2025-01-24,Billing,Critical,Escalated,Mr. Chase White,2.05,Neutral,Web,75721,473.64,Pending
+648284,3845,April Travis,shannonchristopher@yahoo.com,61,Israel,Sarahmouth,Virginia,2024-10-18,2024-08-15,Technical,Medium,Closed,Mckenzie Miller,16.86,Neutral,In-Person,86798,407.11,Pending
+453985,5906,Garrett Duncan,scott12@hotmail.com,33,Niue,Chasetown,New York,2025-07-03,2024-12-16,Technical,Low,Open,Reginald Pierce,39.05,Dissatisfied,Web,99505,296.92,Pending
+814967,3376,Christina Young,tammywalker@hotmail.com,67,Guyana,Bellmouth,Indiana,2025-04-01,2025-04-24,Technical,High,Open,James Nelson,28.09,Very Dissatisfied,Phone,54905,444.0,Cancelled
+654146,9934,Miss Bailey Avila,jimenezjohn@gmail.com,53,Madagascar,Port Josephburgh,Vermont,2025-03-23,2024-10-06,Returns,Medium,Escalated,Angela Adams,17.73,Very Satisfied,Chatbot,74026,123.72,Returned
+350069,3037,Jeffrey Barker,brookewade@lee.com,20,Jordan,New Nicholasshire,Oklahoma,2024-10-28,2025-03-26,Account,Low,Escalated,Kimberly Garcia,98.93,Very Satisfied,Web,53670,228.87,Delivered
+246765,9460,Scott Johnson,aprillarson@gmail.com,39,India,Berryberg,Kansas,2025-03-17,2025-06-16,Shipping,Low,Escalated,Larry Coleman,16.82,Neutral,Email,80861,357.61,Returned
+489568,4061,Matthew Downs,cookheidi@gmail.com,40,Saint Barthelemy,Hammondton,New Jersey,2024-09-22,2025-06-24,Technical,Critical,Pending,Timothy May,27.59,Very Satisfied,Chatbot,52288,64.88,Cancelled
+616007,1451,Maria Wade,evansrebecca@lopez.com,33,Croatia,Jonesmouth,Mississippi,2024-12-08,2025-02-19,Technical,Medium,Closed,Jeremiah Diaz,0.46,Very Dissatisfied,Web,77655,965.12,Delivered
+101581,6476,Jaime Byrd,qclark@moore.com,36,Libyan Arab Jamahiriya,Marcuschester,Missouri,2025-04-17,2024-09-19,Returns,High,Pending,Jeremy Brady,8.65,Very Satisfied,Email,50735,55.03,Returned
+238164,1894,William Snyder,sheppardjared@huffman.info,67,Holy See (Vatican City State),West Erica,Iowa,2024-09-19,2025-04-21,Technical,High,Open,John Keith,4.57,Very Satisfied,Email,77805,220.71,Delivered
+666371,5478,Daniel Park,susantrevino@gmail.com,61,United Kingdom,Jillview,Idaho,2024-08-25,2025-05-27,Account,Critical,Escalated,Cynthia Taylor,1.66,Dissatisfied,Chatbot,60839,581.68,Cancelled
+222180,7500,Felicia Howard,wbauer@carr.com,50,Saint Vincent and the Grenadines,Pedrostad,Alaska,2025-07-13,2025-07-03,Technical,Medium,Escalated,Scott Edwards,82.32,Dissatisfied,Phone,97223,914.09,Delivered
+358683,6306,Christopher Mora,thall@gmail.com,28,Madagascar,Eatonchester,Maine,2025-03-09,2025-07-13,Account,Medium,Pending,Dr. Amy Williams,24.36,Dissatisfied,Email,97791,198.68,Pending
+213493,3123,Michael Wall,wrightdeborah@kline.net,44,Suriname,Port Lauratown,Missouri,2025-07-11,2024-09-21,Shipping,Critical,Open,Christopher Johnson,72.87,Satisfied,Phone,75357,259.05,Pending
+589023,2102,Amy Lewis,smithcourtney@montes.biz,69,Monaco,North Aliciatown,Alaska,2024-12-11,2024-09-26,Billing,Critical,Open,Linda Dominguez,4.93,Dissatisfied,Web,90873,983.7,Cancelled
+322073,5092,Robert Pena,timothy03@gonzalez.com,40,Sao Tome and Principe,New Carrie,Georgia,2024-08-18,2024-08-31,Shipping,Critical,Open,Joyce Allen,14.36,Very Dissatisfied,Phone,76802,814.69,Delivered
+936704,3304,Ashley Fuentes,adamhinton@bates.com,67,Guinea,Lake Lawrence,Nebraska,2025-05-18,2024-09-28,Account,Critical,Closed,Kurt Perry,32.94,Neutral,Phone,57407,598.32,Returned
+155738,6573,Matthew Donaldson,gary78@yahoo.com,44,Brunei Darussalam,Fisherland,Ohio,2024-10-03,2024-09-26,Billing,High,Closed,Meagan Weaver,19.14,Very Dissatisfied,Web,62259,732.51,Delivered
+745960,6269,Michael Rodriguez,williamlyons@thomas.com,40,Dominican Republic,East Joseph,New York,2024-07-22,2024-09-04,Technical,Low,Open,Brittany Olson,13.06,Neutral,Email,93497,590.41,Delivered
+325671,1890,James Taylor,johnsonnorman@gmail.com,41,Ethiopia,East Mallory,Vermont,2025-06-19,2024-07-23,Shipping,Critical,Pending,Jessica Thomas,57.06,Very Satisfied,Web,64220,305.3,Pending
+756803,4478,Kristina Young,daniellewhite@mcdonald.com,70,Belize,East Michael,Minnesota,2024-12-12,2025-04-16,Returns,Medium,Escalated,Julie Jimenez,19.05,Very Dissatisfied,In-Person,90280,541.75,Returned
+497548,1805,John Hood,abriggs@burnett.biz,53,Ghana,Alexandershire,New Jersey,2025-05-29,2024-08-26,Shipping,Critical,Closed,Catherine Ruiz,60.05,Dissatisfied,Chatbot,91710,798.9,Delivered
+453098,4130,Shannon Gibson,alexandercassidy@yahoo.com,26,Spain,West Sarahberg,Michigan,2024-10-04,2025-04-20,Shipping,Low,Pending,Kim Owen,57.52,Very Dissatisfied,Phone,65010,783.16,Cancelled
+752935,6921,Emily Holder,qpearson@griffith-graham.com,36,Uganda,West Sharihaven,Ohio,2024-09-17,2025-05-07,Account,High,Escalated,Jennifer Ware,38.73,Neutral,Web,84666,832.75,Delivered
+779064,2006,Shawn Trujillo,allenrichard@sampson-ferguson.org,60,Russian Federation,New Denise,North Carolina,2024-11-23,2024-11-01,Shipping,Critical,Closed,Donna Davis,2.34,Satisfied,Email,94984,868.09,Cancelled
+512968,1219,Holly Young,hgonzalez@yahoo.com,69,Jamaica,Craigside,Arizona,2025-02-10,2025-03-28,Account,Medium,Open,Michelle Smith,3.71,Very Dissatisfied,Phone,81892,412.68,Delivered
+852442,8960,Sean Barrett,alexander83@thompson.com,26,Georgia,Lake Brandon,Wisconsin,2024-11-23,2024-11-24,Account,Medium,Open,Brandy Dorsey,28.18,Neutral,Email,55998,122.15,Pending
+649975,7525,Jamie Edwards,christopherrowe@yahoo.com,62,Cuba,West Douglas,South Carolina,2024-11-21,2024-09-30,Shipping,High,Pending,Stephen Adams,16.34,Neutral,Email,85461,779.27,Delivered
+631719,3453,Briana Garcia,patrick31@schultz.com,66,Mongolia,Annaview,Missouri,2024-11-08,2025-06-14,Billing,Low,Open,Mark Jefferson,72.29,Very Dissatisfied,In-Person,80511,304.94,Returned
+918883,1787,Tammy Smith,ashley14@yahoo.com,46,Timor-Leste,Johnsonmouth,Missouri,2025-02-10,2025-03-10,Technical,High,Pending,Brian Reynolds,0.92,Satisfied,Phone,83074,728.81,Pending
+808232,7824,Kent Richardson,wosborne@gonzalez.com,46,France,South John,Nebraska,2025-03-18,2025-03-23,Billing,Low,Open,Ryan Smith,16.41,Satisfied,Chatbot,75819,530.07,Delivered
+270914,2118,Krista Knight,escobarsteven@yahoo.com,45,Slovakia (Slovak Republic),Smithside,Virginia,2025-02-15,2025-05-22,Account,Critical,Open,Mark Smith,27.0,Satisfied,In-Person,74481,635.14,Cancelled
+635792,6273,Frank Hill,regina21@yahoo.com,32,Cayman Islands,Bowmanfurt,Arizona,2024-12-20,2024-11-01,Account,High,Closed,Victoria Garcia,12.04,Very Dissatisfied,In-Person,56036,607.44,Returned
+210567,3685,Darius Smith,yangmary@yahoo.com,61,Macedonia,Wendyshire,California,2025-06-24,2024-09-04,Returns,Critical,Open,Gregory Blair,31.03,Very Satisfied,Web,74809,520.33,Returned
+973793,9684,Judith Morales,howardemily@brown.info,37,Swaziland,Shawview,Louisiana,2025-04-22,2025-05-09,Shipping,High,Open,Rebecca Johnson,27.8,Very Dissatisfied,Email,88021,177.12,Delivered
+957534,9449,Benjamin Allen,rachel66@gmail.com,26,El Salvador,West Justinshire,Colorado,2024-08-11,2025-03-11,Technical,Medium,Escalated,Trevor Smith,94.28,Neutral,Email,84261,993.52,Returned
+258742,5030,Sonya Deleon,grant64@brown.info,64,Poland,Bartlettstad,Louisiana,2024-09-05,2024-12-11,Account,High,Pending,Peter Clark,95.21,Very Dissatisfied,Web,77995,239.39,Delivered
+757595,2717,Tammy Fernandez,elee@sanchez.info,42,Cayman Islands,South Colleenfurt,North Carolina,2025-04-26,2024-11-09,Technical,Medium,Pending,Patrick Gordon,23.79,Very Satisfied,Web,69017,97.56,Pending
+320530,5298,Casey Combs,erica51@hotmail.com,20,Somalia,Michellefurt,Oklahoma,2024-07-30,2024-10-06,Returns,Critical,Closed,Jacob Compton,2.69,Very Satisfied,Phone,57633,388.97,Delivered
+281897,5129,Mark Robinson,jasonclark@adams.com,49,Madagascar,East Marvin,Ohio,2025-03-31,2024-08-06,Technical,High,Escalated,Derek Lucas,37.49,Very Satisfied,Web,79024,848.25,Cancelled
+495627,6606,Alexander Ortiz,donnasantiago@gmail.com,47,Chile,Jonathanside,Utah,2025-05-20,2024-11-25,Account,Low,Open,Sarah Owen,1.77,Satisfied,Chatbot,97612,82.71,Returned
+311699,9153,John Hester,vmendoza@yahoo.com,63,Botswana,Kimberlymouth,Utah,2025-07-11,2025-02-22,Technical,High,Escalated,Mark Arnold,20.41,Dissatisfied,Phone,86395,341.62,Delivered
+411840,5542,Gina Davis,ujohnson@miller.biz,64,Kazakhstan,Smithbury,Hawaii,2025-06-30,2025-04-15,Account,Low,Closed,Jordan Leonard,0.06,Very Satisfied,Email,57872,283.63,Pending
+457185,8625,Matthew Smith,iestes@yahoo.com,46,Zimbabwe,Michelleton,Kansas,2024-08-30,2024-09-25,Shipping,High,Pending,Chase Price,77.04,Neutral,Chatbot,62875,55.98,Pending
+551792,4470,Debra Mccoy MD,xavier91@yahoo.com,44,Nepal,Port Michaelfurt,Wisconsin,2024-10-06,2025-06-05,Returns,Medium,Pending,Erik Love,26.02,Satisfied,Web,57053,827.6,Delivered
+250704,6413,Miranda Lam,wendy47@fowler.net,30,United Arab Emirates,Lake Garyfort,Georgia,2025-04-18,2025-06-10,Shipping,High,Pending,Christine Lozano,0.67,Very Satisfied,Email,80277,670.6,Delivered
+548507,1059,Kelly Pacheco,imitchell@young.info,26,Vanuatu,Jacquelinestad,Florida,2025-07-03,2024-12-13,Technical,Medium,Open,Kristen Guzman,13.35,Dissatisfied,In-Person,95551,65.32,Returned
+236736,1021,Brandon Jones,eduardo60@smith.org,73,Portugal,New Amyville,North Dakota,2025-06-17,2025-07-13,Technical,Medium,Closed,Terry Allen,29.81,Dissatisfied,Web,63256,587.36,Pending
+517496,2647,James Gibson,carlos81@gmail.com,28,United States Minor Outlying Islands,South Ryanshire,North Carolina,2025-01-08,2024-12-04,Account,Critical,Open,Marcia Mays,50.18,Neutral,Email,83216,323.26,Delivered
+428927,7687,Rebecca House,cristian79@hotmail.com,27,Reunion,Aaronport,Tennessee,2025-03-29,2025-04-28,Billing,Medium,Open,Amy Fuller,2.9,Satisfied,Chatbot,58781,825.61,Cancelled
+936490,7983,Anthony Peters,waltonjeremiah@waters.com,65,Mexico,Oconnorstad,West Virginia,2024-12-16,2024-10-04,Technical,Low,Escalated,Manuel Williams,5.34,Neutral,Phone,74539,153.82,Delivered
+413834,7896,Mark Hancock,wrightebony@gmail.com,47,Saint Martin,East Robertfurt,New Jersey,2025-03-20,2025-03-18,Billing,Medium,Closed,Jack Olsen,24.95,Very Dissatisfied,Web,67500,261.31,Cancelled
+950924,8513,Mary Johnson,hernandezaustin@hotmail.com,23,Central African Republic,Jodiland,New Hampshire,2024-08-01,2024-12-15,Billing,High,Closed,Sean Rodriguez,38.28,Neutral,Email,74134,737.51,Returned
+204138,5605,Amber Cline,belldebbie@mcbride-ortiz.com,39,Libyan Arab Jamahiriya,Milesfurt,Texas,2024-11-08,2025-05-09,Billing,Low,Open,Debra Patrick,9.63,Very Satisfied,Phone,84939,921.76,Delivered
+689784,7839,Erik Myers,hortonjill@hotmail.com,30,Qatar,North Cherylfort,Wisconsin,2025-01-02,2025-04-09,Technical,Low,Escalated,Benjamin Lopez,60.5,Neutral,Chatbot,91811,997.11,Returned
+204812,1083,Elizabeth Wolf,tylerwilliams@gmail.com,60,Martinique,Romanton,Maine,2024-11-21,2025-06-21,Shipping,Medium,Open,Stephen Owens,2.4,Very Dissatisfied,Chatbot,63340,948.04,Cancelled
+385602,5166,Mrs. Kelly Jones MD,heatherhodges@yahoo.com,62,Sri Lanka,Lake Jack,Georgia,2025-01-22,2024-10-01,Account,Medium,Escalated,Bethany Hernandez,50.13,Very Satisfied,Phone,56057,342.91,Pending
+398277,1459,Willie Norton,gilbertronald@yahoo.com,66,Nigeria,Charlesville,Maine,2025-02-15,2024-09-17,Returns,Critical,Open,Keith Torres,10.44,Very Dissatisfied,Chatbot,50269,494.1,Returned
+653000,1284,Thomas Nichols,denniswillis@vasquez-moore.com,63,Paraguay,Port Marcus,Mississippi,2024-09-23,2024-07-28,Technical,High,Closed,Janet Jones,3.19,Very Dissatisfied,Web,65287,179.13,Returned
+902532,3657,Logan Diaz,cynthiareed@hotmail.com,31,Nicaragua,Robertburgh,New Mexico,2025-03-01,2025-03-24,Returns,High,Escalated,Barry Nicholson,22.84,Satisfied,Web,82550,646.97,Cancelled
+612670,6721,Victoria Anderson,pbrown@paul.com,72,Jersey,South Jeffreyberg,Alaska,2025-06-30,2024-12-01,Returns,High,Escalated,Taylor Lamb,6.33,Satisfied,In-Person,75857,515.58,Cancelled
+393455,4541,Joseph Cross,qwilliams@yahoo.com,37,Panama,Lake Jennifer,Tennessee,2025-04-13,2024-10-14,Technical,Critical,Pending,David Marshall,24.14,Dissatisfied,Web,98447,564.51,Cancelled
+340231,4537,Sean Bennett,ckim@gmail.com,28,Namibia,South Michaelfurt,North Dakota,2025-06-11,2025-02-10,Technical,Low,Open,Elizabeth Perez,11.76,Dissatisfied,Chatbot,56324,921.29,Delivered
+541107,2510,William Kelly,ryoung@goodwin.com,55,Sudan,New Barbara,Hawaii,2024-07-22,2024-09-28,Shipping,Low,Closed,Timothy Huffman,4.44,Neutral,Chatbot,89013,861.72,Returned
+837242,6799,Kirk Hines,bhernandez@miller.info,28,El Salvador,Ginamouth,Colorado,2024-12-23,2025-03-23,Shipping,Medium,Open,Daniel Rodriguez,9.88,Very Satisfied,In-Person,78276,190.18,Cancelled
+244298,5824,Drew Lynch,pcastro@yahoo.com,59,Bahrain,Port Derektown,Minnesota,2024-09-04,2025-07-08,Billing,High,Closed,Brian Douglas,45.96,Very Satisfied,In-Person,95308,521.02,Pending
+833013,6553,Kimberly Leonard,jesusbaker@allen.com,37,Cocos (Keeling) Islands,South Ashley,Massachusetts,2025-06-08,2025-04-18,Shipping,Low,Open,Curtis Warren,18.15,Very Dissatisfied,In-Person,84114,512.38,Cancelled
+673605,1811,Carol Pugh,sarah68@gmail.com,57,Syrian Arab Republic,North Rickychester,Maryland,2025-04-19,2025-05-15,Returns,Medium,Open,Jasmine West,29.92,Very Satisfied,Chatbot,88797,381.19,Delivered
+790203,2819,Kelly Jones,lisawood@gmail.com,31,Luxembourg,Riceview,Alabama,2025-02-16,2025-07-02,Account,High,Escalated,Jaime Harris,0.03,Neutral,Email,69420,932.96,Delivered
+209033,6624,Levi Matthews,hammondphilip@yahoo.com,25,Canada,New Brian,Vermont,2025-06-22,2025-04-17,Shipping,Medium,Closed,Charles Cooper,0.76,Satisfied,Chatbot,93577,138.91,Cancelled
+132102,5902,Philip Williams,juan71@tran-walker.biz,70,Niue,New Jasminechester,Minnesota,2024-09-10,2025-02-27,Billing,High,Pending,Gregory Morris,4.98,Dissatisfied,Chatbot,86897,695.6,Returned
+731196,3959,Dana Browning,robert70@lawrence.org,18,Hungary,Gailstad,Maine,2024-08-04,2025-05-27,Account,High,Pending,Adam Reynolds,19.17,Very Dissatisfied,Email,60461,273.34,Cancelled
+678525,3373,Carol Harris,hesssteven@floyd.com,62,Lithuania,North Johnport,California,2024-07-31,2024-10-08,Shipping,Low,Closed,John Saunders,1.33,Neutral,Chatbot,68834,416.41,Delivered
+888282,5199,Anthony Foster,crosbyjoshua@cruz.com,74,Palestinian Territory,Lake Mariaburgh,Idaho,2024-10-30,2025-01-24,Returns,Critical,Pending,Scott Parsons,10.13,Neutral,Chatbot,86620,728.02,Cancelled
+311826,5306,Ann Reed,schwartzbrianna@schultz.org,50,Holy See (Vatican City State),Jaredside,California,2025-03-03,2025-03-29,Billing,Low,Pending,Wendy Kline,37.4,Dissatisfied,In-Person,55448,711.45,Delivered
+322654,9031,Rebecca Townsend,tjuarez@gmail.com,60,Costa Rica,West Karenshire,Delaware,2024-12-29,2025-01-01,Technical,Medium,Escalated,Yesenia Beck,16.28,Satisfied,Web,73080,363.34,Cancelled
+303784,9395,James Rivera,jasonandrade@gmail.com,31,Cayman Islands,Brownstad,Arizona,2024-12-13,2025-05-06,Technical,Critical,Escalated,Ashley Bailey,85.42,Very Dissatisfied,Web,55152,713.17,Pending
+510489,9795,Wesley Andrews,paul33@yahoo.com,74,Cape Verde,Morganville,Connecticut,2025-04-30,2025-02-14,Account,High,Closed,Danielle Smith MD,42.3,Very Dissatisfied,Chatbot,95318,569.93,Delivered
+707946,5324,Deanna Gomez,cking@schmidt.biz,42,Chad,Elizabethmouth,Mississippi,2025-06-18,2025-02-01,Returns,Low,Escalated,Bradley Reed,7.98,Dissatisfied,Phone,52118,734.11,Pending
+141002,5817,Megan Nicholson,agreen@jacobs-brooks.com,34,Jamaica,Greenborough,Wisconsin,2025-03-27,2025-06-09,Returns,High,Closed,Olivia Murray,16.95,Very Dissatisfied,In-Person,66934,584.41,Pending
+776427,6334,Amy Finley,astewart@gardner-sampson.com,41,Suriname,Saramouth,Montana,2025-01-30,2025-04-13,Billing,Low,Escalated,William Richard,8.86,Very Dissatisfied,Chatbot,98664,103.82,Returned

@@ -1,0 +1,1001 @@
+InteractionID	CustomerID	CustomerName	CustomerEmail	CustomerAge	Country	City	Region	DateOpened	DateClosed	IssueType	Priority	Status	AssignedAgent	ResolutionTimeHours	CustomerSatisfaction	Channel	OrderID	OrderAmount	OrderStatus
+349523	7577	Eric Anderson	john45@gmail.com	60	Saint Helena	Edwardsstad	Pennsylvania	2025-02-27	2024-09-11	Shipping	Critical	Open	Roy Bowman	11.69	Very Dissatisfied	Chatbot	84249	393.47	Delivered
+721429	8182	Ann Brandt	andrew32@king.com	42	Australia	Flemingmouth	Georgia	2025-02-18	2024-12-03	Account	Low	Closed	Gregory Huang	3.52	Dissatisfied	Chatbot	63242	609.34	Pending
+670665	3958	Victor Lee	santosbrittany@medina.info	21	Bahrain	Suttonmouth	Kentucky	2024-10-29	2025-02-26	Technical	Low	Escalated	Cody Tucker	14.74	Very Satisfied	Chatbot	91035	359.91	Returned
+236758	8460	Patrick Schmidt	briangomez@yahoo.com	74	El Salvador	Davidmouth	Kansas	2025-03-24	2025-03-09	Account	Low	Pending	Emily Garrett	0.95	Dissatisfied	Web	56413	639.33	Delivered
+487926	1610	Katie Mccoy	xtrevino@ward.org	26	Guernsey	Port Brenda	Delaware	2025-02-05	2024-12-20	Billing	Medium	Pending	Erin Little	14.73	Neutral	Email	85674	148.14	Pending
+733256	5204	Michael Hunt	mendozapatricia@gmail.com	18	Lao People's Democratic Republic	Kristinetown	Mississippi	2024-07-17	2025-01-28	Returns	High	Escalated	Rebecca Wheeler	12.31	Satisfied	Email	99748	455.64	Delivered
+597081	7011	Abigail Jones	nmendez@hotmail.com	39	Dominican Republic	West Vincent	Tennessee	2024-09-17	2025-01-25	Technical	Medium	Escalated	Joel Stewart	16.47	Dissatisfied	Phone	53552	97.65	Cancelled
+756115	7078	Tammy Fisher	gail25@hotmail.com	37	Namibia	Gilbertborough	Nevada	2024-12-11	2025-03-13	Billing	Low	Closed	Mark Jones	14.9	Very Dissatisfied	In-Person	71101	690.15	Cancelled
+709067	8335	Kristina Myers	michelle03@yahoo.com	28	Korea	Michaelville	Washington	2025-07-14	2025-03-22	Returns	Medium	Open	Jason Perez	2.06	Neutral	Web	86766	384.98	Pending
+168711	9672	Kyle Johnson	kellyjimenez@richard-johnson.net	61	Barbados	Gardnerbury	New York	2024-10-27	2024-10-17	Account	High	Escalated	James Holloway	32.48	Very Dissatisfied	Chatbot	60654	616.49	Cancelled
+735017	6923	Oscar Scott	uortiz@taylor-miller.net	59	Portugal	New Jennifertown	Iowa	2025-01-12	2024-09-06	Shipping	Low	Pending	Kathleen Perez	33.4	Dissatisfied	Web	80625	672.43	Returned
+113807	7583	David Howard	zacharyhill@hotmail.com	28	Djibouti	Danielleport	Tennessee	2025-05-23	2024-12-16	Technical	Medium	Pending	Jack Miller	77.27	Dissatisfied	Chatbot	69476	864.82	Delivered
+978149	4667	Natasha Frye	ariana21@mueller.com	39	Sri Lanka	Ryanport	Michigan	2025-06-04	2024-11-08	Returns	Medium	Closed	Jessica Deleon	12.92	Satisfied	Email	92926	360.66	Cancelled
+592025	1044	Dale Rogers	shawnperkins@gmail.com	73	Singapore	Laurieport	Louisiana	2024-08-30	2025-04-28	Returns	Medium	Closed	Misty Miller	21.38	Dissatisfied	Chatbot	83799	789.33	Cancelled
+371952	4424	David Richards	weberjoseph@gmail.com	56	Cote d'Ivoire	New Robin	Tennessee	2025-02-22	2025-03-11	Account	High	Open	Gina Williams	23.65	Very Dissatisfied	Chatbot	87341	564.06	Returned
+677539	5238	Dana White	xandrews@randolph-mcdaniel.com	50	Barbados	Bellland	Montana	2025-01-23	2025-05-14	Returns	Low	Open	Austin Burns	28.16	Neutral	In-Person	60535	824.84	Delivered
+345713	7056	Christopher Mason	lisamitchell@nolan.com	38	Lithuania	Charlesport	Rhode Island	2025-04-20	2025-02-10	Technical	Critical	Pending	Matthew Hawkins	6.54	Neutral	Phone	52323	539.03	Returned
+301058	3350	Stephen Cunningham	ashleybailey@yahoo.com	62	Western Sahara	South Cameronfurt	Michigan	2025-02-05	2025-07-10	Returns	Medium	Open	Kyle Carter	4.71	Dissatisfied	Email	71533	959.58	Returned
+851984	8536	Jeffrey Williams	johnklein@warren.com	47	Kuwait	New Gary	Ohio	2024-10-08	2025-04-06	Billing	High	Open	Alexandria Baker	34.81	Dissatisfied	Chatbot	94299	969.13	Cancelled
+593107	9746	Nicole Cox	fletcheramber@jackson.com	57	Pakistan	Amystad	North Dakota	2025-06-18	2024-08-29	Billing	High	Escalated	Joshua Wright	22.71	Neutral	Phone	55038	907.11	Pending
+667252	4199	Denise Robinson	qsheppard@yahoo.com	32	Falkland Islands (Malvinas)	North John	Connecticut	2025-02-14	2024-10-13	Technical	High	Open	Dawn Morgan	14.46	Satisfied	In-Person	69666	785.92	Delivered
+977093	3606	Craig Obrien	nathanielhall@gmail.com	74	Marshall Islands	Lake Brian	Colorado	2024-09-02	2024-12-27	Billing	Medium	Open	Lori Walker	25.92	Very Dissatisfied	In-Person	53141	637.18	Cancelled
+676330	4428	Monica Garcia	torresmichael@yahoo.com	44	Croatia	Carterchester	Kentucky	2025-04-05	2025-05-16	Technical	Critical	Closed	Elizabeth Gregory	39.45	Dissatisfied	Web	59304	357.13	Cancelled
+599492	1364	Karen Gray	shuffman@pearson.com	35	Lao People's Democratic Republic	Hughesburgh	New York	2025-04-10	2024-12-21	Technical	Low	Escalated	Kenneth Robinson	4.73	Satisfied	Email	70168	496.36	Pending
+516425	3797	Jessica Gonzalez	aknight@yahoo.com	44	Norfolk Island	Amyborough	Iowa	2025-06-02	2025-06-12	Account	Low	Pending	Katrina Smith	14.31	Very Dissatisfied	Phone	91251	954.9	Returned
+770111	7614	Matthew Espinoza	randallmoss@stewart-wagner.com	40	Botswana	Lopezside	Alabama	2025-03-19	2025-03-03	Returns	Critical	Closed	Larry Dixon	88.93	Very Dissatisfied	Phone	89073	555.62	Returned
+257932	9251	Cheyenne Macdonald	brandon88@peterson.com	20	Tajikistan	North Zachary	Nevada	2024-12-08	2024-08-23	Account	High	Pending	Anthony Hopkins	18.59	Very Dissatisfied	In-Person	81419	312.65	Pending
+343187	3757	Michelle Petty	carolrodriguez@gmail.com	20	Portugal	Lake Jennifer	Oregon	2025-01-06	2025-06-17	Billing	High	Closed	Morgan Wang	5.5	Very Dissatisfied	Chatbot	69979	215.13	Delivered
+765699	1450	Ricardo Lam	qsmith@gmail.com	19	Hong Kong	East Timothy	Maine	2025-03-18	2025-07-04	Billing	High	Pending	Wesley Bates	20.68	Dissatisfied	Chatbot	99247	572.36	Delivered
+258987	3281	Kristopher Arroyo	ryanpierce@hotmail.com	69	Israel	Floydland	Kansas	2024-07-30	2025-04-01	Technical	High	Escalated	Sara Caldwell	105.08	Dissatisfied	In-Person	52923	302.02	Delivered
+648595	2803	Scott Escobar	hannahstevenson@hotmail.com	44	Ireland	North Julia	Pennsylvania	2025-04-05	2025-04-28	Returns	Low	Open	Sarah Wagner	9.58	Satisfied	Chatbot	53695	902.77	Delivered
+508878	3756	Charles Lewis	colinsmith@chandler-thompson.com	23	Japan	Alanburgh	South Carolina	2024-10-16	2025-02-17	Returns	Low	Closed	John Mcdaniel	15.35	Satisfied	Email	73734	64.44	Returned
+877258	8253	Jennifer Stewart	natashamills@porter.com	58	Niue	Lake Alejandraview	Montana	2024-10-07	2025-06-06	Returns	High	Closed	Melanie Ortega	5.52	Satisfied	Web	80323	684.24	Delivered
+115882	9032	Timothy King	pwatson@yahoo.com	64	Martinique	Klineberg	Kansas	2024-10-15	2025-05-18	Returns	Low	Escalated	Paul Beck	32.73	Satisfied	Email	55241	288.48	Cancelled
+804025	4027	Travis Stewart	ryan24@gmail.com	51	Uzbekistan	Woodsfurt	California	2024-09-23	2024-07-17	Account	Low	Escalated	Angela Atkinson	7.42	Satisfied	Email	91804	670.4	Returned
+914989	1978	William Campbell	cortezgene@hotmail.com	47	Nauru	Sharonshire	South Carolina	2025-07-04	2024-08-29	Shipping	Critical	Open	Michael Miller	36.49	Very Satisfied	Email	97290	602.82	Cancelled
+167141	1367	Stephen Sanchez	wendy64@williams.biz	60	Mali	Davenportfort	Virginia	2025-03-13	2024-08-20	Technical	Medium	Open	Bob Taylor	0.91	Dissatisfied	Web	76836	697.77	Delivered
+267142	7604	Todd Perez	jesse12@hotmail.com	42	Bulgaria	Amandafort	Kentucky	2024-12-26	2025-03-11	Billing	Medium	Pending	Christopher Snyder	27.01	Very Satisfied	Chatbot	61760	719.35	Returned
+895062	8340	Felicia Turner	kharris@hotmail.com	25	Austria	Christopherberg	Massachusetts	2024-08-29	2024-11-15	Returns	Critical	Closed	Jacob Smith	19.38	Very Dissatisfied	In-Person	52239	715.19	Delivered
+719812	6207	Joshua Castro	zacharyweiss@brewer.com	74	China	East Daniel	Kansas	2024-09-09	2025-01-07	Returns	Low	Escalated	Richard Stewart	18.45	Very Dissatisfied	Web	55447	523.28	Returned
+144867	7680	Jordan Evans	ahurst@olson-thomas.com	61	Moldova	Taylorview	Pennsylvania	2024-09-29	2024-11-15	Technical	Low	Pending	Karen Murray	4.32	Very Satisfied	Web	77303	697.68	Pending
+415902	1538	Taylor Mullins	padillateresa@hotmail.com	51	Switzerland	Suzannebury	Mississippi	2024-10-30	2025-06-21	Technical	Low	Open	Melissa Thompson	0.53	Neutral	Email	99472	968.18	Cancelled
+917969	1837	Andrea Wright	kyle08@hotmail.com	33	Saint Kitts and Nevis	New Ryan	Texas	2025-04-24	2024-12-16	Technical	Medium	Open	Tanya Lopez	13.42	Dissatisfied	Chatbot	92565	471.02	Pending
+132518	4919	Christopher Schmitt	masonkathy@gmail.com	66	Fiji	North Carolynhaven	Maine	2025-06-15	2025-01-23	Billing	Critical	Open	Kevin Baker	39.81	Dissatisfied	Web	75358	436.42	Cancelled
+963576	7607	Suzanne Grant	pacebrooke@adams-henry.com	55	Peru	North Williamside	Maryland	2025-05-21	2025-06-19	Returns	Low	Open	Jessica Villanueva	72.98	Very Dissatisfied	Email	50343	436.88	Returned
+382519	1641	Jeffery Brown	barbaralucas@yahoo.com	38	Oman	Vangborough	Indiana	2025-04-09	2025-05-31	Technical	Low	Escalated	Nathan Joseph	50.62	Satisfied	Web	54584	702.12	Delivered
+595713	7498	Deborah Roberts	shieldscharles@williams-lee.com	48	Ethiopia	West James	Illinois	2025-01-15	2025-02-20	Returns	Critical	Open	John Thornton	51.25	Very Satisfied	Email	56510	375.51	Cancelled
+723640	9081	Christina Livingston	lyonsbrandon@hood.com	67	Tonga	Catherineton	California	2024-11-24	2025-07-13	Technical	Medium	Pending	Susan Huffman	3.31	Satisfied	Phone	61333	292.13	Delivered
+853741	1436	Maurice Rodriguez	qgutierrez@gmail.com	39	Palestinian Territory	East Tiffany	Montana	2024-09-02	2025-04-09	Account	Medium	Closed	Abigail Olson	29.79	Satisfied	In-Person	69652	785.01	Cancelled
+506437	4586	Jennifer Reed	hayesashley@gmail.com	32	Greece	Jessicamouth	Nebraska	2025-05-04	2025-06-10	Technical	Critical	Closed	Veronica Davis	40.48	Satisfied	Email	61770	718.63	Pending
+848819	4957	Leslie King	claudiagomez@west.com	70	Cameroon	Jacobmouth	Rhode Island	2024-08-18	2025-03-05	Billing	Low	Pending	James Chapman	75.7	Neutral	Web	92357	242.65	Delivered
+926392	2544	Kenneth Johnson	alisha47@davis-farrell.com	46	Malta	Meganchester	Wyoming	2025-06-01	2025-04-04	Technical	Low	Pending	Lauren Ellis	16.39	Very Dissatisfied	Chatbot	71012	807.57	Pending
+547673	7374	Hailey Jackson	zhenry@benjamin.info	73	Jordan	Evansburgh	Montana	2024-09-16	2024-08-20	Shipping	High	Pending	Mrs. Jennifer Collins	23.23	Very Dissatisfied	Web	69533	897.7	Delivered
+514149	8775	Brian Stewart	adammorgan@morales.com	72	Kyrgyz Republic	West Alicia	Tennessee	2025-06-02	2025-02-17	Returns	Critical	Escalated	Stephen Chandler	46.16	Neutral	Chatbot	98728	305.39	Delivered
+863495	4123	Jennifer Cook	michaelstanley@hotmail.com	18	New Caledonia	Mooreview	Texas	2024-10-31	2024-11-28	Shipping	High	Pending	Jacqueline Holland	14.81	Very Satisfied	Email	70318	861.73	Returned
+939813	3699	John Osborne	whitecynthia@woods-johnson.com	18	Malawi	Onealmouth	Arkansas	2025-01-13	2024-12-26	Account	Low	Closed	Mary Kirk	32.83	Very Satisfied	Chatbot	76652	255.06	Delivered
+704933	6455	Randall Webb	brianwells@ray-brady.info	59	Mauritania	North Angelamouth	Florida	2024-09-30	2025-05-23	Returns	Critical	Closed	Sabrina Nguyen	32.76	Satisfied	Email	85887	135.46	Returned
+566218	2902	Christopher Abbott	urivera@medina-caldwell.com	36	Svalbard & Jan Mayen Islands	North Hollybury	Washington	2025-03-20	2025-02-23	Returns	Low	Closed	Emily Elliott	0.32	Neutral	Email	57008	928.03	Returned
+240665	6674	James Black	patrickpeterson@gmail.com	70	British Virgin Islands	East Tyler	Maine	2024-07-18	2025-01-13	Returns	High	Closed	Eric Harrison	16.06	Very Dissatisfied	Email	94984	976.96	Returned
+483275	3030	Jaime Ward	blanchardryan@hotmail.com	55	Papua New Guinea	Diaztown	Kentucky	2024-10-19	2024-08-09	Technical	High	Escalated	Robert Abbott	38.85	Neutral	In-Person	99647	157.3	Delivered
+202188	1850	Adam Gardner	colleen43@gmail.com	74	Svalbard & Jan Mayen Islands	New Melanieburgh	Georgia	2025-02-07	2025-03-22	Billing	High	Escalated	Carrie Jordan	4.62	Satisfied	Chatbot	60684	657.35	Returned
+137629	5764	Jon Hayes	angelacooper@gmail.com	74	Norfolk Island	New Kyleview	Indiana	2025-03-07	2025-02-04	Billing	Medium	Open	John Conrad	34.73	Satisfied	Web	70909	351.24	Delivered
+242573	5507	Mike Lopez	michael52@gmail.com	25	Serbia	West Jamesport	North Dakota	2025-05-23	2025-06-07	Technical	High	Closed	Terry Hughes	28.02	Neutral	Phone	55835	96.01	Delivered
+618922	8625	Mrs. Sharon Thompson	xwebster@gmail.com	55	Greenland	Monroeside	Colorado	2024-10-23	2025-01-19	Returns	Critical	Open	Jeremiah Gibson	3.29	Very Dissatisfied	Email	96224	722.92	Pending
+327527	5924	Debbie Miller	gordonmelanie@hotmail.com	64	Timor-Leste	Buchanantown	Montana	2024-11-04	2024-10-29	Account	High	Pending	Stephanie Frye	13.68	Dissatisfied	Web	52957	122.91	Pending
+370512	9004	Sara Bruce	qwalker@gmail.com	51	Nepal	Lake Ryan	Colorado	2024-09-19	2024-10-28	Technical	High	Escalated	Edward Garner	6.25	Neutral	Chatbot	90337	238.96	Pending
+804686	5095	Veronica Brown	kristiechavez@turner.com	67	Bangladesh	Brockfurt	Vermont	2025-06-13	2025-03-09	Shipping	Medium	Open	Dana Payne	38.12	Very Dissatisfied	Phone	81833	423.35	Returned
+557348	5355	Brian Fischer	charles86@king-maynard.info	19	Saudi Arabia	Port Jamie	North Dakota	2025-02-24	2024-09-23	Billing	High	Open	Douglas Mendoza	4.07	Dissatisfied	Email	61738	498.06	Returned
+916811	1493	Patrick Flynn	fitzgeraldvincent@yahoo.com	39	Iran	Port Vincent	New York	2025-06-15	2025-07-11	Shipping	Medium	Escalated	Holly Conley	7.83	Neutral	Web	97664	390.54	Delivered
+757088	6520	Miss Sheri Kelley MD	nealdavid@yahoo.com	71	Ghana	Port Steven	Maryland	2025-03-01	2024-09-15	Account	High	Pending	Matthew Fisher	203.11	Neutral	Chatbot	86322	784.64	Cancelled
+996769	6648	Anna Miller	kmejia@gmail.com	73	Kyrgyz Republic	Kylehaven	Kansas	2024-09-02	2024-09-22	Account	High	Pending	Andrea Morris	13.86	Dissatisfied	Phone	94961	150.59	Pending
+415648	6194	Diana Bates	rcooper@hotmail.com	28	Eritrea	Andreaport	Kansas	2025-07-03	2025-07-05	Returns	High	Closed	Christopher Griffin	5.64	Very Satisfied	Chatbot	94360	238.51	Cancelled
+541606	2535	Daniel Baldwin	cowens@gmail.com	61	Belize	Port Williamview	Louisiana	2025-02-10	2024-12-09	Shipping	Low	Pending	Samuel Dalton	40.67	Satisfied	In-Person	97965	418.03	Cancelled
+631882	1929	Jordan Pineda	hannahdavis@simpson-reed.biz	54	Peru	Kyleshire	Wisconsin	2024-08-18	2024-10-04	Shipping	Medium	Open	Daniel Stewart	23.25	Very Satisfied	Web	69515	901.38	Cancelled
+973964	8133	Michael Manning	yreese@hotmail.com	53	Madagascar	Pagefurt	Pennsylvania	2024-09-05	2024-09-07	Returns	Critical	Closed	Chris Kelly	19.64	Very Dissatisfied	Phone	77905	586.81	Cancelled
+504610	2464	Pamela Wolfe	pwilliams@yahoo.com	45	Palestinian Territory	New Stephanie	Florida	2025-06-04	2024-09-14	Account	High	Pending	Jennifer Glass	28.77	Dissatisfied	Email	96769	703.39	Returned
+701906	1059	Corey Herrera	brent72@gonzalez.biz	34	Uganda	Stephanieberg	Georgia	2024-08-07	2025-05-08	Billing	Low	Pending	Maria Dixon	5.38	Very Dissatisfied	Email	74348	204.9	Cancelled
+467956	2716	Claire Matthews	gbrowning@yahoo.com	34	Paraguay	Willisberg	Tennessee	2024-07-31	2024-11-02	Returns	High	Escalated	Scott Dean	17.61	Satisfied	Email	58918	274.1	Pending
+660047	1496	Ryan Wallace	thomas70@hotmail.com	50	Togo	Port Laura	Utah	2024-11-22	2025-01-20	Technical	Low	Pending	Leslie Taylor	5.6	Neutral	Phone	99229	496.14	Delivered
+713494	2483	Maureen Taylor	ralphsimpson@martin.info	34	Kenya	Frankport	South Carolina	2024-08-22	2025-06-22	Technical	High	Open	David Delacruz	101.83	Very Satisfied	Chatbot	68435	599.26	Cancelled
+527374	1312	Rebecca Heath	dennis27@hardy.com	68	Kazakhstan	Mariastad	West Virginia	2024-12-25	2025-04-19	Technical	Low	Pending	Richard Glover	11.85	Very Satisfied	Web	51907	232.19	Delivered
+712632	3790	David Martin	keith83@owens.com	36	Tokelau	Taylorbury	Kentucky	2025-01-31	2024-07-31	Shipping	High	Open	Kimberly Lozano	40.48	Neutral	Chatbot	67418	115.62	Returned
+343674	9241	Jessica Price	dianapowell@espinoza.com	29	Lesotho	Williamsborough	Arkansas	2025-02-24	2024-08-12	Account	Critical	Escalated	Chad Wallace	88.47	Satisfied	Web	61446	248.03	Delivered
+453123	1599	Melissa Stewart	deborahwhite@cain.org	73	Croatia	Mariaborough	Wisconsin	2024-09-11	2024-11-19	Account	Critical	Pending	Claudia Lewis	3.93	Dissatisfied	In-Person	79656	394.7	Cancelled
+815110	8894	Ralph Frank	becklydia@johnson-browning.biz	50	Saint Martin	New Lisa	Virginia	2024-10-14	2025-05-19	Returns	Medium	Open	Tina Mitchell	15.1	Satisfied	Web	54327	118.66	Returned
+130052	1883	Benjamin Reilly	chad92@gmail.com	49	Nauru	New Jodi	North Dakota	2024-09-01	2024-09-25	Shipping	Medium	Open	Brian Baker	22.54	Satisfied	Chatbot	88804	760.9	Delivered
+998001	4098	Linda Sullivan	bradthomas@hotmail.com	31	Spain	Port James	Missouri	2024-10-18	2024-10-31	Shipping	Low	Escalated	Sarah Roberson	12.32	Neutral	Chatbot	64741	357.72	Returned
+393271	9351	Jessica Robinson	qpacheco@hale.com	55	Poland	East Johnside	Washington	2025-05-20	2025-01-14	Returns	Low	Escalated	James Savage	12.72	Neutral	Web	81054	712.53	Cancelled
+735247	6427	Gregory Burke	muellerrobert@love.com	48	Kazakhstan	New Gloria	Mississippi	2024-09-11	2025-01-14	Billing	Medium	Closed	Ricky Guzman	14.86	Satisfied	In-Person	90518	623.76	Pending
+803881	4288	Travis Santos	jeremy18@walker.info	66	Latvia	Port Kari	California	2024-12-20	2024-09-12	Billing	Low	Pending	Mrs. Cindy Greene DDS	18.66	Very Dissatisfied	Web	65746	436.99	Cancelled
+829353	8813	Matthew Guzman	christina83@gmail.com	51	India	North Arthur	Massachusetts	2025-07-08	2025-05-12	Billing	High	Open	Sharon Whitehead MD	13.45	Very Satisfied	In-Person	98592	522.73	Pending
+271022	6570	Kathleen Mills	matthew01@gmail.com	70	Aruba	Robertsfort	Montana	2024-11-24	2024-11-22	Returns	Low	Closed	Samantha Buck	33.7	Very Dissatisfied	Email	72105	458.17	Cancelled
+832551	8841	Ronald Lee DDS	maria10@hubbard-watson.com	67	Haiti	Christianstad	Kansas	2024-11-13	2025-07-09	Account	Low	Pending	Jacob Graham	14.03	Satisfied	Phone	91014	569.74	Returned
+442245	6759	Samuel Jones	elizabeth57@yahoo.com	68	Taiwan	South Victoria	Michigan	2024-12-12	2024-08-18	Technical	Critical	Escalated	Lisa Hunt	10.54	Satisfied	Email	67634	346.93	Returned
+668082	1560	Mr. Michael Harris	watsonmathew@hotmail.com	20	Netherlands Antilles	Sydneystad	Missouri	2025-03-04	2024-09-16	Returns	Critical	Open	Kelli Baxter	14.98	Very Dissatisfied	Phone	78326	717.72	Cancelled
+699738	7263	Casey Hoffman	hardydeanna@santiago.net	46	Netherlands	Thomasshire	Hawaii	2024-07-16	2024-12-21	Billing	Critical	Escalated	Michael Kramer	4.04	Very Dissatisfied	Email	70095	230.33	Cancelled
+696752	5992	April Thompson	rbyrd@flores.biz	54	South Africa	Robertston	Indiana	2024-11-18	2024-10-13	Technical	Low	Escalated	Allison Stewart	76.82	Very Satisfied	Email	98171	892.27	Returned
+209131	7461	Tyler Gibson	hallbrandon@hotmail.com	44	Ethiopia	New Jennifer	Arkansas	2024-12-14	2024-10-28	Billing	Critical	Pending	Debbie Delgado	3.8	Very Dissatisfied	Email	69501	840.91	Delivered
+848491	2438	Donna Keller	danielwilliams@yahoo.com	58	Samoa	Riceshire	Montana	2025-06-14	2025-03-27	Shipping	High	Closed	Brian Murphy	22.25	Dissatisfied	In-Person	69919	63.54	Cancelled
+787353	5807	Megan Smith	bsingleton@hotmail.com	62	Palau	South David	Wyoming	2024-08-18	2025-05-21	Technical	Medium	Escalated	Terri Robinson MD	9.21	Dissatisfied	Web	84352	59.89	Cancelled
+321380	4016	John Williams	pierceeric@hotmail.com	66	Jordan	North Steve	Arkansas	2024-12-03	2024-09-22	Returns	Low	Escalated	Brandi Huerta	37.84	Very Dissatisfied	Web	56757	656.43	Returned
+763723	7767	Emma Carter	walterhoffman@gmail.com	28	Afghanistan	Murrayborough	Kentucky	2024-07-21	2025-05-24	Technical	Low	Pending	Ann Stevens	19.23	Satisfied	Web	61255	107.55	Pending
+972004	2878	Lauren Crawford	douglasbrown@smith.com	72	Lesotho	East Deborah	New York	2025-05-05	2024-12-28	Returns	Low	Open	Susan Good	5.96	Dissatisfied	Web	55604	492.12	Returned
+701392	9314	Kelly Cooper	voliver@wilson-harrison.com	66	China	Derrickborough	Massachusetts	2025-01-28	2025-05-08	Shipping	Low	Escalated	Mrs. Nancy Rodriguez	6.29	Very Dissatisfied	In-Person	58273	225.23	Returned
+380058	7387	Juan Cox	sharpchristopher@reed.org	54	Christmas Island	Port Colleen	Montana	2025-06-06	2024-12-13	Billing	Low	Closed	Caitlin Knight	14.55	Neutral	Web	83829	783.84	Returned
+398799	9966	Hannah Smith	rachel44@conrad-huff.biz	45	Panama	South Kathryn	Tennessee	2024-12-23	2025-02-22	Billing	Low	Closed	Rachel Shaw	72.1	Neutral	Email	61801	919.58	Returned
+230479	6475	Christopher Davis	judy76@stark.com	67	Mexico	North Jessicaland	New Jersey	2024-08-07	2024-11-25	Account	High	Escalated	Michael Rush	26.39	Very Dissatisfied	In-Person	69337	732.08	Delivered
+166543	9790	Lauren Allen	stephenskathy@yahoo.com	39	Morocco	Codyview	North Carolina	2025-04-17	2024-10-23	Technical	Low	Pending	Christopher Hughes	8.19	Dissatisfied	Chatbot	63852	762.25	Pending
+605415	7599	Madison Brown	amberlopez@gmail.com	67	Guadeloupe	West Danabury	Connecticut	2025-07-13	2025-07-15	Returns	Critical	Escalated	Andrea Dunlap	28.17	Dissatisfied	Web	90708	502.3	Returned
+995423	3861	Crystal Osborn	krausejason@jordan.biz	74	Tunisia	Julietown	Virginia	2025-05-16	2024-12-21	Technical	High	Open	Michelle Carlson	42.52	Dissatisfied	Email	70274	567.82	Cancelled
+769786	7321	Dustin Wright	laurasnyder@hotmail.com	58	Peru	South Franklinbury	Wisconsin	2025-04-23	2024-11-29	Account	High	Pending	Daniel Hunt	7.07	Satisfied	Email	76154	379.09	Returned
+606995	6885	Sabrina Riley	sara56@morton-valdez.com	57	Liechtenstein	Deborahshire	Delaware	2025-05-31	2024-08-09	Technical	Low	Open	Linda Miller	17.63	Very Dissatisfied	In-Person	94499	961.09	Delivered
+192817	4013	Jeffrey Miles	eallen@roberts-burton.com	47	Germany	Paulburgh	North Carolina	2025-04-29	2025-03-24	Technical	Critical	Closed	Nathan Obrien	3.31	Very Dissatisfied	Web	76351	794.44	Pending
+460794	6944	Thomas Skinner	xunderwood@gmail.com	50	Niger	Lake Lisa	California	2025-06-07	2025-07-04	Account	High	Pending	Alexander Alvarez	46.23	Very Dissatisfied	Chatbot	97784	622.14	Returned
+939485	7794	Melissa Williamson	combsshawn@parker-martinez.com	66	Kiribati	North Markstad	Kansas	2025-06-25	2024-08-28	Shipping	Low	Closed	Amanda Clark	13.18	Neutral	Phone	93708	585.47	Delivered
+169847	8183	Debra Torres	christina34@cooper.org	27	Ecuador	Hernandezmouth	Michigan	2025-06-04	2024-07-26	Technical	High	Escalated	Mia Barnes	17.51	Neutral	Web	63419	604.91	Returned
+530400	4758	Christopher Lindsey	erinspencer@le.biz	51	Rwanda	Ryanside	Nevada	2024-12-28	2025-02-26	Shipping	Medium	Pending	Charles Rodriguez	0.4	Neutral	In-Person	52551	326.21	Pending
+258088	8282	Patrick Foster	gail60@hotmail.com	65	Israel	North Zacharyhaven	Utah	2024-09-25	2025-01-14	Billing	High	Escalated	Jose Clark	16.29	Very Dissatisfied	Phone	53611	317.3	Cancelled
+121102	8874	Olivia Mcdaniel	william49@hogan.biz	73	Chile	Rodriguezfort	Alabama	2024-12-01	2025-05-14	Account	Low	Open	Christopher Frost	37.47	Very Satisfied	Chatbot	84729	482.69	Pending
+408167	6655	Amanda Baker	sabrinabrennan@yahoo.com	42	Samoa	Scottburgh	Ohio	2025-03-27	2024-08-19	Shipping	Medium	Escalated	Brittany Faulkner	19.37	Dissatisfied	Phone	88448	177.95	Pending
+547890	5414	Jeffrey Santiago	reedvictoria@gmail.com	73	Yemen	Frosttown	New York	2025-05-31	2025-04-27	Billing	High	Closed	Todd Nguyen	10.83	Very Satisfied	Email	81310	480.68	Returned
+906136	3781	Natalie Mcfarland	rileymichael@lopez-crawford.net	29	Nepal	Munozborough	New Mexico	2025-02-13	2025-06-15	Billing	Low	Escalated	Jennifer Fisher	32.73	Neutral	Web	82160	292.02	Pending
+535365	9307	Heather Romero	alison85@robinson-houston.biz	38	Norway	Lauriebury	South Dakota	2025-04-01	2024-12-24	Returns	High	Escalated	Shawn Rodriguez	19.85	Very Dissatisfied	Phone	57039	477.08	Delivered
+224693	7337	Robin Wood	lisa24@buck-ford.net	28	Bouvet Island (Bouvetoya)	Davidshire	Idaho	2025-05-03	2024-11-03	Technical	Low	Closed	Shelly Jennings	2.43	Dissatisfied	Phone	73333	315.3	Cancelled
+146336	8980	Lucas Perez	tina45@harmon.com	66	Tajikistan	Brandonchester	Maine	2024-10-31	2024-10-04	Shipping	High	Escalated	Judith Morgan	74.17	Satisfied	Phone	62346	870.37	Pending
+734376	1700	April Wong	achen@gordon.com	34	Samoa	Mooreside	Hawaii	2025-06-11	2025-03-20	Billing	Low	Open	Jeffery Pittman	16.73	Satisfied	Email	51087	481.97	Delivered
+744384	3521	Mr. Kelly Wells	garrisonmark@yahoo.com	30	Bouvet Island (Bouvetoya)	Port Franklin	Louisiana	2025-05-14	2025-06-02	Account	Medium	Closed	Jenna Brown	26.61	Satisfied	Chatbot	50459	297.2	Delivered
+898631	3812	Stacey Willis	amandafernandez@gmail.com	22	Bosnia and Herzegovina	Annachester	Nebraska	2024-10-08	2025-03-29	Returns	Critical	Open	Jesse Buck	21.73	Neutral	In-Person	89882	986.62	Pending
+147123	1376	Sophia Martin	ruth83@orr.org	62	Finland	Sandrashire	Florida	2024-08-07	2025-04-10	Returns	Low	Open	Grace Gillespie	3.53	Neutral	Email	53091	853.18	Cancelled
+496157	8650	Sandra Ewing	jameswells@yahoo.com	62	Guyana	North Stevenville	South Dakota	2025-02-21	2025-01-04	Billing	High	Pending	Alyssa Carpenter	25.52	Very Dissatisfied	Phone	78113	167.89	Returned
+853339	2507	Jenna Clark	peterwheeler@yahoo.com	37	Philippines	Kimberlychester	Maryland	2024-07-26	2024-09-25	Billing	Medium	Escalated	Virginia Johnson DDS	9.01	Neutral	In-Person	50213	102.42	Pending
+714858	2590	Christine Todd	gloverjuan@jones.com	34	Afghanistan	Hallshire	Mississippi	2024-12-08	2025-04-23	Returns	Medium	Pending	Monica Grant	4.17	Very Satisfied	Chatbot	53068	364.73	Cancelled
+447030	6244	Samantha Kelly	lisastevenson@gmail.com	74	Mongolia	Lake Cody	Colorado	2025-02-24	2025-06-24	Technical	Low	Closed	Shane Le	19.59	Neutral	Phone	95213	217.06	Delivered
+677609	4885	Tanner Bates	brownjames@bell-bruce.info	52	Samoa	Dunnland	Minnesota	2025-07-15	2024-10-03	Billing	Low	Closed	Joseph Smith	24.39	Very Satisfied	Web	68387	699.38	Cancelled
+392629	1924	Justin Graham	jerry58@hotmail.com	57	Senegal	East Jose	Delaware	2025-06-26	2025-05-04	Account	High	Pending	Jennifer White	23.25	Satisfied	Web	84439	606.29	Pending
+629971	1789	Kellie Mitchell	paulkennedy@yahoo.com	68	Guinea	West Joshuaborough	Texas	2025-04-27	2025-06-15	Shipping	Low	Pending	Carrie Webb	29.81	Neutral	Chatbot	57547	994.4	Returned
+347413	8371	Stacey Blake	ramirezmichael@campbell.com	19	Sao Tome and Principe	North Jane	Illinois	2025-05-09	2024-11-23	Billing	Medium	Pending	Kari Taylor	18.98	Neutral	Web	59172	490.51	Pending
+137762	8642	Cory Simon	cheyennehunter@gmail.com	53	Morocco	South Kevinton	Arkansas	2025-04-18	2024-08-19	Shipping	Low	Pending	Tim Williams	11.62	Very Dissatisfied	Chatbot	65924	855.05	Pending
+424712	6467	Marissa Lewis	ruizamy@watson-norman.com	63	United Arab Emirates	East Todd	Florida	2025-01-21	2024-07-23	Billing	Critical	Open	Desiree Bruce	37.26	Satisfied	In-Person	80099	238.29	Returned
+107584	7063	Kelly Brooks	matthewcamacho@gmail.com	68	Brazil	Amyport	Pennsylvania	2024-12-29	2025-04-02	Returns	Critical	Pending	Erica Taylor	2.69	Satisfied	Chatbot	99559	857.83	Returned
+180709	1027	Joan Banks	matakevin@carter.com	70	Uruguay	Robertborough	Texas	2025-02-21	2025-06-01	Account	High	Closed	Victor Barrett	4.96	Satisfied	Phone	70037	104.42	Delivered
+213371	2180	Vickie Rodriguez	laraheidi@anderson.com	19	Paraguay	Cruzfurt	Indiana	2025-07-15	2024-11-04	Returns	Low	Open	Maria Mora	6.38	Very Satisfied	Web	70409	811.96	Cancelled
+728896	4192	Theresa Sandoval	christopher37@rogers-long.com	36	Macao	Port Curtisville	Alaska	2024-12-29	2025-01-19	Billing	High	Open	Nicole Berg	30.28	Very Dissatisfied	Chatbot	59926	78.18	Returned
+661594	7542	Sarah Johnson	ymoss@yahoo.com	20	British Indian Ocean Territory (Chagos Archipelago)	Williamberg	Michigan	2024-09-01	2025-06-19	Billing	Medium	Open	Michael Russell	7.67	Neutral	In-Person	57640	473.09	Cancelled
+132901	2720	Lisa Silva	mary95@yahoo.com	41	Nicaragua	North Karenfurt	Maine	2024-12-12	2025-04-15	Returns	Low	Escalated	Ashley Nelson	101.41	Very Dissatisfied	Web	81806	516.92	Pending
+306973	6545	Manuel Martinez	jenniferfisher@gmail.com	53	Morocco	East Jamesland	Maine	2024-10-05	2025-02-08	Returns	Medium	Escalated	Shane Baldwin	36.41	Neutral	In-Person	95661	107.37	Delivered
+527752	6100	Deanna Huynh	tiffanyparrish@hotmail.com	38	Western Sahara	Port Emily	Nevada	2025-03-21	2024-09-21	Technical	Low	Escalated	Mark Sanchez	7.87	Neutral	Phone	73046	311.96	Delivered
+405777	2804	Kaitlyn Fischer	vincent95@odonnell-collins.net	35	Samoa	North Donald	Vermont	2025-01-28	2025-04-07	Technical	Medium	Pending	Virginia Cox	10.11	Very Dissatisfied	Email	66559	621.92	Delivered
+740121	8378	Joseph Martin	nancyreed@hotmail.com	40	Holy See (Vatican City State)	Katelynland	Alabama	2025-04-07	2025-05-06	Technical	Medium	Closed	Tiffany Buckley	40.7	Satisfied	Web	55965	66.08	Delivered
+376166	2325	Pamela Wolf	dalexander@ramirez.com	46	Angola	Port Yolanda	Oregon	2025-04-30	2025-01-20	Returns	High	Pending	William Mcdonald	9.54	Very Satisfied	Chatbot	62314	986.64	Returned
+263786	4447	Robert Smith	edwardlozano@gates.info	61	Canada	Darrenberg	Washington	2025-07-02	2024-09-24	Returns	Low	Pending	Anna Smith	7.29	Very Satisfied	In-Person	51509	895.36	Returned
+823237	4943	Katherine Brown	jameslove@hotmail.com	25	Rwanda	North Emily	Florida	2024-08-28	2025-01-01	Returns	High	Pending	Shaun Roberts	19.37	Very Dissatisfied	Chatbot	68625	503.96	Returned
+144497	1799	Stephen Weber	jlozano@yahoo.com	51	Liechtenstein	Brooksland	Colorado	2025-02-19	2024-10-30	Technical	Critical	Escalated	Oscar Robinson	20.38	Very Satisfied	Email	67845	846.82	Delivered
+456320	3501	Robert Kelly	william28@gmail.com	61	Niue	Paulfort	South Dakota	2024-09-02	2025-05-13	Returns	Low	Escalated	Luis Holden	9.48	Dissatisfied	Web	66001	408.64	Pending
+429075	3344	Jennifer Jones	brenda87@sanchez.com	50	Congo	Lake Lynnshire	Rhode Island	2025-03-03	2024-09-09	Billing	High	Closed	Anna Wright	20.39	Very Satisfied	Email	76420	263.49	Delivered
+477693	1190	Andrea King	scottjimenez@gmail.com	46	Guernsey	Lake Susanport	Rhode Island	2024-12-29	2024-11-28	Account	Medium	Open	Theresa Jones	11.18	Dissatisfied	In-Person	87681	679.94	Cancelled
+245045	2836	Ashley Stephens	paul84@hotmail.com	34	Luxembourg	West Amyland	North Dakota	2024-09-22	2024-12-03	Shipping	Medium	Closed	Lisa Mccoy	4.88	Neutral	Chatbot	85268	765.57	Delivered
+496140	4767	Leslie Bailey	michael59@flynn.com	45	Denmark	West Belindachester	Oregon	2024-10-26	2025-02-16	Shipping	High	Pending	David Berger	39.17	Very Dissatisfied	Chatbot	64732	397.53	Returned
+495052	5710	Samantha Riley	sierra65@hotmail.com	71	Saint Lucia	East Colleen	Connecticut	2024-11-18	2025-06-07	Returns	High	Closed	Danielle Contreras	11.8	Satisfied	In-Person	85399	637.63	Delivered
+582774	4420	Erica Russell	turnerjames@yahoo.com	61	Zambia	South Ericamouth	New Mexico	2025-04-05	2024-10-08	Billing	Medium	Closed	Isabel Taylor	7.45	Dissatisfied	Web	73032	842.54	Delivered
+645336	4605	Valerie Smith MD	darylrhodes@arias-hayden.org	26	Tunisia	North Katherineview	New York	2025-02-28	2025-01-10	Billing	Low	Pending	Joseph Ramirez	26.93	Very Dissatisfied	Email	92807	419.06	Cancelled
+504952	9447	Ricky Gonzalez	campbellrenee@yahoo.com	38	Haiti	Ronaldhaven	Wyoming	2024-12-26	2025-06-12	Technical	Medium	Closed	John Aguilar	21.35	Very Dissatisfied	In-Person	94528	528.28	Cancelled
+775166	7875	Ralph Jackson	sarahdavis@gmail.com	26	Congo	Millerview	Minnesota	2024-11-17	2025-03-28	Returns	Critical	Open	Steven Davis	6.33	Neutral	Phone	72409	320.64	Returned
+724584	9272	Jordan Roach	cathysullivan@collins.net	42	Saint Helena	North Darlene	Pennsylvania	2024-12-17	2025-06-20	Technical	Low	Escalated	Christopher Cook	5.62	Satisfied	Phone	98211	510.53	Pending
+814049	6225	Christine Floyd	sshort@hotmail.com	32	Swaziland	New Brendaberg	Wisconsin	2025-05-15	2024-08-30	Account	Medium	Closed	Theresa Anderson DDS	9.37	Very Satisfied	Chatbot	60872	301.04	Returned
+686427	9769	Daniel Williams	uberry@bowman-davis.com	30	Lao People's Democratic Republic	Lake Jessica	Nevada	2024-10-09	2025-02-08	Account	Low	Pending	Laurie Smith	10.15	Dissatisfied	Chatbot	87016	116.01	Pending
+207555	4082	Kristina Turner	barnesmegan@torres.com	37	Ukraine	East Charlene	Arizona	2025-03-10	2025-01-24	Technical	Medium	Open	Kevin Smith	31.67	Neutral	Email	98585	931.86	Delivered
+750249	8659	Christina Wallace	kingmichael@hotmail.com	54	Equatorial Guinea	West Brittanyfurt	Kentucky	2025-05-04	2025-07-08	Returns	Medium	Closed	Bridget Stewart	16.15	Very Satisfied	In-Person	99398	341.55	Delivered
+950932	3909	Gregory Wilkerson	yporter@hotmail.com	27	Saudi Arabia	New Kimberlytown	North Dakota	2024-10-29	2024-11-20	Technical	High	Pending	Darrell Ruiz	10.44	Very Dissatisfied	Web	61673	213.29	Cancelled
+631656	2296	Brittany Young	bryansmith@gmail.com	44	Equatorial Guinea	Brianmouth	Montana	2025-03-05	2025-04-01	Returns	High	Closed	David Martinez	32.86	Very Satisfied	Email	84655	538.86	Returned
+384479	1676	Diamond Eaton	harringtonkimberly@herrera-green.org	68	Ireland	South Pamela	Vermont	2025-02-17	2024-08-07	Billing	Medium	Escalated	Renee Haney	23.91	Satisfied	Web	64147	840.52	Pending
+552137	2843	Sean Howell	yhurst@benton.com	23	Greece	North Amberton	New York	2025-02-23	2024-11-09	Billing	Critical	Escalated	Mr. Jeffrey Gamble Jr.	15.28	Very Dissatisfied	Chatbot	85634	345.97	Pending
+765101	1393	Heather Jones	ynunez@owens-kelley.com	38	Peru	Pacefort	Mississippi	2024-09-02	2024-12-04	Technical	Low	Open	Savannah Molina	17.06	Very Dissatisfied	Email	84520	465.84	Pending
+855301	2661	Mark Johnson	melissaray@stokes.com	73	Senegal	Annberg	Michigan	2025-02-28	2025-06-29	Billing	Critical	Open	Karen Houston	6.82	Neutral	Email	75179	628.4	Returned
+850383	4264	Richard Humphrey	roger50@guerrero.com	49	Aruba	Priceton	Maine	2024-09-17	2025-07-15	Billing	Low	Escalated	Heather Combs	25.06	Neutral	Chatbot	75376	970.84	Returned
+349179	5178	Sara Peters	gregory32@mayo.biz	59	Slovakia (Slovak Republic)	West Angelicabury	Colorado	2025-07-01	2025-03-29	Account	High	Closed	Jonathan Foster	62.46	Very Satisfied	Chatbot	50561	972.73	Pending
+415712	2405	Melissa Grant	nicole35@rodriguez-smith.com	60	Saint Helena	West Cheyenne	New Hampshire	2025-04-03	2024-10-03	Shipping	Low	Escalated	Adrienne Krause	14.48	Neutral	Phone	57040	838.39	Cancelled
+558695	2786	Alexander Davis	connerlisa@gmail.com	35	Ecuador	Richardsonton	Florida	2025-03-23	2024-10-13	Shipping	Critical	Closed	Jeffrey Smith	6.52	Very Dissatisfied	Phone	62908	644.75	Delivered
+370776	8622	Joel Martinez	lauraphillips@ramirez.info	27	Armenia	Charlesstad	Connecticut	2024-08-07	2024-08-07	Returns	High	Pending	Mitchell Davis	34.87	Neutral	Phone	69754	351.42	Returned
+646441	7539	Laura Yang	stevensrhonda@anderson-richardson.com	50	Guinea	New John	New Mexico	2025-03-04	2025-01-19	Returns	Medium	Escalated	Joseph Zhang	32.29	Very Satisfied	Web	71635	932.91	Delivered
+417711	4649	Courtney Mercado	hansenjoseph@hotmail.com	31	Russian Federation	Stoneview	Texas	2024-12-01	2025-05-10	Shipping	Low	Escalated	Duane Warren	61.29	Dissatisfied	Chatbot	61632	641.45	Cancelled
+675071	2783	Debra Martinez	leslie85@hotmail.com	62	Wallis and Futuna	Santanaport	Idaho	2025-06-03	2025-07-05	Account	Critical	Open	Michael Bray	15.32	Very Satisfied	Phone	95855	602.43	Cancelled
+455370	8955	Stacy Lindsey	jacksontimothy@gmail.com	25	Kuwait	Anthonyhaven	Nevada	2024-09-13	2024-12-23	Account	High	Escalated	Susan Barnes	72.64	Very Dissatisfied	Phone	59319	141.84	Cancelled
+112014	6669	Lance Wilson	vmercado@yahoo.com	46	Palau	West Lisa	Wyoming	2025-04-10	2025-06-30	Shipping	Critical	Open	Bailey Choi	45.73	Neutral	In-Person	86852	600.9	Returned
+926693	7600	Jason Garner	ronalddiaz@gross-bowers.com	54	Eritrea	West Jamesport	Texas	2025-04-14	2024-09-06	Returns	High	Escalated	Brad Wilson	4.06	Neutral	Chatbot	57602	637.03	Returned
+535379	8300	Timothy Johnson	briangoodman@hotmail.com	60	Belize	Fosterhaven	Tennessee	2024-10-18	2024-10-16	Technical	Critical	Closed	Amanda Burns	38.94	Very Satisfied	Chatbot	85327	307.14	Delivered
+708137	2817	Cynthia Fuentes	kari27@hotmail.com	26	Singapore	Edwinbury	Louisiana	2025-02-17	2025-04-11	Account	High	Pending	Gregory Burgess	67.67	Dissatisfied	Chatbot	98100	472.9	Cancelled
+430171	5781	Tiffany Harrison	vcain@johnson.com	44	Cocos (Keeling) Islands	Sarahton	Nevada	2024-10-15	2025-03-29	Returns	Critical	Open	Daniel Wolfe	10.74	Dissatisfied	In-Person	87816	814.14	Returned
+121026	8269	Dorothy Wall	timothyprice@foster-hopkins.com	42	Guinea-Bissau	North Kevin	West Virginia	2025-06-16	2025-02-18	Account	Low	Open	Jerry Gutierrez	6.3	Very Satisfied	Email	70408	972.33	Delivered
+494806	7216	Stephen Vargas	tbrown@gay.com	38	Portugal	New Karenhaven	Mississippi	2024-08-07	2025-06-10	Technical	Low	Open	Michael Rodriguez	3.28	Satisfied	Phone	83913	771.33	Delivered
+745710	4374	Todd Stewart	shortmichael@gmail.com	62	Saint Martin	Sophialand	Maryland	2025-04-18	2025-01-06	Shipping	High	Escalated	Amanda Murray	54.68	Satisfied	Web	71453	60.9	Delivered
+717824	2915	David Johnson	matthewhogan@yahoo.com	48	Svalbard & Jan Mayen Islands	Nicolemouth	Kansas	2025-01-22	2024-10-02	Returns	High	Open	Corey Bowers	88.41	Very Dissatisfied	In-Person	64746	587.78	Pending
+762889	9833	Michael Hinton	kathy36@garcia.com	35	Finland	Davisbury	Kentucky	2025-03-26	2024-07-22	Technical	Medium	Open	Aaron Powers	16.64	Very Satisfied	Phone	56813	473.55	Cancelled
+239742	1123	Sarah Short	christiangreen@gmail.com	70	Tajikistan	Lake Elizabethstad	Washington	2025-05-23	2025-04-25	Shipping	Critical	Open	Dawn Stephens	24.87	Dissatisfied	Email	85530	638.43	Returned
+162998	8605	Janice King	annbarber@yahoo.com	50	Uzbekistan	New Andrew	Delaware	2025-05-18	2024-12-11	Account	Medium	Escalated	Nathan West	6.54	Satisfied	Email	51789	292.31	Pending
+764307	5903	Joshua Harris	barkerwilliam@hotmail.com	71	Thailand	North Sarafort	California	2025-01-24	2025-04-23	Technical	Low	Open	William Calderon	11.39	Satisfied	Phone	72028	814.9	Pending
+757814	2265	Erica Riley	hayeskathryn@diaz-richardson.com	40	Lebanon	Oconnorberg	West Virginia	2024-11-16	2025-04-17	Returns	High	Pending	Louis Crawford	2.5	Neutral	Web	68155	748.37	Cancelled
+448599	6596	Lori Moore	jzhang@hotmail.com	57	Bolivia	Russellchester	Idaho	2025-03-09	2025-05-30	Account	Critical	Pending	Dakota Mullins	2.17	Very Satisfied	Web	93410	839.07	Returned
+588899	6671	Michael Lewis	jeremy70@hotmail.com	49	Guyana	Hammondfurt	Idaho	2024-08-12	2024-10-31	Shipping	Medium	Escalated	Christopher Smith	35.27	Very Satisfied	Chatbot	93160	481.9	Cancelled
+470059	4144	Traci Price	sjones@yahoo.com	50	Aruba	Lake Jamesfurt	Alaska	2025-02-25	2025-01-23	Billing	Low	Escalated	Sara Jacobs	36.94	Very Dissatisfied	Phone	53724	839.26	Pending
+812278	8938	Lisa Blackburn	thompsonmichael@gmail.com	41	Saint Vincent and the Grenadines	Amyfort	New York	2025-04-03	2024-07-24	Technical	Critical	Closed	Joshua Ruiz	41.57	Satisfied	Chatbot	87559	775.32	Delivered
+469703	2171	Nicole Fleming	mholt@gmail.com	42	Argentina	New Jermainehaven	Wyoming	2024-10-18	2024-07-17	Technical	Medium	Escalated	Jennifer Lang	0.67	Dissatisfied	Web	99765	70.28	Cancelled
+738440	6974	Joseph Carpenter	vbrown@yahoo.com	51	San Marino	Woodsland	Colorado	2025-05-12	2024-10-08	Shipping	Medium	Pending	Jennifer Jackson	13.68	Neutral	Chatbot	84970	287.97	Delivered
+841291	7928	Matthew Stout	fosterandrew@gmail.com	39	United States of America	South Ericville	Massachusetts	2024-08-22	2024-11-01	Account	Low	Escalated	Aaron Harmon	30.95	Satisfied	Chatbot	61790	211.06	Pending
+392473	2097	Robin Thomas	sandra95@stewart.biz	69	Reunion	New Shawn	South Dakota	2025-02-08	2025-06-13	Billing	High	Escalated	Eric Davis	44.65	Satisfied	Web	66163	729.9	Returned
+873885	9498	Lori Mays	millsphyllis@hotmail.com	44	Cocos (Keeling) Islands	New Samantha	North Carolina	2025-01-10	2025-01-06	Shipping	Critical	Pending	William Mcguire	5.01	Very Satisfied	In-Person	81209	315.9	Delivered
+613280	4508	Christopher Cantrell	robert02@hotmail.com	33	Slovakia (Slovak Republic)	Johntown	Rhode Island	2025-02-18	2025-04-14	Returns	Critical	Open	Chelsea Harvey	34.02	Neutral	Phone	71777	296.96	Cancelled
+123260	5094	Michael Vargas	robinsonjamie@white.com	46	Holy See (Vatican City State)	North Jerryport	New York	2025-03-21	2025-05-16	Returns	Medium	Open	Kelly Branch	18.09	Satisfied	Email	96687	521.24	Pending
+718006	6743	Jeffrey Hart	olewis@hotmail.com	29	Western Sahara	Samanthaburgh	Illinois	2024-08-08	2024-12-25	Shipping	Critical	Pending	Alan Brennan	115.48	Very Dissatisfied	Phone	76250	133.79	Returned
+163519	2023	Ms. Rachel Turner	kellyjenkins@anderson.com	72	Swaziland	Lake John	Virginia	2024-09-02	2024-08-02	Shipping	Low	Pending	Ashley Anderson	11.27	Dissatisfied	In-Person	58402	723.98	Delivered
+808858	6491	Lindsey Paul	david63@hotmail.com	59	Tajikistan	Lake Cynthiastad	Alaska	2025-04-25	2025-06-16	Returns	Critical	Closed	Ann Cannon	20.6	Dissatisfied	Email	63766	921.78	Pending
+122284	4868	Angela Rasmussen	claudia32@hotmail.com	35	Central African Republic	North Michelleland	South Carolina	2024-12-02	2024-08-11	Technical	High	Open	Laura Jackson	28.15	Neutral	Phone	86583	258.28	Cancelled
+487097	8058	Debbie Marshall	victorhall@gmail.com	69	Czech Republic	Susanmouth	New Hampshire	2025-03-07	2024-10-17	Returns	Critical	Pending	Kevin Adams	15.34	Neutral	Chatbot	51484	862.7	Returned
+363320	8192	David Monroe	charlesamanda@gmail.com	25	Netherlands Antilles	New Erinfort	Washington	2025-05-18	2025-06-07	Billing	High	Closed	Susan Ferrell	14.33	Very Dissatisfied	Chatbot	84248	147.84	Pending
+758473	2379	Sharon Martin	hchavez@nelson.com	31	Dominica	Brownville	Arizona	2025-02-08	2024-09-01	Billing	Critical	Pending	Steven Munoz	9.16	Dissatisfied	Phone	90878	485.36	Pending
+578477	5111	James Simpson	christopherrobertson@yahoo.com	49	Finland	Jenniferstad	Idaho	2025-01-13	2024-11-25	Billing	Low	Pending	Amy Maxwell	32.18	Satisfied	In-Person	91901	321.38	Cancelled
+413142	4569	Elizabeth Mclaughlin	larsonsean@palmer.biz	22	Martinique	Lake Jeremy	Mississippi	2024-12-22	2024-08-01	Billing	Critical	Pending	Nicole Brady	70.96	Dissatisfied	In-Person	57334	866.55	Pending
+721461	6295	Donna French	allenkevin@yahoo.com	48	United States Minor Outlying Islands	South Ian	Massachusetts	2024-07-25	2025-06-24	Technical	High	Open	Robert Mendez	70.43	Very Satisfied	In-Person	64798	165.67	Pending
+730670	3707	Kevin Lopez	ojordan@hotmail.com	59	Swaziland	South Edward	Maine	2025-02-12	2025-05-09	Technical	Low	Open	James Brown	16.37	Neutral	Chatbot	87778	954.58	Delivered
+435570	4390	John Meyer	leroyperez@ferguson-norton.com	31	Honduras	South Kaitlynville	Connecticut	2024-08-27	2025-05-13	Returns	Medium	Closed	Jeffrey Garcia	19.2	Very Dissatisfied	Phone	58704	842.22	Pending
+286039	4583	Jaime Noble	jeremybutler@gmail.com	31	Nauru	East Sheri	Nevada	2025-04-16	2025-06-22	Returns	Low	Closed	Jeffrey Sanford	37.07	Satisfied	Phone	70595	108.59	Returned
+481634	8595	Brittany Smith	elizabeth86@yahoo.com	50	Jordan	East Susan	Utah	2025-04-27	2025-05-01	Account	High	Pending	Jason Smith	9.09	Very Dissatisfied	Web	84002	466.5	Cancelled
+294244	9777	Jennifer Garcia	kelli70@hotmail.com	42	Guam	Michaeltown	Georgia	2025-05-07	2025-04-12	Technical	Critical	Escalated	Diana Sandoval	19.98	Satisfied	Phone	80914	263.78	Pending
+427858	7860	Michael Thompson	robinsonandrea@campbell-hunter.com	65	Vietnam	Johnmouth	Massachusetts	2024-12-27	2025-04-12	Billing	Critical	Closed	Benjamin Anthony	27.38	Satisfied	Web	95273	395.7	Delivered
+894932	7025	Michael Bell	pricejennifer@gmail.com	54	Syrian Arab Republic	Barrerahaven	Nevada	2024-12-27	2025-01-29	Account	Critical	Escalated	Nathan Diaz	31.22	Dissatisfied	Email	54937	630.11	Returned
+487085	4131	Tiffany Mcguire	shannon89@gmail.com	73	Vietnam	South Joseph	Oregon	2024-10-14	2024-10-26	Billing	High	Open	Melissa Nielsen	41.51	Dissatisfied	Chatbot	88441	453.16	Pending
+984831	7705	Lori Collins	scott89@gmail.com	60	Lao People's Democratic Republic	Lake Amyside	Michigan	2024-09-05	2025-04-21	Account	Medium	Open	John Kennedy	8.28	Neutral	Chatbot	84545	620.84	Delivered
+724554	8932	Mariah Matthews	john33@peters.com	74	British Virgin Islands	Raymondberg	Utah	2025-01-20	2025-07-14	Shipping	Critical	Open	Gerald Brown	36.99	Satisfied	Phone	74403	273.57	Cancelled
+376967	7667	Paul Harris DDS	wmartinez@yahoo.com	39	Afghanistan	Nathanbury	Arkansas	2025-01-10	2025-04-06	Returns	Critical	Open	Adrienne Raymond	14.59	Very Satisfied	In-Person	55162	489.7	Delivered
+414996	8690	Amanda King	paulelizabeth@baker.com	24	Hungary	New Natalietown	Washington	2025-06-17	2025-03-15	Technical	Low	Escalated	Sandy Graves	63.7	Very Dissatisfied	Email	75857	976.37	Delivered
+925545	1572	Mrs. Sabrina Carpenter	nicholstiffany@yahoo.com	41	Hong Kong	West Paulside	New Mexico	2024-09-30	2025-02-21	Technical	Medium	Open	Shaun Oneal	10.19	Very Dissatisfied	In-Person	56478	937.81	Pending
+495481	5784	Mark Smith	lonnie51@hotmail.com	46	Central African Republic	Smithfort	North Carolina	2024-09-02	2025-03-01	Account	Low	Closed	Tara Gibson	6.61	Very Dissatisfied	In-Person	61537	917.79	Returned
+209965	1296	Elizabeth Bradshaw	bschultz@yahoo.com	30	Northern Mariana Islands	Amandabury	Nebraska	2025-02-05	2024-08-29	Billing	Critical	Closed	Sarah Powell	11.49	Satisfied	Web	66929	575.08	Cancelled
+909787	4024	Breanna Powell	emmagonzalez@hotmail.com	46	El Salvador	East Thomaston	Georgia	2024-08-31	2025-07-09	Account	Medium	Closed	Michael Nichols	42.62	Very Dissatisfied	Email	92120	423.9	Returned
+952551	2570	Peter Davis	spencerdaniel@gmail.com	65	Malawi	Sotofort	Connecticut	2024-11-20	2024-07-19	Account	Medium	Open	George Kline	7.86	Neutral	Phone	81886	644.06	Cancelled
+128228	1463	Brian Trevino	fpineda@yahoo.com	64	Samoa	East Philip	Rhode Island	2025-03-31	2025-01-29	Shipping	Critical	Escalated	Albert Allison	73.45	Dissatisfied	Phone	99948	480.88	Returned
+696910	3468	Frank Griffin	jenniferstone@yahoo.com	28	Iceland	East Zachary	Nevada	2025-05-19	2025-02-18	Shipping	Low	Open	Pamela Bishop	3.94	Neutral	Email	73690	238.52	Returned
+816945	5821	Jennifer Valentine	jcallahan@white.org	29	Kazakhstan	East Robert	West Virginia	2024-09-15	2025-04-08	Account	High	Pending	Samantha Ward	49.14	Satisfied	Chatbot	82905	406.47	Returned
+870884	9249	John Atkins	harry17@hotmail.com	53	Antarctica (the territory South of 60 deg S)	Greeneview	Ohio	2025-05-26	2024-09-18	Returns	Low	Closed	Ronald Rodriguez	8.45	Satisfied	In-Person	62743	92.29	Returned
+237804	9510	Christopher Huff	cliffordmack@yahoo.com	39	Yemen	North James	Louisiana	2025-04-05	2025-05-18	Account	Critical	Closed	Sharon Walker	20.6	Satisfied	Web	61716	798.82	Returned
+425076	2005	Steven Short	wrightveronica@lee.com	46	Nepal	Cummingsborough	North Dakota	2024-09-07	2025-02-20	Account	Critical	Closed	Andrea Harding	28.17	Very Satisfied	Web	95837	90.89	Delivered
+624299	8734	Gary Garcia	david81@yahoo.com	67	Dominica	Heatherhaven	Connecticut	2025-03-04	2024-09-23	Account	Medium	Pending	Kenneth Smith	6.02	Satisfied	Phone	75808	59.81	Delivered
+333347	1664	Jessica Peterson	kenneth23@yahoo.com	26	Somalia	Stephenmouth	Louisiana	2025-04-20	2024-11-29	Technical	Critical	Closed	Jeffrey Price	4.0	Very Satisfied	Phone	97656	90.99	Returned
+785478	4191	Darrell Russo	darren89@stone.com	43	Thailand	North Danny	Nebraska	2024-07-30	2024-10-17	Returns	Critical	Closed	Benjamin Wright	8.66	Very Satisfied	In-Person	95215	858.17	Delivered
+942853	4397	Justin Weber	lawsonanthony@yahoo.com	52	South Africa	West Kaitlynberg	Massachusetts	2024-10-24	2025-04-02	Shipping	Critical	Open	Jacob Carter	16.65	Neutral	In-Person	92204	412.49	Cancelled
+382463	5521	Kathryn Sanders	brittany25@yahoo.com	29	Lao People's Democratic Republic	North Helenview	Massachusetts	2025-06-11	2025-06-15	Account	Critical	Open	Logan Cline	1.5	Very Dissatisfied	Chatbot	70308	829.98	Pending
+350290	9056	Roberto Prince	ckramer@hotmail.com	43	Gabon	Pinedafurt	Georgia	2024-12-03	2024-10-18	Billing	Critical	Open	Cody Burke	16.51	Dissatisfied	Email	92127	296.56	Pending
+443708	8084	Darlene Gaines	rmiller@lucero-hahn.org	74	Macedonia	Bakertown	North Dakota	2025-04-20	2025-06-12	Returns	Low	Open	Marc Bush	38.43	Neutral	Phone	91621	953.47	Cancelled
+296497	1616	Christopher Garrett	jenkinsmelissa@brown.com	43	Gibraltar	New Alexanderland	Tennessee	2024-10-13	2024-11-28	Account	Low	Open	Margaret Galvan	57.23	Dissatisfied	In-Person	70302	898.01	Returned
+811001	6649	Laura Rodriguez	fvasquez@ortega.net	22	Ecuador	Timothyborough	Maryland	2025-07-11	2024-08-21	Billing	Critical	Escalated	John Pruitt DDS	15.37	Very Satisfied	Email	56913	607.49	Cancelled
+556376	8670	Brooke Cooper	rmartin@villa.com	39	Canada	Curtisshire	Hawaii	2025-03-21	2024-09-30	Billing	Critical	Open	Christina Burgess	48.56	Dissatisfied	In-Person	64659	339.14	Returned
+781090	4223	Rebecca Campos MD	hmorales@yahoo.com	47	Norway	Tiffanyview	Nebraska	2024-11-07	2025-06-19	Shipping	Low	Open	Sarah Mccoy	6.81	Satisfied	In-Person	84261	389.84	Pending
+831975	5707	Jennifer Smith	umedina@hart-moreno.com	18	Cook Islands	Hoovershire	New Jersey	2024-11-18	2025-02-08	Returns	Critical	Pending	Matthew Juarez	0.8	Dissatisfied	Email	79102	896.64	Delivered
+201735	3342	Tara Williams	kristinejohnson@yahoo.com	74	Austria	Weberview	Colorado	2024-08-04	2025-04-12	Billing	Critical	Escalated	John Ferguson	0.67	Satisfied	Phone	91289	506.67	Returned
+206788	2693	Steven Cook	chaseashlee@carlson-adams.com	48	Macao	Haynesberg	Massachusetts	2025-03-21	2024-08-19	Technical	Critical	Pending	Thomas Gutierrez	72.25	Neutral	Email	86911	88.51	Returned
+729904	8275	Richard Alexander	petersontoni@oneill.com	63	Dominica	West Joshuaberg	South Carolina	2024-12-19	2025-04-22	Account	Low	Open	Cory Wiggins	53.88	Very Satisfied	Web	79854	96.08	Returned
+437605	5904	Dr. Shannon Mann MD	ericaguilar@ross.com	25	Ghana	New Catherine	Massachusetts	2024-09-17	2025-06-03	Returns	Critical	Pending	Cheryl Maldonado	78.68	Satisfied	Email	74300	112.25	Cancelled
+449966	7735	Lauren Webb	susanmiller@abbott.biz	51	Poland	Lake Patrickhaven	Louisiana	2024-08-06	2025-01-08	Returns	Medium	Pending	Grace Melendez	0.77	Very Satisfied	Chatbot	99308	343.6	Returned
+807712	8271	Elizabeth Gonzalez	grantwilliam@gmail.com	52	Papua New Guinea	Luisstad	South Carolina	2025-06-06	2025-06-16	Technical	High	Escalated	Donald Steele	5.98	Satisfied	Web	51088	659.6	Delivered
+974028	2270	Holly Rodriguez	kelly16@yahoo.com	39	Martinique	North Kevin	Oklahoma	2025-07-08	2025-06-18	Technical	Medium	Pending	Devon Lindsey	11.56	Very Satisfied	In-Person	89674	704.06	Pending
+335363	4368	Kayla Lowe	ruizjohn@yahoo.com	52	Brunei Darussalam	Port Bradburgh	Arkansas	2025-05-18	2024-07-28	Technical	High	Open	Linda Garcia	1.32	Dissatisfied	Web	85403	677.71	Delivered
+559727	3510	Chase Cook	rioskristin@stuart.com	64	Guinea-Bissau	Angiestad	Oklahoma	2024-09-30	2024-12-22	Shipping	Critical	Closed	Hayley Watson	9.13	Satisfied	Chatbot	64643	523.28	Returned
+949100	8984	Denise Barr	wwatkins@ellis-williams.com	47	French Guiana	East Edwardmouth	Ohio	2024-10-02	2024-10-22	Billing	Medium	Closed	Daniel Fisher	24.62	Satisfied	Web	70261	74.12	Delivered
+997093	5658	Steven White	michelle47@wheeler.net	60	Netherlands Antilles	Matthewfort	Indiana	2025-07-16	2024-12-12	Shipping	High	Closed	Hannah Compton	65.43	Satisfied	Web	73698	314.59	Pending
+277507	7144	Carl Hernandez	john81@gmail.com	25	Malaysia	Robertsonhaven	Vermont	2025-07-01	2024-12-04	Technical	High	Escalated	Stephanie Sparks	3.73	Very Dissatisfied	Phone	66218	742.92	Delivered
+183831	7104	Holly Medina	nbaldwin@turner-campbell.info	48	Lebanon	South Edwardchester	Nevada	2024-09-03	2025-05-15	Account	Critical	Escalated	Brad Cobb	45.69	Dissatisfied	Email	59498	142.03	Delivered
+453066	3643	Eric Morris	heatherkennedy@gmail.com	48	United Arab Emirates	South Cynthiaborough	Colorado	2024-08-26	2025-03-15	Billing	Critical	Open	Phillip Smith	75.63	Very Satisfied	Chatbot	54156	717.43	Cancelled
+878116	8066	Angela Butler	jonesgregory@gmail.com	30	Grenada	Edwardsborough	Hawaii	2024-11-21	2025-04-13	Account	Medium	Open	Maria Larson	10.19	Satisfied	Web	88748	230.85	Cancelled
+781818	6110	Laura Scott	stephanierodriguez@yahoo.com	29	Cyprus	East Joshuaview	Nevada	2024-08-09	2025-06-15	Technical	Low	Closed	Victoria Santos	27.02	Dissatisfied	Web	91321	474.93	Delivered
+328610	8588	Ashley Taylor MD	sarah54@hotmail.com	72	Estonia	Port Heathermouth	Michigan	2025-04-07	2025-06-24	Technical	High	Open	Dawn Terry	4.4	Satisfied	Chatbot	77371	870.86	Cancelled
+696012	8767	Scott Campbell	schneiderdana@hotmail.com	57	Vietnam	Carolhaven	North Carolina	2025-02-25	2025-01-11	Billing	Medium	Closed	Mr. Devin Bass	8.92	Dissatisfied	Phone	95535	577.28	Pending
+573014	9617	Robert Jones	palmerjimmy@watson.com	67	Svalbard & Jan Mayen Islands	Jamesview	Nevada	2024-09-04	2025-03-25	Account	Low	Closed	Kelly Miller	18.78	Neutral	Phone	70709	257.48	Returned
+383744	9881	Matthew Davis	jtorres@rodriguez.com	71	Finland	Jacquelineside	Kentucky	2024-08-17	2025-06-11	Account	High	Closed	Kaylee Monroe	27.4	Very Dissatisfied	Email	84222	940.77	Returned
+335958	4647	Brianna Guzman	tonijacobs@baker.net	57	New Caledonia	Wilsonside	Alaska	2025-03-28	2024-09-10	Technical	Medium	Escalated	Mary Simon	12.71	Very Satisfied	Web	59902	340.01	Pending
+925236	6893	Jody Nelson	keithspencer@gates.com	62	French Southern Territories	Juliastad	Virginia	2025-01-13	2024-07-21	Returns	Critical	Open	Thomas Walker	47.18	Very Dissatisfied	In-Person	73049	598.87	Returned
+226793	5725	Melody Brown	reedrebecca@yahoo.com	62	Lebanon	South Elizabeth	Rhode Island	2025-04-16	2024-12-09	Shipping	High	Pending	Jason Cox	22.0	Satisfied	Email	98607	223.76	Pending
+135556	5672	James Wagner	rochajeffrey@yahoo.com	39	Senegal	Monicaview	Illinois	2024-09-13	2024-08-21	Account	Critical	Pending	Charles Burton	19.87	Very Dissatisfied	In-Person	91971	782.09	Cancelled
+655354	1481	Matthew Scott	mroberts@yahoo.com	48	Zambia	Tracyberg	Maryland	2024-11-08	2024-12-23	Technical	Critical	Open	Donna Baldwin	32.96	Very Satisfied	Web	75899	299.62	Cancelled
+300072	8588	Heather Walker	briannajoseph@bell-lutz.biz	59	Cocos (Keeling) Islands	North William	Wisconsin	2025-01-29	2024-12-05	Shipping	Critical	Pending	Randall Stevens	1.58	Very Satisfied	Email	91048	78.4	Pending
+430449	7119	Cameron Lewis	fordjohn@tucker-eaton.com	25	Moldova	New Danastad	Oregon	2024-10-21	2025-05-11	Billing	Medium	Open	Joshua Martin	10.31	Neutral	Email	65711	667.55	Returned
+945967	6886	Jennifer Ramos	twilliams@yahoo.com	46	Netherlands Antilles	Morganfort	Arizona	2025-01-22	2025-06-04	Account	Critical	Closed	Jody Harrison	2.37	Very Satisfied	Chatbot	76640	940.46	Pending
+976824	5872	Tracy Cannon	andreabeasley@shelton.com	52	Estonia	Evansmouth	Mississippi	2025-02-20	2024-12-11	Shipping	Low	Escalated	Travis Snyder	39.88	Neutral	Email	65285	605.1	Pending
+979206	4974	Garrett Wagner	leelisa@house.org	33	American Samoa	North Kylehaven	Wyoming	2025-06-16	2025-05-17	Returns	Low	Pending	Daniel Bird	36.42	Very Satisfied	Chatbot	51199	494.76	Cancelled
+702758	9512	Gregory Lewis	skoch@yahoo.com	40	Andorra	East Carriefort	Mississippi	2025-05-20	2025-01-31	Technical	Critical	Escalated	Bobby Wilson	36.88	Neutral	In-Person	98430	766.91	Returned
+292504	1164	Paul Morrison	mannrichard@bell.info	63	Qatar	Freemanborough	Virginia	2025-02-05	2025-02-03	Billing	Medium	Pending	Jeremiah Hughes	66.62	Neutral	Email	50507	132.02	Returned
+392125	1234	John Austin	jeremy18@young.com	54	Samoa	Jacobsburgh	Virginia	2025-05-01	2025-01-21	Shipping	Low	Closed	Maria Sandoval	37.54	Neutral	In-Person	86645	632.45	Delivered
+456630	3154	Allison Bridges	nhill@rios-anderson.com	58	Trinidad and Tobago	Port Kellybury	Indiana	2024-11-12	2025-06-02	Technical	Medium	Pending	Virginia Powers	0.09	Neutral	Web	80431	66.34	Delivered
+946438	9697	Glenn Benjamin	manthony@parker.info	44	Benin	South Kathleen	Georgia	2025-05-05	2024-10-13	Billing	Critical	Escalated	Edward Turner	24.65	Very Dissatisfied	Web	66116	204.5	Cancelled
+968164	3443	Hayley Johnson	terrysusan@fields.com	70	United Arab Emirates	North Nathanhaven	Montana	2024-09-03	2024-09-10	Account	Low	Escalated	Laura Ruiz	87.8	Satisfied	Web	99949	239.29	Delivered
+773120	9779	Jeremiah Brooks	joseph06@kim-chavez.com	27	Sri Lanka	South James	Georgia	2024-07-22	2024-09-22	Account	Low	Pending	Haley Baker	52.58	Neutral	Chatbot	96856	530.57	Delivered
+189688	1341	Kenneth Scott	mark13@hotmail.com	37	Rwanda	Coreystad	New Jersey	2024-09-18	2024-12-24	Billing	Critical	Escalated	Taylor Beck	10.36	Very Dissatisfied	Web	80271	782.08	Returned
+945422	3715	Kelsey Carter	michelledalton@hotmail.com	58	Vanuatu	North Renee	Alabama	2025-01-22	2024-07-20	Returns	Low	Pending	Rodney Ramirez	2.51	Dissatisfied	In-Person	98286	472.97	Cancelled
+749416	1823	Jo Miller	jacob99@yahoo.com	23	Albania	Port Jonathan	Massachusetts	2025-02-18	2024-11-28	Account	Medium	Escalated	Hannah Massey	13.16	Dissatisfied	Web	80741	67.47	Returned
+462055	1031	Anthony Jordan	lecraig@armstrong.com	72	Kenya	New Jackside	Virginia	2024-10-19	2024-09-27	Account	Critical	Open	Robert Day	9.59	Very Satisfied	Email	67245	534.69	Cancelled
+718115	4341	Teresa Pearson	colton92@gmail.com	30	Azerbaijan	Adamsborough	Alaska	2025-07-12	2025-05-22	Shipping	Critical	Escalated	Theresa Lewis MD	44.24	Very Dissatisfied	Web	91854	201.71	Cancelled
+235988	8630	David Harris	phicks@gmail.com	44	Central African Republic	Sheilaton	Washington	2025-04-08	2024-11-18	Account	Critical	Escalated	Chris Williams	16.08	Neutral	Chatbot	58623	360.33	Returned
+541736	6814	Mark Johnson	brownashley@day-hernandez.com	53	Poland	Paulside	Utah	2024-08-07	2025-05-06	Shipping	High	Open	Jeffrey Gonzalez	4.27	Neutral	Email	96182	298.66	Pending
+406124	6944	Jeffery Stanley PhD	schneideremily@yahoo.com	42	Solomon Islands	Meyershire	North Carolina	2024-11-25	2025-04-08	Shipping	Medium	Open	Kathleen Schwartz	8.74	Very Dissatisfied	In-Person	84559	859.23	Cancelled
+643579	1575	Lance Nelson	nicholas89@sanders.com	70	Svalbard & Jan Mayen Islands	East Michael	Alabama	2025-03-03	2025-03-25	Returns	Critical	Open	Shawn Valdez	4.0	Dissatisfied	Web	77135	698.98	Pending
+932424	9031	Mark Williams	billyweaver@melton.com	52	Cape Verde	New Kent	Delaware	2024-08-09	2024-08-31	Account	Medium	Open	Kyle Hayes	46.76	Dissatisfied	Web	71952	448.18	Delivered
+991260	4031	Kathryn White	rthompson@yahoo.com	61	Cameroon	Bonniefurt	Indiana	2025-03-19	2024-08-02	Returns	Low	Escalated	Mr. Jeffery Harper	2.44	Dissatisfied	Chatbot	54335	609.11	Delivered
+384347	4911	Roger Bailey	pamela36@valdez.info	73	Tokelau	Port Stephanie	West Virginia	2025-02-13	2024-08-07	Shipping	Critical	Pending	Kimberly Williams	9.5	Very Dissatisfied	In-Person	50179	868.49	Cancelled
+587295	1216	Dustin Boyd	julieritter@griffith-rubio.biz	41	Cook Islands	Tranview	Kansas	2025-02-08	2025-06-25	Returns	High	Pending	Antonio Berry	6.05	Neutral	Phone	81050	761.34	Returned
+463178	5535	Gregory Morris	kevin94@yahoo.com	68	Uzbekistan	New Melissabury	Alabama	2024-09-24	2025-03-07	Technical	High	Closed	Melissa Elliott	3.94	Dissatisfied	Web	92636	403.36	Delivered
+764985	8083	Jonathan Greene	debra40@simpson.com	36	Bahamas	Liuville	Connecticut	2024-12-24	2025-04-30	Shipping	Medium	Pending	Nicole Harrison	25.35	Neutral	Web	66789	521.91	Pending
+537157	6542	Kevin Parker	oespinoza@frank.com	18	Sao Tome and Principe	Lake Nicoleport	Montana	2024-09-07	2024-11-19	Account	Critical	Closed	Jessica Miller	17.25	Neutral	Email	80594	707.05	Pending
+404505	1839	Teresa Anderson	thomas86@hotmail.com	25	Vietnam	Jasontown	Washington	2024-12-14	2024-11-14	Returns	High	Pending	Susan Logan	17.25	Satisfied	In-Person	54248	873.59	Delivered
+540161	9945	Haley Rodriguez	kathryn75@hotmail.com	44	Gibraltar	New Kelly	West Virginia	2025-03-05	2024-07-21	Shipping	Medium	Closed	Nicole Martin	37.6	Neutral	Email	78882	770.04	Returned
+695939	2537	Susan Buchanan	brian28@yahoo.com	71	Norfolk Island	Tarafurt	Hawaii	2024-12-08	2024-11-20	Shipping	High	Pending	Bryan Davis	37.37	Neutral	Chatbot	62744	618.52	Delivered
+529415	8373	Vanessa Peters	arichard@buckley-collins.org	50	Heard Island and McDonald Islands	Brownborough	Michigan	2024-08-10	2025-07-01	Returns	Low	Open	Catherine Cole	18.46	Very Dissatisfied	Email	59643	757.1	Returned
+137270	6105	Marissa Villarreal	gonzalessarah@wilson.net	32	Ethiopia	South Paulland	Texas	2024-12-30	2025-05-12	Returns	High	Closed	Laura White	6.53	Satisfied	Chatbot	62564	252.81	Delivered
+533340	5288	Elizabeth Clark	eavila@woodard.info	37	Libyan Arab Jamahiriya	Ellisfort	New Hampshire	2025-06-13	2024-09-02	Account	Medium	Closed	David Ortiz	59.89	Very Satisfied	Phone	59141	886.25	Cancelled
+263575	5050	Leah Gomez	victoriajohnson@burns-campbell.info	44	Austria	Johnstonland	Delaware	2025-05-06	2024-11-08	Shipping	High	Closed	Kristen Smith	4.56	Very Satisfied	In-Person	75981	763.45	Delivered
+309265	9169	Sarah Mcdaniel	johnsondanielle@thomas.biz	21	Isle of Man	Tonyaberg	Nebraska	2024-08-14	2024-09-30	Returns	High	Pending	Matthew Rogers	9.21	Dissatisfied	In-Person	75548	172.98	Cancelled
+104888	7852	Melissa Lee	cperkins@palmer-cook.com	55	Germany	Duncanland	Ohio	2024-11-07	2024-11-17	Returns	Low	Escalated	Patrick Little	4.3	Dissatisfied	Web	89638	169.84	Pending
+600540	5265	Bethany Berger	armstrongbrett@erickson-day.com	39	Sudan	East Randy	Ohio	2024-08-27	2024-08-27	Shipping	High	Open	Garrett Hayes	33.19	Satisfied	Phone	50817	815.49	Pending
+972981	6562	Destiny Lee	holmesmichael@walker.org	64	Armenia	Port Michael	North Dakota	2025-04-07	2024-10-15	Billing	Low	Escalated	Bryce Bird	97.32	Very Dissatisfied	Chatbot	66171	448.62	Delivered
+752906	1721	Julie Horton	william42@nash.biz	70	Chile	Rickyside	New Jersey	2024-11-10	2024-11-17	Account	Medium	Open	Dawn Edwards	12.6	Satisfied	Chatbot	56079	998.81	Returned
+634921	1480	Shaun Patterson	becky81@yahoo.com	41	Denmark	New Nicholestad	Alabama	2024-09-16	2024-09-27	Account	Medium	Escalated	Curtis Pennington	1.37	Very Satisfied	In-Person	59632	469.58	Returned
+555451	8037	Oscar Obrien	michellefernandez@rowland.com	63	Liechtenstein	East Jack	Ohio	2025-02-23	2024-11-05	Account	Low	Closed	Hannah Alvarez	0.89	Dissatisfied	Web	77533	159.77	Delivered
+686019	1611	Edward Owens	oburns@gonzalez.com	30	Libyan Arab Jamahiriya	Ritatown	North Dakota	2025-06-08	2024-08-30	Billing	Low	Pending	Michael Hanson	35.79	Satisfied	Web	58946	662.25	Pending
+852100	3713	David Petersen	keith66@gmail.com	36	Gibraltar	West Jeremy	Colorado	2024-10-04	2025-03-18	Returns	Low	Escalated	Teresa Fisher	19.22	Very Dissatisfied	Chatbot	85248	101.6	Pending
+332879	5052	Brandon Charles	brownjames@miller-murphy.com	52	Rwanda	Heatherville	Ohio	2025-06-22	2025-07-02	Technical	Medium	Escalated	Virginia Martin	37.44	Very Dissatisfied	In-Person	72898	55.64	Pending
+133888	3222	Joseph Matthews	colebrittney@hill-rodriguez.com	46	Falkland Islands (Malvinas)	North Destinyfurt	West Virginia	2025-03-25	2025-06-14	Account	Medium	Open	Madison Robinson	26.11	Satisfied	Chatbot	71789	167.28	Delivered
+881737	7757	Emma Carrillo	ryanpeters@hotmail.com	24	Iran	East Angela	Missouri	2024-12-22	2024-07-22	Account	Critical	Open	Wesley Rivas	27.89	Very Satisfied	Web	60248	715.9	Delivered
+578854	9336	Ryan Collins	robertgomez@klein-allen.com	24	Anguilla	Laurieside	North Dakota	2025-01-19	2024-10-02	Technical	High	Pending	Thomas Oliver	13.35	Very Satisfied	Web	97241	754.49	Returned
+977342	6528	Elizabeth Curry	elizabethkirby@fletcher-fox.net	37	Antarctica (the territory South of 60 deg S)	Abigailland	Utah	2025-05-14	2024-08-24	Returns	High	Closed	Kristopher Floyd	21.69	Very Dissatisfied	Phone	54662	427.23	Delivered
+889976	3190	Lance Flores	michael09@hotmail.com	31	Togo	Kimburgh	West Virginia	2024-09-22	2025-03-16	Billing	Low	Escalated	Karen Lawrence	60.87	Very Satisfied	Phone	55617	599.1	Pending
+795192	5580	Paula Harris	ryanisabella@braun.com	72	Guadeloupe	Davisborough	Delaware	2025-03-11	2024-07-16	Billing	Critical	Escalated	Dana Mayo	94.78	Neutral	Web	79109	957.14	Pending
+884349	1272	Terri Young	jessicathornton@smith.info	57	Bulgaria	Karenside	Missouri	2024-07-31	2024-10-23	Shipping	Medium	Escalated	Sierra Johnston	54.87	Very Satisfied	Email	69409	828.77	Cancelled
+644226	3764	Timothy Mccarty	paul98@vaughan-ramos.biz	63	Cambodia	North Elizabethton	Wisconsin	2024-07-27	2024-11-24	Account	Low	Pending	Mark Waller	45.88	Dissatisfied	Web	74395	398.18	Delivered
+403082	1743	Reginald Conrad	hthomas@hernandez-cobb.biz	57	Australia	Blairport	Tennessee	2024-10-23	2025-07-03	Technical	Medium	Escalated	Sarah Fowler	51.72	Very Satisfied	Web	66327	667.15	Pending
+670279	1279	Richard Evans	keith20@silva-porter.com	18	Romania	South Michaelland	California	2024-11-26	2024-11-29	Returns	Low	Open	Kimberly Booth	2.89	Satisfied	In-Person	65982	413.78	Pending
+457636	8959	Katie Kennedy	michele66@scott.net	30	Mongolia	Kennethberg	Oregon	2024-07-22	2025-02-04	Shipping	High	Closed	Mr. Richard Hicks	30.35	Very Dissatisfied	In-Person	78864	965.29	Delivered
+338515	1990	Matthew Graves	daniel28@miller.com	58	Brazil	New Patrickmouth	West Virginia	2025-03-08	2024-12-20	Billing	Medium	Closed	Terry Gutierrez	81.94	Very Satisfied	Email	92106	233.38	Returned
+171374	8537	Andrew Davis	greentracy@leonard.org	22	Guadeloupe	Port Christinefurt	New Hampshire	2024-11-12	2025-04-28	Account	High	Escalated	Anthony Myers	11.24	Neutral	Web	61476	698.51	Returned
+999658	8659	Zachary Manning	roy54@robertson.com	60	Tonga	New Rachel	Washington	2025-04-06	2024-11-05	Account	Low	Pending	Matthew Williams	24.19	Neutral	Web	75415	346.02	Returned
+717273	9538	Nicole Anderson	perkinsnicole@hotmail.com	71	Nepal	Elizabethville	Arkansas	2025-01-28	2024-07-21	Billing	Medium	Open	Sheri Chung	7.55	Dissatisfied	Web	62182	585.26	Cancelled
+400953	9441	Travis York	amyburke@gmail.com	54	Denmark	New Karen	Virginia	2024-11-24	2024-08-18	Technical	Medium	Open	Sarah Luna	0.14	Satisfied	Email	84581	355.87	Pending
+225825	7789	Sally Page PhD	rvillanueva@yahoo.com	48	Cocos (Keeling) Islands	New Johnmouth	Missouri	2024-08-15	2024-12-12	Shipping	Critical	Pending	Kimberly Gomez	24.13	Dissatisfied	Web	51102	703.49	Delivered
+949547	7079	Jessica Johnson	gjackson@gmail.com	39	Dominican Republic	Garciastad	Wisconsin	2025-04-26	2024-12-06	Returns	Medium	Closed	Anne Zavala	6.79	Very Dissatisfied	Phone	72167	492.24	Pending
+356412	9493	Adam Nelson	timothy41@yahoo.com	62	Rwanda	Lake Kelsey	Georgia	2025-04-12	2024-10-15	Shipping	Medium	Open	Ashley Green	8.63	Satisfied	Web	68976	646.39	Pending
+147266	3798	Denise Wright	phart@yahoo.com	18	Rwanda	Port Heathermouth	Georgia	2024-12-26	2025-03-13	Shipping	Low	Open	William Edwards	8.12	Neutral	Email	63131	165.21	Pending
+136851	5812	Hunter Black	bcampbell@schroeder-martin.com	53	Jamaica	Angelachester	Arizona	2025-07-13	2024-08-15	Technical	Critical	Closed	Peter Hernandez	52.53	Dissatisfied	Email	57235	238.03	Returned
+941957	3997	Terri Jones	sean03@williamson.biz	31	Malaysia	North Abigailport	Washington	2025-01-18	2025-07-04	Billing	High	Closed	April Miller	24.38	Very Dissatisfied	Email	66495	166.9	Delivered
+827403	2208	Billy Conrad	christy90@castaneda.org	39	Taiwan	Dickersonbury	North Carolina	2025-02-14	2025-01-06	Billing	High	Pending	Paul Velez	3.33	Very Satisfied	Chatbot	96015	94.04	Delivered
+637183	3286	Mary Cervantes	sheilagallegos@patel-brown.com	22	Guyana	Rebekahside	Arkansas	2025-07-14	2024-12-16	Account	High	Pending	Courtney Peterson	29.56	Neutral	Phone	79955	740.63	Cancelled
+308109	9963	Steven Cook	fstafford@perry.biz	52	Bulgaria	North Nicole	Louisiana	2024-08-27	2025-04-13	Billing	Critical	Escalated	Carolyn Wright	55.85	Satisfied	In-Person	60597	75.73	Delivered
+550768	2664	Jennifer Reese	morrisjennifer@erickson.com	47	Honduras	Scottville	Kansas	2025-02-23	2024-09-10	Account	High	Closed	Matthew Davila	49.33	Neutral	Chatbot	97856	316.64	Delivered
+704979	7687	Donald Wright	reillyjohn@ross.net	23	Trinidad and Tobago	Shannonstad	Indiana	2025-01-21	2025-01-02	Shipping	Low	Open	Richard Rhodes	48.33	Satisfied	Chatbot	89054	917.21	Pending
+151754	6765	Joy Moore	mccartykelly@huff.com	67	Greece	East Christopher	Pennsylvania	2024-10-23	2024-12-28	Returns	Critical	Pending	Eric Howard	14.84	Very Satisfied	Web	84609	973.22	Delivered
+113783	8276	Keith Watson	bradley35@gmail.com	57	Turkmenistan	Daniellemouth	Georgia	2025-01-12	2025-03-26	Account	Critical	Closed	Stephanie Lee	15.5	Satisfied	Email	52466	269.13	Pending
+604415	8452	Sarah Bowman	pcooper@hotmail.com	59	Ecuador	Port Brian	North Carolina	2025-02-27	2025-01-08	Account	High	Closed	Mrs. Tammy Bowen	25.77	Dissatisfied	Email	62265	162.86	Delivered
+881501	5561	Elizabeth Kane	cantugary@gmail.com	24	Lesotho	Lake Kevinside	Kansas	2025-06-27	2024-09-26	Account	Medium	Open	Thomas Perez	41.95	Very Satisfied	Phone	52740	335.86	Returned
+226682	5187	Kendra Johnson	brandon51@gmail.com	45	Georgia	Pageport	Minnesota	2025-05-28	2025-02-20	Account	Medium	Open	Kelsey Brown	30.46	Satisfied	Web	99916	880.88	Delivered
+280167	8414	Peter Dillon	eeaton@potter.com	63	Montserrat	Natashahaven	Minnesota	2025-01-08	2024-08-14	Billing	Medium	Open	Timothy Thomas	14.8	Very Satisfied	In-Person	82276	465.34	Delivered
+627629	5637	Katie Fernandez	simsjohn@yahoo.com	50	Sierra Leone	Lake Jeremyview	Vermont	2024-12-11	2024-08-22	Shipping	Medium	Pending	Jennifer Matthews	52.19	Dissatisfied	Chatbot	72015	564.81	Returned
+414455	9680	Kyle Cooke	lmcconnell@yahoo.com	19	Cote d'Ivoire	West Matthew	South Dakota	2025-03-25	2024-08-03	Technical	High	Open	Julia Mckinney	13.5	Dissatisfied	Email	85817	93.39	Cancelled
+350658	3544	Leroy Jefferson	ufoster@gonzalez.com	49	Iceland	Georgestad	North Dakota	2024-07-24	2024-11-01	Account	Medium	Escalated	Colleen Herrera	20.61	Satisfied	Email	72919	286.35	Cancelled
+795096	6159	Heather Young	jeremyray@gibson.biz	25	Guernsey	Lindamouth	Connecticut	2025-06-22	2025-01-18	Account	Critical	Closed	Kenneth Atkinson	39.36	Very Satisfied	Phone	84639	174.35	Delivered
+120809	3288	Tanya Rich	shawn01@hotmail.com	50	Trinidad and Tobago	North Monicaburgh	Maine	2025-06-10	2024-10-22	Account	Medium	Pending	Amanda Cox	30.31	Neutral	Email	63647	802.13	Cancelled
+650464	9552	Patrick Shepherd	dunnandrea@yahoo.com	21	Italy	South Jennifer	Colorado	2024-11-12	2025-06-06	Technical	Critical	Closed	Joshua Hurley	86.47	Very Dissatisfied	In-Person	56251	892.57	Returned
+663081	1618	Perry Cruz	jonesrodney@gmail.com	41	Bhutan	North Chris	Indiana	2025-02-15	2024-12-19	Billing	Low	Closed	Sarah Haynes	27.87	Very Dissatisfied	Web	59416	612.67	Pending
+533848	7748	Aaron Hardy	xlewis@thomas.com	43	Colombia	Lake Teresa	Indiana	2025-04-03	2024-07-25	Shipping	Medium	Closed	Eric Potter	8.89	Dissatisfied	Chatbot	90975	227.26	Returned
+155833	8955	Amanda Brown	devin00@wallace.com	69	Finland	Port Nathanland	South Dakota	2025-07-05	2024-09-15	Returns	High	Pending	Melissa Sims	51.47	Dissatisfied	Email	95271	876.78	Returned
+741900	4776	Daniel Dennis	cbradley@hotmail.com	44	Timor-Leste	West Michael	New Mexico	2024-08-28	2024-08-08	Account	Low	Open	Ashley Bruce	39.53	Neutral	Chatbot	73966	214.64	Delivered
+219104	8519	Kevin Pierce	melendezisaac@hood.org	32	Singapore	Ramirezfurt	Indiana	2024-12-20	2025-01-25	Billing	High	Open	Karen Dyer	35.19	Dissatisfied	In-Person	89858	523.93	Cancelled
+457934	5479	Scott Kim	christian87@hawkins.net	55	Saint Barthelemy	Pattonfort	Connecticut	2025-01-28	2024-09-27	Account	Low	Pending	Jeanne Morse	13.99	Dissatisfied	Web	78649	655.27	Cancelled
+231497	1501	Mary Sullivan	mrobinson@yahoo.com	40	Paraguay	West Mariaberg	Connecticut	2024-10-04	2024-09-08	Account	Low	Closed	Justin Ortiz	7.55	Very Dissatisfied	Email	82682	611.42	Cancelled
+364739	6185	Troy Walton	johnsonbrian@jenkins-adams.com	30	Niue	Lake Kenneth	Rhode Island	2025-03-09	2024-09-11	Account	Medium	Escalated	Ryan Snyder	1.86	Very Satisfied	Web	63046	396.62	Delivered
+667259	2901	Kathleen Williamson	harperjenny@gmail.com	29	Bouvet Island (Bouvetoya)	Lake Amandastad	North Carolina	2024-09-09	2025-04-01	Billing	Low	Pending	Heather Rowe	19.94	Neutral	In-Person	83245	333.82	Pending
+600377	8988	Benjamin Gardner	sallen@hotmail.com	48	Saint Helena	North Steve	Arizona	2024-09-30	2024-09-03	Account	Medium	Pending	Keith Cox	24.59	Very Satisfied	In-Person	59770	268.85	Returned
+950973	3051	Annette Zavala	rochasteven@savage-anderson.com	51	Romania	South Jennifer	Utah	2024-08-10	2025-05-27	Shipping	Low	Escalated	Cody Wood	31.48	Very Dissatisfied	Email	73229	769.08	Returned
+920327	5585	Zachary Hammond	mstephens@luna.com	33	Austria	Port Anita	Nevada	2024-10-26	2025-07-13	Returns	Medium	Closed	Kathy Allen	40.64	Dissatisfied	Phone	76206	220.51	Cancelled
+164349	5385	Daniel Beasley	jakecoleman@hotmail.com	71	Uruguay	Port Carrie	Louisiana	2024-11-18	2024-09-12	Account	Medium	Closed	David Salinas	9.24	Very Satisfied	In-Person	97579	452.95	Delivered
+468932	2678	Renee Silva	kellyjohnson@gmail.com	21	Christmas Island	Thomasborough	West Virginia	2025-05-17	2024-09-10	Technical	Medium	Open	Michael Barnes	78.62	Dissatisfied	Email	58105	347.86	Pending
+331528	8130	Rachael Carson	gary22@rivera-cervantes.com	24	Sri Lanka	Jamesshire	Vermont	2024-07-24	2025-03-26	Account	Medium	Open	Courtney Banks	15.55	Satisfied	Web	69779	686.57	Cancelled
+306919	2242	Donna Wilcox	james65@yahoo.com	64	French Southern Territories	West Ricky	Wisconsin	2024-09-22	2024-12-12	Account	High	Open	Dawn Ruiz	3.2	Neutral	Email	89920	221.1	Cancelled
+228158	7083	Laura Smith	qpowers@thompson-meza.com	65	Bahamas	South Donald	Texas	2025-06-15	2024-12-02	Technical	Low	Open	Caitlin Reyes	18.69	Very Satisfied	Email	80116	118.59	Cancelled
+660607	1551	Matthew Coleman	adamyoung@torres-lopez.org	74	Jersey	Glennburgh	Iowa	2024-12-21	2024-07-19	Billing	Critical	Pending	Melissa Ray	5.82	Very Satisfied	In-Person	92586	756.78	Returned
+956488	9434	Maria Lyons	raymondwood@avila-porter.info	32	Holy See (Vatican City State)	Conniefort	Nevada	2025-03-10	2024-10-11	Account	Critical	Open	Courtney Ray	72.73	Satisfied	Phone	71354	180.2	Cancelled
+225001	8979	Joseph Page	mcguirelisa@gmail.com	29	New Zealand	East Karen	Arkansas	2024-12-11	2024-12-04	Account	Critical	Escalated	Jessica Vega	1.44	Neutral	Phone	64418	467.28	Pending
+279623	8337	Stephanie Baker	sandovalheidi@yahoo.com	23	Palestinian Territory	North Russell	North Dakota	2025-01-03	2025-05-24	Account	Medium	Escalated	Mark Moore	19.41	Very Satisfied	Phone	90115	656.38	Cancelled
+351088	4196	Veronica Davis	michaelphillips@yahoo.com	40	Lebanon	South Sabrina	Minnesota	2025-02-15	2024-09-08	Shipping	Medium	Open	Heather Moore	9.39	Dissatisfied	Web	75075	293.14	Delivered
+930128	6101	Christopher Simon	samuel24@hotmail.com	33	Bahrain	Stanleyside	California	2024-07-22	2024-09-22	Technical	Critical	Pending	Sandra Hill	16.62	Very Dissatisfied	Chatbot	71513	438.48	Delivered
+387056	6665	Michael Wilcox	myerschristina@hotmail.com	73	Norway	North Michael	Georgia	2024-11-06	2024-12-16	Shipping	Medium	Pending	Alexander Sharp	4.74	Dissatisfied	Web	63414	116.74	Pending
+945205	3967	Amanda Barker	fchristian@gmail.com	34	Martinique	Johnview	South Carolina	2024-12-23	2025-05-29	Account	Medium	Escalated	Richard Carpenter	6.18	Very Satisfied	Chatbot	82457	990.8	Cancelled
+234726	7280	Michele Shields	hannaallen@smith-becker.com	52	Lao People's Democratic Republic	West Maryberg	Nebraska	2025-06-09	2025-01-06	Shipping	Medium	Closed	Christopher Hatfield	26.99	Very Satisfied	Email	97178	96.85	Returned
+963501	7497	Lisa Cline	hboyd@delacruz.net	19	Poland	Lake Peter	Georgia	2025-01-24	2025-01-31	Returns	Medium	Escalated	Shelley Kane	24.95	Very Satisfied	Web	88296	311.22	Delivered
+107869	6180	Ashley Mitchell	valenzuelakenneth@gmail.com	56	Anguilla	South Alexander	Kansas	2024-12-28	2024-09-05	Shipping	Critical	Closed	Rickey Watson	2.0	Dissatisfied	Chatbot	51078	413.76	Returned
+611182	1807	Gabrielle Ruiz	miguel24@parker.com	68	Palestinian Territory	Granttown	Nebraska	2024-10-19	2024-12-30	Account	High	Closed	Richard Ponce	48.56	Dissatisfied	In-Person	95187	572.22	Returned
+759142	5438	Melissa Gibbs	froberts@yahoo.com	36	Antigua and Barbuda	New Jenna	Wisconsin	2025-01-18	2025-07-09	Technical	High	Closed	Chris Kim	20.31	Neutral	Email	90536	260.24	Pending
+698627	4509	Jordan Jones	karentrevino@gmail.com	47	Eritrea	South Barbara	Wyoming	2025-05-22	2025-04-02	Account	Medium	Open	Peter Payne	3.63	Very Dissatisfied	Web	67249	502.81	Cancelled
+519721	1620	Christopher Medina	ograham@parks.com	39	Turkmenistan	South Samantha	California	2025-03-16	2025-01-25	Technical	Critical	Escalated	Donna Singh	8.94	Very Satisfied	In-Person	97286	717.8	Cancelled
+152357	6189	Andrea Reid	christineprice@gmail.com	44	Congo	Angelachester	Massachusetts	2025-03-29	2025-03-29	Account	Critical	Open	Debra Olson	27.87	Satisfied	Email	99047	465.4	Pending
+893236	6200	James Johnson	stephensonjeffrey@gmail.com	30	Jordan	South Todd	Alaska	2024-12-02	2025-02-11	Account	Critical	Open	Emily Ford	30.17	Dissatisfied	Web	68962	794.74	Cancelled
+384580	7431	Charles Shepard	jhinton@yahoo.com	41	Netherlands Antilles	Hansonstad	Wyoming	2025-01-10	2024-09-23	Shipping	High	Pending	Matthew Atkins	4.46	Very Satisfied	Phone	61575	172.73	Delivered
+360318	5619	Ronald Ramos	williamwagner@hotmail.com	35	Pakistan	Michaelmouth	Mississippi	2025-01-21	2025-06-11	Shipping	Medium	Open	Kevin Rivera	64.33	Very Satisfied	Web	62351	61.65	Returned
+381632	1582	Ryan Hill	rodriguezvictoria@yahoo.com	48	Macao	Traceyshire	Alaska	2024-07-23	2025-05-06	Billing	Low	Closed	Mr. Daniel Hicks Jr.	18.82	Very Dissatisfied	Phone	62061	920.48	Delivered
+748113	3154	Margaret Mcknight	stephanie75@hotmail.com	54	El Salvador	South Kevinside	Tennessee	2024-09-01	2024-09-21	Billing	Medium	Pending	Sarah Bailey	50.94	Very Dissatisfied	Web	50195	304.29	Returned
+652878	7838	Amber Bryant	scottmarc@yahoo.com	25	South Georgia and the South Sandwich Islands	Natalieborough	North Dakota	2025-03-24	2024-12-28	Billing	Critical	Pending	Amanda Stone	14.72	Neutral	Email	77018	470.53	Returned
+644915	5099	Sarah Wood	ericadennis@owens.com	28	Montserrat	Mitchellborough	North Dakota	2024-12-30	2025-02-10	Billing	Critical	Closed	Jonathan Fitzgerald	17.41	Dissatisfied	Email	64509	194.98	Returned
+543530	7772	Derrick Sherman	bhughes@fletcher.com	43	Panama	Sparksborough	West Virginia	2024-07-30	2025-02-14	Billing	Medium	Open	Sarah Wong	9.45	Neutral	Phone	86386	744.61	Delivered
+153448	2298	Steven Baker	robert69@hotmail.com	53	Iran	West Sarah	Wisconsin	2025-03-08	2024-10-14	Shipping	Low	Pending	Veronica Clark	28.71	Neutral	Web	73320	163.28	Pending
+595871	9113	Melissa Allen	arroyokevin@gmail.com	67	Nigeria	Huntbury	New Mexico	2024-12-29	2025-03-26	Billing	Low	Open	Donald Benson	30.55	Very Satisfied	Chatbot	90954	92.26	Cancelled
+438811	4764	Lori Adams	vcole@jimenez.com	28	Ukraine	West Sarah	Nevada	2025-06-19	2025-02-08	Shipping	Low	Open	Cathy Hill	48.44	Satisfied	Phone	92257	65.76	Delivered
+914216	4276	Lori Bernard	kbrown@gmail.com	52	Nauru	Garrettmouth	Mississippi	2025-03-30	2025-03-05	Shipping	Critical	Open	Kyle Morgan	13.61	Very Satisfied	Email	76344	663.83	Pending
+959335	2303	Christopher Hunter	paulbond@yahoo.com	69	Macao	Port Leslie	Arizona	2024-08-30	2025-05-11	Billing	Low	Pending	Nicole Mcpherson	3.55	Very Dissatisfied	Web	98643	991.29	Delivered
+101896	9622	Katelyn Durham	kayla38@castro.com	19	Chad	East Mistyberg	Kentucky	2024-12-07	2024-11-05	Shipping	High	Pending	Leslie Hodges	9.95	Very Dissatisfied	Email	79657	567.48	Returned
+998653	2886	Jordan Ruiz	amycharles@kramer.org	71	Azerbaijan	Lake Amberville	Texas	2025-03-10	2025-07-09	Technical	Medium	Pending	Michael Guerrero	10.48	Satisfied	In-Person	99952	423.02	Cancelled
+157497	3025	Jesse Chavez	mcolon@hotmail.com	38	San Marino	Contrerasport	Louisiana	2024-09-09	2025-02-21	Returns	High	Closed	Jennifer Brown	5.24	Very Satisfied	Web	95353	605.06	Cancelled
+912903	1087	Raymond Downs	xnovak@vaughan.com	64	Myanmar	South Natalie	Pennsylvania	2025-03-05	2024-10-14	Account	High	Open	Karen Alvarado	7.83	Very Satisfied	Web	90091	913.53	Cancelled
+233025	5623	Colleen Watson	matthew56@yahoo.com	71	Georgia	North Brenda	Alabama	2025-06-18	2025-05-13	Billing	Critical	Closed	Kim Lucas	10.57	Very Satisfied	Chatbot	59064	139.45	Delivered
+148428	2136	Angela Davis	millerangela@hotmail.com	64	Djibouti	Michelleport	Delaware	2024-08-10	2024-10-10	Shipping	Low	Open	Michael Martin	89.36	Very Satisfied	Email	83294	773.89	Pending
+230680	8065	Tyler Wagner	daniel08@hotmail.com	36	French Guiana	Phillipsville	South Carolina	2025-06-04	2024-09-14	Shipping	Low	Escalated	Marie Farmer	5.58	Satisfied	Web	71822	131.66	Pending
+152254	5384	Brett Henson	davispaul@gmail.com	30	Armenia	Christopherbury	Wyoming	2025-07-15	2024-12-18	Technical	High	Pending	Scott Hubbard	27.49	Neutral	In-Person	54619	52.14	Pending
+171740	8910	Melissa Barr DDS	carla18@berry.com	22	Gibraltar	New Jeffrey	New York	2024-08-06	2025-02-24	Account	Medium	Open	Michael Sparks	3.61	Very Satisfied	Chatbot	50938	679.04	Returned
+606266	8565	Christopher Torres	youngrussell@yahoo.com	67	Hong Kong	Annaville	New Hampshire	2024-07-31	2025-07-05	Technical	Critical	Open	Patricia Rose	7.76	Dissatisfied	Phone	57135	96.9	Cancelled
+134614	5388	Jacob Williams	philip71@hotmail.com	21	Saint Barthelemy	North Curtismouth	Washington	2024-09-16	2025-07-10	Account	High	Open	Fred Pena	56.85	Neutral	Chatbot	83432	404.73	Returned
+995954	5741	Steven Charles	snowmichelle@gmail.com	52	Swaziland	Murrayside	Vermont	2024-11-17	2025-06-16	Technical	Medium	Open	Jessica Bennett	63.22	Very Dissatisfied	Chatbot	94228	344.05	Pending
+847340	9947	Heather Hayes	sara84@jenkins.com	62	Seychelles	Alvarezbury	Minnesota	2025-04-18	2025-07-04	Returns	Low	Open	Amy Harvey	19.32	Dissatisfied	Chatbot	63491	664.41	Delivered
+190311	1772	Rachel Torres	jasminecarpenter@bush.org	67	India	Cherylton	Michigan	2025-01-07	2025-06-07	Shipping	Critical	Escalated	Zachary Lopez	1.74	Very Dissatisfied	Chatbot	71506	483.22	Cancelled
+640440	3861	Kirsten Randall	denise68@gmail.com	60	Andorra	West Johnmouth	Oklahoma	2025-02-22	2025-01-10	Shipping	Medium	Escalated	Marilyn Reyes	147.73	Satisfied	Phone	54492	704.07	Cancelled
+626510	4865	Aaron Powell	nashjessica@wells.com	22	Sweden	New Lorifurt	North Carolina	2024-07-29	2025-02-14	Technical	Low	Pending	Kimberly Brown	5.43	Dissatisfied	Chatbot	96037	475.93	Returned
+613793	8972	Carrie Sims	ryanphillips@gmail.com	39	Papua New Guinea	Kennedyborough	Nebraska	2025-04-07	2024-07-17	Technical	Critical	Open	Erica Elliott	49.2	Satisfied	Chatbot	78551	506.84	Returned
+431241	3753	Devin Weber	michealhood@hotmail.com	26	Austria	Lake Emily	Kentucky	2025-04-10	2024-10-01	Returns	High	Open	Kathleen Skinner	16.18	Very Dissatisfied	In-Person	67502	520.79	Cancelled
+264670	3362	Jesse Willis	cgamble@krueger-martin.info	37	Tuvalu	West Michaelbury	Vermont	2024-09-11	2024-10-20	Account	Medium	Escalated	Kurt Garner	86.43	Neutral	In-Person	56777	476.51	Pending
+429860	3455	Peter Mathis	urichmond@matthews.com	19	Trinidad and Tobago	Priceport	Texas	2024-09-13	2024-08-01	Billing	Medium	Closed	Lindsey Yang	26.62	Neutral	Chatbot	88014	62.88	Returned
+175261	3914	Philip Campos	debramendez@johnson.net	36	Guernsey	Port Monique	Virginia	2025-04-01	2025-03-15	Technical	Low	Open	Austin Hughes	1.7	Neutral	Chatbot	96394	442.0	Pending
+468353	8656	Leslie Bradley	nmiller@yahoo.com	56	Trinidad and Tobago	Hortonfurt	Hawaii	2025-01-31	2025-04-09	Shipping	Critical	Pending	Bryce Smith	2.04	Satisfied	Chatbot	59805	676.0	Pending
+504537	7514	Melissa Nelson	barrettlauren@pennington-burnett.com	23	Turkmenistan	Paulport	South Carolina	2025-06-26	2025-07-13	Account	Medium	Pending	David Hall	47.62	Very Satisfied	Phone	74809	180.17	Pending
+778338	1139	Michelle Ford	isnow@yahoo.com	73	Senegal	Alyssastad	Illinois	2024-12-03	2024-10-29	Account	High	Pending	Matthew Coleman	38.23	Neutral	Phone	74033	639.79	Returned
+508562	3330	Emily Arnold	patrickforbes@hotmail.com	67	Belarus	Munozfort	Texas	2025-01-01	2024-12-16	Technical	Low	Escalated	Matthew Williams	20.32	Very Satisfied	Web	54659	910.34	Pending
+715108	7419	Lindsey White	cferguson@higgins.com	45	Western Sahara	Alvarezberg	Virginia	2024-09-29	2025-03-18	Shipping	Critical	Pending	Jason Holland	24.69	Dissatisfied	In-Person	78074	744.53	Returned
+418891	1894	Audrey Ferguson	seantorres@lee.com	29	Cape Verde	Ramirezland	Connecticut	2025-04-30	2024-07-16	Returns	Medium	Escalated	Mr. Ethan Smith	20.5	Very Dissatisfied	Web	87000	716.52	Delivered
+478362	3953	Michael Hodge	phoward@hotmail.com	21	Lithuania	Port Kennethberg	Hawaii	2025-05-10	2025-03-01	Billing	Medium	Escalated	Angela Hooper	18.15	Neutral	Web	90272	292.69	Returned
+377799	3886	Mrs. Susan Kennedy	jamesjohn@thomas.com	28	Norway	West Joshuatown	Illinois	2024-10-18	2025-06-12	Account	Medium	Pending	Amanda James	28.88	Very Dissatisfied	Web	98703	944.77	Delivered
+300363	6095	Amanda Villarreal	nathanwarren@yahoo.com	43	China	Lake Kimberlystad	Pennsylvania	2025-06-25	2024-08-10	Returns	Low	Open	Aaron King	50.62	Neutral	Chatbot	61321	50.58	Delivered
+444746	4106	Donald Torres	jasonarellano@jacobson.net	37	Burundi	South Markfort	North Carolina	2024-08-02	2024-07-16	Billing	Critical	Escalated	Jordan Tran	18.56	Neutral	Chatbot	94149	187.95	Delivered
+549524	3142	Dylan Roberts	annesmith@jimenez.com	39	French Polynesia	Joneston	Connecticut	2024-09-08	2024-12-08	Shipping	High	Escalated	William Duncan	36.34	Very Dissatisfied	In-Person	65341	667.91	Returned
+229766	3404	Heather Avila	foxshawn@baker.com	66	Ghana	New Robert	Alaska	2024-11-28	2025-03-21	Billing	Low	Closed	Vincent Jackson	82.7	Dissatisfied	Chatbot	60306	312.36	Delivered
+233808	1799	Tara Brooks	rubenharris@gmail.com	57	Canada	Bryanbury	New Hampshire	2025-03-08	2024-12-21	Returns	High	Escalated	Kerry Armstrong	32.34	Very Dissatisfied	Email	86058	768.9	Returned
+682511	9585	Morgan Hardy	connie50@hotmail.com	52	Jamaica	New Courtneyside	Montana	2025-05-03	2025-04-10	Technical	Medium	Escalated	Kaitlyn Anderson	22.52	Very Dissatisfied	Web	97331	213.73	Returned
+103658	3490	Corey Chang	ramirezlance@hotmail.com	62	El Salvador	Port Christopherberg	Alaska	2024-12-30	2025-06-04	Technical	Low	Escalated	Tracy Thompson	13.23	Very Satisfied	Email	63139	794.54	Returned
+850825	9760	Heather Estrada	nancy51@hodge-koch.com	24	Mexico	Harrisonfurt	Oklahoma	2024-07-29	2025-05-07	Shipping	High	Closed	Brian Anderson	21.56	Very Dissatisfied	In-Person	86698	746.43	Pending
+858161	4510	Richard Villanueva	holtjacob@rodriguez.com	48	Senegal	Michaelville	Missouri	2025-03-20	2025-05-16	Shipping	High	Open	Karen Leon	26.31	Satisfied	Phone	53500	355.64	Pending
+498708	7265	Ashley Vazquez	vparks@lopez.org	44	Gibraltar	Port Michaelview	New Hampshire	2025-03-06	2024-11-09	Billing	High	Open	Ralph Owens	47.88	Satisfied	Phone	88465	605.28	Cancelled
+933924	2754	Brenda Bishop	dennisnavarro@gmail.com	66	Guatemala	Ashleyfort	Missouri	2025-03-21	2024-10-09	Technical	Low	Closed	James Ferguson	57.81	Dissatisfied	Chatbot	55766	677.68	Delivered
+183782	8098	Daniel Johnson	dgonzales@hotmail.com	49	Comoros	East Colleenland	New York	2024-08-29	2025-05-13	Billing	Medium	Escalated	Bonnie Garcia	4.33	Dissatisfied	In-Person	62440	87.16	Pending
+694263	7387	Samuel Willis	justin56@yahoo.com	51	Saint Lucia	Stephenschester	Arizona	2024-11-26	2024-08-23	Billing	High	Pending	Sandra Mckee	3.4	Neutral	Email	90940	922.61	Pending
+287229	3978	Tracy Hernandez	penacharles@gmail.com	18	Hong Kong	Cowanburgh	Iowa	2025-07-14	2024-08-06	Shipping	High	Closed	Jack Williams	46.72	Satisfied	Chatbot	98890	996.61	Pending
+145048	1430	Stephanie Banks	ppark@hicks.com	54	Lao People's Democratic Republic	South Justin	Florida	2024-09-19	2024-08-20	Billing	Low	Open	Holly Singleton	22.7	Very Satisfied	Phone	94508	616.89	Returned
+491406	5600	Christopher Gonzales	parkerhartman@hotmail.com	72	Mauritania	Heatherville	Virginia	2024-12-16	2024-12-15	Billing	High	Closed	David Noble	21.76	Very Dissatisfied	Chatbot	88763	294.5	Cancelled
+583202	2711	David Craig	nicole23@ward-barnett.biz	32	Iran	Markshire	Georgia	2024-10-08	2024-11-22	Technical	Critical	Escalated	Brenda Holt	28.99	Satisfied	Email	52610	871.17	Pending
+733795	3151	Deanna Thompson	michellejohnson@yahoo.com	55	Ghana	Cordovaport	Utah	2024-09-25	2024-12-11	Billing	High	Closed	Julie Johnson	60.61	Dissatisfied	Email	93461	533.16	Pending
+781858	2885	Dr. Maurice Davidson PhD	davidberry@gmail.com	56	Bosnia and Herzegovina	South Lucas	Oregon	2025-07-06	2024-11-29	Shipping	Medium	Open	Sara Fowler	17.46	Neutral	Phone	88821	674.55	Cancelled
+920638	3379	Jessica Reese	alanphillips@hotmail.com	60	Falkland Islands (Malvinas)	Youngland	New Hampshire	2024-10-16	2024-09-12	Returns	Medium	Open	Keith Black	4.58	Neutral	In-Person	92060	991.33	Delivered
+667619	5833	Glenda Jackson	sheltonjacob@hotmail.com	54	Tajikistan	Lake Kristineshire	Ohio	2024-12-31	2024-08-26	Shipping	Low	Open	Alyssa Gonzalez	2.43	Satisfied	Phone	93979	219.97	Pending
+498736	3079	Mitchell Potter	dsmith@rodriguez-sawyer.net	43	Tonga	Longhaven	Utah	2024-09-19	2025-01-23	Account	Low	Open	Mr. Nicholas Hill	106.8	Very Satisfied	Phone	92359	190.27	Delivered
+767603	7284	Joshua Jones	iobrien@hotmail.com	41	Kenya	Markton	Arkansas	2025-06-30	2025-03-14	Returns	Critical	Pending	Beth Vincent	3.74	Dissatisfied	Web	66548	740.47	Delivered
+940078	6774	Joann Tate	aliciapotts@gmail.com	63	Tonga	Penningtonberg	Alabama	2025-05-07	2025-06-16	Shipping	Medium	Closed	Scott Rogers	13.1	Very Satisfied	Email	73990	623.0	Delivered
+145549	2260	Amy Sanford	ubrown@schaefer.com	50	France	New Brittanyfort	Kentucky	2024-08-31	2025-02-10	Billing	High	Open	Theresa Harper	123.26	Neutral	Phone	58917	231.13	Pending
+753185	4145	Victor Galloway	reginaldmontes@gmail.com	38	Liechtenstein	Port Christopherton	New Hampshire	2025-04-30	2025-02-22	Account	Critical	Pending	Amanda Mosley	16.65	Dissatisfied	Chatbot	84404	52.85	Pending
+552558	1121	Eddie Thomas	stephanie30@hotmail.com	36	Liechtenstein	Lake Janetchester	Ohio	2024-08-16	2024-07-18	Account	High	Closed	Kevin Morris	34.69	Satisfied	Chatbot	58954	656.06	Cancelled
+155642	7076	Nicole Burch	ppatterson@mosley.com	28	Ethiopia	Barkerhaven	Tennessee	2025-05-10	2024-12-01	Shipping	High	Pending	Mary Frederick	52.35	Very Dissatisfied	Web	67073	248.02	Pending
+490510	3334	Heather Schroeder	kaylaray@gmail.com	74	Brunei Darussalam	North Christopher	Maryland	2024-10-09	2025-02-26	Returns	Low	Closed	Haley Valencia	17.14	Neutral	Email	84703	697.71	Returned
+757923	8837	Gary Simmons	michealsanchez@myers.com	43	Gibraltar	Lake Williamchester	Iowa	2024-10-22	2025-01-30	Technical	Critical	Escalated	Suzanne Miller	25.51	Neutral	In-Person	85070	478.94	Delivered
+620252	5029	Emily Castro	shannon28@frye.com	62	Mauritania	East Davidmouth	Iowa	2024-10-15	2024-08-07	Returns	Critical	Open	Mary Nguyen	16.94	Satisfied	Phone	91127	86.47	Cancelled
+896963	2053	Rebecca Harrison	kenneth29@henderson.info	49	Bulgaria	South Jessica	Tennessee	2024-10-17	2025-07-03	Account	Critical	Open	Ryan Miller	6.5	Very Dissatisfied	Phone	57433	202.31	Returned
+837023	6806	Justin Murray	christopher02@gmail.com	45	Antarctica (the territory South of 60 deg S)	Kelleychester	Florida	2025-06-12	2024-10-05	Account	Medium	Pending	Erica Flynn	125.08	Very Dissatisfied	Web	64848	535.36	Returned
+430247	9946	Ashley Thompson	gary13@reed.biz	30	Guadeloupe	South Mark	Arkansas	2024-07-18	2024-09-11	Returns	Low	Open	Christine Martin	19.14	Neutral	In-Person	81731	442.62	Returned
+540940	8947	Jason Allison	hickschristine@foster.com	58	Russian Federation	Lake Rebecca	California	2025-01-12	2025-03-23	Technical	Critical	Closed	Michelle Campbell	15.95	Satisfied	Email	57526	324.01	Returned
+827840	2700	Makayla Walls	staciedavis@mcdaniel-blair.com	29	Romania	Julieview	Massachusetts	2024-08-03	2025-06-13	Billing	Low	Closed	Robin Jackson	22.56	Very Dissatisfied	Phone	70360	932.91	Returned
+538611	6132	Eileen Walker	gravesronald@gmail.com	68	Bosnia and Herzegovina	Lake Belindafurt	Iowa	2025-04-16	2025-06-05	Returns	High	Pending	Chelsey Thompson	8.41	Very Satisfied	Chatbot	98908	663.95	Cancelled
+583225	8745	Crystal Carlson	clozano@sullivan.com	65	Belarus	Beardstad	Kansas	2025-01-01	2024-11-17	Technical	Medium	Closed	Candace Colon	8.23	Satisfied	Web	71575	736.18	Delivered
+118795	1349	James Bowen	cochrankelsey@sims.com	42	Norfolk Island	North Emma	North Dakota	2024-11-01	2024-08-16	Shipping	High	Open	Christopher Gallagher	55.96	Satisfied	Chatbot	92693	462.46	Delivered
+356988	6658	Chase Goodman	ashley64@snyder-berry.info	44	Burundi	East Andrew	Massachusetts	2025-01-19	2025-01-18	Account	Medium	Open	Miguel Shepard	32.7	Neutral	Email	83045	419.09	Delivered
+329270	9697	Steven Austin	richardbrown@gmail.com	42	Palestinian Territory	New Rebeccaberg	Ohio	2024-12-11	2025-02-20	Billing	Critical	Open	Jodi Taylor	18.22	Very Dissatisfied	Phone	68016	272.87	Cancelled
+661866	8248	Kim Burns	stephanie07@yahoo.com	44	Angola	New Danielleberg	Indiana	2025-03-26	2024-08-21	Billing	Low	Escalated	Andrea Sweeney	39.02	Very Dissatisfied	Phone	52264	817.39	Pending
+383210	7674	Anthony Ashley	nicole74@morales-rowland.biz	22	Thailand	Boydmouth	Pennsylvania	2025-01-03	2025-04-08	Account	Critical	Pending	Maria Santiago	55.19	Satisfied	Chatbot	63446	151.98	Pending
+828937	8603	Brad Randolph	bgregory@gmail.com	46	Central African Republic	Lake Kayla	Washington	2025-07-16	2025-06-20	Account	Low	Pending	Carla Thomas	19.76	Dissatisfied	In-Person	52022	145.71	Pending
+718557	9814	Lauren Ellison	josephmichael@yahoo.com	74	Barbados	Bryantmouth	North Carolina	2025-06-24	2025-06-06	Returns	Medium	Open	Andrew Mejia	42.47	Dissatisfied	Phone	97576	607.61	Delivered
+175058	9816	Deanna Campbell	williamskimberly@kelly.com	18	Sweden	Jordanfort	Idaho	2025-06-28	2025-03-24	Billing	Low	Pending	Edwin Hall	2.87	Very Satisfied	Phone	87216	911.44	Delivered
+942150	6002	Melanie Perez	baileyrandy@gmail.com	38	United States Minor Outlying Islands	Tinaton	Michigan	2025-01-14	2025-06-05	Account	Critical	Closed	Erin Lopez	4.03	Satisfied	Phone	61713	198.91	Delivered
+545527	8246	Jordan Brown	qhughes@hotmail.com	73	Oman	Hendersonborough	New Hampshire	2024-07-30	2024-10-16	Technical	Low	Closed	Sabrina Garcia	29.82	Dissatisfied	Email	93417	354.2	Pending
+335343	3443	Mary Hernandez	sextonjessica@sellers-riley.net	28	Cote d'Ivoire	East Kyle	Texas	2024-10-29	2024-09-06	Technical	Critical	Closed	Steven Mercado	0.97	Very Dissatisfied	Chatbot	63201	429.33	Returned
+546541	9756	Leslie Davis	longsandra@leblanc.info	59	Cook Islands	West Dale	Virginia	2025-03-31	2024-12-25	Returns	High	Pending	Morgan Garcia	96.42	Very Satisfied	Phone	55482	241.42	Delivered
+236698	8475	Ricky Gibson	umyers@thompson.info	23	Cocos (Keeling) Islands	Daisystad	Wyoming	2025-04-25	2024-12-15	Shipping	High	Escalated	Michael Mclaughlin	40.86	Satisfied	Chatbot	95348	741.68	Cancelled
+129459	7290	Cynthia Bolton	rosejames@gmail.com	64	Korea	North Kelli	Pennsylvania	2025-01-06	2024-11-25	Billing	High	Open	Jennifer Yang	103.53	Satisfied	Web	69007	911.77	Cancelled
+441379	4284	Kristin Smith	pjackson@cox.biz	46	Greenland	Crystalberg	Missouri	2025-02-04	2024-10-28	Shipping	Medium	Open	Jennifer Rice	17.12	Neutral	Web	60882	496.35	Pending
+492414	5842	Aaron Gonzales	justin60@brown.com	27	Tunisia	Port Michaelshire	New Jersey	2025-04-12	2025-06-29	Shipping	Critical	Open	Stephanie Goodman	3.94	Very Satisfied	Web	58820	257.09	Cancelled
+686232	3940	David Torres	dustin27@williams-hammond.com	72	Nigeria	Pierceville	Texas	2024-10-15	2025-01-08	Billing	Critical	Pending	Theresa Owen	3.31	Very Dissatisfied	Phone	59441	522.14	Cancelled
+929336	5927	Drew Gordon	kellyrichard@yahoo.com	38	Guernsey	New Jeremyport	Hawaii	2024-11-30	2025-04-15	Returns	Critical	Pending	Amy Martinez	5.87	Neutral	Email	74409	753.49	Returned
+374915	3751	Justin Avery	idavis@french-smith.net	56	Norfolk Island	Port Dana	North Carolina	2024-12-24	2025-04-02	Billing	Critical	Pending	Rebekah Johnson	70.12	Very Dissatisfied	Phone	98338	124.12	Pending
+227350	6192	Tiffany Rodriguez	thompsonmark@yahoo.com	62	Saint Helena	West Cheyennemouth	Vermont	2025-03-02	2025-05-23	Account	Medium	Pending	Sarah Mendoza	20.61	Dissatisfied	Chatbot	59868	567.59	Cancelled
+586689	5356	Daisy Donovan	alexandria44@hotmail.com	37	South Georgia and the South Sandwich Islands	West Mary	Michigan	2024-07-19	2024-09-08	Shipping	High	Pending	Alexis Bartlett	6.7	Dissatisfied	Email	54706	757.77	Cancelled
+824099	4315	Nathan Parsons Jr.	kevin50@williams.com	50	Saint Barthelemy	Markberg	Oklahoma	2024-07-23	2025-01-25	Account	High	Open	Lisa Russo	6.14	Satisfied	Email	70396	552.23	Returned
+229127	3136	Robert Fuentes	adamschristina@hotmail.com	72	Lesotho	Danielchester	Hawaii	2024-11-05	2025-06-07	Shipping	High	Escalated	William Cardenas	43.21	Neutral	Web	75177	517.98	Cancelled
+952724	1869	Alexander Johnson	teresa55@hall.net	37	Christmas Island	Mitchellburgh	New York	2025-07-14	2024-09-02	Billing	High	Pending	Cameron Jones	48.29	Satisfied	In-Person	88960	642.5	Pending
+867062	1932	Melissa Brooks	ellistravis@yahoo.com	51	Cape Verde	Port David	South Carolina	2025-05-22	2025-06-18	Returns	High	Pending	Christina Smith	10.86	Very Satisfied	Chatbot	93097	868.24	Returned
+794460	7705	Rhonda Smith	mark06@hawkins.com	22	Romania	West Tylerfort	Massachusetts	2024-12-08	2025-01-07	Billing	Critical	Pending	Jared Patterson	38.76	Dissatisfied	In-Person	74249	755.45	Pending
+991071	3914	Vanessa Booth	patricia98@nelson-simmons.com	29	Cape Verde	Burgesston	New York	2024-10-03	2025-04-27	Billing	Medium	Pending	Ryan Castillo	2.63	Very Dissatisfied	Chatbot	97104	962.24	Delivered
+655933	2877	Jessica Obrien	mary88@torres.com	49	China	Lake Tiffanychester	Washington	2025-02-23	2025-05-05	Shipping	Low	Open	Kenneth Jimenez	11.8	Very Satisfied	Phone	67269	991.49	Returned
+930964	1228	Ricky Keller	watkinsanne@yahoo.com	64	Mauritius	Johnside	Delaware	2025-03-31	2024-09-07	Technical	Critical	Escalated	Samuel Mcclure	51.2	Very Satisfied	Chatbot	79331	132.3	Pending
+494714	3587	Anthony White	stephaniearias@kennedy.org	64	Aruba	South Raymond	Mississippi	2025-02-28	2025-03-11	Technical	High	Pending	John Thomas	30.43	Neutral	In-Person	93976	988.58	Returned
+799989	3007	Thomas Ruiz	christopherbridges@fitzgerald.com	67	Congo	Port Tiffanymouth	West Virginia	2025-01-16	2025-02-02	Technical	High	Closed	Robert Moon	9.23	Very Satisfied	In-Person	69718	244.29	Returned
+213906	7609	Chelsea King	marycruz@stevens.com	39	Syrian Arab Republic	East Katherinehaven	Texas	2025-01-07	2025-05-13	Billing	Medium	Closed	Doris Turner	29.92	Neutral	Email	98280	339.58	Cancelled
+869377	7130	Dustin Pope	morganrobert@martinez-webb.com	67	Chile	Loweville	Hawaii	2025-06-30	2025-04-11	Shipping	Medium	Escalated	Maria Martinez	5.22	Dissatisfied	Web	50918	391.45	Delivered
+433856	9605	Francisco Maldonado	heathergray@yahoo.com	26	Montserrat	Tristanburgh	Georgia	2025-03-06	2025-05-15	Account	Medium	Pending	Henry Gardner	0.81	Very Dissatisfied	Web	99133	825.14	Returned
+691233	5507	Shawn Dominguez	oshepard@gonzalez.com	43	Norfolk Island	Sarahville	Nevada	2024-08-16	2024-07-22	Account	Critical	Pending	Brandon Hamilton PhD	78.31	Dissatisfied	Chatbot	79001	164.22	Cancelled
+657812	2515	Jessica Foster	megan68@gmail.com	53	Nigeria	South Johnmouth	Tennessee	2024-08-04	2025-05-27	Returns	Low	Closed	Holly Reid	10.05	Neutral	Email	92267	84.16	Pending
+208143	8592	William Raymond	lyonsalexander@pineda-ball.com	50	Benin	Kimberlytown	Georgia	2024-09-21	2024-07-22	Technical	High	Escalated	Mark Ashley	13.7	Neutral	Phone	58363	235.54	Returned
+951046	9853	Katherine Jones	vanderson@gmail.com	30	Serbia	Port Tamara	Delaware	2024-09-28	2025-02-21	Technical	High	Closed	Matthew Lloyd	27.87	Satisfied	Web	51920	741.26	Cancelled
+716309	8228	Lisa Jenkins	grantrivera@gmail.com	19	Macao	Zacharychester	Oklahoma	2024-09-28	2025-05-23	Billing	Low	Closed	Allison White	31.12	Very Dissatisfied	Email	74852	172.2	Cancelled
+851390	6338	John Erickson	mitchellvincent@smith-david.com	38	Ukraine	North Melissa	Mississippi	2024-08-18	2025-07-07	Technical	High	Open	Nicholas Ramirez	4.75	Dissatisfied	In-Person	68940	304.38	Delivered
+105139	3397	Derek Dixon	donaldthomas@mckenzie-sandoval.info	58	Bouvet Island (Bouvetoya)	West Lisaburgh	Pennsylvania	2024-10-27	2025-03-30	Technical	Low	Escalated	Elizabeth Roman	65.89	Very Satisfied	Phone	86334	492.81	Cancelled
+596550	4580	Adam Brown MD	kristinemiller@lee.com	29	Liechtenstein	Lake Michaelview	Tennessee	2025-01-27	2025-04-10	Account	Medium	Pending	Roberto French	0.98	Very Satisfied	Web	81134	453.57	Cancelled
+250489	6294	Janet Smith	dmaldonado@hotmail.com	71	Switzerland	Brianton	South Dakota	2024-12-29	2024-10-25	Billing	Medium	Closed	Joseph Myers	3.83	Very Satisfied	In-Person	55177	585.85	Returned
+347432	8474	Cory Duran	amanda21@farmer-fuentes.org	62	Chile	Burnsshire	Massachusetts	2024-09-09	2024-07-19	Shipping	Medium	Pending	Benjamin Moore	30.68	Very Satisfied	Phone	69167	343.59	Pending
+911916	9296	William Roberts	jonhendricks@yahoo.com	38	Oman	Abigailmouth	Illinois	2025-05-03	2025-05-13	Technical	Medium	Pending	Barbara Gray	15.38	Dissatisfied	Chatbot	59946	808.35	Cancelled
+507553	7119	Albert Henry	xcoffey@hotmail.com	53	Isle of Man	Sheltonberg	Pennsylvania	2025-06-08	2024-12-30	Account	Medium	Open	Mary Booker	4.94	Dissatisfied	Web	86318	488.06	Cancelled
+146465	6212	Priscilla Barnett	amber50@rodriguez.info	71	Turkey	West Georgeburgh	Arizona	2025-02-26	2025-02-21	Billing	Critical	Escalated	Robert Parks	12.85	Satisfied	Chatbot	89258	440.94	Returned
+652815	6872	Amy Ho	blackwelllisa@yahoo.com	47	Switzerland	Stewartborough	Arizona	2025-05-15	2024-12-24	Account	High	Open	Jesse Marsh	70.46	Neutral	In-Person	85778	121.97	Delivered
+196258	6636	David Thompson	hilljacqueline@yahoo.com	50	United Arab Emirates	Johnsonville	Delaware	2025-05-29	2025-06-26	Billing	Critical	Escalated	Kimberly Nelson	5.82	Satisfied	Chatbot	52294	52.17	Pending
+691734	6592	Mary Stewart	barbara43@wilson.org	42	Ghana	Robertsport	Louisiana	2024-10-25	2024-10-26	Billing	Critical	Closed	Randall Moss	3.35	Very Satisfied	Email	81279	373.46	Cancelled
+204123	5698	Adam Wheeler	david59@gmail.com	60	Comoros	Port Timothy	Arkansas	2024-09-24	2025-06-26	Shipping	Low	Closed	Ronald Choi	4.99	Very Satisfied	Chatbot	74387	627.38	Pending
+791228	5875	Barbara Allen	nmeyer@gmail.com	25	Bahamas	Priceshire	Utah	2025-02-23	2024-11-09	Billing	Critical	Escalated	Timothy Pope	43.95	Very Satisfied	Web	72103	777.53	Returned
+494013	5419	Michelle Taylor	gilbert80@zavala.org	38	Malta	Jasonfort	South Dakota	2025-02-21	2025-05-10	Returns	Low	Pending	Nicole Thompson	8.94	Dissatisfied	Email	64343	394.41	Pending
+287856	3987	Michelle Baldwin MD	brandon87@williams.com	53	Saudi Arabia	Susanport	Hawaii	2024-11-07	2024-09-30	Returns	Critical	Open	Kathleen Harris	5.48	Very Dissatisfied	Web	81351	656.36	Pending
+959251	3018	Jessica Walsh	michelle59@williamson-taylor.com	21	Poland	Lake Megan	Montana	2025-01-30	2024-10-12	Billing	Medium	Escalated	Crystal Bray	49.19	Dissatisfied	In-Person	80498	244.09	Returned
+124628	9205	Dr. Casey Anderson	barbaramcmillan@yahoo.com	40	Paraguay	East Melaniemouth	Maryland	2025-03-31	2024-11-05	Account	Low	Pending	Daniel Blankenship	51.74	Satisfied	Email	67005	74.9	Cancelled
+458071	4625	Bryan Mcclure	russell95@hotmail.com	67	United States Virgin Islands	West Rachel	Oklahoma	2024-08-23	2024-09-30	Shipping	Low	Closed	Jennifer Owens	1.43	Very Satisfied	Email	57139	164.07	Pending
+982414	6587	Karen Wood	townsendamy@yahoo.com	41	Samoa	Warnerview	Georgia	2024-09-29	2024-11-01	Returns	Low	Closed	Adam Bryant	37.14	Dissatisfied	In-Person	60860	495.22	Delivered
+993701	5073	Jeffrey Swanson MD	shanebrown@gmail.com	27	Guadeloupe	South Christopher	Montana	2024-12-29	2024-12-20	Returns	Low	Open	Carolyn Hicks	8.66	Very Dissatisfied	In-Person	67540	279.74	Pending
+227174	5626	Sarah Parrish	fnunez@yahoo.com	51	Dominica	Serranofort	North Carolina	2024-12-31	2025-05-04	Shipping	Medium	Open	Darius Kemp	32.7	Very Satisfied	Chatbot	72999	351.22	Returned
+126704	8122	Carrie Fisher	torresbrian@lee.com	33	El Salvador	Dianaton	North Carolina	2025-03-13	2024-07-22	Technical	Low	Closed	Mark Morris	17.67	Dissatisfied	Phone	67979	107.17	Cancelled
+984938	5372	Heather Armstrong	william02@murphy-myers.com	31	Samoa	West Charlestown	Texas	2024-12-30	2025-05-27	Shipping	Medium	Open	Adam Erickson Jr.	54.41	Very Satisfied	Chatbot	71168	747.8	Delivered
+220687	8420	Roger Cook	elizabeth67@yahoo.com	64	Switzerland	Youngfort	Oklahoma	2024-09-25	2024-10-08	Account	Medium	Open	Kristine Miller	41.02	Satisfied	Chatbot	71606	355.42	Pending
+806252	3127	Robert Davis	paynejennifer@gmail.com	46	Saint Pierre and Miquelon	Trujillotown	Ohio	2025-03-09	2025-07-09	Returns	Medium	Open	John Butler	13.3	Very Satisfied	In-Person	50234	606.06	Pending
+605330	8829	Jeff Wallace	xmurphy@yahoo.com	36	Mauritius	Lake Sara	Vermont	2024-08-15	2024-09-24	Billing	Medium	Open	Jessica Miller	28.8	Satisfied	Chatbot	81298	400.73	Pending
+976800	6480	James Hammond	hartryan@weaver-bonilla.info	46	Namibia	Perezstad	New Mexico	2024-11-16	2024-12-04	Account	Critical	Open	Brandon Garrett	19.04	Neutral	In-Person	61215	159.75	Cancelled
+830175	9706	Tammy Norton	amartinez@williams.com	63	Luxembourg	New Elizabethview	New Jersey	2024-08-08	2024-07-30	Returns	Critical	Closed	Sherry Barrera	33.96	Neutral	Phone	68486	451.44	Pending
+398314	3881	Jacob West	hayleywright@meza-calderon.com	62	Heard Island and McDonald Islands	Seanton	Wyoming	2025-01-25	2024-12-26	Technical	Medium	Pending	Dustin Patterson	83.95	Satisfied	Email	78036	872.92	Pending
+707205	9658	Richard Ramirez	colleenray@woodard.com	66	Algeria	Davidshire	Kansas	2025-06-26	2024-09-22	Returns	Medium	Escalated	Dr. Caroline Abbott MD	9.55	Neutral	In-Person	71359	766.97	Returned
+413924	9538	Megan Adams	juliewatson@gmail.com	25	Holy See (Vatican City State)	Lake Jose	Vermont	2024-12-23	2024-08-04	Shipping	Critical	Open	Victoria Sloan	61.56	Very Satisfied	Chatbot	87157	88.93	Pending
+937547	8234	Jerry Lee	barbaragray@hotmail.com	67	French Guiana	Lake Angela	Minnesota	2025-04-11	2024-12-14	Technical	Low	Pending	Jason Koch	8.4	Dissatisfied	Chatbot	77795	437.39	Returned
+193098	1844	Javier Perez	uharris@castillo.com	23	Antigua and Barbuda	Lake Anna	Vermont	2024-11-02	2025-05-16	Returns	High	Escalated	Tracy Harrell	50.82	Dissatisfied	Email	67927	158.79	Delivered
+138031	2135	Richard Newton	nicoleweeks@yahoo.com	20	Macao	Johnsonport	Ohio	2025-07-12	2024-08-09	Billing	Critical	Closed	Angie Ward	38.98	Dissatisfied	Chatbot	65850	841.11	Pending
+904696	7839	Alexander Gallagher	debbie71@cook-dunlap.com	48	Costa Rica	Mariatown	North Dakota	2024-12-03	2025-05-18	Billing	High	Pending	Jeffery Evans	9.19	Neutral	Email	72373	535.33	Returned
+691016	7971	Brian Goodwin	marciacole@garrett.biz	20	Pakistan	Elizabethland	West Virginia	2024-08-31	2025-04-13	Account	Low	Open	Kayla Hill	4.39	Very Satisfied	Web	66815	726.83	Pending
+636163	5771	Dawn Gardner	mossnancy@middleton-hudson.com	19	Poland	Jamesberg	Florida	2025-05-24	2024-10-29	Shipping	High	Escalated	John Adams	12.77	Very Dissatisfied	In-Person	74995	655.75	Delivered
+654703	1972	Kelly Bailey	angelalindsey@yahoo.com	37	Eritrea	Meganfort	North Dakota	2025-01-17	2025-04-02	Shipping	High	Open	Tony Parks	52.46	Very Satisfied	In-Person	65098	445.71	Cancelled
+849897	4872	Alexander Snow	sheilastanton@yahoo.com	61	Guadeloupe	New Craig	Arizona	2025-01-14	2024-10-19	Technical	Low	Pending	Bryan Smith	7.04	Satisfied	Chatbot	72500	521.61	Returned
+349881	7253	Catherine Brewer	heatherpowell@hotmail.com	38	British Virgin Islands	Knightfurt	Oklahoma	2025-07-15	2025-04-18	Shipping	Critical	Escalated	Terrance Crawford	1.06	Very Dissatisfied	In-Person	82486	934.58	Delivered
+211928	7291	Paul Bennett	johnolson@yahoo.com	46	Cameroon	South Emilyshire	Maryland	2024-10-20	2025-05-28	Shipping	Medium	Open	Jose Hernandez	31.35	Very Dissatisfied	Web	52678	699.36	Returned
+681395	4460	Kimberly Miller	andersonkenneth@ray-pitts.com	69	Benin	South Davidmouth	Michigan	2025-06-23	2024-11-03	Technical	Medium	Closed	Zachary Wilson	10.47	Very Satisfied	Web	96306	309.2	Delivered
+885346	2225	Martha Williams	johnsonpaul@yahoo.com	44	Iraq	Port Jessicabury	Wisconsin	2025-07-06	2024-12-19	Returns	Low	Escalated	Steven Perez	44.31	Very Dissatisfied	Web	80991	263.3	Returned
+204766	7006	Derrick Bowen	carolsmith@hotmail.com	58	Tokelau	Kevinfort	Michigan	2025-01-24	2025-05-26	Shipping	Critical	Escalated	Michelle Hahn	49.5	Very Satisfied	Email	90287	189.82	Cancelled
+680197	9421	Jillian Trevino	wrightcarla@gmail.com	32	Sudan	South Paulland	Nevada	2024-11-14	2024-10-17	Shipping	Low	Pending	James Clayton	2.76	Very Dissatisfied	Chatbot	95281	276.05	Returned
+164109	4516	Denise Griffin	dianaerickson@love.com	34	Macedonia	Staceyport	Virginia	2024-11-04	2024-12-31	Account	Low	Escalated	Brianna Morris	24.93	Dissatisfied	Phone	98207	440.77	Delivered
+676840	1906	Karen Hunter	mnelson@gmail.com	48	United States Minor Outlying Islands	South Lisa	Ohio	2025-05-15	2025-04-18	Technical	Critical	Pending	Michael Hernandez	43.64	Neutral	Chatbot	54897	549.77	Cancelled
+439997	9989	Brittany Stevens	kenneth95@owens-clements.org	40	Mozambique	West Donna	Pennsylvania	2025-02-09	2025-03-22	Technical	Critical	Escalated	Billy Jimenez	8.36	Satisfied	Phone	87481	683.0	Cancelled
+691373	9094	Latoya Schwartz	rosaleserik@yahoo.com	42	Martinique	Harrisonside	New Hampshire	2024-09-09	2025-02-20	Technical	Critical	Closed	Crystal Dalton	24.32	Satisfied	Phone	88586	319.49	Returned
+289186	2927	John Murray	tylerryan@smith.biz	53	Serbia	East Deborahberg	Kentucky	2025-05-05	2025-06-27	Account	Low	Open	Martin Williamson	9.74	Very Satisfied	In-Person	53720	799.57	Cancelled
+968283	8063	Richard Chung	markdavis@munoz.info	49	San Marino	Brucemouth	Indiana	2025-01-08	2025-07-04	Technical	Critical	Open	Karen Davis	17.39	Satisfied	In-Person	69171	497.65	Cancelled
+181094	7382	Jennifer Wood	hornleah@contreras-compton.net	41	Singapore	Lake Jamesbury	New Mexico	2024-10-07	2025-05-14	Shipping	Medium	Pending	Kathleen Suarez	3.14	Satisfied	Email	59136	537.22	Pending
+353887	6923	Jacob Nelson	upowell@martinez.biz	51	Romania	Younghaven	Minnesota	2025-03-07	2024-10-11	Returns	Low	Escalated	Amanda Barker	1.03	Dissatisfied	In-Person	75328	165.48	Pending
+288505	1194	Holly Lewis	morganeric@gmail.com	74	Grenada	North Michaelfort	Arizona	2024-10-03	2024-10-18	Shipping	High	Escalated	Jessica Smith	95.73	Very Dissatisfied	Web	78374	103.4	Pending
+777351	5925	Abigail Gomez	christopherwhite@smith.org	36	Timor-Leste	South Sergio	Florida	2024-11-19	2025-04-29	Returns	Critical	Closed	Daniel Anderson	8.3	Neutral	Chatbot	59822	469.68	Returned
+362108	7095	Sabrina Turner	wball@yahoo.com	62	Grenada	Barbaramouth	Arizona	2024-12-21	2025-02-06	Returns	Low	Escalated	Heather Macias	22.58	Very Satisfied	Phone	75349	512.99	Cancelled
+576201	9279	Walter Smith	joseph62@hotmail.com	60	Guyana	Russellstad	Texas	2025-02-14	2024-08-07	Account	Critical	Open	Adam Cantrell	46.7	Very Satisfied	Chatbot	86847	932.9	Cancelled
+745902	7079	Jorge Archer	fisherandrew@mcpherson.com	42	Bermuda	Kathyberg	Alabama	2024-10-09	2024-08-22	Account	Medium	Closed	Craig Mays	22.76	Dissatisfied	Chatbot	86001	653.78	Cancelled
+834122	7537	David Mitchell	melissaenglish@hardin.com	49	Marshall Islands	Port Andrea	Maryland	2024-09-12	2024-09-24	Account	Medium	Closed	John Tanner	10.81	Very Satisfied	Email	75185	273.83	Delivered
+890147	8196	Charles Lam	mroberts@gmail.com	62	Bangladesh	West Victor	Maryland	2025-01-31	2025-02-10	Account	Medium	Escalated	Alan Mullins	13.05	Neutral	Phone	84343	597.71	Pending
+512855	7103	Morgan Hill	rodriguezmiranda@ortega.com	50	Northern Mariana Islands	Murrayfort	New York	2024-10-07	2025-04-17	Shipping	Medium	Closed	Victoria Lopez	0.28	Satisfied	Phone	57412	92.65	Returned
+365180	2707	Susan Hall	kelly46@hotmail.com	22	Ecuador	West Melissaton	Arizona	2024-12-28	2025-04-24	Billing	Critical	Open	Samuel Welch	73.56	Satisfied	Phone	73570	363.07	Pending
+485321	9111	Dominique Robbins	maystonya@welch.net	58	Belgium	Chavezburgh	West Virginia	2025-06-04	2025-04-23	Technical	Low	Pending	William Gonzalez	31.41	Satisfied	Web	64898	866.78	Returned
+728572	3395	Julie Velazquez	gatesadam@king.com	26	Saint Pierre and Miquelon	Jenniferburgh	Nebraska	2024-07-23	2025-07-11	Billing	Medium	Open	Ryan Hall	16.64	Very Dissatisfied	Chatbot	86994	587.11	Delivered
+515906	6298	Jeffrey Middleton	dennisdebra@bell.com	72	Equatorial Guinea	Lake Matthewborough	Utah	2024-10-03	2024-12-20	Shipping	Medium	Open	Tricia Mcdaniel	12.79	Very Satisfied	Web	61375	855.8	Delivered
+467299	4603	Amy Hernandez	pamelagriffin@hotmail.com	70	Western Sahara	West Jamie	Massachusetts	2025-02-20	2024-10-02	Account	Low	Pending	Samantha Johnson	7.26	Very Satisfied	Phone	75244	915.08	Returned
+683677	1000	Gina Brown	christina49@yahoo.com	64	Italy	Jorgemouth	Delaware	2025-05-08	2024-12-26	Technical	Critical	Escalated	Brenda Dean	24.78	Dissatisfied	Chatbot	88541	789.56	Delivered
+538532	7077	Erika Mckee	tammycalderon@hotmail.com	29	Peru	Thomasborough	Montana	2025-03-13	2025-05-16	Billing	Low	Pending	Maria Cohen	15.63	Very Satisfied	Web	56992	271.42	Cancelled
+187304	2053	Clifford Henderson	kyleyates@hotmail.com	69	Estonia	Lake Daniel	Maryland	2024-07-19	2024-09-21	Account	Critical	Escalated	Katherine Harrington	5.33	Very Satisfied	Email	74963	807.75	Returned
+493556	1003	Summer Hart	wrighttiffany@garcia.com	50	French Guiana	Brandonton	Virginia	2025-01-28	2024-11-24	Technical	Medium	Pending	David Lewis	4.03	Very Satisfied	Email	82239	755.24	Returned
+624612	3285	Joseph Baker	kelseyelliott@jones-washington.com	30	Andorra	Port Vincent	Delaware	2024-07-22	2024-07-26	Technical	Low	Pending	Carolyn Perez	16.3	Neutral	Email	55752	102.47	Returned
+346692	2336	Adam Smith	gburnett@gmail.com	62	Norfolk Island	East Lisa	Mississippi	2025-01-18	2024-09-29	Shipping	Medium	Closed	Brenda Maldonado	28.28	Very Satisfied	Chatbot	66762	801.62	Returned
+532885	4426	Pamela Sanchez	rnguyen@hotmail.com	54	Belgium	Kimshire	Maryland	2025-01-23	2025-03-02	Billing	Critical	Closed	Shawn Campbell	33.28	Neutral	Phone	50342	298.28	Delivered
+984581	6253	Amanda Poole	qkeller@johnson.info	66	Seychelles	South Robert	North Carolina	2024-10-03	2025-02-04	Returns	Low	Open	Patricia Walker	1.4	Neutral	Email	57719	274.2	Returned
+883715	8129	Michelle Jordan	lisa61@gmail.com	71	Ecuador	Michaelside	Iowa	2025-03-28	2025-01-05	Billing	Medium	Closed	Ashley Lewis	4.41	Very Dissatisfied	Chatbot	86373	931.72	Delivered
+268422	5636	Robert Stewart	xsmith@jackson.com	44	Italy	Lake Lauriemouth	Texas	2024-11-04	2025-02-22	Account	Critical	Pending	Miss Nicole Thornton	26.05	Very Satisfied	Web	80335	60.88	Returned
+535443	4225	Brian Lowery	sallison@yahoo.com	68	Djibouti	Kempberg	North Carolina	2025-03-16	2025-01-24	Shipping	Critical	Closed	Diane Woodward	34.41	Very Dissatisfied	Email	71076	122.8	Delivered
+824396	1483	Arthur Cunningham	davismichael@king.org	20	Martinique	Williamview	Delaware	2025-03-02	2025-01-18	Technical	High	Closed	Jessica Nelson	32.2	Very Satisfied	Email	71696	957.73	Returned
+696015	1465	Jeffery Ayala	david54@saunders.org	24	Martinique	South Ryan	Missouri	2024-08-28	2025-01-04	Shipping	Medium	Escalated	Lisa Reed	6.43	Neutral	Web	52289	234.39	Returned
+892845	9827	Javier Frederick	adamlopez@yahoo.com	36	Thailand	Tanyaton	Connecticut	2024-07-31	2025-06-20	Returns	High	Closed	Christina Martin	10.03	Dissatisfied	Web	76853	400.57	Returned
+707990	6141	Sheila Johnson	wandalewis@moore.info	48	Malta	East Richard	Mississippi	2024-10-31	2025-02-21	Billing	High	Open	Kimberly Jackson	14.44	Very Satisfied	Phone	99662	189.19	Returned
+806589	9754	Kristina Hernandez	richard44@valencia-hernandez.com	18	San Marino	Thomaschester	Nevada	2025-02-02	2025-07-14	Technical	Critical	Closed	Jonathan Green	25.35	Satisfied	Chatbot	79580	55.23	Returned
+642210	8281	Mrs. Victoria Johnson	dgrimes@gmail.com	70	Latvia	Williamsville	North Dakota	2024-11-20	2025-06-17	Billing	Low	Escalated	Derek Lee	40.68	Dissatisfied	Chatbot	58166	289.57	Pending
+818861	6963	John Franklin	kathleen15@phelps.com	51	Mali	Bradleyburgh	Hawaii	2025-05-29	2024-09-28	Shipping	Low	Closed	Kaitlyn Tucker	12.92	Neutral	Web	51319	309.43	Delivered
+607218	4490	Ruth Rodriguez	braunmartin@williams-young.com	39	Eritrea	Lake Susanland	Wisconsin	2025-02-05	2024-09-26	Technical	Low	Pending	Ann Jackson	65.61	Very Satisfied	In-Person	93888	135.61	Cancelled
+263760	8231	Erica Blevins	matthewhancock@harrison.biz	23	Slovenia	Rogersfort	Massachusetts	2025-05-02	2025-07-16	Account	Low	Open	Joanna White	49.6	Neutral	Email	95417	675.29	Returned
+774185	6557	Melissa Anderson	amacdonald@gmail.com	72	Burundi	Newmanbury	Arizona	2025-04-07	2025-04-04	Account	Low	Open	Derek Walter	8.04	Neutral	Chatbot	91975	260.83	Returned
+520533	2978	Donna Clark	johnbennett@barton.net	71	Brazil	Port Susanport	Washington	2025-07-07	2025-06-10	Account	Low	Pending	Ryan Ellis	69.63	Very Satisfied	Web	64048	819.88	Cancelled
+256581	9347	Richard Morris	jacobhernandez@decker.org	43	Afghanistan	Copelandberg	Georgia	2025-05-26	2025-03-09	Account	Low	Escalated	Dean Schwartz	47.64	Dissatisfied	Web	78289	520.7	Delivered
+270481	7197	Larry Wright	alexander17@gmail.com	23	Paraguay	Markville	Alaska	2024-09-22	2025-07-08	Billing	Low	Closed	Allison Shaw	3.03	Satisfied	Web	60910	746.15	Delivered
+200517	4684	Jason Marquez	jamesparker@yahoo.com	63	Lao People's Democratic Republic	Ryanview	Utah	2025-05-06	2024-08-15	Returns	Critical	Open	Jasmine Wright	21.53	Neutral	Web	83907	217.72	Cancelled
+622147	8788	Christy Sandoval	cwest@kelly.com	47	Benin	New Laurie	Montana	2025-02-20	2025-04-16	Returns	Medium	Open	Clinton Berry	56.83	Satisfied	Email	57074	499.73	Delivered
+884497	3276	Michele White	gatesnathaniel@solis-holmes.com	64	Philippines	Ricardochester	Vermont	2024-11-23	2025-05-19	Returns	Low	Escalated	Nicole Gregory	1.36	Satisfied	Chatbot	97574	762.52	Returned
+606987	6024	William Mckinney	leecarolyn@gmail.com	70	Bahamas	South Aaronfort	Connecticut	2024-09-26	2025-02-01	Billing	High	Escalated	Cheryl Gibson	7.01	Satisfied	In-Person	51682	697.86	Cancelled
+832576	5698	Patrick Carpenter	vrobinson@barrett.org	65	Samoa	North John	Iowa	2025-07-16	2024-11-14	Technical	Low	Pending	Erin Sparks	40.15	Very Satisfied	Chatbot	92160	894.24	Delivered
+642380	4111	Heather Barnett	lhughes@yahoo.com	43	China	North Matthew	Kentucky	2025-01-01	2025-01-03	Shipping	High	Open	Toni Hampton	29.62	Satisfied	Web	59901	349.1	Pending
+564575	2922	James Nguyen	stonemadison@pacheco.org	64	Saudi Arabia	South Seth	Kentucky	2024-07-16	2025-04-23	Returns	Critical	Open	Juan Acevedo	19.54	Dissatisfied	Email	86996	434.87	Cancelled
+714956	3845	Shannon Carter	ocrane@elliott-myers.com	40	Congo	South Davidmouth	Ohio	2025-02-03	2025-02-01	Billing	Medium	Pending	Nicholas Nolan	1.05	Neutral	In-Person	84434	695.77	Returned
+853832	2389	David Avila	johnsonsusan@hotmail.com	36	Gibraltar	Kurtport	Nevada	2025-02-09	2024-11-26	Technical	Medium	Open	Joseph Craig	9.12	Dissatisfied	Email	87892	400.69	Cancelled
+999788	8057	Adam Bridges	ecooke@yahoo.com	51	Guinea	East Jillian	North Carolina	2025-04-25	2025-05-25	Shipping	Low	Closed	Nicholas Holmes	8.71	Dissatisfied	Chatbot	80568	909.52	Delivered
+295151	1459	Austin Burgess	sullivanbethany@hotmail.com	51	Kiribati	Gregorymouth	Alaska	2025-05-14	2025-03-28	Account	High	Pending	Sean Jennings	2.86	Neutral	Chatbot	91723	184.93	Delivered
+242904	6755	Sarah Davenport	courtney22@yahoo.com	70	American Samoa	New Karenburgh	North Carolina	2024-12-13	2025-04-13	Shipping	Critical	Closed	Tiffany Ross	16.64	Very Satisfied	Phone	63440	482.63	Delivered
+380344	7271	Sonia Cruz	jeanettewebb@williams.biz	42	Niue	West Kelly	Massachusetts	2024-09-24	2025-07-04	Technical	High	Open	Alexis Meyer	8.43	Satisfied	In-Person	97586	291.7	Returned
+888584	1122	Kathleen Pearson	bridget24@contreras-clayton.com	74	Central African Republic	Port Jasminefort	Mississippi	2025-03-17	2025-02-05	Returns	Medium	Closed	Lauren Little	16.21	Very Dissatisfied	Chatbot	72029	114.29	Delivered
+308855	9031	Mario Jones	jason48@hunt.com	31	French Guiana	South Jenniferchester	Minnesota	2025-06-16	2024-10-25	Technical	Critical	Closed	Tiffany Fuentes	8.83	Very Dissatisfied	Web	57998	289.17	Returned
+253674	4009	Cassandra Hudson	rwalker@flores.com	73	Niue	Thomashaven	North Carolina	2025-06-12	2025-06-17	Technical	Medium	Pending	Joanne Barber	45.82	Neutral	Chatbot	95170	823.97	Pending
+714064	8744	Samantha Foley	thomas67@yahoo.com	39	Bangladesh	Port Annetown	Kansas	2025-01-26	2025-03-18	Shipping	Critical	Open	Jennifer Garza	11.12	Very Dissatisfied	Email	71633	672.55	Delivered
+640664	5492	Benjamin Galloway	kimberlyroach@mcneil-wood.com	42	Somalia	Meganside	Alaska	2025-02-19	2025-05-18	Returns	Medium	Open	Christine Santos	0.09	Satisfied	Chatbot	82133	496.25	Returned
+430141	3293	Sean Ortiz	berrytammie@forbes-stark.net	25	Turkey	Cardenasshire	Pennsylvania	2024-08-01	2024-09-04	Technical	Medium	Pending	Matthew Martin	27.14	Satisfied	Web	98610	947.46	Returned
+343589	7369	Joshua Gardner	colleenlynch@lawrence-daniel.com	64	Saint Martin	East Cindyside	Indiana	2024-12-14	2024-10-24	Billing	Medium	Closed	Aaron Williams	7.34	Dissatisfied	Email	90685	623.85	Cancelled
+992852	4336	Laurie Jackson	caitlinhodges@hotmail.com	51	Lesotho	Port Joseph	Rhode Island	2024-08-06	2024-11-25	Returns	Critical	Escalated	John Ball	12.98	Very Satisfied	In-Person	98339	211.36	Cancelled
+824704	9383	Anna Nash	dylan41@goodman.com	38	Peru	North Taylorfurt	Missouri	2024-10-27	2024-12-02	Shipping	Low	Escalated	Kimberly Kelley	10.72	Very Dissatisfied	In-Person	93198	610.42	Returned
+664170	8083	Jacob Garza	james92@benton.com	47	Chad	Anthonymouth	Maine	2024-12-31	2025-06-25	Shipping	High	Pending	Tina Campbell	5.92	Very Dissatisfied	Web	65584	979.06	Delivered
+917401	5881	Steven Sparks	josephbates@gmail.com	24	Somalia	Spencerside	Nevada	2024-07-31	2024-12-19	Shipping	High	Pending	Stephanie Bryant	32.95	Very Satisfied	Chatbot	96567	657.54	Pending
+410235	8146	Jeffrey Rojas	sandersdarlene@reed-webb.biz	37	Marshall Islands	Morganmouth	Rhode Island	2024-09-26	2025-04-23	Shipping	High	Open	Robert Duran	39.28	Neutral	In-Person	94079	369.76	Cancelled
+803998	5701	Makayla Rogers	sandy48@gmail.com	72	Malta	South Elizabeth	Montana	2025-03-01	2025-01-16	Account	Low	Escalated	Pamela Garcia	17.94	Satisfied	Email	58114	73.47	Cancelled
+839595	2589	Leslie Yoder	william85@jones-morales.com	67	Kiribati	Traviston	Arizona	2025-03-03	2025-04-16	Billing	High	Pending	Ernest Trujillo	26.2	Very Satisfied	In-Person	75453	598.3	Pending
+996840	2368	Robert Lewis	adam68@gmail.com	47	Iran	East Steven	Idaho	2025-04-09	2025-02-15	Returns	High	Closed	Alyssa Snyder	22.22	Neutral	Email	59460	466.34	Delivered
+533272	2054	David Mcfarland	scotttony@chapman.biz	31	Italy	North Emmaburgh	Delaware	2024-08-06	2025-04-02	Returns	Low	Closed	Nicole Kirk	23.72	Dissatisfied	Chatbot	79494	892.75	Cancelled
+724138	8236	Dwayne Mcdonald	pattersonkatie@gmail.com	40	Senegal	Port Fred	Maine	2025-04-19	2024-08-13	Technical	Low	Escalated	Melody Bryan	25.87	Dissatisfied	Web	73282	936.1	Returned
+995105	6261	Mary Martinez	vanessa71@blair-anthony.com	33	El Salvador	West Madeline	Virginia	2024-08-31	2025-06-16	Account	High	Escalated	Brianna White	17.32	Dissatisfied	Web	69764	223.24	Returned
+712970	2081	Nathan Thomas	umurray@yahoo.com	58	Singapore	New Oliviaville	South Carolina	2024-09-02	2025-05-13	Billing	Low	Closed	Lisa Robinson	8.52	Very Dissatisfied	Phone	50782	279.42	Returned
+713048	1155	Rodney Smith	daniel66@gmail.com	33	Suriname	North Johnfurt	Mississippi	2025-02-21	2024-11-02	Billing	Medium	Open	Melissa Stone	20.56	Neutral	Chatbot	90932	925.77	Pending
+380151	6314	Cody Conley	maria61@yahoo.com	61	Romania	Bellhaven	Utah	2024-10-03	2024-09-11	Returns	Critical	Closed	Daisy Medina	1.96	Neutral	Email	95751	657.02	Delivered
+328175	8863	Jeffrey Fernandez	jesse82@yahoo.com	50	Isle of Man	South Jeffrey	Massachusetts	2024-07-16	2024-09-06	Returns	Medium	Closed	Kevin Baker	5.58	Very Satisfied	Web	51158	574.13	Cancelled
+422151	7915	Amanda Lee	vking@gmail.com	72	Uzbekistan	Hollyton	Rhode Island	2025-04-17	2025-06-14	Shipping	Critical	Escalated	Oscar Martin	28.71	Dissatisfied	In-Person	73975	935.06	Delivered
+124248	2542	Martin Anderson	smithmelissa@herrera.com	51	British Virgin Islands	New Nathaniel	New Jersey	2024-11-11	2024-08-14	Account	Critical	Closed	Steven Moss	71.71	Satisfied	Email	99601	615.82	Cancelled
+381116	6432	Keith Brown	mark70@hotmail.com	47	Cote d'Ivoire	Jenniferborough	Virginia	2025-04-07	2025-04-26	Account	High	Open	Sophia Thomas	6.11	Very Dissatisfied	Chatbot	62096	761.79	Returned
+602781	7860	Antonio Bartlett	tannermariah@yahoo.com	38	Greece	Justinport	Utah	2024-10-18	2025-02-04	Shipping	Critical	Pending	Joseph Ritter	74.97	Satisfied	Phone	90171	984.67	Cancelled
+943156	4702	Christopher Austin	nschneider@smith.info	38	Kuwait	North Linda	Missouri	2024-08-18	2025-05-19	Billing	Critical	Escalated	George Kidd	1.82	Very Satisfied	Phone	71167	728.15	Delivered
+501342	6287	Kenneth Peterson	orivers@hotmail.com	74	Slovenia	New Taylorville	Alaska	2024-10-02	2024-10-28	Billing	Critical	Pending	Joshua Sampson	21.8	Satisfied	Chatbot	66289	82.99	Returned
+310369	4308	Laura Gomez MD	pmedina@gmail.com	25	Puerto Rico	New Tammymouth	South Dakota	2024-11-17	2024-12-28	Billing	Critical	Escalated	Mario Lloyd	69.51	Dissatisfied	Web	73559	77.42	Returned
+280614	7420	Dr. Mike Thornton	sarah13@cole-price.com	58	Niger	North Tiffanyhaven	Oregon	2024-08-27	2024-12-08	Shipping	Medium	Escalated	Amanda Oconnell	20.52	Satisfied	Email	89859	959.64	Returned
+697571	2449	Taylor Ross	zhangmatthew@olsen.biz	29	South Africa	Suttonview	New Mexico	2025-03-31	2025-01-18	Shipping	Critical	Escalated	Dylan Ponce	20.1	Very Dissatisfied	In-Person	78597	566.23	Returned
+477980	1850	Tina Tyler	jstokes@gmail.com	50	Maldives	Edwardburgh	Florida	2024-08-07	2024-11-04	Returns	Low	Open	Sean Quinn	61.28	Very Satisfied	In-Person	57237	275.96	Returned
+350426	9487	Robert Wise	qscott@grant.org	68	Bermuda	Wilkinsonbury	Virginia	2025-03-01	2024-08-17	Shipping	Low	Escalated	Matthew Hess	35.96	Neutral	Web	74366	150.53	Pending
+437685	1435	James Todd	stephenlindsey@chandler.com	48	Falkland Islands (Malvinas)	East Brendan	South Carolina	2025-05-10	2024-08-07	Returns	High	Escalated	Robert Thomas	48.6	Dissatisfied	Chatbot	58199	179.27	Pending
+606038	9338	Gregory Herrera	christophergray@gmail.com	31	Switzerland	New Walterberg	Virginia	2025-07-16	2024-07-19	Shipping	Low	Closed	Alexander Morrow	8.34	Neutral	Phone	51496	743.29	Pending
+911812	9580	Dean Hatfield	rodney89@hotmail.com	24	Qatar	Michaelshire	Wisconsin	2025-03-04	2024-12-02	Technical	Medium	Pending	Ms. Rebekah Walker	20.67	Neutral	Email	67027	570.23	Delivered
+250586	4922	Robert Smith	samanthamendez@hotmail.com	30	Israel	Lake Johnview	Hawaii	2024-09-28	2025-05-27	Billing	Critical	Open	Mr. Craig Smith	19.11	Very Satisfied	In-Person	95285	112.95	Delivered
+538741	2397	Jose Edwards	reyeskimberly@yahoo.com	18	Saint Kitts and Nevis	Brownview	Virginia	2025-04-02	2025-05-03	Technical	High	Closed	Thomas Jackson	12.32	Very Satisfied	Email	74399	183.49	Cancelled
+831436	3948	Tina Evans	rachel07@gmail.com	53	Kyrgyz Republic	Lake Kimberlyhaven	South Dakota	2025-06-03	2024-07-22	Account	High	Closed	William Marquez	8.88	Satisfied	Chatbot	79317	204.4	Pending
+602886	4804	Thomas Norton	oscar09@yahoo.com	26	Antarctica (the territory South of 60 deg S)	Fullertown	Vermont	2025-05-27	2024-12-03	Technical	Low	Escalated	Jeffrey Mason	18.94	Dissatisfied	Web	74907	737.29	Cancelled
+835564	8680	Amy Smith	xdavis@yahoo.com	34	Slovenia	Bradleytown	Alaska	2024-11-02	2025-04-21	Technical	Critical	Escalated	Becky Morris	37.65	Satisfied	Chatbot	75217	420.72	Delivered
+728097	9831	Melinda Owens	michaelmoore@hotmail.com	65	Niger	New Jennifer	Iowa	2025-06-06	2025-05-25	Technical	Medium	Open	Melanie Lewis	32.37	Dissatisfied	Web	94953	96.57	Returned
+315751	7488	Donald Watson	dmolina@lee.com	37	New Caledonia	North Alexisport	North Dakota	2025-01-09	2024-12-21	Technical	Medium	Pending	Allison Weber	7.58	Dissatisfied	Web	95383	188.9	Delivered
+590789	5663	Logan Perry	alexander05@juarez.com	42	Lebanon	East Michael	Alabama	2025-04-27	2024-08-08	Account	Medium	Closed	Kaitlyn Huynh	38.25	Neutral	Web	84741	308.47	Delivered
+708716	6633	Danny Guerrero	guerrerocameron@hotmail.com	30	Angola	New Luis	Oklahoma	2024-08-01	2025-05-07	Technical	High	Escalated	Robert Mcbride	11.13	Very Satisfied	In-Person	83673	86.42	Delivered
+975153	8470	Cathy Ingram	wisevalerie@floyd-bradford.com	51	Singapore	Port Tinamouth	Alabama	2025-05-16	2025-04-24	Billing	Critical	Closed	David Jackson	1.67	Very Dissatisfied	Web	55327	914.24	Pending
+961525	9656	Crystal Taylor	adam33@lopez.com	71	Belize	New Marco	Arizona	2025-03-26	2025-06-09	Returns	Critical	Open	Paul Martin	3.32	Very Satisfied	In-Person	65486	411.1	Delivered
+784087	4712	Brittany Wilson	woodsamuel@hotmail.com	68	Morocco	Port Barry	New York	2025-04-10	2024-08-01	Technical	High	Escalated	Mary Martinez	40.41	Very Dissatisfied	Chatbot	78106	220.4	Pending
+684183	4315	Robert Gray	tamaralopez@gmail.com	58	Martinique	Lake Shawnfort	Washington	2025-05-26	2025-06-07	Returns	High	Escalated	David Brown	0.88	Very Satisfied	Email	63748	681.44	Cancelled
+129119	5891	Douglas Stone	uschneider@avila-jacobs.com	69	Tanzania	Port Christineberg	Iowa	2025-05-25	2025-06-13	Technical	High	Escalated	Henry Harris	12.44	Very Satisfied	Chatbot	91659	964.62	Cancelled
+604678	6615	Charles Allison	jeffreymooney@brooks.org	69	Thailand	Jonathonchester	Tennessee	2025-02-11	2025-05-06	Returns	Medium	Pending	Kenneth Wilson	8.95	Satisfied	Chatbot	95411	650.75	Delivered
+855718	3177	Denise Flores	timothydavis@herring-evans.com	39	British Virgin Islands	Troyside	Virginia	2025-01-28	2025-05-12	Returns	Low	Pending	Noah Strong	29.85	Very Satisfied	Chatbot	76241	904.63	Returned
+175890	9709	Alex Bishop	howethomas@smith.com	36	Indonesia	North Crystalport	Massachusetts	2025-03-22	2025-02-11	Account	Critical	Escalated	Christopher Garcia	39.76	Dissatisfied	Web	89673	85.57	Returned
+998261	6970	Matthew Massey	johnwright@yahoo.com	24	Guatemala	South Joelville	Wyoming	2024-10-02	2025-02-09	Account	Critical	Closed	Jessica Holmes	1.12	Dissatisfied	Phone	89408	366.32	Returned
+519705	9487	Dustin Diaz	trevor67@hotmail.com	27	Martinique	Katelynchester	Nebraska	2024-12-16	2025-02-17	Account	Medium	Escalated	Juan Austin	26.67	Very Satisfied	In-Person	89308	626.31	Returned
+921155	6814	Anthony Price	bwalker@yahoo.com	68	French Southern Territories	Kristaborough	Nebraska	2025-02-03	2025-07-15	Account	High	Open	Daniel Taylor	55.64	Very Satisfied	Email	91064	675.17	Delivered
+869223	6158	Brian Bass	smcdaniel@gmail.com	29	Bulgaria	Port John	Ohio	2024-12-20	2024-10-09	Technical	Medium	Open	Patrick Martin	29.19	Satisfied	Chatbot	83919	320.55	Returned
+148073	9614	Katherine Jones	pdunn@hotmail.com	19	Turks and Caicos Islands	West Karen	Arizona	2024-10-13	2024-11-16	Shipping	Low	Escalated	Brianna Shelton	10.49	Satisfied	Email	61742	328.86	Returned
+590099	4335	Jamie Keith	atkinsmarc@dennis.com	46	Angola	New Allisonborough	Massachusetts	2024-12-19	2024-08-28	Account	High	Open	Tammy Hunt	19.75	Very Dissatisfied	In-Person	54056	337.43	Returned
+340754	8324	Cynthia Walton	wilsonyvonne@miller.com	62	Cuba	Leonardbury	California	2024-09-17	2024-09-21	Returns	Critical	Closed	Linda Walters	14.69	Very Satisfied	Chatbot	81694	362.42	Cancelled
+346183	1981	Heather Pope	clarkrebecca@anderson.com	38	Slovakia (Slovak Republic)	Brandonshire	West Virginia	2024-10-07	2024-08-27	Returns	High	Closed	Virginia Nunez	6.05	Dissatisfied	Chatbot	54891	921.08	Delivered
+779739	8091	Charles Williams	jamessteven@gmail.com	68	Algeria	North Reneemouth	Indiana	2024-07-19	2024-11-02	Account	High	Pending	Jason Robinson	23.08	Very Dissatisfied	In-Person	85081	420.31	Cancelled
+852550	6113	Denise Moore	stephaniewilson@yahoo.com	50	Belgium	Reedland	North Dakota	2025-06-23	2024-11-07	Billing	High	Escalated	Kathy Suarez	30.02	Very Satisfied	Email	91053	575.94	Returned
+915092	4177	Raymond Ramirez	grace71@ayala.com	33	Malawi	Port Matthew	Iowa	2025-07-08	2024-11-10	Billing	Medium	Escalated	John Underwood	14.21	Very Dissatisfied	Email	91969	900.85	Returned
+808156	9085	Stephanie Meyers	rsimmons@meyer.com	61	Romania	Nicolebury	Washington	2025-01-23	2024-09-08	Returns	Low	Open	Thomas Garrett	39.12	Dissatisfied	Web	77065	823.49	Cancelled
+172628	4540	Tony Dean	cookgerald@hotmail.com	26	Trinidad and Tobago	Benjaminton	California	2024-10-28	2025-05-02	Returns	Medium	Closed	James Robertson	31.75	Very Satisfied	In-Person	62515	752.95	Returned
+327930	4010	Susan Flores	lcamacho@baker.net	37	Netherlands Antilles	Thomasside	Arkansas	2025-02-28	2025-06-27	Technical	Critical	Closed	Melanie Hammond	0.86	Very Satisfied	In-Person	94452	769.99	Cancelled
+995359	2697	Steven Roberts	kristine57@griffin.com	51	Cameroon	Lake Williammouth	Colorado	2024-09-10	2024-10-20	Shipping	Medium	Pending	Kevin Mcgrath	46.13	Very Dissatisfied	Email	96782	203.28	Returned
+366519	8484	Andrew Hawkins	kaitlynthompson@figueroa.org	47	Solomon Islands	Barajasburgh	Arizona	2025-02-13	2024-09-08	Account	Low	Escalated	Douglas Rios	39.96	Dissatisfied	Web	85209	288.16	Returned
+353851	2961	Travis Smith	melissarobinson@hernandez.com	68	Montserrat	Robertmouth	Montana	2025-01-11	2024-11-13	Technical	High	Open	Veronica Rowe	5.07	Satisfied	Phone	97690	892.39	Returned
+298834	9212	Michael Lawson	kquinn@carter.biz	47	Ghana	Port Judytown	West Virginia	2024-07-20	2024-11-02	Returns	Low	Open	Andrea Gonzales	103.55	Very Dissatisfied	In-Person	52193	938.96	Delivered
+913486	7506	Marie Brennan	ljohnson@yahoo.com	48	Marshall Islands	Port Ronald	Delaware	2024-07-28	2024-09-29	Technical	High	Open	Matthew Moore	2.92	Very Dissatisfied	Phone	94410	318.28	Pending
+371185	4472	Shannon Morrison	derrick02@yahoo.com	20	Cambodia	North Michaelborough	Michigan	2024-11-21	2024-10-11	Shipping	Medium	Escalated	Gary Stafford	14.48	Very Satisfied	Web	67261	694.93	Delivered
+244157	6167	Joseph Robinson	christinemitchell@hotmail.com	61	Slovenia	Snyderberg	Utah	2025-06-04	2024-11-07	Billing	Critical	Open	Mr. Derek Phelps	11.09	Satisfied	In-Person	72364	937.82	Pending
+296278	4055	Joseph Gonzales	kevinwalker@yahoo.com	51	Niue	New Pamela	Rhode Island	2024-10-31	2024-09-02	Technical	Low	Closed	Danielle Marshall	8.96	Satisfied	Chatbot	75553	275.03	Delivered
+752117	1617	Bradley Pollard	carlavillanueva@lewis-eaton.com	23	Australia	New Antonio	Connecticut	2024-11-22	2024-08-05	Billing	Critical	Pending	Teresa Smith	10.79	Satisfied	Email	75096	562.17	Pending
+838967	6357	John Bailey	michaelhester@gmail.com	45	Monaco	East Wendyborough	Maryland	2025-06-27	2024-09-29	Returns	Medium	Pending	Terry Mckinney	3.82	Very Satisfied	Web	90768	634.1	Returned
+807938	9171	Penny Hurley	matthewstimothy@ray.com	58	Liberia	South Kathleentown	Tennessee	2024-11-23	2024-11-23	Billing	Critical	Escalated	Stephen Snow	78.7	Dissatisfied	Chatbot	60708	507.89	Pending
+138545	5045	Teresa Richardson	yking@white.com	60	Guinea-Bissau	Eatonfort	Iowa	2024-11-18	2025-02-25	Returns	Medium	Pending	Haley Smith	35.6	Very Satisfied	Web	54368	225.76	Cancelled
+367395	7296	George Sheppard	gregcherry@hotmail.com	21	Somalia	Lake Brittanyside	Tennessee	2024-12-18	2024-12-29	Returns	High	Open	David Lewis	29.2	Neutral	Web	86618	888.57	Returned
+277953	1933	Danny Tate	stephanieperez@gmail.com	70	Palestinian Territory	West Danielle	Michigan	2025-04-20	2024-10-14	Technical	Critical	Closed	Shannon Wang	6.68	Neutral	Web	93498	616.38	Cancelled
+147209	4879	Austin Richardson	dianacarrillo@hotmail.com	45	Tonga	East Jodyside	Massachusetts	2024-09-11	2025-02-07	Technical	Critical	Closed	Laura Stewart	3.93	Very Dissatisfied	Web	93999	922.29	Delivered
+428641	7575	Jesse Hall	cluna@gmail.com	69	Malaysia	Peterland	South Dakota	2025-06-13	2024-11-24	Billing	Medium	Open	Patrick Gardner	34.24	Dissatisfied	In-Person	50519	78.95	Delivered
+292169	7011	Dustin Thompson	josephpowell@acevedo.com	54	Paraguay	North Angela	Maryland	2025-01-01	2025-01-29	Billing	Low	Closed	Beth Contreras	23.7	Satisfied	In-Person	86762	722.65	Returned
+543857	7376	Crystal Lee	mallen@dougherty-shaw.com	56	United Kingdom	Dianeville	New Mexico	2024-10-01	2024-09-28	Billing	Low	Pending	Tracy Swanson	10.07	Dissatisfied	Chatbot	57293	146.77	Cancelled
+195376	4660	Stacey James	joseph90@gmail.com	48	Trinidad and Tobago	South Tammy	Arkansas	2024-08-11	2025-06-11	Technical	Critical	Pending	Joseph Evans	37.41	Dissatisfied	Email	66720	119.48	Returned
+864378	3910	Anne Smith	angela77@yahoo.com	20	Nicaragua	Vaughnstad	South Carolina	2025-03-26	2025-02-01	Shipping	Low	Escalated	Renee Osborne	4.36	Neutral	Email	64864	319.36	Returned
+937704	5668	Theresa Miller	dawnmorrison@gmail.com	56	Malaysia	Quinnhaven	Nebraska	2025-04-16	2025-06-01	Billing	Critical	Open	Michael Clark	27.76	Dissatisfied	Phone	88847	846.85	Returned
+190099	5107	Ricky Smith	ebaker@hotmail.com	22	Congo	East Ralphshire	Indiana	2025-02-25	2025-06-24	Technical	Low	Pending	Vincent Nash	50.1	Satisfied	Chatbot	81263	266.48	Returned
+223697	6662	Deborah Webster	wgarcia@hotmail.com	38	Syrian Arab Republic	North Wendymouth	Delaware	2025-01-28	2025-02-25	Billing	Critical	Pending	Theresa Blanchard	125.06	Satisfied	Email	81746	974.74	Delivered
+197142	5314	Sonya Norman	mcdanielmichael@curry.biz	51	Aruba	Port Lisa	California	2025-04-12	2024-11-29	Account	Medium	Escalated	Kurt Rowe	24.96	Very Satisfied	In-Person	78376	473.37	Pending
+377008	1865	Matthew Hansen	peterssteven@hotmail.com	60	Argentina	Rhondahaven	Montana	2025-03-11	2024-12-05	Returns	Critical	Open	Juan Miller	9.46	Very Dissatisfied	Chatbot	53599	579.89	Delivered
+974438	6573	Curtis Kennedy	elliottchristopher@thompson.com	25	Pakistan	Lake Misty	Texas	2025-02-05	2025-02-25	Technical	Critical	Open	Tammy Brown	4.91	Neutral	Chatbot	97383	976.08	Pending
+405936	2821	Jason Benton	wangamanda@gmail.com	30	Cayman Islands	Port Matthewmouth	Kentucky	2024-08-21	2025-06-04	Technical	Medium	Pending	Cindy Fisher	6.28	Dissatisfied	Email	67561	617.28	Cancelled
+137880	4401	Scott Thomas	castrosamantha@turner.biz	51	Iran	Villanuevaview	New Mexico	2024-08-17	2025-01-26	Shipping	Medium	Closed	Dennis Walsh	1.92	Very Dissatisfied	In-Person	76317	678.16	Pending
+473986	4611	Jessica Long	dwilliams@bennett.com	61	Samoa	Willisbury	Louisiana	2025-02-07	2024-10-25	Account	Critical	Open	Edward Cabrera	4.67	Satisfied	Phone	59567	973.0	Pending
+574330	5977	Casey Robinson	michael11@rodriguez.com	48	Lao People's Democratic Republic	West Jamesborough	Arkansas	2025-02-04	2025-02-28	Returns	Medium	Closed	Alejandro Collins	72.02	Satisfied	Email	50089	881.19	Cancelled
+708488	8244	Corey Bruce	harrisjoseph@campbell-hart.com	18	Saint Martin	Lake Rebecca	New York	2024-10-28	2025-01-13	Billing	Medium	Open	Jason Hansen	95.29	Dissatisfied	Phone	52791	235.78	Cancelled
+869753	3833	Lori Neal	cspears@freeman-newman.com	21	United States of America	Kennethberg	New Mexico	2025-06-03	2025-06-21	Technical	High	Closed	Jennifer Bautista	6.35	Dissatisfied	Phone	70714	694.2	Returned
+808320	3757	Adam Miller	martinezlinda@hotmail.com	43	Belize	Port Jamesmouth	Nebraska	2025-04-02	2024-10-24	Billing	Medium	Pending	Mike Sims	11.48	Dissatisfied	Chatbot	62625	585.16	Returned
+452994	5022	Katherine Beltran	kristina80@hotmail.com	40	Tanzania	Lake Aaron	Utah	2024-10-12	2025-04-03	Account	High	Open	Daniel Key	17.36	Very Satisfied	Email	95495	845.39	Delivered
+107218	8913	James Banks	ashleyturner@gmail.com	18	Mozambique	New Jennifer	Wyoming	2024-12-18	2025-04-24	Billing	Critical	Escalated	Megan Booth	27.09	Neutral	Email	95714	128.68	Cancelled
+130811	4426	Jessica Webb	benjaminlee@perez.info	27	Libyan Arab Jamahiriya	Scottfort	Wisconsin	2025-07-15	2025-06-21	Billing	High	Closed	Ian Carroll	4.34	Dissatisfied	Web	61922	613.86	Cancelled
+451065	4529	David Escobar	kyle01@fisher-king.com	24	Oman	Nicholasmouth	Texas	2025-03-31	2025-02-21	Account	Low	Escalated	Grant Anderson	15.14	Satisfied	Phone	85355	759.86	Returned
+447571	6976	Jessica Taylor	wjensen@williams.net	67	Samoa	East Williammouth	New York	2025-02-19	2025-07-14	Technical	Medium	Pending	Dakota Rodriguez	88.56	Very Satisfied	Web	60229	475.87	Pending
+557411	4806	Julie Burgess	deborahjoyce@gmail.com	18	Colombia	South Thomasland	West Virginia	2024-08-23	2024-11-05	Shipping	Low	Closed	Emily Rodriguez	39.91	Neutral	Chatbot	66931	539.54	Pending
+498118	3879	Bobby Reese	josephgallegos@yahoo.com	20	Yemen	New Cathy	Nebraska	2025-03-21	2025-01-05	Account	High	Pending	Miranda Jones	4.49	Dissatisfied	Phone	68945	943.97	Pending
+609503	9694	Timothy Jackson	santoschristian@yahoo.com	50	Czech Republic	Yatesshire	Michigan	2025-03-02	2025-03-04	Returns	Medium	Escalated	Maria White	17.73	Very Satisfied	Chatbot	75667	128.95	Pending
+181753	7459	Aaron Robinson	traviscowan@gmail.com	35	Hungary	Lauriemouth	West Virginia	2024-11-01	2024-10-26	Shipping	Critical	Pending	Debra Greene	25.89	Very Dissatisfied	Chatbot	64184	727.43	Returned
+320301	9839	Anna Wilson	riosjessica@hotmail.com	62	Ireland	Port Rachel	Minnesota	2024-09-23	2024-12-21	Returns	Critical	Pending	Daniel Meyers	5.17	Very Dissatisfied	In-Person	70791	280.54	Returned
+775601	7955	Adam Robertson	joshuadelgado@smith.net	74	Haiti	New Zacharyshire	New York	2024-12-10	2025-03-28	Account	High	Pending	Ashley Richards	7.17	Very Dissatisfied	Web	97312	845.14	Pending
+713527	3903	Paul Gregory	kellycourtney@yahoo.com	32	United States Minor Outlying Islands	Port Frankshire	Idaho	2025-06-03	2024-11-15	Technical	Low	Open	Danielle Hicks	23.65	Satisfied	Phone	81294	766.35	Pending
+878430	5944	Tanya Cordova	gabrielmyers@hotmail.com	38	Ukraine	Weberport	Ohio	2024-11-17	2024-08-07	Shipping	Critical	Escalated	Stacey Reyes	42.58	Dissatisfied	In-Person	90084	413.47	Delivered
+613784	8247	Raymond Benson	andrew45@bryant.com	62	Holy See (Vatican City State)	New Ericafort	Iowa	2024-09-13	2024-11-26	Shipping	Medium	Pending	Jamie Henry	39.35	Very Satisfied	Email	62494	899.24	Delivered
+509909	7134	Richard Johnson	robinsonsabrina@johnson.com	38	Moldova	East Aaronborough	Minnesota	2025-05-03	2024-08-13	Billing	Medium	Pending	Michelle Ward	36.42	Satisfied	In-Person	73352	480.7	Delivered
+231518	1917	Susan Curtis	asmith@jacobs.net	43	El Salvador	Phillipsmouth	South Carolina	2024-09-12	2025-07-15	Returns	Critical	Open	Anthony Griffin	6.76	Neutral	In-Person	65068	83.41	Cancelled
+670799	2287	Mary Jenkins	youngbrad@armstrong-whitney.net	61	Macedonia	Port Michael	Massachusetts	2025-01-11	2024-09-29	Account	High	Closed	Tanya Hall	18.45	Very Satisfied	Web	76341	289.66	Pending
+434300	9787	James Collins	marshalldeborah@roy-suarez.info	64	Ecuador	Briggsstad	Washington	2024-11-15	2025-02-25	Billing	High	Open	Scott Mills	16.24	Dissatisfied	In-Person	59700	364.18	Delivered
+224965	8489	Sherry Costa	robertdavis@fowler.info	46	Nepal	Adamsfurt	Rhode Island	2025-05-30	2024-08-05	Technical	Critical	Escalated	Philip Franklin	57.18	Dissatisfied	Chatbot	93892	167.27	Delivered
+388108	9030	Steven Leach	pricejulie@yahoo.com	31	Tuvalu	Erictown	Montana	2024-11-27	2025-07-09	Technical	Low	Closed	Jose Young	5.34	Dissatisfied	Email	83760	631.25	Returned
+179947	1294	Joshua Davis	robertlee@mccall.com	72	Andorra	Collinsville	Louisiana	2025-03-11	2025-04-13	Shipping	Medium	Closed	Mary Smith	17.55	Neutral	Chatbot	87777	939.51	Cancelled
+797757	3891	Jeremy Thornton	gkhan@ward.info	22	Greenland	Hendersonchester	Utah	2025-02-07	2024-08-17	Technical	Low	Closed	Tammy Wall	56.69	Dissatisfied	In-Person	82734	692.97	Pending
+553573	5398	Frank Webb	laurie65@mason-gonzalez.org	51	Hong Kong	Smithfurt	North Carolina	2024-11-06	2025-04-26	Returns	Low	Escalated	Paul Smith	5.91	Neutral	In-Person	99577	964.63	Cancelled
+217995	9515	Becky Thompson	smithstephanie@brady.com	19	Armenia	East Adam	New Mexico	2025-01-16	2025-05-30	Account	Low	Open	Jeremiah Cook	32.25	Neutral	In-Person	74175	567.18	Pending
+559715	7874	Frank Huerta	edwardwerner@wilson.com	39	Taiwan	Jenniferbury	Alabama	2024-09-23	2024-09-17	Account	Critical	Pending	Lisa Morris	8.59	Neutral	Phone	72918	354.75	Delivered
+653106	9108	Paul Wong	vanessawolfe@yahoo.com	39	Heard Island and McDonald Islands	New Patrick	Nevada	2024-10-24	2025-05-10	Returns	High	Escalated	Jennifer Baker	82.42	Dissatisfied	Web	74629	772.38	Delivered
+363117	4635	Regina Brown	kelsey27@yahoo.com	67	Heard Island and McDonald Islands	West Briantown	Kentucky	2025-03-30	2025-07-08	Returns	Medium	Escalated	Jason Dudley	47.36	Very Satisfied	Email	62701	95.83	Delivered
+201612	7375	Roy Brewer	camachodiane@powell.biz	30	Norfolk Island	Crystalfort	New Jersey	2025-04-23	2025-03-23	Shipping	Critical	Escalated	Jacob Nichols	2.63	Satisfied	Web	68495	285.43	Delivered
+653321	9202	Amanda Combs	rcollins@gmail.com	47	Cocos (Keeling) Islands	New Nicholas	Alabama	2025-01-20	2025-02-17	Billing	Medium	Closed	Danielle Lee	8.02	Very Satisfied	Chatbot	91838	536.9	Pending
+834739	8951	Richard Aguilar	tiffany96@morales.com	56	Qatar	Juanview	Louisiana	2025-03-05	2025-04-21	Shipping	Medium	Open	Marcia Fernandez	92.42	Dissatisfied	Phone	77916	789.59	Returned
+492401	6668	Joseph Johnson	mmartin@hotmail.com	72	Samoa	North Michael	Tennessee	2025-05-06	2025-04-27	Returns	Low	Escalated	William Sullivan	58.39	Neutral	In-Person	99705	720.88	Pending
+811383	7654	Shelly Banks	brandywalter@gmail.com	70	Anguilla	Saraborough	Idaho	2025-04-02	2025-04-04	Billing	High	Open	Joseph Hensley	29.18	Very Dissatisfied	Web	69448	138.12	Delivered
+909940	8915	Nancy Gonzales	jeffreysmith@chang.com	41	Cuba	Kennethmouth	South Dakota	2025-04-13	2025-02-14	Account	Medium	Escalated	Daniel Wallace	6.19	Very Dissatisfied	Web	84211	999.82	Cancelled
+486329	3928	Matthew Riggs	lhaas@roth.net	57	Eritrea	Chavezton	South Dakota	2025-01-10	2025-01-08	Returns	Medium	Pending	Michelle Turner	12.67	Very Satisfied	Web	57017	81.78	Cancelled
+894111	2881	Rebecca Martin	owensteven@trevino-garcia.com	44	Swaziland	West Denise	Iowa	2024-10-28	2024-08-28	Technical	Critical	Closed	Jennifer Munoz	11.29	Very Dissatisfied	Phone	58074	176.67	Cancelled
+572290	7867	Douglas Elliott	phillip19@hotmail.com	74	Bahamas	Laurashire	Idaho	2025-01-21	2024-12-24	Shipping	High	Pending	Adam Norris	39.96	Dissatisfied	Chatbot	53603	522.93	Cancelled
+409889	6552	Lisa Silva	georgechristian@kelly-salazar.net	20	Tunisia	Ricetown	Virginia	2024-11-27	2025-06-12	Returns	Critical	Escalated	Nicholas Poole	30.5	Very Dissatisfied	Phone	65926	728.19	Pending
+795102	3363	Christopher Baker	kristinamorris@gmail.com	71	Libyan Arab Jamahiriya	Tonyside	Indiana	2024-10-31	2025-04-08	Technical	High	Escalated	Jessica Howard	15.88	Dissatisfied	Phone	90666	350.53	Pending
+808719	6264	Dr. Marissa Parks	isaac50@ramirez.com	71	Kazakhstan	New Dennisville	Maryland	2024-09-15	2024-11-08	Account	Critical	Closed	Danielle Gray	50.18	Dissatisfied	Email	57776	598.27	Returned
+802510	2763	Alexander Johnson	bsanchez@stokes.com	53	Sudan	Port Donaldville	Maine	2025-02-06	2024-08-11	Billing	Low	Escalated	Andrea Odom	47.58	Satisfied	In-Person	81124	521.88	Pending
+785850	6718	Dale Zavala	bwatson@espinoza.com	59	Antarctica (the territory South of 60 deg S)	West Christopher	Colorado	2025-02-23	2024-09-30	Returns	Medium	Escalated	Jose Hamilton DDS	33.36	Satisfied	Email	82719	643.0	Cancelled
+945209	9652	Connie Davis	lauren33@hotmail.com	74	Austria	New Lindsayburgh	Wisconsin	2025-05-10	2024-12-12	Returns	High	Closed	Christina Robinson	3.81	Very Satisfied	Phone	76200	297.62	Pending
+957053	3401	Adam Taylor	kyliemaxwell@thompson.biz	46	Azerbaijan	Port Heidi	Arizona	2024-10-04	2024-09-06	Technical	High	Closed	Karen Mann	25.02	Dissatisfied	Chatbot	72767	947.69	Cancelled
+378493	5881	Christopher Perez	gregorywade@galvan-wallace.com	74	Argentina	Nelsonburgh	South Dakota	2024-09-20	2024-07-24	Shipping	Medium	Pending	Jessica Brown	16.14	Very Satisfied	Web	89784	799.32	Returned
+212371	8828	Betty Taylor	jarmstrong@griffin.com	31	Kazakhstan	Sharpberg	North Carolina	2024-12-26	2024-09-18	Returns	Low	Open	Shawn Navarro	2.17	Very Dissatisfied	Email	80884	73.09	Returned
+890825	9836	Diana Soto	osweeney@castillo-santana.com	18	Ghana	West Teresa	Maryland	2025-03-15	2024-09-19	Billing	Medium	Open	Grant Estes	16.61	Very Satisfied	Phone	98272	98.73	Pending
+454974	3489	Michael Smith	clarkadam@hull-oconnell.com	44	Guyana	Lindatown	Maine	2025-04-19	2024-08-23	Technical	Medium	Closed	Autumn Manning	80.48	Satisfied	Phone	82750	764.33	Delivered
+805508	8317	Sean Carter	mortonmiguel@yahoo.com	36	Costa Rica	Port Josephmouth	Massachusetts	2025-07-04	2025-05-25	Returns	High	Closed	Dennis Graves	5.8	Satisfied	Phone	92143	402.94	Cancelled
+693543	7141	Christine Rodriguez	morganmccoy@herrera.biz	41	Turkey	Candacefort	Mississippi	2024-09-04	2024-12-29	Shipping	High	Open	Becky Lucas	19.87	Dissatisfied	Chatbot	57028	966.39	Returned
+662212	9072	Jimmy Johnson	timothy66@taylor-gordon.info	73	Argentina	Moraport	South Carolina	2024-10-13	2025-05-26	Returns	Critical	Open	John Gibbs	10.32	Neutral	Chatbot	53156	340.19	Returned
+651215	1685	Jenny Howard	vvincent@hotmail.com	24	Zimbabwe	Kristenfort	New York	2024-11-30	2025-02-19	Billing	Critical	Escalated	Melissa Stuart	42.59	Very Satisfied	In-Person	85116	416.73	Pending
+218799	6690	Stacy Russell	richardbarron@gmail.com	33	Northern Mariana Islands	Williamston	Virginia	2025-04-10	2024-07-16	Shipping	High	Closed	Eric Bailey	3.32	Dissatisfied	In-Person	88447	266.73	Delivered
+799276	4327	Randy Blake	stephaniereed@hotmail.com	51	Montserrat	Matthewhaven	Arizona	2024-10-24	2024-12-16	Technical	Low	Pending	Vanessa Atkins	29.22	Very Dissatisfied	Phone	83106	611.08	Returned
+617871	2532	Lisa Peterson	angela18@gmail.com	44	Gambia	Lawrencehaven	Missouri	2025-04-29	2024-07-20	Billing	High	Escalated	Roberta Campos	1.57	Neutral	Web	72297	259.82	Delivered
+633392	5960	Laura Trevino	martin15@yahoo.com	29	Martinique	East Tiffany	Florida	2025-01-19	2024-10-21	Returns	High	Open	Amanda Rodriguez	1.79	Very Dissatisfied	Phone	93610	798.92	Pending
+469264	5727	Austin Glenn	austingarner@hotmail.com	21	Netherlands	South Natasha	Michigan	2025-02-26	2024-12-28	Account	Critical	Escalated	Jeremy Henderson	51.68	Dissatisfied	In-Person	92860	930.37	Cancelled
+162414	9871	Rebecca Francis	alyssa53@gmail.com	54	Western Sahara	Nicholasburgh	Florida	2024-10-09	2025-01-21	Account	Low	Pending	Olivia Bell	1.21	Very Satisfied	Chatbot	86211	182.96	Cancelled
+852975	6299	Heather Hancock	barneskurt@reed.com	49	Russian Federation	New Christopherfort	Arizona	2025-01-05	2025-04-27	Technical	High	Escalated	Bonnie Miller	6.46	Very Satisfied	Chatbot	69128	408.92	Pending
+408725	7720	Jennifer Jackson	michelleolsen@mccoy.net	20	Mauritania	Timothyport	Utah	2024-08-22	2024-10-23	Shipping	Low	Escalated	Kristina Griffin	12.54	Satisfied	Web	69430	955.11	Returned
+811504	5772	David Flores	maytracy@hotmail.com	60	Marshall Islands	New Jeffreyview	Texas	2024-09-14	2025-01-19	Returns	Medium	Pending	Sabrina Davidson	21.65	Neutral	Email	73708	141.61	Delivered
+863252	1177	Marc Choi	sarah22@gmail.com	50	Ghana	Hernandezmouth	Delaware	2024-08-06	2024-07-22	Shipping	Critical	Closed	Karen Rose	8.24	Neutral	Email	69554	977.97	Delivered
+693904	7929	Mary Smith	davissean@gmail.com	51	French Polynesia	New Michelleville	Maryland	2024-10-21	2024-09-04	Returns	Medium	Pending	Jason Gilmore	19.19	Very Dissatisfied	Chatbot	77451	211.87	Cancelled
+878319	6745	Kimberly Strickland	cookwilliam@yahoo.com	31	United States Virgin Islands	Crawfordmouth	West Virginia	2024-07-30	2025-04-12	Shipping	High	Pending	Mrs. Sheila Ruiz	13.87	Neutral	In-Person	54885	278.1	Delivered
+290819	7926	Mathew Hunt	hallchristopher@gmail.com	55	Saint Martin	Fosterside	Ohio	2024-10-20	2025-04-13	Technical	High	Escalated	Jennifer Armstrong	9.91	Dissatisfied	Phone	69868	821.21	Delivered
+777206	8844	Jessica Bryan	rodriguezjohn@gmail.com	64	Tonga	Lake Sarahport	Idaho	2024-10-14	2024-10-27	Returns	High	Closed	Amanda Lee	21.64	Satisfied	Chatbot	87387	742.36	Returned
+777031	7062	Kendra Mason	nbrown@yahoo.com	67	Kazakhstan	Port Jesse	Kentucky	2024-12-17	2024-11-04	Shipping	Medium	Closed	Dustin Rosario	0.02	Satisfied	Chatbot	78696	375.6	Pending
+865669	3973	Kelly Cordova	ngomez@gmail.com	51	Burundi	North Rebeccaview	Iowa	2024-11-22	2024-12-30	Technical	Critical	Open	Aaron Benjamin	40.57	Satisfied	Chatbot	50765	660.87	Delivered
+761530	5093	Kathleen Watts	gacevedo@gmail.com	33	Poland	New Benjaminburgh	California	2024-10-29	2024-12-15	Shipping	Medium	Escalated	Frederick Torres	0.91	Neutral	In-Person	86261	464.05	Delivered
+256806	5839	Tanner Montgomery	lindarivas@barnes.com	69	Cook Islands	Joneston	Louisiana	2025-05-13	2025-04-15	Account	High	Escalated	Scott Harris	19.28	Very Satisfied	In-Person	50368	68.82	Delivered
+287804	4097	Adam Bruce	stephanieshaw@hotmail.com	74	Trinidad and Tobago	New Kyleside	Illinois	2025-06-27	2025-03-31	Billing	Critical	Escalated	Andrew Nguyen	10.09	Dissatisfied	Phone	60378	500.84	Cancelled
+488790	7316	Lisa Sullivan	jerryanderson@gmail.com	35	Saint Pierre and Miquelon	East Bryanberg	Maine	2025-06-15	2025-06-01	Technical	Low	Pending	Stephen Kelly	9.57	Neutral	Email	89244	816.62	Pending
+787206	2795	John Solomon	jacobsmichael@davidson.com	65	Tuvalu	Port Karen	Connecticut	2025-02-06	2025-06-12	Shipping	Critical	Pending	Jamie Wise	32.3	Very Satisfied	Phone	62134	477.24	Cancelled
+576302	6309	Amanda Clark	smithkayla@gallegos-peck.info	31	Isle of Man	Port Paulmouth	Texas	2025-03-19	2025-03-14	Billing	Critical	Escalated	Erica Cervantes	67.55	Satisfied	Email	79975	333.13	Returned
+229112	3655	Sean Bradford	alicia72@graham.com	72	Zambia	Sawyerfurt	New York	2024-08-03	2025-03-19	Technical	Low	Escalated	Tyler Murphy	17.02	Dissatisfied	Phone	97265	570.78	Pending
+213472	6237	Jessica Stewart	hallteresa@yahoo.com	22	Liechtenstein	North Steven	Virginia	2024-11-21	2025-06-25	Shipping	Critical	Closed	Brianna Roth	3.81	Satisfied	Phone	85423	440.9	Returned
+686973	8961	David Cooper	kayla50@turner-liu.com	50	Finland	East Susanbury	Iowa	2024-10-11	2024-11-11	Technical	High	Pending	Mrs. Sarah Logan	9.15	Satisfied	Chatbot	76359	987.41	Pending
+248252	3826	Gerald Chandler	adam46@houston.info	70	Kenya	Lake Josehaven	Nebraska	2025-05-02	2024-10-18	Shipping	High	Open	Douglas Parker	16.09	Dissatisfied	Chatbot	52043	115.06	Cancelled
+447634	9866	Jamie Roth	johnzuniga@hotmail.com	40	United Kingdom	Lake Peter	Connecticut	2025-02-01	2024-10-10	Billing	High	Closed	Andrew Holmes	4.04	Dissatisfied	Chatbot	80875	956.64	Pending
+776308	7461	Derek Robles	walkerrussell@manning-fuller.info	43	Mexico	New Tracyton	Louisiana	2025-04-30	2024-12-26	Returns	Critical	Open	Terry Young	5.5	Very Dissatisfied	Phone	68837	499.34	Cancelled
+855475	8624	Bernard Riddle	atanner@moody-pope.biz	31	Tanzania	Martinezberg	North Carolina	2025-06-09	2024-08-14	Billing	High	Open	Alicia Castillo	12.96	Very Satisfied	Phone	68481	515.75	Pending
+781143	4214	Jason Ingram	william26@taylor-ruiz.com	20	New Zealand	South Beckyfurt	Missouri	2024-12-12	2025-06-30	Technical	Medium	Open	Gregory Black	87.52	Neutral	Web	68088	449.31	Returned
+726453	7689	Jacqueline Shaffer	iruiz@mata.org	59	Oman	Kimberlystad	New York	2024-12-16	2024-08-26	Technical	Low	Escalated	Becky Turner	3.7	Neutral	Phone	57460	487.54	Pending
+540546	6991	Stephen Gutierrez	natashaanthony@moore-reyes.com	67	Niger	Garytown	Rhode Island	2025-03-16	2025-06-06	Account	Critical	Closed	David Miller	37.93	Satisfied	Chatbot	73995	184.62	Returned
+681879	2751	Adrian Jones	qsmith@yahoo.com	35	Slovakia (Slovak Republic)	New Ashleyberg	Virginia	2025-01-09	2024-10-24	Account	High	Escalated	Sierra Bradshaw	6.61	Dissatisfied	Phone	59900	313.58	Pending
+415166	1897	Brian Guerrero	calvin91@gmail.com	67	Malawi	Loganburgh	Idaho	2024-08-21	2024-10-15	Returns	High	Closed	Rachel Payne	44.53	Dissatisfied	Web	65767	701.64	Returned
+778939	8901	Donna Mullins DDS	schneiderteresa@contreras.com	48	Poland	Port Holly	Kentucky	2025-07-05	2025-04-02	Account	Critical	Escalated	Omar Brown	41.59	Satisfied	Chatbot	94220	476.77	Returned
+295981	4302	Paula Washington	tsmith@haas.com	49	Saint Barthelemy	Gordonport	North Carolina	2025-05-13	2025-03-23	Account	Critical	Escalated	Dominique Cox	25.42	Satisfied	Email	88077	821.66	Returned
+579937	3716	Caitlin Fleming	monicamccall@yahoo.com	64	Malawi	Joseshire	Virginia	2024-12-22	2024-10-08	Technical	Critical	Escalated	Dr. Jessica Adams MD	24.56	Very Satisfied	Chatbot	60741	295.2	Pending
+605804	9275	Christina Perez	wigginsmichael@best.com	56	Timor-Leste	Port Elizabethfort	Colorado	2025-03-01	2024-09-12	Account	High	Open	Jason Rivers	29.56	Very Dissatisfied	Email	59276	839.49	Returned
+427619	3738	Mallory Crawford	tcarpenter@gmail.com	42	Slovenia	Smithshire	Alabama	2024-08-09	2024-08-28	Account	Medium	Closed	Terri Miller	31.9	Satisfied	Web	93826	864.86	Cancelled
+920208	2952	Sarah Schultz	alejandro21@hotmail.com	53	Angola	Stephenmouth	Washington	2024-11-07	2025-02-12	Billing	Critical	Pending	Rachael Hernandez	1.2	Very Satisfied	Phone	67074	548.42	Returned
+284949	2651	Todd Sweeney	judithgarcia@gmail.com	36	Indonesia	Melaniechester	New Mexico	2024-11-11	2024-07-19	Technical	Critical	Escalated	Aaron Murphy	35.2	Dissatisfied	Email	68373	545.19	Returned
+839735	9806	Michelle Chambers	lmcintosh@horton-jackson.com	28	Togo	Hunterbury	New Mexico	2024-11-04	2024-11-08	Technical	Critical	Escalated	Christopher Brock	2.95	Dissatisfied	In-Person	78291	450.5	Cancelled
+171928	2921	William Joseph	johnsonwilliam@cabrera-sawyer.com	43	Benin	East George	Rhode Island	2025-04-01	2025-06-20	Shipping	Low	Pending	Eric Keller	7.32	Very Satisfied	Phone	84644	845.83	Returned
+212639	7343	Robert Simmons	antoniowatson@may.biz	63	Ethiopia	Port Chelseahaven	Ohio	2024-07-19	2025-05-18	Returns	Medium	Escalated	David Lewis	3.93	Very Dissatisfied	Phone	94354	719.08	Pending
+850607	9446	Stephen Perez	michael53@garcia-cobb.com	55	Saint Barthelemy	Fowlermouth	Indiana	2024-08-19	2025-04-01	Account	Low	Open	Riley Riddle	36.79	Neutral	Phone	71301	230.23	Cancelled
+290040	6170	Brandon Boyd	michelle85@harvey-king.biz	59	Ghana	North Maryburgh	Illinois	2025-05-14	2024-12-06	Technical	Medium	Open	Michele Horton	65.64	Neutral	Email	68798	784.99	Cancelled
+891130	7509	Samantha Mckay	john37@hotmail.com	53	Mongolia	West Jessicafurt	New York	2025-05-13	2024-10-22	Technical	Medium	Closed	Monica Perez	1.97	Neutral	Web	55701	226.76	Returned
+680628	5492	Maureen Morales	christinecooper@mejia.info	68	Malaysia	Kristichester	Virginia	2024-09-27	2024-08-03	Account	Medium	Pending	Gary Foley	85.95	Dissatisfied	Chatbot	80887	455.59	Returned
+669518	2082	Crystal Stewart	loriwhite@gamble.com	63	Palau	Port Tammy	Wyoming	2025-03-26	2025-07-15	Account	Medium	Closed	Courtney Gould	1.98	Very Dissatisfied	Email	77383	896.21	Cancelled
+703830	8856	Holly Bradley	erinbowen@yahoo.com	40	Maldives	Kaylamouth	Florida	2025-03-23	2024-07-19	Account	Medium	Escalated	Gilbert Luna	29.08	Satisfied	In-Person	69213	738.52	Cancelled
+875567	5527	David Smith	grayalexis@yahoo.com	67	Somalia	Port Danny	North Dakota	2024-12-24	2025-02-13	Technical	Critical	Open	Richard Riggs	2.42	Satisfied	Email	67795	335.89	Cancelled
+510888	6148	David Ochoa	hoffmanjoseph@ballard.com	53	Hungary	Fieldston	Montana	2024-12-03	2025-06-12	Shipping	High	Escalated	Carolyn Alexander	7.87	Neutral	Phone	77024	354.03	Delivered
+476671	4775	Corey Love	charleswright@murray-morrow.com	36	Ghana	West Greg	Maryland	2025-03-15	2025-05-25	Shipping	Medium	Open	Jessica Hogan	4.44	Very Dissatisfied	Email	74781	307.18	Delivered
+204705	5273	Ryan Moreno	isabel36@hotmail.com	59	China	Joyberg	Nevada	2025-04-06	2025-01-27	Account	Low	Pending	Robyn Roy MD	0.29	Very Dissatisfied	In-Person	55015	154.84	Cancelled
+378759	2920	Michael Osborn	teresa57@hotmail.com	43	Azerbaijan	New Margaret	Rhode Island	2024-08-23	2024-08-30	Technical	Critical	Closed	Joseph Archer	69.93	Dissatisfied	Web	79233	884.22	Pending
+383999	4469	Justin Payne	daviddean@hotmail.com	62	Indonesia	Combsborough	California	2025-01-29	2024-12-22	Billing	Medium	Pending	Chad Silva PhD	24.93	Very Satisfied	In-Person	78870	517.95	Cancelled
+502002	2803	Victoria Brown	wfrench@hotmail.com	29	Niue	Lake Steven	Alabama	2024-09-11	2025-04-24	Technical	Low	Escalated	Lisa Pena	56.49	Neutral	In-Person	53642	439.05	Delivered
+156070	8810	Robert Barnes	emoore@riggs-hunter.biz	61	Zambia	Port Rogerview	Alaska	2025-05-28	2024-12-05	Returns	Critical	Pending	Zachary Nunez	60.77	Dissatisfied	In-Person	84016	170.56	Cancelled
+243155	7085	Kylie Smith	henrybrady@gmail.com	30	Sierra Leone	South Connieborough	Massachusetts	2025-02-22	2024-10-29	Shipping	Low	Pending	Angela Chen	47.34	Very Dissatisfied	Email	56473	954.0	Cancelled
+144156	8111	Steven Foster	egonzalez@bonilla.net	37	China	Jessicamouth	Alabama	2025-01-08	2024-12-21	Shipping	High	Open	Joann Clark	5.28	Dissatisfied	In-Person	76795	403.08	Cancelled
+601952	3416	Justin Walton	saundersstacy@gmail.com	21	United States Virgin Islands	Jeffreyland	Hawaii	2025-07-11	2025-02-21	Returns	Medium	Open	Robert Gonzalez	5.54	Dissatisfied	Phone	77328	591.81	Returned
+629228	5297	Angela Welch	halltyler@hotmail.com	73	Heard Island and McDonald Islands	Mitchellfurt	South Dakota	2024-11-14	2024-08-11	Technical	Critical	Pending	Jessica Castro	45.38	Neutral	Email	68040	282.22	Cancelled
+384445	7050	Joshua Cabrera	jamescharlene@cunningham-lucas.com	51	Sierra Leone	Greerborough	Rhode Island	2025-05-30	2025-05-18	Billing	Critical	Pending	Daniel Rojas	30.04	Very Satisfied	Email	56026	339.12	Returned
+359204	4048	Jacob Foley	danielle56@yahoo.com	69	French Guiana	Monicashire	West Virginia	2024-11-16	2024-10-26	Shipping	Critical	Closed	Dennis Williams	0.76	Very Dissatisfied	Email	62488	477.39	Delivered
+829228	5336	Suzanne Weaver	nharrison@irwin.org	46	Liberia	Lake Samantha	Georgia	2024-09-01	2024-10-31	Technical	High	Pending	Bruce Phillips	15.36	Satisfied	Web	84791	355.94	Returned
+906251	9368	Michael Freeman	hsandoval@yahoo.com	73	Tajikistan	Combsfurt	Kentucky	2024-11-04	2024-08-04	Billing	Low	Pending	Daniel Powers	101.39	Very Dissatisfied	Email	70576	754.25	Returned
+639724	4268	Carl Haley	ricardobaker@gmail.com	32	Reunion	Kellyland	Massachusetts	2025-05-25	2025-04-16	Shipping	Medium	Open	Cindy Jones	10.55	Neutral	Chatbot	68920	108.01	Delivered
+471310	4652	Amanda Goodwin	michaelscott@haley.org	37	Cocos (Keeling) Islands	Lake Rickeyshire	Iowa	2024-12-23	2025-05-27	Account	Low	Pending	Shannon Haynes	7.53	Very Dissatisfied	Phone	62699	961.73	Cancelled
+449031	5046	Amber Mayo	patrickaustin@chang-hebert.com	56	Mayotte	Lake Laurafurt	New Mexico	2024-08-03	2025-02-09	Shipping	Critical	Pending	Craig Oneill	52.7	Very Dissatisfied	Chatbot	87828	336.35	Returned
+522931	5233	Jonathon Joseph	tony17@coffey-osborne.org	26	Congo	Lauraville	Maine	2025-02-25	2024-08-25	Shipping	Low	Closed	Matthew Dunn	96.29	Neutral	Chatbot	92519	241.77	Returned
+570005	6695	Gregory Woods DDS	justin10@hotmail.com	71	Montenegro	Johnsonside	Wyoming	2024-12-23	2025-06-25	Account	Medium	Escalated	Mr. Brian Glover	7.32	Satisfied	Email	88074	222.71	Cancelled
+667801	6623	Shirley Hays	chloesims@hotmail.com	60	Solomon Islands	Port Kylebury	Illinois	2024-12-22	2025-01-31	Technical	Critical	Open	Carl Thornton	58.85	Very Satisfied	In-Person	59784	882.01	Delivered
+948461	2752	Karen Kelly	fischerbrenda@yahoo.com	33	Philippines	Thomashaven	Ohio	2024-08-07	2025-01-23	Shipping	Low	Open	Rhonda Lewis	5.06	Dissatisfied	Chatbot	93752	633.69	Pending
+909196	2614	Tammy Turner	zrogers@yahoo.com	32	Belgium	Michaelbury	Montana	2025-02-06	2024-11-17	Returns	High	Closed	Amber Mcintyre	34.23	Dissatisfied	In-Person	90590	784.99	Cancelled
+172591	3218	Hannah Brown	gambledavid@yahoo.com	50	Thailand	Justinburgh	Kentucky	2024-11-30	2024-11-11	Shipping	Low	Closed	Mary Hudson	2.25	Satisfied	Chatbot	70736	455.93	Pending
+470026	2366	Steven Ferguson	handrade@hotmail.com	18	French Guiana	Lake Sharon	South Dakota	2025-05-13	2024-08-26	Returns	Low	Closed	Jonathan Allen	4.25	Satisfied	In-Person	63369	161.61	Cancelled
+622196	4692	Sarah Salinas	kimberly18@gmail.com	39	Uruguay	North Tammy	Oklahoma	2024-10-05	2025-03-07	Technical	Critical	Open	Todd Brown	35.86	Very Satisfied	In-Person	57187	117.3	Cancelled
+988021	8488	Thomas Miller	alison98@yahoo.com	71	New Caledonia	North Jamesmouth	Wisconsin	2025-05-10	2024-10-29	Returns	Medium	Closed	Justin Miller	14.83	Satisfied	Email	98938	992.47	Cancelled
+217577	6471	Angela Reyes	dhall@hotmail.com	54	India	North Larryland	Minnesota	2025-01-23	2025-03-07	Account	Critical	Closed	Patricia Cole	7.85	Very Satisfied	Email	95950	466.79	Cancelled
+258945	2881	Robin Riddle	randall00@hotmail.com	74	Holy See (Vatican City State)	New Erinbury	Texas	2024-08-16	2024-09-13	Billing	Medium	Pending	Michael Singh	41.6	Very Dissatisfied	Email	79218	420.29	Pending
+383626	6353	Kelly Martin	samuelolsen@hotmail.com	41	Heard Island and McDonald Islands	Sanchezland	North Dakota	2025-04-15	2025-06-25	Technical	Medium	Closed	Paul Padilla	24.14	Very Dissatisfied	Chatbot	69896	152.89	Pending
+718784	3324	Dr. Gerald Dickerson	baileymeagan@mendoza.info	31	Niger	Marioshire	Minnesota	2025-05-10	2025-02-13	Technical	Low	Closed	James Johnson	4.83	Very Satisfied	Web	83213	822.69	Pending
+204489	3707	Robert Lee	qschmidt@hotmail.com	72	Ukraine	Debrashire	Maine	2024-09-10	2025-07-07	Technical	Medium	Open	Savannah Torres	47.48	Very Satisfied	Chatbot	95393	963.46	Returned
+814585	1698	Autumn Miller	pperez@norton-young.com	31	Poland	Lake Sarahside	Alaska	2025-05-23	2024-11-09	Billing	High	Open	Manuel Haynes	10.31	Satisfied	Chatbot	88154	368.04	Delivered
+218158	9042	Paula Page	valeriecarter@gmail.com	47	Liechtenstein	East Jacob	Alabama	2025-04-23	2025-01-03	Billing	Critical	Escalated	Lynn Alexander	26.13	Very Dissatisfied	In-Person	51030	195.15	Returned
+691772	5414	Miguel Harris	parkermichelle@montoya.net	51	Monaco	New Ryanside	South Dakota	2024-07-16	2025-07-07	Shipping	Medium	Pending	Philip Jones	5.97	Dissatisfied	Email	67662	659.95	Delivered
+916822	9336	Dylan Perez	alexanderschwartz@hudson-lewis.com	28	French Polynesia	Jamesview	Tennessee	2025-05-10	2025-01-21	Shipping	Low	Escalated	Marcus Johnson	3.64	Very Dissatisfied	Web	87829	210.49	Returned
+862618	3179	Daniel Weaver	lisaowen@yahoo.com	38	Guam	Catherinefort	Idaho	2024-11-20	2025-02-07	Shipping	Critical	Pending	Mandy Miller	0.31	Neutral	Chatbot	86807	194.76	Cancelled
+217537	7101	Frances Carr	santosdarren@yahoo.com	49	Luxembourg	Donaldmouth	Rhode Island	2024-11-28	2024-10-23	Technical	Critical	Pending	Emily Nelson	5.05	Very Satisfied	Web	72867	884.12	Delivered
+293825	8227	Robert Smith	dorseyeddie@gmail.com	71	Eritrea	Teresaborough	Minnesota	2024-09-08	2024-09-23	Billing	Medium	Escalated	Teresa Hunter	8.2	Neutral	Web	82972	788.93	Delivered
+832087	8014	Stephanie Riley	harringtonrobert@monroe.com	67	Congo	Shannonville	Mississippi	2024-08-27	2025-01-30	Billing	Medium	Closed	Spencer Knight	27.41	Neutral	Web	82163	940.54	Pending
+298358	9260	Vicki Thomas	kleinjennifer@hotmail.com	40	Dominica	Baldwinborough	Vermont	2025-04-12	2024-11-08	Shipping	Medium	Closed	Joseph Schneider	26.95	Very Satisfied	Phone	99549	257.49	Pending
+694638	8006	Jordan Cummings	seanmyers@hotmail.com	29	Uganda	Foleyton	New Hampshire	2025-07-11	2025-05-07	Account	Medium	Escalated	Brian Watson	0.43	Dissatisfied	Phone	77293	862.09	Delivered
+536894	8044	Karina Reynolds	nhowell@gmail.com	45	India	Laurachester	New Hampshire	2025-06-06	2025-04-17	Returns	Low	Pending	Allison Lopez	97.99	Satisfied	Phone	95918	403.55	Cancelled
+802702	5218	Shawn Jones	darlene91@snyder.com	56	Kiribati	Codyberg	Kentucky	2025-05-15	2025-02-07	Technical	Critical	Closed	Dr. Grace Case	107.91	Neutral	Web	71445	529.7	Returned
+879424	5838	Anna Cameron	kevin00@yahoo.com	35	Marshall Islands	North Bryanchester	Florida	2025-05-19	2024-11-10	Shipping	Medium	Open	Donald Bailey	62.64	Satisfied	In-Person	96779	195.32	Delivered
+510186	9915	Robert Flores	hmullins@gmail.com	56	Senegal	West Michael	Missouri	2024-10-17	2024-09-29	Returns	Medium	Escalated	William Travis	0.37	Dissatisfied	Web	68349	228.4	Delivered
+955373	5461	Katrina Blanchard	nancy78@clark.com	23	Seychelles	East Johnhaven	North Carolina	2025-01-13	2025-03-19	Shipping	Low	Open	Harold Taylor	20.36	Dissatisfied	Chatbot	67652	223.85	Cancelled
+885069	7358	Jose Shaw	stacyschroeder@yahoo.com	30	Samoa	New Madison	Colorado	2025-02-15	2025-03-13	Shipping	Medium	Escalated	Leonard Morgan	6.96	Dissatisfied	In-Person	98889	513.17	Cancelled
+234717	3520	Todd Peterson	dcherry@thomas.net	21	Trinidad and Tobago	South Olivia	Louisiana	2024-11-24	2024-10-15	Technical	Low	Open	Richard Jackson	73.44	Very Satisfied	Email	73383	608.96	Pending
+720669	1763	Daniel Ball	patty81@diaz.net	36	Burundi	New Hollyville	Wisconsin	2025-04-07	2025-07-05	Returns	High	Escalated	Michelle Page	37.69	Neutral	Phone	63769	97.96	Delivered
+737423	1515	Leslie Huber	onash@stewart-davies.com	49	Iran	Rebeccaville	Michigan	2025-01-04	2024-10-19	Account	Medium	Closed	Joseph Williams	20.83	Very Dissatisfied	Email	73871	288.53	Cancelled
+253586	3784	Stephen Tate	wpatterson@hotmail.com	21	Philippines	Lake Jessicahaven	Oklahoma	2025-07-14	2024-07-21	Account	Low	Pending	Tracy Sullivan	2.47	Very Satisfied	Chatbot	93419	473.63	Returned
+517773	8067	Brandon Henderson	jwalker@hotmail.com	38	Lao People's Democratic Republic	South Jenny	Oklahoma	2024-09-21	2025-04-02	Technical	High	Closed	Kimberly Ross	40.83	Very Dissatisfied	Web	58060	842.79	Delivered
+936968	1024	John Griffith	ymanning@yahoo.com	45	Mozambique	New Natalieton	Mississippi	2025-04-04	2025-03-11	Technical	Medium	Open	Daniel Le	59.67	Satisfied	Phone	78203	778.28	Cancelled
+303044	4462	David Cook	fbell@cantu.com	42	Mayotte	Maloneville	New Hampshire	2024-09-23	2024-10-24	Shipping	Critical	Open	Laura Rose	16.67	Very Dissatisfied	In-Person	66766	351.95	Cancelled
+671180	3148	Jeremy Greene	harrisdeborah@gmail.com	30	Western Sahara	Danielfurt	Indiana	2024-11-30	2025-03-21	Technical	Critical	Open	Steven Tucker	4.86	Neutral	Phone	57326	863.58	Pending
+653229	9272	Chad Blair	yenglish@yahoo.com	63	Mali	New Michaelmouth	West Virginia	2025-07-04	2024-12-19	Billing	Critical	Open	William Mason	15.78	Dissatisfied	Chatbot	76345	907.24	Pending
+278605	4398	Scott Mendez	owang@gmail.com	61	Andorra	Starkfort	Rhode Island	2024-08-18	2025-03-06	Technical	Medium	Pending	Antonio Norton	11.32	Very Satisfied	Web	55756	412.11	Cancelled
+695977	7103	Adam Richard	browntodd@gmail.com	49	Georgia	Lake Keithbury	North Carolina	2024-10-26	2025-03-13	Billing	Low	Open	Francisco Keller DVM	8.09	Neutral	Web	58429	244.27	Cancelled
+287578	5211	Paul Ferguson	kristentaylor@hotmail.com	22	Jamaica	Lake Victoria	North Dakota	2025-01-17	2024-11-25	Technical	Medium	Closed	Elizabeth Campos	31.37	Very Dissatisfied	Web	81021	231.05	Cancelled
+311892	1712	Christina Cross	alexis56@gmail.com	52	Vietnam	Lake Annville	Washington	2024-11-17	2025-04-26	Technical	High	Closed	Robert Vega	27.02	Very Satisfied	Web	98235	489.78	Cancelled
+362301	6866	Kevin Hanna	evansheather@gmail.com	40	Nauru	East Leemouth	Arkansas	2025-02-13	2025-02-16	Billing	Medium	Closed	Charles Hunter	2.36	Very Dissatisfied	In-Person	63425	448.96	Cancelled
+487553	4320	Caitlin Allen	danderson@hotmail.com	66	Saint Kitts and Nevis	Lake Christianbury	Georgia	2024-08-20	2025-06-29	Account	Critical	Escalated	Alexander Johnson	12.35	Neutral	In-Person	53051	765.94	Returned
+919633	2933	Ronald Salinas	ryan56@hotmail.com	52	Mali	South Erinton	Vermont	2025-03-07	2024-10-29	Account	Low	Open	Charles Morris	49.7	Very Dissatisfied	Web	53370	206.35	Pending
+407250	3596	Kevin Gomez	christinerivera@yahoo.com	43	Congo	Suzanneshire	Indiana	2024-12-12	2025-06-14	Shipping	Critical	Open	Rachel Brown	24.54	Dissatisfied	In-Person	92882	665.82	Returned
+131548	4562	Eugene Landry MD	srodriguez@hotmail.com	32	Argentina	Lake Robert	South Carolina	2024-11-11	2024-11-22	Account	Low	Closed	Christopher Walters	63.74	Satisfied	Web	98079	140.49	Cancelled
+983212	2209	Marcus Robinson	david69@sanders-nicholson.com	18	Guinea-Bissau	Jenniferburgh	Georgia	2025-02-16	2025-02-23	Shipping	Low	Escalated	Michael Rivera	3.51	Dissatisfied	Chatbot	71059	250.23	Cancelled
+942170	8939	Jeremy Serrano	xjackson@yahoo.com	42	Australia	North Annetteton	New Jersey	2025-04-08	2025-04-15	Technical	High	Open	Albert Ramirez	9.45	Dissatisfied	Web	52738	390.4	Delivered
+566444	8008	Douglas Roberts	smithwilliam@campbell-rivera.info	67	Guatemala	Andreamouth	Pennsylvania	2024-12-19	2025-03-09	Billing	High	Closed	Nicole Taylor	62.17	Dissatisfied	Email	97330	829.61	Pending
+527008	5729	Debra Ferguson	jack16@ross.com	49	Norway	Gomezhaven	Arizona	2025-05-18	2025-04-26	Returns	Critical	Pending	Julia Alvarado	16.19	Neutral	Email	57345	99.57	Pending
+954077	3448	Amanda Morris	steven11@yahoo.com	61	Myanmar	Antoniomouth	New York	2025-07-07	2024-11-12	Billing	Critical	Closed	Alexander Young	10.72	Very Satisfied	Email	63098	94.79	Cancelled
+501758	2912	Christine Brady	pacebrandon@ellis-rowe.com	45	Gabon	Blackburnmouth	New Hampshire	2025-05-04	2024-07-19	Shipping	High	Closed	Michael Lee	29.49	Neutral	Phone	54531	755.6	Returned
+431294	9913	John Henderson	rodgersnathan@montgomery-holland.biz	57	Qatar	South Crystal	Rhode Island	2025-04-17	2025-03-23	Technical	Medium	Closed	Robert Evans	19.54	Neutral	In-Person	99281	290.84	Delivered
+679449	6518	Abigail Martinez	deborah74@hotmail.com	46	Sao Tome and Principe	Lake Wayne	Oregon	2025-06-04	2025-03-12	Shipping	High	Pending	Steven Andrews	2.39	Neutral	Phone	55007	241.57	Cancelled
+711379	3640	Thomas Shaw	georgemary@yahoo.com	20	Bahamas	Hamptonmouth	Oklahoma	2024-08-22	2025-03-19	Returns	High	Escalated	Michele Stokes	59.77	Very Satisfied	In-Person	65734	466.41	Pending
+424644	5244	Kim Downs	zachary44@scott.biz	56	Falkland Islands (Malvinas)	Petershaven	Utah	2025-07-10	2025-05-28	Technical	Low	Pending	Gregory Wu	0.95	Very Satisfied	Email	68527	773.43	Returned
+764421	3241	Sean Scott	markhopkins@gilmore-miller.com	51	Singapore	Moralesview	Delaware	2025-06-08	2025-04-15	Shipping	Low	Closed	Charles Carter	14.72	Dissatisfied	Web	66828	121.75	Delivered
+621998	2421	Joseph Barnes	iwilliams@gmail.com	64	Uganda	Staceychester	New Hampshire	2025-06-09	2024-11-01	Billing	Critical	Pending	Marisa Hurst	36.0	Dissatisfied	Web	67274	723.61	Delivered
+654778	2309	Taylor Ramsey MD	dawnfoster@hotmail.com	33	Isle of Man	Baileyberg	Georgia	2024-11-21	2024-09-18	Technical	Low	Closed	Melissa Mccarthy	0.71	Neutral	Email	67078	797.89	Returned
+819983	3262	Jeremiah Morris	tylerbyrd@hotmail.com	71	Malawi	Williamsonville	Illinois	2025-02-28	2025-01-15	Technical	Low	Pending	Charles Smith	16.79	Dissatisfied	Chatbot	91858	760.88	Delivered
+841283	2562	Daniel Baker	tony68@campbell-montoya.org	66	Barbados	Lake Dustintown	Florida	2025-05-04	2025-02-20	Account	Low	Open	Edward Dixon	40.18	Dissatisfied	Email	83753	660.56	Pending
+413947	1116	Brian Parker	kyleburch@hotmail.com	24	Montenegro	Smithshire	New Hampshire	2025-06-20	2024-12-25	Account	Low	Open	Jennifer Anderson	23.85	Very Satisfied	Web	95665	669.66	Cancelled
+800072	2356	Sara Williamson	cynthiabrown@hotmail.com	72	Andorra	East Sean	Minnesota	2025-06-20	2025-05-29	Account	Critical	Closed	Brenda Wolfe	7.79	Satisfied	Chatbot	67286	210.58	Pending
+607586	9496	Teresa Davis	howardalbert@lopez.org	39	Dominica	West William	Mississippi	2025-01-30	2024-12-26	Technical	High	Pending	Keith Roberts	2.1	Very Dissatisfied	Web	90480	907.1	Returned
+131639	7402	Gary Patel	esmith@medina.com	25	Romania	North Margarethaven	Arizona	2024-07-27	2024-12-01	Technical	Medium	Pending	Melanie Atkinson	20.28	Dissatisfied	In-Person	94307	828.53	Delivered
+730575	8467	Mrs. Melissa Sparks MD	mcclainkathy@ponce-thomas.com	18	Pitcairn Islands	East Annastad	South Dakota	2024-09-30	2024-11-12	Account	Critical	Escalated	Casey Ross	46.52	Neutral	In-Person	76387	161.6	Pending
+299738	8253	Sharon Davis	nathaniel79@hotmail.com	31	Wallis and Futuna	Rebeccatown	Rhode Island	2024-10-18	2025-04-01	Shipping	Low	Escalated	Richard Lynch	6.05	Very Dissatisfied	Phone	57281	398.93	Pending
+862141	5314	Kaitlyn Wise	micheleharris@deleon.biz	40	British Virgin Islands	Hunterland	Virginia	2024-08-08	2025-06-13	Shipping	High	Closed	Sarah Johnson	5.49	Very Dissatisfied	Phone	66523	154.21	Cancelled
+764839	3885	Matthew Smith	nlee@salas.biz	62	Ireland	Brownfurt	Massachusetts	2025-05-23	2024-12-29	Shipping	Low	Closed	Dr. Douglas Ortega	15.25	Satisfied	Chatbot	94310	196.14	Returned
+102488	1032	Jeffrey Reed	dicksonrobert@walker.com	53	New Zealand	Hernandezberg	Wisconsin	2025-06-17	2025-02-17	Billing	Low	Open	Charles Long	48.06	Very Dissatisfied	Web	97724	963.41	Pending
+212703	2146	Daniel Carney	caleb13@gmail.com	59	Central African Republic	South Larryburgh	Nevada	2025-05-16	2025-05-30	Shipping	Critical	Closed	Jonathan Johnson	42.27	Neutral	Email	80909	912.0	Delivered
+907882	5612	Jonathan Howard	christineclark@hotmail.com	28	Guinea	North Ryan	Georgia	2024-10-16	2025-06-18	Billing	Critical	Escalated	Steven Reynolds	0.84	Very Dissatisfied	Chatbot	51390	242.87	Cancelled
+892685	7804	Carol Velazquez	ericksonvictoria@gmail.com	19	Iraq	Kaitlyntown	New Hampshire	2025-04-03	2024-11-17	Account	Low	Escalated	Charles Johnson	19.25	Dissatisfied	In-Person	60332	522.46	Returned
+794091	3798	Shawn Simmons	sandovalcarla@vega-maldonado.com	73	Benin	South Kimberly	Colorado	2024-11-29	2025-04-28	Returns	Low	Closed	Madison Best	78.35	Neutral	Email	78104	262.79	Returned
+345152	1111	Cynthia Meyers	anthonyanderson@gmail.com	72	Qatar	Banksstad	Washington	2025-04-15	2025-05-08	Returns	Medium	Closed	Kyle Medina	8.82	Dissatisfied	Phone	53023	451.5	Cancelled
+615765	1535	Richard Hopkins	ccain@gmail.com	36	Guadeloupe	North Ryanside	Mississippi	2025-06-30	2025-06-02	Shipping	Low	Closed	Hannah Hendricks	28.77	Satisfied	In-Person	94440	881.86	Cancelled
+281516	6514	Virginia Solis	gordondavid@miller-williams.info	29	Cape Verde	Gilmorehaven	Nebraska	2025-04-18	2025-05-18	Billing	Low	Closed	Jeffery Page	8.87	Very Satisfied	Email	55220	823.69	Cancelled
+649076	9490	Robert Garcia	phillipsjeff@yahoo.com	39	Bolivia	East Cynthia	Rhode Island	2025-05-28	2025-03-27	Technical	Critical	Pending	Carol Fisher	7.09	Neutral	Phone	58296	993.27	Pending
+755381	6370	Tammy Taylor	peterphillips@bailey-clark.com	63	Norway	Barronstad	Washington	2024-07-17	2024-10-27	Shipping	Critical	Escalated	Sandra Smith	25.71	Satisfied	Web	81667	852.67	Cancelled
+582904	6927	Robert Bell	flowersjasmine@yahoo.com	53	Macao	Lake Kristinafurt	Tennessee	2025-04-04	2024-10-31	Returns	High	Open	Mark Smith	12.38	Satisfied	Phone	86403	541.19	Returned
+308569	2664	Sabrina David	gellis@thomas-joseph.com	59	Maldives	Port Christopher	Utah	2024-09-02	2024-12-30	Technical	High	Pending	Michael Osborn	33.9	Satisfied	Phone	94700	345.57	Pending
+302832	1725	Sarah Pruitt	gilbertmargaret@davis.com	44	Belarus	Julieberg	South Dakota	2025-05-16	2024-09-27	Returns	Low	Open	Jason Lopez	44.14	Dissatisfied	Web	84620	863.38	Returned
+920145	4463	Jacqueline Hendricks	nrodriguez@hotmail.com	72	Guernsey	West Brianmouth	Alaska	2025-05-21	2025-01-17	Technical	Medium	Closed	Yvonne Guzman	14.28	Very Satisfied	Phone	50627	315.99	Returned
+655271	7364	Steven Reyes	keith84@dixon.biz	65	Bolivia	Christineborough	Oregon	2025-05-13	2025-04-16	Account	High	Closed	Monique Gibson	53.91	Dissatisfied	Chatbot	78646	185.86	Returned
+322183	1190	Mr. Brian Hebert	meganray@johnston.com	36	New Zealand	South Brandon	Maine	2025-05-23	2025-05-25	Shipping	Medium	Escalated	Ricky Johnson	2.15	Very Satisfied	Phone	91408	860.94	Cancelled
+138862	9775	Nicholas Wells	kwalker@miller.net	51	Belize	South Jodystad	South Carolina	2025-04-10	2024-10-20	Returns	Critical	Escalated	Stacey Thompson	20.69	Very Dissatisfied	Chatbot	76513	304.95	Cancelled
+952201	8292	Kelly Thomas	robert01@hotmail.com	67	Dominican Republic	Makaylachester	Delaware	2024-10-25	2024-08-26	Returns	Critical	Pending	Daniel Gonzalez	21.73	Very Satisfied	Email	97502	781.57	Returned
+624756	6351	Mark Moore	leedebra@yahoo.com	53	Antarctica (the territory South of 60 deg S)	New Joseph	Iowa	2025-02-11	2025-01-29	Account	Low	Pending	Melissa Gibson	144.48	Neutral	In-Person	62919	142.12	Cancelled
+777336	4679	Amy Elliott	icasey@yates-gallegos.com	24	Peru	Krauseshire	California	2025-05-19	2024-08-07	Returns	Critical	Open	Tiffany Pennington	13.52	Neutral	Phone	75600	369.46	Cancelled
+565800	8227	Monique Thomas	evan99@hotmail.com	39	Anguilla	Christopherborough	Massachusetts	2024-07-31	2024-11-01	Billing	Low	Pending	Heather Perry	29.63	Very Satisfied	Email	70534	680.06	Pending
+216993	8412	Michael Ortiz	nicholashaynes@farrell.info	34	Montserrat	Port Monicaburgh	Alaska	2024-09-22	2024-12-22	Shipping	High	Closed	Mary Brennan	34.9	Very Dissatisfied	Web	60404	739.87	Pending
+693498	4876	Calvin Wade	jackfrey@boone.biz	41	Turkey	East Karenbury	Michigan	2024-11-15	2025-01-06	Returns	Critical	Escalated	Katherine Brewer	1.64	Very Satisfied	In-Person	66654	479.21	Cancelled
+397012	1094	Dylan Pugh	nichole16@gmail.com	36	Japan	Elizabethhaven	Missouri	2025-06-20	2025-03-05	Shipping	Low	Escalated	Terri Burnett	47.92	Neutral	Chatbot	60986	767.51	Cancelled
+789450	6657	Samuel Johnson	hwilson@henderson-lindsey.com	65	Greece	West Anthony	Delaware	2024-12-10	2024-11-19	Returns	Critical	Closed	Gabrielle Roth	12.11	Neutral	Chatbot	58052	590.85	Pending
+260022	4520	Anthony Simon	michaelgriffin@hill.net	68	Timor-Leste	Justinstad	Texas	2025-07-10	2024-07-16	Shipping	Medium	Closed	Mary Cole	23.0	Very Satisfied	Web	62035	919.42	Pending
+242174	4766	Patricia Olsen	katie66@hotmail.com	33	United Kingdom	North Nataliebury	South Dakota	2024-08-31	2024-11-15	Billing	Medium	Open	Austin Rivera MD	21.65	Dissatisfied	Email	97637	341.22	Delivered
+589936	3584	Ashley Ellis	williamhaynes@hurst.info	27	Brazil	Port Joshua	Arizona	2024-10-01	2024-10-09	Technical	Low	Closed	Gary Smith	72.27	Neutral	In-Person	67398	870.64	Returned
+930866	7813	Robert Bennett	uyoung@cox.com	31	Gabon	Taylortown	Washington	2024-12-29	2025-06-06	Shipping	Medium	Closed	John Miller	3.86	Very Satisfied	Web	91404	750.31	Pending
+193045	7426	Steven Ritter	jonathan44@hotmail.com	40	Micronesia	Ryanfort	Arizona	2024-11-02	2024-09-05	Returns	Critical	Escalated	Jocelyn Preston	0.04	Very Dissatisfied	Chatbot	83666	422.02	Pending
+753554	2571	Jasmine Salas	murrayjoshua@hotmail.com	45	Uruguay	Kristifort	North Dakota	2024-08-22	2024-12-29	Technical	Critical	Pending	Benjamin Benjamin	5.89	Satisfied	Phone	75369	668.28	Cancelled
+153065	7479	Cindy Gibson	kwalker@smith-doyle.com	30	Cape Verde	Callahanland	Texas	2025-05-01	2025-01-07	Account	Low	Closed	Kimberly White	31.71	Very Satisfied	Chatbot	50905	245.74	Returned
+126756	6172	Victoria Sloan	john86@hernandez.com	31	Netherlands Antilles	East Richard	Iowa	2025-05-22	2025-06-01	Shipping	Low	Escalated	Angela Reyes	3.08	Dissatisfied	Email	83117	953.01	Delivered
+477383	2878	Mr. Steven Harris	travis00@bowman.info	52	Belize	Lake Frankborough	Kansas	2024-09-09	2025-02-20	Account	Critical	Closed	Amanda Allen	5.0	Neutral	Web	67130	906.66	Cancelled
+748379	9937	Jasmine Boone	qrobertson@parker.net	22	Bahamas	Howardfort	Wisconsin	2025-02-15	2025-03-17	Technical	Critical	Pending	Jennifer Hanson	5.77	Neutral	Phone	72454	488.39	Returned
+344752	4993	James Charles	ryan78@ballard-keith.com	37	Pitcairn Islands	Huntborough	California	2024-11-03	2025-04-25	Account	Critical	Closed	Jeffery Dennis	50.84	Dissatisfied	Email	55495	604.81	Returned
+630531	5751	Yvette Wilson	cartermichael@lee.net	22	Ghana	Port Nicoleport	Massachusetts	2024-11-29	2024-10-03	Technical	Medium	Escalated	Diana Alexander	3.43	Very Dissatisfied	Chatbot	61238	922.12	Pending
+181617	2582	Michael Crawford	inelson@hall-hayes.org	68	Paraguay	Port Michellestad	Kansas	2025-03-08	2024-08-18	Account	Critical	Open	Margaret Jackson	19.02	Satisfied	Phone	97193	58.77	Returned
+622818	1406	Julie Williams	michelle14@hotmail.com	36	Taiwan	West Janet	Montana	2025-03-05	2024-08-13	Shipping	High	Open	Rhonda Rosales	26.27	Very Dissatisfied	Email	87786	830.49	Delivered
+665056	7653	David Marsh	osingh@gmail.com	62	Barbados	Lake Donaldfort	Arkansas	2024-11-24	2024-08-11	Account	Medium	Open	Justin Jackson	17.29	Dissatisfied	Web	68834	979.06	Cancelled
+119818	1434	Sharon Rodriguez	thompsonandrea@sanders-church.com	45	Colombia	Christopherbury	Oregon	2024-08-20	2024-12-23	Billing	Critical	Open	Lindsay Murray	15.19	Neutral	Chatbot	56791	928.58	Cancelled
+456134	6554	Christina Spence	ucardenas@hotmail.com	71	Canada	New Megan	Kansas	2024-09-23	2025-05-14	Account	High	Closed	Lisa Beck	48.98	Very Satisfied	Web	51550	337.66	Delivered
+438813	4658	Matthew Love	colleennelson@davis.com	37	Belize	Hartborough	Minnesota	2024-10-03	2024-10-24	Returns	Critical	Escalated	Johnny Evans	0.57	Neutral	Web	69206	574.87	Delivered
+444297	4218	Kevin Martinez	tyronemcdonald@robinson.info	70	Israel	Stephanieland	Maryland	2025-01-25	2025-01-29	Returns	High	Pending	Karen Kim	11.89	Neutral	Phone	98847	328.49	Delivered
+460503	8440	Drew Miller	blanchardandrew@gmail.com	53	Costa Rica	Abbottchester	Texas	2025-02-28	2024-11-22	Returns	Medium	Open	Timothy Lopez	7.6	Very Satisfied	Email	64676	977.6	Returned
+828403	9365	Michael Buckley	samanthablack@gmail.com	56	Ghana	New Wesley	Maryland	2025-03-26	2025-04-28	Account	Critical	Pending	Jacqueline Farmer	18.59	Dissatisfied	Email	59022	896.91	Delivered
+827100	5347	John Norris	whitedavid@hotmail.com	67	Tonga	West Raychester	Alaska	2024-11-22	2025-04-04	Shipping	Critical	Pending	Amy Walker	6.12	Very Dissatisfied	Web	78080	399.85	Pending
+240883	7247	Eric Wood	greencarl@gmail.com	60	Tanzania	South Sarahfurt	Massachusetts	2024-11-14	2024-10-27	Shipping	Critical	Escalated	Megan Clark	7.41	Very Satisfied	Email	74819	435.45	Delivered
+184425	4426	Heidi Mack	barrettsusan@hayes-anderson.com	41	Saint Lucia	Russellburgh	Mississippi	2025-02-22	2024-08-15	Returns	High	Open	Adriana Green	12.58	Neutral	Chatbot	99633	151.51	Cancelled
+999983	9546	Eric Carter	melissa76@hotmail.com	51	Philippines	Johnsonhaven	Ohio	2025-03-09	2025-06-22	Billing	Low	Pending	Troy Morton	9.35	Satisfied	Phone	51458	536.18	Cancelled
+979853	7988	Christopher Foster	walter38@edwards.info	22	Kenya	South Ashleyview	South Carolina	2025-06-10	2025-03-09	Returns	Medium	Pending	Judy Johnson	38.99	Satisfied	In-Person	97811	761.78	Returned
+730326	6053	Mary Riddle	jason24@cooper.com	64	Mali	Lopezberg	Ohio	2024-11-27	2025-06-18	Shipping	Critical	Closed	Tammy Hughes	14.6	Neutral	Email	60824	792.1	Cancelled
+913010	2030	Eric Allen	waynerichard@yahoo.com	24	Saint Martin	Evansbury	Wyoming	2025-01-29	2025-07-13	Account	Low	Pending	Joseph Herrera	41.81	Very Dissatisfied	In-Person	81335	262.48	Cancelled
+135614	3912	Caleb Lara MD	ganderson@hotmail.com	56	Egypt	Flemingport	New York	2024-08-19	2024-12-30	Billing	High	Closed	Beth Holmes	3.42	Satisfied	In-Person	73285	740.57	Cancelled
+850730	8406	Jonathan Patterson	josephlawrence@perry-wolfe.info	31	Colombia	East Timothyside	Michigan	2025-06-04	2024-09-13	Technical	Low	Closed	Dr. Joseph Frank Jr.	82.34	Satisfied	Phone	55434	600.05	Cancelled
+183857	9193	Eric Santiago	monicanorton@perez.com	43	Mauritania	East Andrea	Pennsylvania	2025-04-21	2025-04-24	Returns	Critical	Open	Brandon Lamb	53.33	Satisfied	Chatbot	88933	132.27	Pending
+875652	9691	Miss Dawn Johnson MD	bryan09@smith-hill.com	49	Kuwait	Erikahaven	Michigan	2025-05-21	2024-09-03	Shipping	High	Escalated	Paul Perez	18.49	Satisfied	Chatbot	95704	559.48	Cancelled
+460283	2633	Jay Cole	palmervincent@yahoo.com	62	Micronesia	Kevinberg	Delaware	2024-08-11	2025-01-27	Billing	High	Open	Molly Campbell	10.76	Dissatisfied	Email	66021	359.66	Delivered
+945865	5654	Christopher Conrad	morriswilliam@schultz-berger.com	32	Holy See (Vatican City State)	West Mikeburgh	Washington	2025-04-02	2025-01-24	Billing	Low	Open	Andrew Sherman	48.63	Neutral	Email	86603	787.27	Pending
+315045	3424	Misty Hebert	rossroger@cabrera.net	40	American Samoa	Rogerschester	Hawaii	2024-09-03	2024-08-07	Shipping	Medium	Escalated	Lisa Dunn	44.31	Neutral	Web	59955	658.29	Delivered
+166414	8186	Natalie Alexander	lisarivas@yahoo.com	33	Iran	Lake Jacob	Utah	2024-07-23	2024-09-21	Shipping	High	Pending	Lawrence Lewis	1.8	Very Dissatisfied	Chatbot	96890	175.66	Returned
+309692	9510	Sarah Mann	davidjackson@ward-terry.biz	65	Poland	Peterland	Pennsylvania	2025-02-03	2024-11-22	Returns	High	Escalated	Mr. John Smith	48.42	Neutral	In-Person	99530	471.95	Cancelled
+558253	3066	Lisa Cooper	smithanna@gmail.com	60	Zambia	North Debbiehaven	Mississippi	2024-08-08	2024-08-01	Technical	Medium	Pending	Deborah Patel	43.32	Neutral	Email	71896	339.91	Delivered
+832988	6054	Stephanie Young	sheliablackwell@cook-hardy.com	27	Bouvet Island (Bouvetoya)	East Jacobview	Rhode Island	2025-04-04	2024-08-11	Shipping	Medium	Open	Susan Sullivan	5.59	Very Satisfied	In-Person	56172	691.44	Returned
+893614	9550	Adam Sanchez	mcdonaldcynthia@johnson.com	63	Colombia	Port Paulafurt	California	2024-12-11	2024-08-16	Billing	Medium	Escalated	Nathaniel Charles	6.41	Dissatisfied	In-Person	75683	382.09	Returned
+331619	3755	Dakota Martin	matthew18@yahoo.com	32	Guam	East Sherriside	Ohio	2024-12-22	2024-12-31	Technical	Medium	Open	Shelley Vaughan	5.82	Very Dissatisfied	Web	53287	938.91	Cancelled
+608561	4701	Christopher Yu	brandystewart@hotmail.com	36	Aruba	Port Robert	Massachusetts	2024-10-31	2025-03-21	Billing	Critical	Pending	Joseph Yates	9.75	Neutral	Web	67213	515.95	Cancelled
+431150	7000	Adam Dorsey	ffarmer@hotmail.com	31	Indonesia	North Maryburgh	Utah	2025-04-16	2025-01-04	Billing	Low	Pending	Lauren Wolf	25.27	Dissatisfied	In-Person	67313	364.76	Cancelled
+214422	9619	Paul Flores	goodpaul@reeves.net	64	Japan	Port Annefurt	Arizona	2025-02-16	2024-08-01	Account	High	Escalated	Courtney Ingram	20.32	Very Satisfied	Chatbot	52079	929.74	Cancelled
+925111	5837	Andrew Livingston	melissa22@perez.org	54	Armenia	Port Amanda	Nebraska	2025-06-21	2024-08-26	Returns	High	Escalated	Amy Anthony	87.55	Very Dissatisfied	Chatbot	73900	690.56	Delivered
+144775	3000	Jeremy Baker	clarkhailey@gmail.com	74	Djibouti	Dianahaven	Vermont	2024-11-14	2025-07-06	Shipping	Medium	Closed	Daniel Hernandez	36.8	Dissatisfied	Chatbot	54686	316.62	Returned
+528318	2198	Jamie Morton	pattersonjames@gmail.com	71	Brazil	South Timothyland	Florida	2025-06-09	2024-09-14	Technical	High	Escalated	Dr. Isaiah Payne Jr.	29.6	Very Dissatisfied	Phone	53973	583.77	Delivered
+181728	9183	Joshua Whitney	mosesjohn@gmail.com	43	Antigua and Barbuda	Port Jasonview	Ohio	2025-02-01	2025-04-05	Account	Medium	Escalated	Pamela Johnson	0.3	Dissatisfied	Email	58333	348.96	Delivered
+986312	2116	Tiffany Williams	morganwall@smith.com	70	Eritrea	Lake Jessica	Minnesota	2025-06-06	2025-05-27	Returns	High	Pending	Vanessa Schaefer	21.16	Satisfied	Phone	82521	77.02	Cancelled
+310032	8858	Jeanette Shea	timothyturner@hotmail.com	55	Benin	New Laurafort	Michigan	2024-10-28	2025-06-01	Account	High	Open	Craig Davis	54.04	Very Dissatisfied	Web	50577	172.58	Returned
+840122	5057	Dawn Mack	howardamanda@gibbs.info	44	Gabon	South William	Ohio	2025-05-15	2024-07-18	Shipping	High	Closed	Thomas Todd	0.07	Very Satisfied	Chatbot	72892	731.24	Returned
+268634	7786	Joseph Yang	amyhernandez@yahoo.com	73	Swaziland	Masonmouth	South Carolina	2025-03-01	2025-05-10	Account	Low	Pending	Ryan Nelson	4.72	Very Dissatisfied	Web	81267	835.33	Returned
+510511	1333	Anthony Pittman	stevenperry@yahoo.com	60	British Indian Ocean Territory (Chagos Archipelago)	Jeremyton	Tennessee	2025-06-21	2025-06-01	Returns	Critical	Closed	Tonya Hampton	24.79	Very Dissatisfied	Phone	74523	329.35	Returned
+621289	1189	Philip Ruiz	lflores@hensley.org	33	Myanmar	South Shelbychester	Pennsylvania	2024-07-19	2024-08-04	Account	Critical	Closed	Francisco Cabrera	8.52	Satisfied	Chatbot	59075	672.02	Pending
+596269	1377	Scott Watson	wreilly@alvarado.org	21	Georgia	Theodoreport	Utah	2024-09-20	2025-02-14	Technical	High	Open	Samuel Williamson	28.97	Satisfied	Phone	73821	352.26	Returned
+833246	8758	Steven Zhang	ibarker@flores-rodriguez.com	26	Somalia	Steventown	Hawaii	2025-05-23	2025-02-24	Shipping	Medium	Escalated	Joseph Mejia	45.92	Very Satisfied	In-Person	89479	320.78	Pending
+171287	1077	William Rodriguez	whitney70@holloway.org	74	Korea	North Travismouth	Wyoming	2025-06-07	2024-11-06	Shipping	Low	Open	Michelle Aguilar	6.73	Dissatisfied	Email	89786	566.71	Cancelled
+663542	1953	Lauren Sanchez	hardinglisa@yahoo.com	61	Western Sahara	Duarteport	Minnesota	2024-12-28	2024-12-11	Account	Low	Open	Michael Christensen	34.27	Very Dissatisfied	Email	58936	899.82	Pending
+993162	9326	Francisco Craig	stanleymikayla@spencer-herrera.com	64	Equatorial Guinea	Lake Donna	Oklahoma	2025-07-09	2025-04-20	Billing	High	Escalated	Julie Curry	39.51	Neutral	Email	83300	167.76	Cancelled
+542615	8865	Jeffrey Estrada	xfox@lewis.info	43	Philippines	Danielville	Alaska	2025-01-21	2024-11-01	Returns	Low	Escalated	Ryan Doyle	7.79	Dissatisfied	Chatbot	67258	977.85	Delivered
+318511	1219	Bradley Snyder	ywarren@hotmail.com	21	Saint Helena	Karenview	Kentucky	2024-07-23	2024-12-31	Technical	Medium	Pending	Richard George	14.53	Neutral	Web	83550	254.57	Returned
+780779	1785	Cynthia Nelson	tkelley@gmail.com	33	Ethiopia	Lake Christine	Oklahoma	2024-09-24	2024-08-11	Billing	Critical	Closed	Justin Foster	29.08	Very Satisfied	Email	91559	268.28	Pending
+612773	6643	Carla Moyer	haileyconner@hotmail.com	56	Armenia	Lake Audreyshire	Louisiana	2024-08-26	2024-08-24	Billing	Low	Closed	Crystal Oneill	0.86	Neutral	Web	61502	321.37	Returned
+419448	5855	Daniel Cummings	erik01@yahoo.com	56	Bolivia	Hollandberg	New Hampshire	2025-07-01	2025-05-09	Account	High	Escalated	Logan Mccarthy	25.09	Very Satisfied	Email	74380	685.31	Pending
+124504	5992	Julie Nelson	scottjoseph@brown.net	29	Sao Tome and Principe	North Hannahberg	Connecticut	2025-01-30	2024-11-15	Billing	Low	Closed	Jennifer Miller	54.1	Very Satisfied	Email	84726	143.2	Returned
+586964	8743	Adam Bush	james83@ortega.org	31	Bermuda	New Erikaberg	Tennessee	2025-06-04	2025-01-25	Shipping	Medium	Open	Dustin Alvarez	50.3	Neutral	Chatbot	78991	712.05	Returned
+579809	9051	Emily Wells	edwardsedward@hotmail.com	73	Belgium	South Claudiachester	South Dakota	2025-04-07	2025-04-03	Billing	High	Pending	Thomas Rubio	50.16	Very Satisfied	In-Person	91712	641.01	Pending

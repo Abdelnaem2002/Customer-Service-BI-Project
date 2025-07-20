@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CustomerAnalytics", "CustomerAnalytics\CustomerAnalytics.dwproj", "{06BD8708-D6A6-4A8D-D858-144C5E1F9E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BD8708-D6A6-4A8D-D858-144C5E1F9E28}.Development|Default.ActiveCfg = Development
+		{06BD8708-D6A6-4A8D-D858-144C5E1F9E28}.Development|Default.Build.0 = Development
+		{06BD8708-D6A6-4A8D-D858-144C5E1F9E28}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF658E6A-DDD1-4E5C-8CCC-0038E5F861A6}
+	EndGlobalSection
+EndGlobal
