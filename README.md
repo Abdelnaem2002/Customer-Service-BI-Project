@@ -67,7 +67,7 @@ A **Star Schema** was built to support fast analytical queries:
 
 
 ### Fact Table:
-- `FactCustomerInteraction` – Stores measurable events (calls, emails, orders)
+- `FactCustomerInteraction` – Stores measurable events
 
 ### Dimension Tables:
 - `DimCustomer` – Customer attributes
